@@ -1,7 +1,7 @@
 # about.awalkaday.art
-Code repository for the "[about](https://about.awalkaday.art)" section of [**WALK≡DAY Visual Arts Gallery**](https://awalkaday.art). 
+Code repository for the "[about](https://about.awalkaday.art)" section of [**awalkaday.art**](https://awalkaday.art). 
 
-This is the website that describes, in great detail, the reasoning behind the creation of the digital art gallery.   
+This is the website that describes, in great detail, the reasoning behind the creation of the photography collection.   
 It is made of descriptive textual content available in three languages: *English*, *French* and *Mandarin Chinese*. 
 
 Original source code is hosted on **Replit** at https://replit.com/@daqhris/about-awalkaday-art 
