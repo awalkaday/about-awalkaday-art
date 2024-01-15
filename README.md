@@ -2,7 +2,7 @@
 Code repository for the [About](https://about.awalkaday.art) page of the [awalkaday.art](https://awalkaday.art) web gallery. 
 
 This is the website that describes in great detail the reasoning behind the creation of the photographic collection.   
-It consists of descriptive text content available in three languages: English, French and Mandarin Chinese. 
+It consists of descriptive text content available in three languages: [English](https://about.awalkaday.art/), [French](https://about.awalkaday.art/fr.html) and [Mandarin Chinese](https://about.awalkaday.art/zh.html). 
 
 Previous source code hosting provider: [Replit.com](https://replit.com/@daqhris/about-awalkaday-art#index.html)  
 
