@@ -6,21 +6,21 @@
             font-size: 1em;
             font-family: "Source-Sans", 'Arial', sans-serif;
         }
-
+        /*
         a {
-            color: #000;
+            color: navy;
         }
         a:hover,
         a:focus,
         a:active {
                 text-decoration: underline;
-        }
+        }*/
         @font-face {
                 font-family: "Source-Sans";
                 src:url(https://daqhris.com/style/font/SourceSans3-Regular.ttf) format("truetype"); /* Safari, Android, iOS */
                 font-display: swap;
                 }
-
+                
         /* horizontal line */
         hr {    display:block;
                 width:100%;
