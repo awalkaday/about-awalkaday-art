@@ -1,11 +1,13 @@
 # about.awalkaday.art
-Code repository for the "[about](https://about.awalkaday.art)" section of [**awalkaday.art**](https://awalkaday.art). 
+Code repository for the [About](https://about.awalkaday.art) page of the [awalkaday.art](https://awalkaday.art) web gallery. 
 
-This is the website that describes, in great detail, the reasoning behind the creation of the photography collection.   
-It is made of descriptive textual content available in three languages: *English*, *French* and *Mandarin Chinese*. 
+This is the website that describes in great detail the reasoning behind the creation of the photographic collection.   
+It consists of descriptive text content available in three languages: English, French and Mandarin Chinese. 
 
-Original source code is hosted on **Replit** at https://replit.com/@daqhris/about-awalkaday-art 
+Previous source code hosting provider: [Replit.com](https://replit.com/@daqhris/about-awalkaday-art#index.html)  
 
-Licensed under [Creative Commons CC0 1.0](/LICENSE)
+Code licensed under [European Union Public License 1.2](/LICENSE)
 
-Code written by [@daqhris](https://github.com/daqhris) 
+Content licensed under [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+
+Copyrights: © 2017-2023 [Chris-Armel (daqhris)](https://github.com/daqhris)  
