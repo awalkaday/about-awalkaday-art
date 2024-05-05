@@ -8,6 +8,5 @@ Previous source code hosting provider: [Replit.com](https://replit.com/@daqhris/
 
 Code licensed under [European Union Public License 1.2](/LICENSE)
 
-Content licensed under [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
 Copyrights: © 2021-2024 [Chris-Armel (daqhris)](https://github.com/daqhris)  
