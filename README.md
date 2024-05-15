@@ -9,4 +9,4 @@ Previous source code hosting provider: [Replit.com](https://replit.com/@daqhris/
 Code licensed under [European Union Public License 1.2](/LICENSE)
 
 
-Copyrights: © 2017-2024 [Chris-Armel (daqhris)](https://github.com/daqhris)  
+Coding & Writing © 2017-2024 [Chris-Armel (daqhris)](https://github.com/daqhris)  
