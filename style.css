@@ -31,8 +31,8 @@
                 padding:0
         }
 
-        pre {background-color: grey;
-             color: dark-blue;}
+        pre {background-color: #a9a9a9;
+             color: #4a646c}
 
         @media (prefers-color-scheme: dark) {
             html{background-color: #212121;color:#FFFFFF;}
