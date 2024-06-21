@@ -28,11 +28,11 @@
                 border:0;
                 border-top:1px solid #ccc;
                 margin:1em auto;
-                padding:0
+                padding:0;
         }
 
-        pre {background-color: #a9a9a9;
-             color: #4a646c}
+        pre {background-color:black;
+             color:white;}
 
         @media (prefers-color-scheme: dark) {
             html{background-color: #212121;color:#FFFFFF;}
