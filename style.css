@@ -31,6 +31,9 @@
                 padding:0
         }
 
+        pre {background-color: grey;
+             color: dark-blue;}
+
         @media (prefers-color-scheme: dark) {
             html{background-color: #212121;color:#FFFFFF;}
             mark{background-color:olivedrab;color:greenyellow}
