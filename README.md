@@ -1,12 +1,18 @@
-# about.awalkaday.art
-Code repository for the [About](https://about.awalkaday.art) page of [awalkaday.art](https://awalkaday.art) web gallery. 
+# 📝 A GitBook-powered book: *about.awalkaday.art*  
 
-This is the webpage that describes in great detail the history of the photo collection.   
-It consists of a descriptive page, mainly written in third person, which is available in 3 languages: [English](https://about.awalkaday.art/), [French](https://about.awalkaday.art/fr.html), and [Mandarin Chinese](https://about.awalkaday.art/zh.html). 
+**This is an online book written to detail the history of the photo collection and to tell stories about _awakaday.art_.**
 
-Previous source code hosting provider: [Replit.com](https://replit.com/@daqhris/about-awalkaday-art#index.html)  
+## Overview  
+Reading Guide : [SUMMARY.md](https://github.com/awalkaday/about-awalkaday-art/tree/book/SUMMARY.md)  
+Instruction Manual : [MANUAL.md](https://github.com/awalkaday/about-awalkaday-art/tree/book/MANUAL.md)  
+Book Content : [WRITING.md](https://github.com/awalkaday/about-awalkaday-art/tree/book/WRITING.md) 
 
-Code licensed under [European Union Public License 1.2](/LICENSE)
+## Summary 
 
+**A GitBook-powered book adaptation of the [ABOUT](https://about.awalkaday.art) page of the online photo gallery [awalkaday.art](https://awalkaday.art).** 
 
-Coding & Writing © 2021-2024 [Chris-Armel (daqhris)](https://github.com/daqhris)  
+## Licenses 
+Code: [European Union Public License 1.2](https://github.com/awalkaday/online-book/blob/main/LICENSE)  
+Writings: [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://github.com/awalkaday/online-book/blob/main/CC-BY-NC-ND)  
+
+**© 2024 [daqhris](https://github.com/daqhris)**
