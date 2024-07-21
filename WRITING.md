@@ -17,7 +17,7 @@ _A visual chart showing additions and deletions to this document, on a weekly ba
 
 * * *    
 
-READING GUIDE
+Reading Guide : [SUMMARY.md](https://github.com/awalkaday/about-awalkaday-art/tree/book/SUMMARY.md) 
 
 1. Introduction to the Photo Series 
 2. Beyond Pixels: A Picturesque Stroll into Nature 
