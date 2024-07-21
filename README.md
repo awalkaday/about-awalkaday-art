@@ -1,24 +1,14 @@
 # README
 
-## About: awalkaday.art Photography Collection
+## About: awalkaday.art Photo Collection
 
-### A GitBook-powered book _about.awalkaday.art_
+#### A GitBook-powered book _about.awalkaday.art_
 
 ONCHAIN BOOK [_COMING SOON_](https://app.ens.domains/about.awalkaday.art)
 
-***
+### [AUTHOR'S NOTE](authors-note.md)
 
-{% content-ref url="authors-note.md" %}
-[authors-note.md](authors-note.md)
-{% endcontent-ref %}
-
-***
-
-{% content-ref url="reading-guide.md" %}
-[reading-guide.md](reading-guide.md)
-{% endcontent-ref %}
-
-***
+### [READING GUIDE](reading-guide.md)
 
 ### Summary
 
