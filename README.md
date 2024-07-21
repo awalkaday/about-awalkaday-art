@@ -1,4 +1,4 @@
-# INDEX
+# BOOK
 
 ## About: awalkaday.art Photo Collection
 
