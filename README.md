@@ -4,7 +4,6 @@
 
 ## Overview  
 Reading Guide : [SUMMARY.md](https://github.com/awalkaday/about-awalkaday-art/tree/book/SUMMARY.md)  
-Instruction Manual : [MANUAL.md](https://github.com/awalkaday/about-awalkaday-art/tree/book/MANUAL.md)  
 Book Content : [WRITING.md](https://github.com/awalkaday/about-awalkaday-art/tree/book/WRITING.md) 
 
 ## Summary 
