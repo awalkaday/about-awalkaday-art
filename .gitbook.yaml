@@ -1,0 +1,8 @@
+root: ./
+
+​structure:
+  readme: WRITING.md
+  summary: SUMMARY.md​
+
+redirects:
+  previous/page: new-folder/page.md
