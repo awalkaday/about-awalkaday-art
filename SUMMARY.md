@@ -1,26 +1,31 @@
-**READING GUIDE**  
+# Table of contents
 
-# Chapter 1. Introduction to the Photo Series 
-# Chapter 2. Beyond Pixels: A Picturesque Stroll into Nature 
-# Chapter 3. Mobile Studio and Digital Toolkit  
-   ## Section 3.1. On-the-go Photography  
-   ## Section 3.2. Cameras and Photo Editing  
-   ## Section 3.3. Gaming Laptop  
-# Chapter 4. Chronicle of Milestones Navigation  
-   ## Section 4.1. Ongoing Pathways  
-   ## Section 4.2. Internet Footprints  
-   ## Section 4.3. Blockchain Records  
-# Chapter 5. Evolution of a Pixelated Trek on Platforms  
-   ## Section 5.1. Instagram  
-   ## Section 5.2. GitHub  
-   ## Section 5.3. Web Gallery  
-   ## Section 5.4. X (Twitter)  
-   ## Section 5.5. Ethereum  
-# Chapter 6. Artist's Proofs and Ethos  
-   ## Section 6.1. Public Git Commits  
-   ## Section 6.2. Open Source Software  
-# Chapter 7. Artist Profile  
-   ## Section 7.1. Human Identity  
-   ## Section 7.2. Training Ground  
-   ## Section 7.3. Project Inception Story  
-# Chapter 8. Contact  
+* [README](README.md)
+* [READING GUIDE](reading-guide.md)
+* [AUTHOR'S NOTE](authors-note.md)
+* [Introduction to the Photo Series](introduction-to-the-photo-series.md)
+* [Beyond Pixels: A Stroll into Nature](beyond-pixels-a-stroll-into-nature.md)
+* [Mobile Studio and Digital Toolkit](mobile-studio-and-digital-toolkit/README.md)
+  * [On-the-go Photography](mobile-studio-and-digital-toolkit/on-the-go-photography.md)
+  * [Cameras and Photo Editing](mobile-studio-and-digital-toolkit/cameras-and-photo-editing.md)
+  * [Gaming Laptop](mobile-studio-and-digital-toolkit/gaming-laptop.md)
+* [Chronicle of Milestones Navigation](chronicle-of-milestones-navigation/README.md)
+  * [Ongoing Pathways](chronicle-of-milestones-navigation/ongoing-pathways.md)
+  * [Internet Footprints](chronicle-of-milestones-navigation/internet-footprints.md)
+  * [Blockchain Records](chronicle-of-milestones-navigation/blockchain-records.md)
+* [Evolution of a Trek on Platforms](evolution-of-a-trek-on-platforms/README.md)
+  * [Instagram](evolution-of-a-trek-on-platforms/instagram.md)
+  * [GitHub](evolution-of-a-trek-on-platforms/github.md)
+  * [Web Gallery](evolution-of-a-trek-on-platforms/web-gallery.md)
+  * [X (Twitter)](evolution-of-a-trek-on-platforms/x-twitter.md)
+  * [Ethereum](evolution-of-a-trek-on-platforms/ethereum.md)
+* [Artist's Proofs and Ethos](artists-proofs-and-ethos/README.md)
+  * [Public Git Commits](artists-proofs-and-ethos/public-git-commits.md)
+  * [Git Usage History](artists-proofs-and-ethos/git-usage-history.md)
+  * [Open Source Software](artists-proofs-and-ethos/open-source-software.md)
+* [Artist Profile](artist-profile/README.md)
+  * [Human Identity](artist-profile/human-identity.md)
+  * [Training Ground](artist-profile/training-ground.md)
+  * [Project Inception Story](artist-profile/project-inception-story.md)
+* [Contact](contact.md)
+* [IMPRINT](imprint.md)
