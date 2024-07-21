@@ -1,6 +1,6 @@
 # Table of contents
 
-* [INDEX](README.md)
+* [BOOK](README.md)
 * [READING GUIDE](reading-guide.md)
 * [AUTHOR'S NOTE](authors-note.md)
 * [Introduction to the Photo Series](introduction-to-the-photo-series.md)
