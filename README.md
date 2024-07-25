@@ -1,10 +1,10 @@
+---
+description: An online book about awalkaday.art
+---
+
 # BOOK
 
 ## About: awalkaday.art Photo Collection
-
-A [GitBook](https://www.gitbook.com/)-powered book about _awalkaday.art_
-
-ONCHAIN BOOK [_COMING SOON_](https://app.ens.domains/about.awalkaday.art)
 
 ### [AUTHOR'S NOTE](authors-note.md)
 
@@ -14,13 +14,19 @@ ONCHAIN BOOK [_COMING SOON_](https://app.ens.domains/about.awalkaday.art)
 
 ### SUMMARY
 
-This is an online book written to detail the history of the photo collection and to tell stories about _awakaday.art_.
+This book was written to detail the git-based history of _awalkaday.art_ and to tell the making-of story of the photo series.&#x20;
 
-A GitBook-powered book adaptation of the [ABOUT](https://about.awalkaday.art) page of the online photo gallery [awalkaday.art](https://awalkaday.art).
+A [GitBook](https://www.gitbook.com/)-powered book adapted from the single-page [ABOUT](https://about.awalkaday.art) of the [awalkaday.art](https://awalkaday.art) photo collection.
 
 ***
 
-### 🛍️ [collect.awalkaday.art](https://collect.awalkaday.art)
+### PAGE ONE
+
+### [introduction-to-the-photo-series.md](introduction-to-the-photo-series.md "mention")
+
+***
+
+#### 🛍️ [collect.awalkaday.art](https://collect.awalkaday.art)
 
 awalkaday.art™ • Handbuilt with 🤍 • Made in 🇧🇪\
 _An Undocumented Product of Afro-Surrealism_\
@@ -29,12 +35,12 @@ _An Undocumented Product of Afro-Surrealism_\
 
 ***
 
-#### © Author & Publisher: [Chris-Armel (daqhris)](https://daqhris.com)
+#### ©️ Author & Publisher: [Chris-Armel (daqhris)](https://daqhris.com)
 
 _Initial Publication: 2024-July-21_
 
-_Recent Update:_ [_2024-Summer_](https://github.com/awalkaday/about-awalkaday-art/commits/book/)
+_Recent Changes:_ [_Summer 2024_](https://github.com/awalkaday/about-awalkaday-art/commits/book/)
 
-#### 🕮 Online Book: [book.awalkaday.art](https://book.awalkaday.art)
+#### 📖 Online Book: [book.awalkaday.art](https://book.awalkaday.art)
 
 🛠 Source Code: [github.com/awalkaday/about-awalkaday-art/tree/book](https://github.com/awalkaday/about-awalkaday-art/tree/book)

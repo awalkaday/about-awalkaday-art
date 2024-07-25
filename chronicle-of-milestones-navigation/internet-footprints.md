@@ -1,6 +1,8 @@
 # Internet Footprints
 
-The visual art practice, reinforced by web surfing, began in [July 2017](https://www.instagram.com/p/BWvILEmAPcy/), when a photo was posted on Instagram with the caption: _Don't watch the clock. Do what it does. Keep going._&#x20;
+The visual art practice, reinforced by web surfing, began in [July 2017](https://www.instagram.com/p/BWvILEmAPcy/), when a photo was posted on Instagram with the following caption:
+
+> Don't watch the clock. Do what it does. Keep going.
 
 The first and last photographs, preserved in the collection, appeared online respectively in [November 2017](https://www.instagram.com/p/BbXjDXsH22K) and [September 2022](https://www.instagram.com/p/CidZs2BDRMz).
 

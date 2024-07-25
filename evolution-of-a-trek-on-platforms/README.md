@@ -1,7 +1,7 @@
 # Evolution of a Trek on Platforms
 
-* [**Instagram**](instagram.md)
-* [**GitHub**](github.md)
-* [**Web Gallery**](web-gallery.md)
-* [**X (Twitter)**](x-twitter.md)
-* [**Ethereum**](ethereum.md)
+1. [**Instagram**](instagram.md)
+2. [**GitHub**](github.md)
+3. [**Web Gallery**](web-gallery.md)
+4. [**X (Twitter)**](x-twitter.md)
+5. [**Ethereum**](ethereum.md)
