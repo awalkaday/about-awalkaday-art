@@ -1,8 +1,8 @@
 # Table of contents
 
 * [BOOK](README.md)
-* [READING GUIDE](reading-guide.md)
 * [AUTHOR'S NOTE](authors-note.md)
+* [READING GUIDE](reading-guide.md)
 * [Introduction to the Photo Series](introduction-to-the-photo-series.md)
 * [Beyond Pixels: A Stroll into Nature](beyond-pixels-a-stroll-into-nature.md)
 * [Mobile Studio and Digital Toolkit](mobile-studio-and-digital-toolkit/README.md)

@@ -20,9 +20,9 @@ A [GitBook](https://www.gitbook.com/)-powered book adapted from the single-page 
 
 ***
 
-### PAGE ONE
+### PAGE ONE&#x20;
 
-### [introduction-to-the-photo-series.md](introduction-to-the-photo-series.md "mention")
+### > [introduction-to-the-photo-series.md](introduction-to-the-photo-series.md "mention")
 
 ***
 
@@ -35,7 +35,7 @@ _An Undocumented Product of Afro-Surrealism_\
 
 ***
 
-#### ©️ Author & Publisher: [Chris-Armel (daqhris)](https://daqhris.com)
+#### © Author & Publisher: [Chris-Armel (daqhris)](https://daqhris.com)
 
 _Initial Publication: 2024-July-21_
 
