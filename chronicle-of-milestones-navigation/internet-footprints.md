@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Internet Footprints
 
 The visual art practice, reinforced by web surfing, began in [July 2017](https://www.instagram.com/p/BWvILEmAPcy/), when a photo was posted on Instagram with the following caption:

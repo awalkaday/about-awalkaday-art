@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Evolution of a Trek on Platforms
 
 1. [**Instagram**](instagram.md)
@@ -5,3 +19,4 @@
 3. [**Web Gallery**](web-gallery.md)
 4. [**X (Twitter)**](x-twitter.md)
 5. [**Ethereum**](ethereum.md)
+

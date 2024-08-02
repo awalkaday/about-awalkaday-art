@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Public Git Commits
 
 [Git](https://github.com/git-guides#what-is-git) is a distributed version control software. Version control is a way to save changes over time without overwriting previous versions.&#x20;

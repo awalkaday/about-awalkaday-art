@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # On-the-go Photography
 
 The collection revolves around locations in [Belgium](https://www.openstreetmap.org/relation/52411) and explores a diverse range of scenes that include streets, landscapes, architecture, and nature.&#x20;

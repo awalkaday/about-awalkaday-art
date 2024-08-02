@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Ongoing Pathways
 
 The photo collection has evolved since its inception. Over the years, the artist has:
@@ -7,3 +21,4 @@ The photo collection has evolved since its inception. Over the years, the artist
 * built an online photo gallery as a digital venue hosting and showcasing 263 photographs.
 * published a smart contract containing his photo series, limited to 263 tokenized items, on the Ethereum blockchain.
 * created a virtual exhibition hall in a three-dimensional environment to simulate a lifelike exposition of 24 photographs.
+

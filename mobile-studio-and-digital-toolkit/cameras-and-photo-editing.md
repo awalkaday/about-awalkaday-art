@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Cameras and Photo Editing
 
 At the beginning of this travelogue on Western soil, between 2017 and 2018, a [Xiaomi](https://www.mi.com/global/about/) smartphone, purchased in Beijing around 2015, was the tool in-use for recording and editing still images.

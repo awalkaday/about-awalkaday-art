@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Open Source Software
 
 An open-source ethos which embodies principles such as transparency, collaboration, and community-driven development has been embraced with open arms.

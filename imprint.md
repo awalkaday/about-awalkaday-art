@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # IMPRINT
 
 ### 🛍️ [collect.awalkaday.art](https://collect.awalkaday.art/)
@@ -9,3 +23,4 @@
 ***
 
 #### © 2024 Chris-Armel (daqhris)
+
