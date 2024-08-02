@@ -1,3 +1,7 @@
+---
+description: A list of the chapters and sub-chapters of the book
+---
+
 # READING GUIDE
 
 ## Table of Contents
@@ -27,3 +31,4 @@
    2. [Training Ground](artist-profile/training-ground.md)
    3. [Project Inception Story](artist-profile/project-inception-story.md)
 8. [Contact](contact.md)
+

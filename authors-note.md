@@ -1,3 +1,7 @@
+---
+description: Disclosures and essential information written in the first person.
+---
+
 # AUTHOR'S NOTE
 
 _I work on this artistic project in my spare time, in public, independently, and at the pace of a_ [_turtle_](https://en.m.wikipedia.org/wiki/Cultural\_depictions\_of\_turtles)_._&#x20;
@@ -9,3 +13,4 @@ _This book is adapted from_ [_about.awalkaday.art_](https://about.awalkaday.art)
 _To view their combined history of changes, visit the open source code repository on_ [_GitHub.com_](https://github.com/awalkaday/about-awalkaday-art/tree/book)_._
 
 _A visual chart showing additions and deletions to this public project, on a weekly basis over a long time window, is available at_ [_https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency_](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency)
+
