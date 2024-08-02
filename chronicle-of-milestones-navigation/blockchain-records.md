@@ -26,5 +26,7 @@ In the virtual realm of blockchain-based art platforms, the artist has created a
 
 As an artist, coder and hacker with published work on a public blockchain, he participated in a 36-hour international hackathon and gathering of Ethereum software developers organized by [ETHGlobal](https://ethglobal.com/events/brussels) and held for the first time in Brussels (July 2024).
 
+{% embed url="https://www.instagram.com/walk.day/p/C9sw6ZeNs7x/" %}
+
 Since then, after honing his skills as an Ethereum decentralised app developer and overcoming the learning curve of a hackathon, his next blockchain-based artistic project has been launched: [ZinnekeRescueMission](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf).
 

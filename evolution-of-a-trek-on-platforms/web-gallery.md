@@ -9,3 +9,9 @@ After the project resumed, the photos started being uploaded to a purpose-built 
 It prioritises a smooth and random order of display for each visit, allowing for ease of navigation and discovery of photographs.&#x20;
 
 A 3D exhibition hall has also been set up to welcome all virtual visitors at [oncyber.io/awalkaday.art](https://oncyber.io/awalkaday.art).
+
+
+
+{% embed url="https://www.instagram.com/walk.day/reel/C4lci5_r0a8/" %}
+A walk-through tour of the virtual exhibition hall that is dedicated to awalkaday.art on OnCyber.
+{% endembed %}
