@@ -10,7 +10,7 @@ For the final leg of a trek on digital platforms, thanks to angelic backing prov
 
 [Ethereum](https://ethereum.org/) is a decentralised blockchain platform that allows developers to create and deploy self-executing code in the form of smart contracts and applications. The artworks were wrapped in the _awalkaday.art Smart Contract_ and self-published on a public blockchain, where they can be verified, collected and exchanged. The smart contract address is `0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1`.
 
-
+{% embed url="https://zora.co/collect/eth:0xe31801c2e58b151c3ded2cb29da56147b7f27eb1" %}
 
 The monochromatic sights were assembled, named and minted during a wintertime stay as a homeless person at the [_Palais des Droits_](https://archive.is/2JkUB), a former financial office building which had been converted into a squalid squat in Brussels. He was able to safeguard them on a state-of-the-art blockchain on [Valentine's Day](https://etherscan.io/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b) in 2023, fortunately one day before a [planned eviction](https://www.lalibre.be/belgique/societe/2023/02/09/schaerbeek-le-palais-des-droits-sera-vide-pour-le-15-fevrier-J4FJQRA6UBGYNA2I4KKPDM27LA/) from the infamous shelter.
 

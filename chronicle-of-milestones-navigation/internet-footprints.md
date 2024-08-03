@@ -21,13 +21,13 @@ The first and last photographs, preserved in the onchain collection, appeared on
 
 
 {% embed url="https://www.instagram.com/p/BbXjDXsH22K/" %}
-First photo of the collection released on the Ethereum blockchain
+The first photo in the series, which was recovered and minted on the Ethereum blockchain in the winter of 2023.
 {% endembed %}
 
 
 
 {% embed url="https://www.instagram.com/p/CidZs2BDRMz/" %}
-Last photo of the collection published on the Ethereum blockchain
+The last photo in the series, which was recovered and minted on the Ethereum blockchain in the winter of 2023.
 {% endembed %}
 
 
