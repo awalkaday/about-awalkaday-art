@@ -1,5 +1,16 @@
 ---
 description: A list of the chapters and sub-chapters of the book
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # READING GUIDE

@@ -1,5 +1,16 @@
 ---
 description: An online book about awalkaday.art
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # BOOK
@@ -22,7 +33,7 @@ A [GitBook](https://www.gitbook.com/)-powered book adapted from the single-page 
 
 ### PAGE ONE&#x20;
 
-### > [introduction-to-the-photo-series.md](introduction-to-the-photo-series.md "mention")
+\> [introduction-to-the-photo-series.md](introduction-to-the-photo-series.md "mention")
 
 ***
 
@@ -44,3 +55,4 @@ _Recent Changes:_ [_Summer 2024_](https://github.com/awalkaday/about-awalkaday-a
 #### 📖 Online Book: [book.awalkaday.art](https://book.awalkaday.art)
 
 🛠 Source Code: [github.com/awalkaday/about-awalkaday-art/tree/book](https://github.com/awalkaday/about-awalkaday-art/tree/book)
+
