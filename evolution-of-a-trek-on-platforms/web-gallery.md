@@ -13,5 +13,9 @@ A 3D exhibition hall has also been set up to welcome all virtual visitors at [on
 
 
 {% embed url="https://www.instagram.com/walk.day/reel/C4lci5_r0a8/" %}
-A walk-through tour of the virtual exhibition hall that is dedicated to awalkaday.art on OnCyber.
+A walk-through tour of the virtual exhibition hall that is dedicated to awalkaday.art.
+{% endembed %}
+
+{% embed url="https://oncyber.io/awalkaday.art" %}
+Direct link to the virtual exhibition hosted on oncyber.io
 {% endembed %}

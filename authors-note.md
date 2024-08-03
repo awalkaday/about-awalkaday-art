@@ -1,5 +1,15 @@
 ---
-description: Disclosures and essential information written in the first person.
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # AUTHOR'S NOTE
