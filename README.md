@@ -15,7 +15,7 @@ layout:
 
 # BOOK
 
-## About: [awalkaday.art](https://awalkaday.art) Photo Collection
+## About: awalkaday.art Photo Collection
 
 ### [Author's Note](authors-note.md)
 
@@ -25,15 +25,17 @@ layout:
 
 ### Summary
 
-This book was written to detail the `git`-based history of _awalkaday.art_ and to tell the making-of story of the photo series.&#x20;
+This book was written to detail the `git`-based history of [awalkaday.art](https://awalkaday.art) and to tell the making-of story of the photo series.&#x20;
 
-A [GitBook](https://www.gitbook.com/)-powered book adapted from the single-page [ABOUT](https://about.awalkaday.art) of the [awalkaday.art](https://awalkaday.art) photo collection.
+It's a [GitBook](https://www.gitbook.com/)-powered book adapted from a page of the web gallery exhibiting the photo collection: [about.awalkaday.art](https://about.awalkaday.art/).
 
 ***
 
 ### Page One&#x20;
 
-\> [introduction-to-the-photo-series.md](introduction-to-the-photo-series.md "mention")
+{% content-ref url="introduction-to-the-photo-series.md" %}
+[introduction-to-the-photo-series.md](introduction-to-the-photo-series.md)
+{% endcontent-ref %}
 
 ***
 

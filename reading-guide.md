@@ -1,5 +1,5 @@
 ---
-description: A list of the chapters and sub-chapters of the book
+description: A list of chapters and sub-chapters in the book
 layout:
   title:
     visible: true

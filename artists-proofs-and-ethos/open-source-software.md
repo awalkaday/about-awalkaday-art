@@ -7,7 +7,7 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: true
 ---
@@ -20,6 +20,6 @@ To gain exposure to software-driven innovation, Chris-Armel (daqhris) has been a
 
 {% embed url="https://fosdem.org/" %}
 
-As a volunteer, one of his memorable acts was standing on stage to introduce a talk about ['Open Source Software at NASA'](https://archive.fosdem.org/2023/schedule/event/nasa/), presented by an [American astronomer](https://crawfordsm.github.io/about/), in front of a packed amphitheater in February 2023. In the summer of 2024, he has published an online book, [book.awalkaday.art](../), that shines a light on various aspects of his Git-enabled artistic practice and is built with a technical documentation tool, [GitBook](https://www.gitbook.com/).
+As a volunteer, one of his memorable acts was standing on stage to introduce a talk about ['Open Source Software at NASA'](https://archive.fosdem.org/2023/schedule/event/nasa/), presented by an [American astronomer](https://crawfordsm.github.io/about/), in front of a packed amphitheater in February 2023. In the summer of 2024, he has published an online book, [book.awalkaday.art](../), that shines a light on various aspects of his `git`-enabled artistic practice and is built with a technical documentation tool, [GitBook](https://www.gitbook.com/).
 
 {% embed url="https://archive.fosdem.org/2023/schedule/event/nasa/" %}
