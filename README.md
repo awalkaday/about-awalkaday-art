@@ -51,3 +51,12 @@ _Recent Changes:_ [_Summer 2024_](https://github.com/awalkaday/about-awalkaday-a
 
 🛠 Source Code: [github.com/awalkaday/about-awalkaday-art/tree/book](https://github.com/awalkaday/about-awalkaday-art/tree/book)
 
+{% content-ref url="imprint.md" %}
+[imprint.md](imprint.md)
+{% endcontent-ref %}
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/awalkaday-logo-1x1.png" alt="" width="188"><figcaption></figcaption></figure>
+
+</div>
