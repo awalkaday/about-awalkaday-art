@@ -25,9 +25,9 @@ layout:
 
 ### Summary
 
-This book was written to detail the `git`-based history of [awalkaday.art](https://awalkaday.art) and to tell the making-of story of the photo series. It's a book adapted from a page of the web gallery exhibiting the photo collection: [about.awalkaday.art](https://about.awalkaday.art/).&#x20;
+This book was written to detail the `git`-based history of [awalkaday.art](https://awalkaday.art) and to tell the making-of story of the photo series. It's an online book adapted from a page of the web gallery exhibiting the photo collection: [about.awalkaday.art](https://about.awalkaday.art/).&#x20;
 
-The book is supported by [GitBook](https://www.gitbook.com/) as an open source project sponsored by their community plan.
+This book is supported by [GitBook](https://www.gitbook.com/) as an open source project under a community plan.
 
 ***
 
@@ -51,9 +51,9 @@ _Recent Changes:_ [_Summer 2024_](https://github.com/awalkaday/about-awalkaday-a
 
 🛠 Source Code: [github.com/awalkaday/about-awalkaday-art/tree/book](https://github.com/awalkaday/about-awalkaday-art/tree/book)
 
-{% content-ref url="imprint.md" %}
-[imprint.md](imprint.md)
-{% endcontent-ref %}
+{% hint style="info" %}
+[imprint.md](imprint.md "mention")
+{% endhint %}
 
 <div align="left">
 

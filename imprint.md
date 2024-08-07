@@ -41,10 +41,10 @@ SOURCE CODE: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 ***
 
-### Supported by&#x20;
+### Supported by
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/GitBook - Dark Logo.png" alt="" width="302"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook logo white back.png" alt="" width="375"><figcaption><p>Sponsored via a Community Plan for Open Source Projects by GitBook</p></figcaption></figure>
 
 </div>
