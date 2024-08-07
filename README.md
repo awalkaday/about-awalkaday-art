@@ -25,9 +25,9 @@ layout:
 
 ### Summary
 
-This book was written to detail the `git`-based history of [awalkaday.art](https://awalkaday.art) and to tell the making-of story of the photo series.&#x20;
+This book was written to detail the `git`-based history of [awalkaday.art](https://awalkaday.art) and to tell the making-of story of the photo series. It's a book adapted from a page of the web gallery exhibiting the photo collection: [about.awalkaday.art](https://about.awalkaday.art/).&#x20;
 
-It's a [GitBook](https://www.gitbook.com/)-powered book adapted from a page of the web gallery exhibiting the photo collection: [about.awalkaday.art](https://about.awalkaday.art/).
+The book is supported by [GitBook](https://www.gitbook.com/) as an open source project sponsored by their community plan.
 
 ***
 
