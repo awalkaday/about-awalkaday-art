@@ -14,9 +14,21 @@ layout:
 
 # Mobile Studio and Digital Toolkit
 
-* [**On-the-go Photography**](on-the-go-photography.md)
-* [**Cameras and Photo Editing**](cameras-and-photo-editing.md)
-* [**Gaming Laptop**](gaming-laptop.md)
+{% content-ref url="on-the-go-photography.md" %}
+[on-the-go-photography.md](on-the-go-photography.md)
+{% endcontent-ref %}
+
+{% content-ref url="cameras-and-photo-editing.md" %}
+[cameras-and-photo-editing.md](cameras-and-photo-editing.md)
+{% endcontent-ref %}
+
+{% content-ref url="gaming-laptop.md" %}
+[gaming-laptop.md](gaming-laptop.md)
+{% endcontent-ref %}
+
+
+
+***
 
 
 

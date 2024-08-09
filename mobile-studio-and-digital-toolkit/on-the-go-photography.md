@@ -15,6 +15,10 @@ layout:
 # On-the-go Photography
 
 {% embed url="https://jldbxxmdvwsmf5lpb473lorcolueuru2xcpj77ejghftr74ersiq.arweave.net/SsYb3YOtpML1bw8_tboicuhKRpq4np_8iTHLOP-EjJE" %}
+awalkaday 359-2021
+{% endembed %}
+
+
 
 The collection revolves around locations in [Belgium](https://www.openstreetmap.org/relation/52411) and explores a diverse range of scenes that include streets, landscapes, architecture, and nature.&#x20;
 

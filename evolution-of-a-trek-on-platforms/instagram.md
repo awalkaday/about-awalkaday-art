@@ -21,6 +21,10 @@ The monochrome photographs were originally posted on Instagram by [@walk.day](ht
 
 {% embed url="https://www.instagram.com/walk.day/" %}
 
+***
+
+
+
 {% embed url="https://arweave.net/L2CRb0ySUeg9xmZDRDQBI2zzHd4Cm9608AioFTSMrhc" %}
 awalkaday 167-2021
 {% endembed %}

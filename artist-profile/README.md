@@ -14,9 +14,19 @@ layout:
 
 # Artist Profile
 
-1. [**Human Identity**](human-identity.md)
-2. [**Training Ground**](training-ground.md)
-3. [**Project Inception Story**](project-inception-story.md)
+{% content-ref url="human-identity.md" %}
+[human-identity.md](human-identity.md)
+{% endcontent-ref %}
+
+{% content-ref url="training-ground.md" %}
+[training-ground.md](training-ground.md)
+{% endcontent-ref %}
+
+{% content-ref url="project-inception-story.md" %}
+[project-inception-story.md](project-inception-story.md)
+{% endcontent-ref %}
+
+***
 
 
 

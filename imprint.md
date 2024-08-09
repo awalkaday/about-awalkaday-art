@@ -16,11 +16,13 @@ layout:
 
 ### Onchain Photo Shop
 
-🛍️ [collect.awalkaday.art](https://collect.awalkaday.art/)
+{% embed url="https://collect.awalkaday.art" %}
 
-{% embed url="https://arweave.net/MiuCILoiAVXSGdWoiN4tM6XHZGSCCkLvCFyKMwWvzHg" %}
-awalkaday 187-2021
+{% embed url="https://arweave.net/ul_z5BwyOpGIBtJhtLJjxJJNcBGEYaZcd7wI0FwDh_E" %}
+awalkaday 91-2022
 {% endembed %}
+
+
 
 ***
 
@@ -32,12 +34,6 @@ _An Undocumented Product of Afro-Surrealism_
 \
 PHOTOS & TEXTS: [CC Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
 SOURCE CODE: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt)
-
-
-
-{% embed url="https://arweave.net/p0TwO1I3nv4IJ6O4KXr0ojnFI8H0qpYdE2EC7oePa50" %}
-awalkaday 34-2022
-{% endembed %}
 
 ***
 
@@ -58,3 +54,4 @@ awalkaday 34-2022
 <figure><img src=".gitbook/assets/gitbook logo white back.png" alt="" width="375"><figcaption><p>Sponsored via a Community Plan for Open Source Projects by GitBook</p></figcaption></figure>
 
 </div>
+

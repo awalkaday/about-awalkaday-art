@@ -15,6 +15,8 @@ layout:
 
 # READING GUIDE
 
+
+
 ## Table of Contents
 
 1. [Introduction to the Photo Series](introduction-to-the-photo-series.md)
@@ -42,4 +44,12 @@ layout:
    2. [Training Ground](artist-profile/training-ground.md)
    3. [Project Inception Story](artist-profile/project-inception-story.md)
 8. [Contact](contact.md)
+
+***
+
+
+
+{% embed url="https://arweave.net/nseb413j6HSO_Oh0ENiXSk3IW4ts8D24FJIYgaVJbrA" %}
+awalkaday 158-2021
+{% endembed %}
 

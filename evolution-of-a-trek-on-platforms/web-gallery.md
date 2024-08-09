@@ -20,22 +20,22 @@ After the project resumed, the photos started being uploaded to a purpose-built 
 It prioritises a smooth and random order of display for each visit, allowing for ease of navigation and discovery of photographs.&#x20;
 
 {% embed url="https://awalkaday.art" %}
-Visit the web gallery and discover the photos in a random order every time the page is refreshed.
+Make a short trip to online gallery and discover the photos in a random order every time the webpage gets refreshed.
 {% endembed %}
+
+
+
+***
 
 
 
 A 3D exhibition hall has also been set up to welcome all virtual visitors at [oncyber.io/awalkaday.art](https://oncyber.io/awalkaday.art).
 
-
-
 {% embed url="https://www.instagram.com/walk.day/reel/C4lci5_r0a8/" %}
-A walk-through tour of the virtual exhibition hall that is dedicated to awalkaday.art.
+A web browser-based tour of the virtual exhibition hall dedicated to awalkaday.art
 {% endembed %}
 
-
-
 {% embed url="https://oncyber.io/awalkaday.art" %}
-Direct link leading to a virtual exhibition hall in a three-dimensional environment to simulate a lifelike exposition of 24 photographs
+Visit the virtual exhibition space in a three-dimensional environment that simulates a lifelike display of 24 photographs
 {% endembed %}
 
