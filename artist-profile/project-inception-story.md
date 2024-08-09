@@ -16,7 +16,9 @@ layout:
 
 During the summer of 2017, Chris resided in a Red Cross camp for asylum seekers in Namur, Belgium. To combat prolonged boredom and physical inactivity, an idea sparked in his mind, urging him to combine his skills in black-and-white photography, visual design, and software coding in order to create an artistic project.
 
-
+{% embed url="https://aqdko2gvdb5swcvmv5fefjh2nvqay2jo25zaraa4e7gzvtmhqvra.arweave.net/BAanaNUYeysKrK9KQqT6bWAMaS7XcgiAHCfNms2HhWI" %}
+awalkaday 344-2017
+{% endembed %}
 
 Using rudimentary photographic equipment and online public platforms, coupled with an open-source digital toolbox, he has visually documented a years-long journey that artfully depicts his time-bound walks and publicly logs his footprints around a land of refuge. He had initially landed in Belgium in the winter of 2016, seeking a safe haven away from the persecution by authorities of his homeland while abroad in China and their Chinese counterparts.
 

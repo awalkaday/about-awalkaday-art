@@ -22,7 +22,16 @@ The underlying source code for the _awalkaday.art Photo Collection_ is hosted an
 The public code repositories, available in [Git](https://git-scm.com/) format, contain all commits and code changes from day one of the project at [github.com/awalkaday](https://github.com/awalkaday).\
 
 
+{% embed url="https://github.com/awalkaday/awalkaday-art" %}
+
+{% embed url="https://github.com/awalkaday/about-awalkaday-art" %}
+
+{% embed url="https://github.com/awalkaday/collect-awalkaday-art" %}
+
+\
+
+
 {% embed url="https://www.instagram.com/walk.day/p/C8casQwtnMP/" %}
-A graph visualizing years-long coding progress, representing time spent building the web gallery: awalkaday.art (2017-2024).
+A graph visualizing years-long coding progress, representing time spent building the web gallery: awalkaday.art
 {% endembed %}
 
