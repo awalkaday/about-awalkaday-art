@@ -18,3 +18,9 @@ layout:
 2. [**Git Usage History**](git-usage-history.md)&#x20;
 3. [**Open Source Software**](open-source-software.md)&#x20;
 
+
+
+{% embed url="https://arweave.net/RWBJ6ftd4pkex6L7xFQnedICPgON4C91XnIJf1xNwvg" %}
+awalkaday 15-2022
+{% endembed %}
+

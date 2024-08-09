@@ -18,3 +18,9 @@ Thank you for your time and interest in this series of photographs. If you have 
 
 Get in touch with [@awalkadayart](https://twitter.com/awalkadayart) on **X**, [@walk.day](https://instagram.com/walk.day) on **Instagram** or send an **email** to [media@daqhris.com](mailto:media@daqhris.com).&#x20;
 
+
+
+{% embed url="https://arweave.net/j5GfsE2q3Co8KhSvHwwjPpoNq0UZ5YN0FFeMBhdniiE" %}
+awalkaday 107-2022
+{% endembed %}
+

@@ -37,6 +37,10 @@ This book is supported by [GitBook](https://www.gitbook.com/) as an open source 
 [introduction-to-the-photo-series.md](introduction-to-the-photo-series.md)
 {% endcontent-ref %}
 
+{% embed url="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" %}
+awalkaday 251-2022
+{% endembed %}
+
 ***
 
 ### Licenses

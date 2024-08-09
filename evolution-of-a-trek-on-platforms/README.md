@@ -20,3 +20,9 @@ layout:
 4. [**X (Twitter)**](x-twitter.md)
 5. [**Ethereum**](ethereum.md)
 
+
+
+{% embed url="https://arweave.net/i6PP4en92kXHtQLpdd0XBSBrQuY6a5cWgMt3A1gJBCI" %}
+awalkaday 253-2022
+{% endembed %}
+

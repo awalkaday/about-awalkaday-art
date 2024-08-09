@@ -28,7 +28,8 @@ The public code repositories, available in [Git](https://git-scm.com/) format, c
 
 {% embed url="https://github.com/awalkaday/collect-awalkaday-art" %}
 
-\
+***
+
 
 
 {% embed url="https://www.instagram.com/walk.day/p/C8casQwtnMP/" %}

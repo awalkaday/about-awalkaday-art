@@ -14,6 +14,12 @@ layout:
 
 # Ongoing Pathways
 
+{% embed url="https://arweave.net/g_a3kCxXvhagS4B62-glUh3IsomrXyXujClsWZKP1rI" %}
+awalkaday 71-2022
+{% endembed %}
+
+
+
 The photo collection has evolved since its inception. Over the years, the artist has:
 
 * captured hundreds of monochrome photographs featuring various locations in Belgium.

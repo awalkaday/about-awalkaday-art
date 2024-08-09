@@ -20,3 +20,13 @@ The oldest GitHub-based commits written and signed by _daqhris_ date back to [Fe
 
 Much earlier fragments of his public coding blocks were likely archived inside the GitHub-sponsored [Arctic Code Vault](https://arcticworldarchive.org/collection/arctic-code-vault/) in [February 2020](https://archiveprogram.github.com/arctic-vault/), among notable human-crafted software works, for over a thousand years. Looking way back, an initial foray into GitHub in May 2011, at the [age of nineteen](https://github.com/daqhris?tab=overview\&from=2011-05-01\&to=2011-06-01) in Bujumbura, Burundi (Africa), seems comparable to planting a seed of innovation in the fertile soil of a burgeoning digital platform. That seed has since blossomed into a time-stamped odyssey rooted in cyberspace and grounded on Belgian soil — _awalkaday.art._
 
+{% embed url="https://github.com/daqhris?from=2011-05-01&tab=overview&to=2011-06-01" %}
+
+***
+
+
+
+{% embed url="https://arweave.net/0Hh0hrWgJk3je9KmLqkRwIrg7UcE-Kazytm2HdUjEGc" %}
+awalkaday 356-2017
+{% endembed %}
+
