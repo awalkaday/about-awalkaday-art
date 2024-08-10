@@ -34,16 +34,6 @@ SOURCE CODE: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 ***
 
-### Supported by
-
-<div align="left">
-
-<figure><img src=".gitbook/assets/gitbook logo white back.png" alt="" width="375"><figcaption><p>Sponsored via a Community Plan for Open Source Projects by GitBook</p></figcaption></figure>
-
-</div>
-
-***
-
 ### Onchain Photo Shop
 
 {% embed url="https://collect.awalkaday.art" %}
@@ -51,4 +41,14 @@ SOURCE CODE: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 {% embed url="https://arweave.net/ul_z5BwyOpGIBtJhtLJjxJJNcBGEYaZcd7wI0FwDh_E" %}
 awalkaday 91-2022
 {% endembed %}
+
+***
+
+### Publication Sponsor
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/gitbook logo white back.png" alt="" width="375"><figcaption><p>Supported by a Community Plan for Open Source Projects from GitBook</p></figcaption></figure>
+
+</div>
 
