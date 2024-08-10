@@ -14,16 +14,6 @@ layout:
 
 # IMPRINT
 
-### Onchain Photo Shop
-
-{% embed url="https://collect.awalkaday.art" %}
-
-{% embed url="https://arweave.net/ul_z5BwyOpGIBtJhtLJjxJJNcBGEYaZcd7wI0FwDh_E" %}
-awalkaday 91-2022
-{% endembed %}
-
-***
-
 ### Public Licensing
 
 awalkaday.art™ • Handbuilt with 🤍 • Made in 🇧🇪\
@@ -51,4 +41,14 @@ SOURCE CODE: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 <figure><img src=".gitbook/assets/gitbook logo white back.png" alt="" width="375"><figcaption><p>Sponsored via a Community Plan for Open Source Projects by GitBook</p></figcaption></figure>
 
 </div>
+
+***
+
+### Onchain Photo Shop
+
+{% embed url="https://collect.awalkaday.art" %}
+
+{% embed url="https://arweave.net/ul_z5BwyOpGIBtJhtLJjxJJNcBGEYaZcd7wI0FwDh_E" %}
+awalkaday 91-2022
+{% endembed %}
 

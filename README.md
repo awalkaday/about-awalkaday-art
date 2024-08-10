@@ -25,7 +25,9 @@ layout:
 
 ### Summary
 
-This book was written to detail the `git`-based history of [awalkaday.art](https://awalkaday.art) and to tell the making-of story of the photo series. It's an online book adapted from a page of the web gallery exhibiting the photo collection: [about.awalkaday.art](https://about.awalkaday.art/).&#x20;
+This book was written to detail the `git`-based history of [awalkaday.art](https://awalkaday.art) and to tell the story of the creation of the photo series.&#x20;
+
+It is an online book made of writings adapted from [about.awalkaday.art](https://about.awalkaday.art/) with the addition of other media (photo, code, social media posts) that illustrate and trace the history of the photo collection across a range of public platforms.
 
 This book is supported by [GitBook](https://www.gitbook.com/) as an open source project under a community plan.
 
@@ -36,6 +38,8 @@ This book is supported by [GitBook](https://www.gitbook.com/) as an open source 
 {% content-ref url="introduction-to-the-photo-series.md" %}
 [introduction-to-the-photo-series.md](introduction-to-the-photo-series.md)
 {% endcontent-ref %}
+
+
 
 {% embed url="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" %}
 awalkaday 251-2022
