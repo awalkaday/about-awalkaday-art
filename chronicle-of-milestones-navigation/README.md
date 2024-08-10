@@ -28,13 +28,10 @@ Let's dive into key moments that have shaped his artistic journey — an odyssey
 [blockchain-records.md](blockchain-records.md)
 {% endcontent-ref %}
 
-
-
 ***
-
-
 
 {% embed url="https://arweave.net/ELxHzZNhyRG_6Z88BoGxTKqQyFUMr2OSu57O6Brb-2E" %}
 awalkaday 198-2021
 {% endembed %}
 
+#### 7

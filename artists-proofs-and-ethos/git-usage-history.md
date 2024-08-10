@@ -24,9 +24,8 @@ Much earlier fragments of his public coding blocks were likely archived inside t
 
 ***
 
-
-
 {% embed url="https://arweave.net/0Hh0hrWgJk3je9KmLqkRwIrg7UcE-Kazytm2HdUjEGc" %}
 awalkaday 356-2017
 {% endembed %}
 
+#### 19
