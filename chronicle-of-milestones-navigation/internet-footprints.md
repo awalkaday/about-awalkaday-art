@@ -53,6 +53,6 @@ A congratulatory message citing the virtual exhibition hall was posted by the [.
 
 
 {% embed url="https://www.instagram.com/walk.day/p/CkWOfX2DCPU/" %}
-The last photo posted online on Instagram in October 2022. Original file lost and not published on the Ethereum blockchain.
+The last photo posted on Instagram in October 2022. Original file lost and not published on the Ethereum blockchain.
 {% endembed %}
 
