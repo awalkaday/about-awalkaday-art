@@ -34,7 +34,7 @@ SOURCE CODE: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 ***
 
-### Onchain Photo Shop
+### Online Photo Store
 
 {% embed url="https://collect.awalkaday.art" %}
 
@@ -48,7 +48,6 @@ awalkaday 91-2022
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/gitbook logo white back.png" alt="" width="375"><figcaption><p>Supported by a Community Plan for Open Source Projects from GitBook</p></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook logo white back.png" alt="" width="188"><figcaption><p>Business Plan for Open-Source</p></figcaption></figure>
 
 </div>
-
