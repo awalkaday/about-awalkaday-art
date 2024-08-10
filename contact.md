@@ -24,4 +24,4 @@ Get in touch with [@awalkadayart](https://twitter.com/awalkadayart) on **X**, [@
 awalkaday 107-2022
 {% endembed %}
 
-#### 25
+#### `25`

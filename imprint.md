@@ -48,6 +48,6 @@ awalkaday 91-2022
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/gitbook logo white back.png" alt="" width="188"><figcaption><p>Business Plan for Open-Source</p></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook logo white back.png" alt="" width="188"><figcaption><p><a href="https://www.g2.com/products/gitbook/reviews/gitbook-review-9962377">Business Plan for Open-Source</a></p></figcaption></figure>
 
 </div>

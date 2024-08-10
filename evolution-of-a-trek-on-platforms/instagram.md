@@ -27,4 +27,4 @@ The monochrome photographs were originally posted on Instagram by [@walk.day](ht
 awalkaday 167-2021
 {% endembed %}
 
-#### 12
+#### `12`

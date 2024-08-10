@@ -35,4 +35,4 @@ A web browser-based tour of the virtual exhibition hall dedicated to awalkaday.a
 Visit the virtual exhibition space in a three-dimensional environment that simulates a lifelike display of 24 photographs
 {% endembed %}
 
-#### 14
+#### `14`

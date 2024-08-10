@@ -30,4 +30,4 @@ Traveling on foot became essential after the outbreak of a global pandemic in 20
 
 A minimalist technical plan was adopted to reduce the lingering fear of losing electronic tools (stolen, hacked, or malfunctioning) and to fuel a digital quest progressing at the rhythm of frequent and abrupt moves around a terrestrial territory seen as a land of adoption and refuge.
 
-#### 4
+#### `4`

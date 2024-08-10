@@ -28,4 +28,4 @@ The photo collection has evolved since its inception. Over the years, the artist
 * published a smart contract containing his photo series, limited to 263 tokenized items, on the Ethereum blockchain.
 * created a virtual exhibition hall in a three-dimensional environment to simulate a lifelike exposition of 24 photographs.
 
-#### 8
+#### `8`

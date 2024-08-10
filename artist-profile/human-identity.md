@@ -24,4 +24,4 @@ He was born in Burundi (1992) and currently lives in Belgium, Europe.
 awalkaday 202-2021
 {% endembed %}
 
-#### 22
+#### `22`

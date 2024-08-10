@@ -15,7 +15,7 @@ layout:
 
 # READING GUIDE
 
-## Table of Contents
+### Table of Contents
 
 1. [Introduction to the Photo Series](introduction-to-the-photo-series.md)
 2. [Beyond Pixels: A Stroll into Nature](beyond-pixels-a-stroll-into-nature.md)

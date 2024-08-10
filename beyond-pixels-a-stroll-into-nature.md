@@ -26,4 +26,4 @@ Through the lens of Chris-Armel, _awalkaday.art_ is more than just a photo colle
 awalkaday 181-2021
 {% endembed %}
 
-#### 2
+#### `2`

@@ -41,4 +41,4 @@ After landing on a blockchain terrain in a batch series, each photo began to car
 awalkaday 3-2022
 {% endembed %}
 
-#### 16
+#### `16`

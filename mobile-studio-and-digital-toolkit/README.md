@@ -32,4 +32,4 @@ awalkaday 356.3-2017
 [gaming-laptop.md](gaming-laptop.md)
 {% endcontent-ref %}
 
-#### 3
+#### `3`

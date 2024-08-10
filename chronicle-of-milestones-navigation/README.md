@@ -34,4 +34,4 @@ Let's dive into key moments that have shaped his artistic journey — an odyssey
 awalkaday 198-2021
 {% endembed %}
 
-#### 7
+#### `7`

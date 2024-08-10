@@ -25,4 +25,4 @@ News and viewpoints related to the photo collection are broadcast on X, where th
 awalkaday 220-2022
 {% endembed %}
 
-#### 15
+#### `15`

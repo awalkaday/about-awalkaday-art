@@ -52,4 +52,4 @@ Contrary to modern conventions, _awalkaday.art_ is neither a state-sponsored art
 awalkaday 184-2021
 {% endembed %}
 
-#### 24
+#### `24`

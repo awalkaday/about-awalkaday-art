@@ -24,4 +24,4 @@ This art project treats the creative process as a series of iterative steps that
 awalkaday 179-2022
 {% endembed %}
 
-#### 18
+#### `18`
