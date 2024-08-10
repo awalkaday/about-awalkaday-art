@@ -15,8 +15,6 @@ layout:
 
 # READING GUIDE
 
-
-
 ## Table of Contents
 
 1. [Introduction to the Photo Series](introduction-to-the-photo-series.md)
@@ -47,9 +45,7 @@ layout:
 
 ***
 
-
-
-{% embed url="https://arweave.net/nseb413j6HSO_Oh0ENiXSk3IW4ts8D24FJIYgaVJbrA" %}
-awalkaday 158-2021
+{% embed url="https://arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" %}
+awalkaday 129-2022
 {% endembed %}
 

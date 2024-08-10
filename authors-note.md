@@ -15,7 +15,7 @@ layout:
 
 # AUTHOR'S NOTE
 
-_I've created this artistic project in my spare time, in public, independently, and at the pace of a_ [_turtle_](https://en.m.wikipedia.org/wiki/Cultural\_depictions\_of\_turtles)_._&#x20;
+_I created this artistic project in my spare time, in public, independently, and at the pace of a_ [_turtle_](https://en.m.wikipedia.org/wiki/Cultural\_depictions\_of\_turtles)_._&#x20;
 
 {% embed url="https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-gdEnlGmI" %}
 awalkaday 219-2022
@@ -23,7 +23,7 @@ awalkaday 219-2022
 
 
 
-_The first coding blocks of the project appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_. From the beginning, the creative process has been intuitive, non-linear, and is time-stamped by a digital clock._
+_The first coding blocks of the project appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_. From the beginning, the creative process was intuitive, non-linear, and time-stamped by a digital clock._
 
 {% embed url="https://github.com/daqhris/daqhris.github.io/blob/80a18e2a08c1413ea8b4a26d1a86129624b8809f/a-walk_a-day.html#L1-L40" %}
 

@@ -14,6 +14,12 @@ layout:
 
 # Artist Profile
 
+{% embed url="https://arweave.net/GgJqeSHBSV_CxnwN6UE8-85c0ovtgJLQUIFVW9l7Q3g" %}
+awalkaday 8-2018
+{% endembed %}
+
+***
+
 {% content-ref url="human-identity.md" %}
 [human-identity.md](human-identity.md)
 {% endcontent-ref %}
@@ -25,12 +31,4 @@ layout:
 {% content-ref url="project-inception-story.md" %}
 [project-inception-story.md](project-inception-story.md)
 {% endcontent-ref %}
-
-***
-
-
-
-{% embed url="https://arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" %}
-awalkaday 129-2022
-{% endembed %}
 
