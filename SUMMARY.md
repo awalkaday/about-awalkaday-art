@@ -29,3 +29,4 @@
   * [Project Inception Story](artist-profile/project-inception-story.md)
 * [Contact](contact.md)
 * [IMPRINT](imprint.md)
+* [APPENDIX](appendix.md)
