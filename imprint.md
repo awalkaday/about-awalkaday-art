@@ -46,10 +46,6 @@ awalkaday 91-2022
 
 ### Acknowledgments
 
-#### Artist's Friends
-
-Many thanks to Ant H., Britt H., Adva Z., Peter K. and Suleiman A.
-
 #### Book Publication
 
 <div align="left">
