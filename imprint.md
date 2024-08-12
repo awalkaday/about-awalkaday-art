@@ -51,3 +51,11 @@ awalkaday 91-2022
 <figure><img src=".gitbook/assets/gitbook logo white back.png" alt="" width="188"><figcaption><p><a href="https://www.g2.com/products/gitbook/reviews/gitbook-review-9962377">Business Plan for Open-Source</a></p></figcaption></figure>
 
 </div>
+
+### Internet Registry
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/Dot_Art_logo.png" alt="" width="188"><figcaption><p><a href="https://x.com/Art_Domains/status/1755917791658418315">Praised online by .art domains</a></p></figcaption></figure>
+
+</div>
