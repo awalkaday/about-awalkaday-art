@@ -44,7 +44,13 @@ awalkaday 91-2022
 
 ***
 
-### Publication Sponsor
+### Acknowledgments
+
+#### Artist's Friends
+
+Many thanks to Ant H., Britt H., Adva Z., Peter K. and Suleiman A.
+
+#### Book Publication
 
 <div align="left">
 
@@ -52,10 +58,18 @@ awalkaday 91-2022
 
 </div>
 
-### Internet Registry
+#### Internet Registry
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/Dot_Art_logo.png" alt="" width="188"><figcaption><p><a href="https://x.com/Art_Domains/status/1755917791658418315">Praised online by .art domains</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/Dot_Art_logo.png" alt="" width="188"><figcaption><p><a href="https://x.com/Art_Domains/status/1755917791658418315">Praised online by .ART domains</a></p></figcaption></figure>
+
+</div>
+
+#### Blockchain Network
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/ethereum-logo-color.png" alt="" width="188"><figcaption><p><a href="https://zora.co/collect/eth:0xe31801c2e58b151c3ded2cb29da56147b7f27eb1">Photo series minted on Ethereum</a></p></figcaption></figure>
 
 </div>
