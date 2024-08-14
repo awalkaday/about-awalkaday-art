@@ -14,12 +14,6 @@ layout:
 
 # Evolution of a Trek on Platforms
 
-{% embed url="https://arweave.net/i6PP4en92kXHtQLpdd0XBSBrQuY6a5cWgMt3A1gJBCI" fullWidth="true" %}
-awalkaday 253-2022
-{% endembed %}
-
-***
-
 {% content-ref url="instagram.md" %}
 [instagram.md](instagram.md)
 {% endcontent-ref %}
@@ -39,6 +33,16 @@ awalkaday 253-2022
 {% content-ref url="ethereum.md" %}
 [ethereum.md](ethereum.md)
 {% endcontent-ref %}
+
+
+
+***
+
+
+
+{% embed url="https://arweave.net/i6PP4en92kXHtQLpdd0XBSBrQuY6a5cWgMt3A1gJBCI" fullWidth="true" %}
+awalkaday 253-2022
+{% endembed %}
 
 
 
