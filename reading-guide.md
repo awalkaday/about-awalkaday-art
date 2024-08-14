@@ -1,5 +1,5 @@
 ---
-description: A list of chapters and sub-chapters in the book
+description: A list of chapters and subchapters in this artist's book
 layout:
   title:
     visible: true
@@ -43,11 +43,11 @@ layout:
   * [Project Inception Story](artist-profile/project-inception-story.md)
 * [Contact](contact.md)
 * [IMPRINT](imprint.md)
-* APPENDIX
-
-
+* [APPENDIX](appendix.md)
 
 ***
+
+
 
 {% embed url="https://arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" %}
 awalkaday 129-2022

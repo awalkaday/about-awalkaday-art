@@ -20,8 +20,10 @@ Unfortunately, the gaming computer mysteriously crashed during a malware analysi
 
 
 
-{% embed url="https://arweave.net/zTPvMqqshbt54vJN2C2RSYOBTjxo8I0RbDO2Wiida1U" %}
-awalkaday 178-2021
+{% embed url="https://arweave.net/8FU-mhjYjLfvf3eWMYiJIx60YeKUbtx7x8Qf2O4bRL0" %}
+awalkaday 328-2017
 {% endembed %}
+
+
 
 #### `6`

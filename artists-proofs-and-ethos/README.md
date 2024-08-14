@@ -14,11 +14,15 @@ layout:
 
 # Artist's Proofs and Ethos
 
-{% embed url="https://arweave.net/sH8zfbKAiJL2OcmQU0yiZ3Ed8crVitoIWDv_v9_VNIQ" %}
-awalkaday 347-2021
+{% embed url="https://arweave.net/zTPvMqqshbt54vJN2C2RSYOBTjxo8I0RbDO2Wiida1U" fullWidth="true" %}
+awalkaday 178-2021
 {% endembed %}
 
+
+
 ***
+
+
 
 {% content-ref url="public-git-commits.md" %}
 [public-git-commits.md](public-git-commits.md)
@@ -31,5 +35,7 @@ awalkaday 347-2021
 {% content-ref url="open-source-software.md" %}
 [open-source-software.md](open-source-software.md)
 {% endcontent-ref %}
+
+
 
 #### `17`

@@ -38,7 +38,7 @@ SOURCE CODE: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 {% embed url="https://collect.awalkaday.art" %}
 
-{% embed url="https://arweave.net/ul_z5BwyOpGIBtJhtLJjxJJNcBGEYaZcd7wI0FwDh_E" %}
+{% embed url="https://arweave.net/ul_z5BwyOpGIBtJhtLJjxJJNcBGEYaZcd7wI0FwDh_E" fullWidth="true" %}
 awalkaday 91-2022
 {% endembed %}
 

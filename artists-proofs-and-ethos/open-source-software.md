@@ -16,6 +16,14 @@ layout:
 
 An open-source ethos which embodies principles such as transparency, collaboration, and community-driven development has been embraced with open arms.
 
+
+
+{% embed url="https://arweave.net/cygGvgGjhJ90lTr9DU38tJVP4LM3IuSyICrzCtvjtus" %}
+awalkaday 79-2022
+{% endembed %}
+
+
+
 To gain exposure to software-driven innovation, Chris-Armel (daqhris) has been an active contributor to the [Free and Open Source Software Developer Conference](https://fosdem.org/) in Brussels every year since 2020. The annual conference has enabled him to remain connected with the European software developer community, despite lacking the right to attend university or work professionally in the field.
 
 {% embed url="https://fosdem.org/" %}
@@ -26,8 +34,12 @@ As a volunteer, one of his memorable acts was standing on stage to introduce a t
 
 ***
 
+
+
 {% embed url="https://arweave.net/EGWfqt41-x4swizPynVwltLBmd-68PCM8q6CX3EmwG4" %}
 awalkaday 91-2022
 {% endembed %}
+
+
 
 #### `20`

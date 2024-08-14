@@ -15,10 +15,15 @@ layout:
 
 # Ethereum
 
-For the final leg of a trek on digital platforms, thanks to angelic backing provided by a cryptocurrency wallet set up in [2017](https://etherscan.io/address/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82#analytics), bootstrapped in [2021](https://platform.arkhamintelligence.com/explorer/entity/daqhris), and set in motion in [2022](https://etherscan.io/txs?a=0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82\&f=5), [daqhris](https://app.ens.domains/daqhris.eth) minted the 263 photographs, miraculously recovered after another chaotic winter, and preserved for the long run as non-fungible [ERC-721 tokens](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) on the Ethereum blockchain.
+For the final leg of a trek on digital platforms, thanks to the angelic support of a cryptocurrency wallet created in [2017](https://etherscan.io/address/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82#analytics), bootstrapped in [2021](https://platform.arkhamintelligence.com/explorer/entity/daqhris), and set in motion in [2022](https://etherscan.io/txs?a=0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82\&f=5), [daqhris](https://app.ens.domains/daqhris.eth) minted the 263 photographs, miraculously recovered after another chaotic winter, and preserved them for the long run as non-fungible [ERC-721 tokens](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) on the Ethereum blockchain.
 
 {% embed url="https://eth.blockscout.com/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b" %}
 
+{% embed url="https://arweave.net/YUAAmDamuHChXj-NssLZxiYHsesYNUlQjazoh3I-4ZQ" %}
+awalkaday 78-2022
+{% endembed %}
+
+\
 [Ethereum](https://ethereum.org/) is a decentralized blockchain platform that allows developers to create and deploy self-executing code in the form of smart contracts and applications. The artworks were wrapped in the _awalkaday.art Smart Contract_ and self-published on a public blockchain, where they can be verified, collected and exchanged. The smart contract address is `0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1`.
 
 {% embed url="https://zora.co/collect/eth:0xe31801c2e58b151c3ded2cb29da56147b7f27eb1" %}
@@ -40,5 +45,7 @@ After landing on a blockchain terrain in a batch series, each photo began to car
 {% embed url="https://arweave.net/QuZy3p6WDONJOwwHuqP9VyMCgTqMOJjm-m6fDVE-86Q" %}
 awalkaday 3-2022
 {% endembed %}
+
+
 
 #### `16`
