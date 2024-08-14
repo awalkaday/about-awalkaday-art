@@ -25,7 +25,7 @@ layout:
 
 ### Summary
 
-This artist's book was designed to tell the story of the creation of [awalkaday.art](https://awalkaday.art) and is bound with the `git`-powered digital logs of the photo series.
+This artist's book narrates the story of the creation of [awalkaday.art](https://awalkaday.art) and is bound with the `git`-powered digital logs of the photo series.
 
 It is an online book of writings adapted from [about.awalkaday.art](https://about.awalkaday.art/) with the addition of other media (photo, code, social media posts) that illustrate and trace the history of the photo collection across a range of public platforms.
 
