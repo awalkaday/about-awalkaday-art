@@ -22,8 +22,10 @@ Each photograph was assigned a unique identification token on a public blockchai
 
 
 
-{% embed url="https://clbxzh7mtjfyeo56l7xzmuclv74yrjpdagus55v3labbyvnxfpgq.arweave.net/EsN8n-yaS4I7vl_vllBLr_mIpeMBqS72u1gCHFW3K80" %}
+{% embed url="https://clbxzh7mtjfyeo56l7xzmuclv74yrjpdagus55v3labbyvnxfpgq.arweave.net/EsN8n-yaS4I7vl_vllBLr_mIpeMBqS72u1gCHFW3K80" fullWidth="true" %}
 awalkaday 168.5-2021
 {% endembed %}
+
+
 
 #### `1`

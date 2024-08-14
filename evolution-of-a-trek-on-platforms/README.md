@@ -40,8 +40,8 @@ layout:
 
 
 
-{% embed url="https://arweave.net/i6PP4en92kXHtQLpdd0XBSBrQuY6a5cWgMt3A1gJBCI" fullWidth="true" %}
-awalkaday 253-2022
+{% embed url="https://arweave.net/RwU07KwC3gFkVLJ1c8PpvxRvqmC-AsSrDVqC8UhZ7tM" fullWidth="true" %}
+awalkaday 25-2022
 {% endembed %}
 
 

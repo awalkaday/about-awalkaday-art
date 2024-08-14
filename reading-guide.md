@@ -49,7 +49,7 @@ layout:
 
 
 
-{% embed url="https://arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" %}
+{% embed url="https://arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" fullWidth="true" %}
 awalkaday 129-2022
 {% endembed %}
 

@@ -19,7 +19,7 @@ The visual art practice, reinforced by web surfing, began in [July 2017](https:/
 
 
 {% embed url="https://www.instagram.com/p/BWvILEmAPcy/" %}
-The first photo posted online on Instagram in 2017. Original photo file lost and not preserved on the blockchain.
+The inauguration photo posted online on Instagram in 2017. The original photo file was lost and not preserved on the blockchain.
 {% endembed %}
 
 
@@ -29,7 +29,7 @@ The first and last photographs, preserved in the blockchain-based collection, ap
 
 
 {% embed url="https://www.instagram.com/p/BbXjDXsH22K/" %}
-The first photo in the series, which was recovered and minted on the Ethereum blockchain in the first quarter of 2023.
+The first photo in the series, taken in 2017, was recovered and minted on the Ethereum blockchain in the first quarter of 2023.
 {% endembed %}
 
 
@@ -53,7 +53,9 @@ A congratulatory message citing the virtual exhibition hall was posted by the [.
 
 
 {% embed url="https://www.instagram.com/walk.day/p/CkWOfX2DCPU/" %}
-The last photo posted on Instagram in October 2022. Original file lost and not published on the Ethereum blockchain.
+Last photo posted on Instagram in October 2022. The original file was lost and not published on the Ethereum blockchain.
 {% endembed %}
+
+
 
 #### `9`
