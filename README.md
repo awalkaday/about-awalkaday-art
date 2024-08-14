@@ -31,7 +31,7 @@ It is an online book of writings adapted from [about.awalkaday.art](https://abou
 
 This book is supported by [GitBook](https://www.gitbook.com/) as an open source project under a community plan.
 
-_25 Pages - EN - Black\&White Digital Photography_
+`25 Pages`—`English`—`Black & White Digital Photography`
 
 ***
 

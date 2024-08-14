@@ -30,8 +30,8 @@ These photographs were captured during walks through the streets and alleyways o
 
 
 
-{% embed url="https://arweave.net/m4AqCV4yzlAzpc6TSdj0rkKMyPdyzkHp0Qq_yUIU4bE" %}
-awalkaday 222-2022
+{% embed url="https://arweave.net/sH8zfbKAiJL2OcmQU0yiZ3Ed8crVitoIWDv_v9_VNIQ" %}
+awalkaday 347-2021
 {% endembed %}
 
 
