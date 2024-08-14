@@ -14,16 +14,6 @@ layout:
 
 # Mobile Studio and Digital Toolkit
 
-{% embed url="https://u22r4ngnbtew7hw6s3ejoa5wdtbu2dj2vypamvk6uryw3rblc65a.arweave.net/prUeNM0MyW-e3pbIlwO2HMNNDTquHgZVXqRxbcQrF7o" fullWidth="true" %}
-awalkaday 356.3-2017
-{% endembed %}
-
-
-
-***
-
-
-
 {% content-ref url="on-the-go-photography.md" %}
 [on-the-go-photography.md](on-the-go-photography.md)
 {% endcontent-ref %}
@@ -35,6 +25,16 @@ awalkaday 356.3-2017
 {% content-ref url="gaming-laptop.md" %}
 [gaming-laptop.md](gaming-laptop.md)
 {% endcontent-ref %}
+
+
+
+***
+
+
+
+{% embed url="https://u22r4ngnbtew7hw6s3ejoa5wdtbu2dj2vypamvk6uryw3rblc65a.arweave.net/prUeNM0MyW-e3pbIlwO2HMNNDTquHgZVXqRxbcQrF7o" fullWidth="true" %}
+awalkaday 356.3-2017
+{% endembed %}
 
 
 

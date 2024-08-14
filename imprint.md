@@ -46,6 +46,10 @@ awalkaday 91-2022
 
 ### Acknowledgments
 
+#### Friends
+
+Many thanks to Ant H., Adva Z., Britt H.,  Peter K. and Suleiman A.
+
 #### Book Publication
 
 <div align="left">
