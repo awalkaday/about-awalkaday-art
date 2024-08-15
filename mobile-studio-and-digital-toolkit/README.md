@@ -32,8 +32,8 @@ layout:
 
 
 
-{% embed url="https://u22r4ngnbtew7hw6s3ejoa5wdtbu2dj2vypamvk6uryw3rblc65a.arweave.net/prUeNM0MyW-e3pbIlwO2HMNNDTquHgZVXqRxbcQrF7o" fullWidth="true" %}
-awalkaday 356.3-2017
+{% embed url="https://arweave.net/uqtSWU4QODg1N2CZzZyQmEf17G94veYnQgw-Ele6Zz8" fullWidth="true" %}
+awalkaday 23-2022
 {% endembed %}
 
 
