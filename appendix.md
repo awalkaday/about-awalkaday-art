@@ -56,11 +56,7 @@ _awalkaday 251-2022_ and _The Daughters of Water_ both have their roots in a 19t
 
 
 
-<div data-full-width="true">
-
-<figure><img src=".gitbook/assets/IMG_20240508_162716_4.jpg" alt=""><figcaption></figcaption></figure>
-
- 
+<div>
 
 <figure><img src=".gitbook/assets/IMG_20240508_162733_3-01.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -71,6 +67,10 @@ _awalkaday 251-2022_ and _The Daughters of Water_ both have their roots in a 19t
  
 
 <figure><img src=".gitbook/assets/IMG_20240508_162807_3-01.jpeg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/IMG_20240508_162716_4.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
