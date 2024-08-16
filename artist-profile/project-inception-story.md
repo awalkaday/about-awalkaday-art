@@ -24,7 +24,7 @@ awalkaday 344-2017
 
 
 
-Using rudimentary photographic equipment and online public platforms, coupled with an open-source digital toolbox, he has visually documented a years-long journey that artfully depicts his time-bound walks and publicly logs his footprints around a land of refuge. He had initially landed in Belgium in the winter of 2016, seeking a safe haven away from the persecution by authorities of his homeland while abroad in China and their Chinese counterparts.
+Using rudimentary photographic equipment and online public platforms, coupled with an open-source digital toolbox, he has visually documented a years-long journey that artfully depicts his time-bound walks and publicly logs his footprints around a land of refuge. He had initially landed in Belgium in the winter of 2016, seeking a safe haven away from the persecution by authorities of his homeland while abroad in China and their Chinese counterparts. His original sin, worthy of exile from Beijing, was unofficially linked to photography and Burundian politics.
 
 
 
@@ -51,5 +51,7 @@ Contrary to modern conventions, _awalkaday.art_ is neither a state-sponsored art
 {% embed url="https://arweave.net/WB8akAD3XwwJ-5QCWgH9k-4eaDNRctqmTzBH4hwLwyo" %}
 awalkaday 184-2021
 {% endembed %}
+
+
 
 #### `24`
