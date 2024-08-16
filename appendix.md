@@ -56,9 +56,9 @@ The black-and-white photo captured a fleeting moment in time before the old scul
 Check out the onchain photo on The Hug.
 {% endembed %}
 
-Sculpted in bronze by Belgian artist [_Nat Neujean_](https://www.natneujean.com/), _The Daughters of Water_ (1951) depicts two intertwined nymphs, symbolizing two European rivers : the [_Meuse_](https://en.wikipedia.org/wiki/Meuse) and the [_Sambre_](https://en.wikipedia.org/wiki/Sambre). These recent photos of the famous sculpture were taken on May 8th, 2024. Coincidentally, this date marks the end of Second World War in Europe and the victory of democracy over fascism.
+Sculpted in bronze by Belgian artist [_Nat Neujean_](https://www.natneujean.com/), _The Daughters of Water_ (1951) depicts two intertwined nymphs, symbolizing two European rivers : the [_Meuse_](https://en.wikipedia.org/wiki/Meuse) and the [_Sambre_](https://en.wikipedia.org/wiki/Sambre). These recent photos of the famous sculpture were taken on May 8th, 2024.&#x20;
 
-_awalkaday 251-2022_ and _The Daughters of Water_ both have their roots in a 19th century park. The park is named after the first Queen of the Belgians, _Louise-Marie_. Notice the uncanny resemblance between the setting of the bronze nymph sculpture (below) and the photo of a romantic couple (above).
+_awalkaday 251-2022_ and _The Daughters of Water_ both have their roots in a 19th century park named after the first Queen of the Belgians, _Louise-Marie_. Notice the uncanny resemblance between the setting of the bronze nymph sculpture (below) and the photo of a romantic couple (above).
 
 
 
