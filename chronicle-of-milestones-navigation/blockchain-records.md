@@ -26,7 +26,7 @@ In the virtual realm of blockchain-based art platforms, the artist has created a
 
 {% embed url="https://foundation.app/collection/awalkaday-art" %}
 
-As an artist, coder and hacker with published work on a public blockchain, he participated in a 36-hour international hackathon and gathering of Ethereum software developers organized by [ETHGlobal](https://ethglobal.com/events/brussels) and held for the first time in Brussels (July 2024).
+As an artist, coder and hacker with published work on a blockchain, he participated in a 36-hour international hackathon and gathering of Ethereum software developers organized by [ETHGlobal](https://ethglobal.com/events/brussels) and held for the first time in Brussels (July 2024).
 
 
 
@@ -34,7 +34,7 @@ As an artist, coder and hacker with published work on a public blockchain, he pa
 
 
 
-Since then, after honing his skills as an Ethereum decentralized app developer and overcoming the learning curve of a hackathon, his next blockchain-based artistic project has been launched: [ZinnekeRescueMission](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf).
+Since then, after honing his skills as an Ethereum app developer and overcoming the learning curve of a hackathon, his next blockchain-based artistic project has been launched: [ZinnekeRescueMission](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf).
 
 {% embed url="https://ethglobal.com/showcase/zinnekerescuemission-9fwjf" %}
 

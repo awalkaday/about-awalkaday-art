@@ -41,3 +41,36 @@ layout:
 [Nivelles](https://foundation.app/collection/awalkaday-art?attr=attributes.LOCATION%3ANivelles%2C+Belgium)  `1`
 
 [Waremme](https://foundation.app/collection/awalkaday-art?attr=attributes.LOCATION%3AWaremme%2C+Belgium)  `9`
+
+
+
+### Fun Facts
+
+The photograph on the cover of the book, '_awalkaday 251-2022'_, was shot and published prior to the relocation of a sculpture currently located inside a public park in Namur (Wallonia, Belgium). The photo captured a fleeting moment in time before the sculpture was moved to its exact location. It immortalized a romantic scene : a lovely couple sitting on the grass under the shade of a tree.&#x20;
+
+{% embed url="https://thehug.xyz/artists/daqhris/portfolio/item/6e2d07d3-3f4a-438c-b0e7-1224f7dcecfa" %}
+
+The sculpture '_The Daughters of Water'_ (1951), carved in bronze by a Belgian artist, _Nat Neujean_, depicts two intertwined nymphs, symbolizing two European rivers : the _Meuse_ and the _Sambre_. These recent photos of the famous sculpture were taken on May 8th, 2024. This day marks the end of World War II in Europe and the victory of democracy over fascism.
+
+_awalkaday 251-2022_ and _The Daughters of Water_ both have their roots in a 19th century park. The park is named after the first Queen of the Belgians, Louise-Marie.&#x20;
+
+
+
+<div>
+
+<figure><img src=".gitbook/assets/IMG_20240508_162716_4.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/IMG_20240508_162733_3-01.jpeg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/IMG_20240508_162755_1-01.jpeg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/IMG_20240508_162807_3-01.jpeg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
