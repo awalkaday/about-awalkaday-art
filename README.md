@@ -1,5 +1,5 @@
 ---
-description: An online artist book about awalkaday.art
+description: An artist's online book about awalkaday.art
 layout:
   title:
     visible: true
