@@ -50,7 +50,7 @@ The photograph on the [cover of this book](./), _awalkaday 251-2022_, was taken 
 
 <figure><img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="" width="188"><figcaption><p><em>awalkaday 251-2022</em></p></figcaption></figure>
 
-The photo captured a fleeting moment in time before the sculpture was moved to its exact location. It immortalized a romantic scene : a lovely couple sitting on the grass under the shade of a glowing tree.&#x20;
+The black-and-white photo captured a fleeting moment in time before the old sculpture was moved to its current and permanent location. It immortalized a romantic scene : a lovely couple sitting on the grass in the shade of a glowing tree.&#x20;
 
 {% embed url="https://thehug.xyz/artists/daqhris/portfolio/item/6e2d07d3-3f4a-438c-b0e7-1224f7dcecfa" %}
 Check out the onchain photo on The Hug.
@@ -58,7 +58,7 @@ Check out the onchain photo on The Hug.
 
 Sculped in bronze by Belgian artist [_Nat Neujean_](https://www.natneujean.com/), _The Daughters of Water_ (1951) depicts two intertwined nymphs, symbolizing two European rivers : the [_Meuse_](https://en.wikipedia.org/wiki/Meuse) and the [_Sambre_](https://en.wikipedia.org/wiki/Sambre). These recent photos of the famous sculpture were taken on May 8th, 2024. Coincidentally, this date marks the end of Second World War in Europe and the victory of democracy over fascism.
 
-_awalkaday 251-2022_ and _The Daughters of Water_ both have their roots in a 19th century park. The park is named after the first Queen of the Belgians, _Louise-Marie_. Note the uncanny resemblance between the sculpture of the nymphs and the human couple in the photograph.
+_awalkaday 251-2022_ and _The Daughters of Water_ both have their roots in a 19th century park. The park is named after the first Queen of the Belgians, _Louise-Marie_. Note the uncanny resemblance between the sculpture of the nymphs (below) and the human couple in the photograph (above)).
 
 
 
