@@ -53,12 +53,12 @@ The photograph on the [cover of this book](./), _awalkaday 251-2022_, was taken 
 The photo captured a fleeting moment in time before the sculpture was moved to its exact location. It immortalized a romantic scene : a lovely couple sitting on the grass under the shade of a glowing tree.&#x20;
 
 {% embed url="https://thehug.xyz/artists/daqhris/portfolio/item/6e2d07d3-3f4a-438c-b0e7-1224f7dcecfa" %}
-Check out the photo on The Hug.
+Check out the onchain photo on The Hug.
 {% endembed %}
 
 Sculped in bronze by Belgian artist [_Nat Neujean_](https://www.natneujean.com/), _The Daughters of Water_ (1951) depicts two intertwined nymphs, symbolizing two European rivers : the [_Meuse_](https://en.wikipedia.org/wiki/Meuse) and the [_Sambre_](https://en.wikipedia.org/wiki/Sambre). These recent photos of the famous sculpture were taken on May 8th, 2024. Coincidentally, this date marks the end of Second World War in Europe and the victory of democracy over fascism.
 
-_awalkaday 251-2022_ and _The Daughters of Water_ both have their roots in a 19th century park. The park is named after the first Queen of the Belgians, _Louise-Marie_.&#x20;
+_awalkaday 251-2022_ and _The Daughters of Water_ both have their roots in a 19th century park. The park is named after the first Queen of the Belgians, _Louise-Marie_. Note the uncanny resemblance between the sculpture of the nymphs and the human couple in the photograph.
 
 
 
@@ -84,7 +84,7 @@ _awalkaday 251-2022_ and _The Daughters of Water_ both have their roots in a 19t
 
 ### Onchain Photo Showcase + ENS domain names
 
-Four [ENS domains](https://ens.domains/), named after Belgian cities and rivers, are adorned with [awalkaday.art](https://app.zerion.io/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82/nfts?collections=116) photographs. The local landscape was mapped and displayed on an Ethereum blockchain naming protocol to welcome participants to a week of blockchain-focused international conferences in Belgium: [EthCC \[7\]](https://ethcc.io/archive?page=1\&event=EthCC%5B7%5D) & [ETHGlobal Brussels 2024](https://ethglobal.com/events/brussels).&#x20;
+Four [ENS domains](https://ens.domains/), named after Belgian towns and rivers, are adorned with [awalkaday.art](https://app.zerion.io/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82/nfts?collections=116) photographs. The local landscape was mapped and displayed on an Ethereum blockchain naming protocol to welcome participants to a week of blockchain-focused international conferences in Belgium: [EthCC \[7\]](https://ethcc.io/archive?page=1\&event=EthCC%5B7%5D) & [ETHGlobal Brussels 2024](https://ethglobal.com/events/brussels).&#x20;
 
 
 
