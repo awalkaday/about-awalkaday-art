@@ -46,11 +46,13 @@ layout:
 
 ### Fun Facts
 
-The photograph on the cover of this book, _awalkaday 251-2022_, was shot and published prior to the relocation of a sculpture currently located inside a public park in Namur (Wallonia, Belgium). The photo captured a fleeting moment in time before the sculpture was moved to its exact location. It immortalized a romantic scene : a lovely couple sitting on the grass under the shade of a glowing tree.&#x20;
+The photograph on the [cover of this book](./), _awalkaday 251-2022_, was taken and published prior to the installation of a sculpture on the same site inside a public park in Namur (Wallonia, Belgium).&#x20;
+
+The photo captured a fleeting moment in time before the sculpture was moved to its exact location. It immortalized a romantic scene : a lovely couple sitting on the grass under the shade of a glowing tree.&#x20;
 
 {% embed url="https://thehug.xyz/artists/daqhris/portfolio/item/6e2d07d3-3f4a-438c-b0e7-1224f7dcecfa" %}
 
-The sculpture _The Daughters of Water_ (1951), carved in bronze by a Belgian artist, [_Nat Neujean_](https://www.natneujean.com/), depicts two intertwined nymphs, symbolizing two European rivers : the [_Meuse_](https://en.wikipedia.org/wiki/Meuse) and the [_Sambre_](https://en.wikipedia.org/wiki/Sambre). These recent photos of the famous sculpture were taken on May 8th, 2024. Coincidentally, this day marks the end of World War II in Europe and the victory of democracy over fascism.
+Sculped in bronze by Belgian artist [_Nat Neujean_](https://www.natneujean.com/), _The Daughters of Water_ (1951) depicts two intertwined nymphs, symbolizing two European rivers : the [_Meuse_](https://en.wikipedia.org/wiki/Meuse) and the [_Sambre_](https://en.wikipedia.org/wiki/Sambre). These recent photos of the famous sculpture were taken on May 8th, 2024. Coincidentally, this date marks the end of Second World War in Europe and the victory of democracy over fascism.
 
 _awalkaday 251-2022_ and _The Daughters of Water_ both have their roots in a 19th century park. The park is named after the first Queen of the Belgians, _Louise-Marie_.&#x20;
 
