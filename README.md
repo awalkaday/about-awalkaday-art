@@ -37,11 +37,7 @@ This book is supported by [GitBook](https://www.gitbook.com/) as an open source 
 
 ### PAGE ONE&#x20;
 
-
-
-{% content-ref url="introduction-to-the-photo-series.md" %}
-[introduction-to-the-photo-series.md](introduction-to-the-photo-series.md)
-{% endcontent-ref %}
+<table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a data-mention href="introduction-to-the-photo-series.md">introduction-to-the-photo-series.md</a></td><td></td><td><a href="introduction-to-the-photo-series.md">introduction-to-the-photo-series.md</a></td></tr></tbody></table>
 
 
 
