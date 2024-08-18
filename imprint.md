@@ -32,9 +32,7 @@ _Initial Publication: 2024-July-21_
 
 _Recent Changes:_ [_Summer 2024_](https://github.com/awalkaday/about-awalkaday-art/commits/book/)
 
-{% hint style="success" %}
-[.](./ "mention")
-{% endhint %}
+<table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a data-mention href="./">.</a></td><td></td><td><a href="imprint.md">imprint.md</a></td></tr></tbody></table>
 
 ***
 
