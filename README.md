@@ -17,15 +17,17 @@ layout:
 
 ## About: awalkaday.art Photo Collection
 
-### [Author's Note](authors-note.md)
 
-### [Reading Guide](reading-guide.md)
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td></td><td><a href="authors-note.md">authors-note.md</a></td><td></td></tr><tr><td></td><td><a href="reading-guide.md">reading-guide.md</a></td><td></td></tr></tbody></table>
+
+
 
 ***
 
 ### Summary
 
-This artist's book narrates the story of the creation of [awalkaday.art](https://awalkaday.art) and is bound with the `git`-powered digital logs of the photo series.
+This artist's book narrates the story of the creation of [awalkaday.art](https://awalkaday.art) and is bound with the `GIT`-powered digital logs of the photo series.
 
 It is an online book of writings adapted from [about.awalkaday.art](https://about.awalkaday.art/) with the addition of other media (photo, code, social media posts) that illustrate and trace the history of the photo collection across a range of public platforms.
 
@@ -47,11 +49,13 @@ This book is supported by [GitBook](https://www.gitbook.com/) as an open source 
 awalkaday 251-2022
 {% endembed %}
 
+
+
 ***
 
-### Licenses
 
-#### © Author & Publisher: [Chris-Armel (daqhris)](https://daqhris.com)
+
+© Author & Publisher: [Chris-Armel (daqhris)](https://daqhris.com)
 
 _Initial Publication: 2024-July-21_
 
@@ -65,8 +69,9 @@ _Recent Changes:_ [_Summer 2024_](https://github.com/awalkaday/about-awalkaday-a
 [imprint.md](imprint.md "mention")
 {% endhint %}
 
-<div align="left">
+<div align="center">
 
-<figure><img src=".gitbook/assets/awalkaday-logo-1x1.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/awalkaday-logo-1x1.png" alt="awalkaday.art logo" width="188"><figcaption></figcaption></figure>
 
 </div>
+
