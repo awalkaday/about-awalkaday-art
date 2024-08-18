@@ -26,7 +26,11 @@ SOURCE CODE: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 ### Copyrights&#x20;
 
-© 2024 Chris-Armel (daqhris)
+**Author & Publisher: Chris-Armel (daqhris)**
+
+_Initial Publication: 2024-July-21_
+
+_Recent Changes:_ [_Summer 2024_](https://github.com/awalkaday/about-awalkaday-art/commits/book/)
 
 {% hint style="success" %}
 [.](./ "mention")
@@ -51,10 +55,6 @@ awalkaday 91-2022
 ***
 
 ### Acknowledgments
-
-#### Friends
-
-Many thanks to Ant H., Adva Z., Britt H., Peter K. and Suleiman A.
 
 #### Book Publication
 

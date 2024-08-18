@@ -41,6 +41,8 @@ This book is supported by [GitBook](https://www.gitbook.com/) as an open source 
 
 ### PAGE ONE&#x20;
 
+
+
 {% content-ref url="introduction-to-the-photo-series.md" %}
 [introduction-to-the-photo-series.md](introduction-to-the-photo-series.md)
 {% endcontent-ref %}
@@ -57,15 +59,11 @@ awalkaday 251-2022
 
 
 
-#### © Author & Publisher: [Chris-Armel (daqhris)](https://daqhris.com)
+© 2024 [Chris-Armel (daqhris)](https://daqhris.com)
 
-_Initial Publication: 2024-July-21_
+📖 [book.awalkaday.art](https://book.awalkaday.art)
 
-_Recent Changes:_ [_Summer 2024_](https://github.com/awalkaday/about-awalkaday-art/commits/book/)
-
-#### 📖 Online Book: [book.awalkaday.art](https://book.awalkaday.art) <a href="#online-book" id="online-book"></a>
-
-🛠 Source Code: [github.com/awalkaday/about-awalkaday-art/tree/book](https://github.com/awalkaday/about-awalkaday-art/tree/book)
+🛠 [github.com/awalkaday/about-awalkaday-art/tree/book](https://github.com/awalkaday/about-awalkaday-art/tree/book)
 
 {% hint style="info" %}
 [imprint.md](imprint.md "mention")
