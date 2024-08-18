@@ -47,15 +47,15 @@ awalkaday 251-2022
 
 
 
-{% hint style="info" %}
-[imprint.md](imprint.md "mention")
-{% endhint %}
+### 📖 [book.awalkaday.art](https://book.awalkaday.art)
 
-📖 [book.awalkaday.art](https://book.awalkaday.art)
+#### 🛠 [github.com/awalkaday/about-awalkaday-art/tree/book](https://github.com/awalkaday/about-awalkaday-art/tree/book)
 
-🛠 [github.com/awalkaday/about-awalkaday-art/tree/book](https://github.com/awalkaday/about-awalkaday-art/tree/book)
 
-<div align="center">
+
+<table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a data-mention href="imprint.md">imprint.md</a></td><td></td><td><a href="imprint.md">imprint.md</a></td></tr></tbody></table>
+
+<div align="right">
 
 <figure><img src=".gitbook/assets/awalkaday-logo-1x1.png" alt="awalkaday.art logo" width="188"><figcaption></figcaption></figure>
 
