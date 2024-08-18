@@ -36,11 +36,17 @@ SOURCE CODE: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 ### Online Photo Store
 
+
+
 {% embed url="https://collect.awalkaday.art" %}
 
-{% embed url="https://arweave.net/ul_z5BwyOpGIBtJhtLJjxJJNcBGEYaZcd7wI0FwDh_E" fullWidth="true" %}
+
+
+{% embed url="https://xjp7hza4gi5jdcag2jq3jmtdysje24arqrq2mxdxxqenaxadq7yq.arweave.net/ul_z5BwyOpGIBtJhtLJjxJJNcBGEYaZcd7wI0FwDh_E" %}
 awalkaday 91-2022
 {% endembed %}
+
+
 
 ***
 
@@ -48,7 +54,7 @@ awalkaday 91-2022
 
 #### Friends
 
-Many thanks to Ant H., Adva Z., Britt H.,  Peter K. and Suleiman A.
+Many thanks to Ant H., Adva Z., Britt H., Peter K. and Suleiman A.
 
 #### Book Publication
 
@@ -73,3 +79,4 @@ Many thanks to Ant H., Adva Z., Britt H.,  Peter K. and Suleiman A.
 <figure><img src=".gitbook/assets/ethereum-logo-color.png" alt="" width="188"><figcaption><p><a href="https://zora.co/collect/eth:0xe31801c2e58b151c3ded2cb29da56147b7f27eb1">Photo series minted on Ethereum</a></p></figcaption></figure>
 
 </div>
+

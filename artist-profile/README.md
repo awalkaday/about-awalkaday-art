@@ -32,7 +32,7 @@ layout:
 
 
 
-{% embed url="https://arweave.net/GgJqeSHBSV_CxnwN6UE8-85c0ovtgJLQUIFVW9l7Q3g" fullWidth="true" %}
+{% embed url="https://dibgu6jbyfev7qwgpqg6sqj47phfzuul5wajfucqqfkvxwl3in4a.arweave.net/GgJqeSHBSV_CxnwN6UE8-85c0ovtgJLQUIFVW9l7Q3g" %}
 awalkaday 8-2018
 {% endembed %}
 

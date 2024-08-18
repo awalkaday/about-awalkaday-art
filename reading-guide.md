@@ -45,11 +45,9 @@ layout:
 * [IMPRINT](imprint.md)
 * [APPENDIX](appendix.md)
 
-***
 
 
-
-{% embed url="https://arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" fullWidth="true" %}
+{% embed url="https://7n5x6ki3xr2zlkzlhcpukbprymt3dhxl2kju2haif2y3xqajshpa.arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" %}
 awalkaday 129-2022
 {% endembed %}
 
