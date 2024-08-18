@@ -26,7 +26,7 @@ SOURCE CODE: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 ### Copyrights&#x20;
 
-**Author & Publisher:** Chris-Armel (daqhris)
+Author & Publisher: © 2024 [Chris-Armel (daqhris)](https://daqhris.com)
 
 _Initial Publication: 2024-July-21_
 
