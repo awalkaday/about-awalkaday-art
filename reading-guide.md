@@ -1,5 +1,5 @@
 ---
-description: A list of chapters and subchapters in this artist's book
+description: A list of the chapters and subchapters in this artist's book
 layout:
   title:
     visible: true

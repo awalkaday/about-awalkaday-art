@@ -27,7 +27,7 @@ layout:
 
 This artist book tells the story of the creation of [awalkaday.art](https://awalkaday.art) from 2017 to 2024, and its pages are bound by the `git`-based digital logs of the photo series.
 
-It is an online book of writings adapted from [about.awalkaday.art](https://about.awalkaday.art/) with the addition of other media (photo, code, social media posts) that illustrate and trace the history of the photo collection across a range of public platforms.
+It is a book of writings adapted from [about.awalkaday.art](https://about.awalkaday.art/) with the addition of other media sources such as photographs, lines of computer code, social media posts, and blockchain tokens that illustrate and trace the history of the photo collection across multiple online public platforms.
 
 This book is supported by [GitBook](https://www.gitbook.com/) as an open source project under a community plan.
 
