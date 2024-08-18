@@ -48,7 +48,7 @@ layout:
 
 The photograph on the [cover of this book](./), _awalkaday 251-2022_, was taken and published prior to the installation of a sculpture on the same site inside a public park in Namur (Wallonia, Belgium). &#x20;
 
-<figure><img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="" width="375"><figcaption><p><em>awalkaday 251-2022</em></p></figcaption></figure>
+<figure><img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="" width="188"><figcaption><p><em>awalkaday 251-2022</em></p></figcaption></figure>
 
 The black-and-white photo captured a fleeting moment in time before the old sculpture was moved to its current and permanent location. It immortalized a romantic outdoor scene : a lovely couple sitting on the grass in the shade of a glowing tree.&#x20;
 
