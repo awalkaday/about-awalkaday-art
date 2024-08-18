@@ -25,7 +25,7 @@ layout:
 
 ***
 
-### Summary
+### SUMMARY
 
 This artist's book narrates the story of the creation of [awalkaday.art](https://awalkaday.art) and is bound with the `GIT`-powered digital logs of the photo series.
 
@@ -35,9 +35,11 @@ This book is supported by [GitBook](https://www.gitbook.com/) as an open source 
 
 `25 Pages`—`English`—`Black & White Digital Photography`
 
+
+
 ***
 
-### Page One&#x20;
+### PAGE ONE&#x20;
 
 {% content-ref url="introduction-to-the-photo-series.md" %}
 [introduction-to-the-photo-series.md](introduction-to-the-photo-series.md)
@@ -45,7 +47,7 @@ This book is supported by [GitBook](https://www.gitbook.com/) as an open source 
 
 
 
-{% embed url="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" fullWidth="true" %}
+{% embed url="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" %}
 awalkaday 251-2022
 {% endembed %}
 
@@ -55,13 +57,13 @@ awalkaday 251-2022
 
 
 
-© Author & Publisher: [Chris-Armel (daqhris)](https://daqhris.com)
+#### © Author & Publisher: [Chris-Armel (daqhris)](https://daqhris.com)
 
 _Initial Publication: 2024-July-21_
 
 _Recent Changes:_ [_Summer 2024_](https://github.com/awalkaday/about-awalkaday-art/commits/book/)
 
-#### 📖 Online Book: [book.awalkaday.art](https://book.awalkaday.art)
+#### 📖 Online Book: [book.awalkaday.art](https://book.awalkaday.art) <a href="#online-book" id="online-book"></a>
 
 🛠 Source Code: [github.com/awalkaday/about-awalkaday-art/tree/book](https://github.com/awalkaday/about-awalkaday-art/tree/book)
 
