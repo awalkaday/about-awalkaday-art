@@ -23,8 +23,6 @@ layout:
 
 
 
-***
-
 ### SUMMARY
 
 This artist's book narrates the story of the creation of [awalkaday.art](https://awalkaday.art) and is bound with the `GIT`-powered digital logs of the photo series.
@@ -36,8 +34,6 @@ This book is supported by [GitBook](https://www.gitbook.com/) as an open source 
 `25 Pages`—`English`—`Black & White Digital Photography`
 
 
-
-***
 
 ### PAGE ONE&#x20;
 
