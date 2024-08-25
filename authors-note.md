@@ -31,7 +31,7 @@ _The first coding blocks of the project appeared online in_ [_November 2017_](ht
 
 {% embed url="https://github.com/daqhris/daqhris.github.io/blob/80a18e2a08c1413ea8b4a26d1a86129624b8809f/a-walk_a-day.html#L1-L40" %}
 
-{% code title=""A Walk, A Day" art project: First code lines for the creation of a FAQ file" overflow="wrap" lineNumbers="true" %}
+{% code title=""A Walk, A Day" art project: First lines of code used to create a FAQ page on daqhris.com" overflow="wrap" lineNumbers="true" %}
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -71,8 +71,8 @@ _The first coding blocks of the project appeared online in_ [_November 2017_](ht
 <br>The person behind the #awalkaday art movement is Chris-Armel (@daqhris).
 <br>He was born in Burundi and have previously traveled to Eastern Asia, Middle East and North Africa.
 </p>
-</html>
 </body>
+</html>
 ```
 {% endcode %}
 
