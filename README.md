@@ -15,7 +15,7 @@ layout:
 
 # BOOK
 
-## The _awalkaday.art_ Chronicles of Belgian Pixels and Binary Footsteps
+## A Chronicle of Belgian Pixels and Binary Footprints
 
 
 
