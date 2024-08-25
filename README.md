@@ -15,7 +15,7 @@ layout:
 
 # BOOK
 
-## _awalkaday.art_ — A Digital Photo Odyssey
+## _awalkaday.art_ — A Seven-Year Digital Photo Odyssey
 
 
 
