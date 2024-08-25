@@ -27,7 +27,7 @@ layout:
 
 This innovative artist's book chronicles the evolution of [awalkaday.art](https://awalkaday.art) from 2017 to 2024. Its pages are uniquely bound by the `git`-based digital footprints of the photo series, creating a narrative that's as much about the medium as the message.&#x20;
 
-Featuring third-person narrative texts, the online book interweaves various digital media including photographs, lines of computer code, social media posts, and blockchain tokens. These elements collectively illustrate and trace the history of the photo collection across a range of online public platforms.
+Featuring third-person narrative text, the online book weaves together various digital media including photographs, lines of computer code, social media posts, and blockchain tokens. Together, these elements illustrate and trace the history of the photo collection across a range of public online platforms.
 
 This book is supported by [GitBook](https://www.gitbook.com/) as an open source project under a community plan.
 
