@@ -15,7 +15,9 @@ layout:
 
 # BOOK
 
-## A Chronicle of Belgian Pixels and Binary Footprints
+## Commit _awalkaday.art_ to Memory &#x20;
+
+### A chronicle of Belgian-made pixels and the binary footprints of a walker
 
 
 
