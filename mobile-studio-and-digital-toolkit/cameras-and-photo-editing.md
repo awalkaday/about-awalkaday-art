@@ -34,7 +34,7 @@ awalkaday 73-2022
 
 
 
-The [Nokia](https://www.hmd.com/en\_int/nokia-2-3)'s longevity and endurance have earned it the merit of being compared to a cheap handheld [Air Force One](https://en.m.wikipedia.org/wiki/Air\_Force\_One\_\(disambiguation\)) in the hands of a moving target of celestial attention and protection. In a stunning turn of events, all of the devices cryptographically signed as his on a [cyberspace board](https://keybase.io/daqhris/devices) in the summer of 2022 were hit by a cyber attack, the following season, deniably sponsored by a nation-state, resulting in the Android One proving its resilience against malefic interference, and indicating the cut-off date of the photographing process.
+The [Nokia](https://www.hmd.com/en\_int/nokia-2-3)'s longevity and endurance have earned it the merit of being compared to a cheap handheld [Air Force One](https://en.m.wikipedia.org/wiki/Air\_Force\_One\_\(disambiguation\)) in the hands of a moving target of celestial attention and protection. In a stunning turn of events, all of the devices cryptographically signed as his on a [cyberspace board](https://keybase.io/daqhris/devices) in the summer of 2022 were hit by a cyber attack in the following season, deniably sponsored by a nation-state, resulting in the Android One proving its resilience against malefic interference, and indicating the cut-off date of the photographing process.
 
 
 
@@ -44,7 +44,7 @@ awalkaday 253-2022
 
 
 
-Most of the photographs were edited using Android software applications, such as [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed), [White Border](https://play.google.com/store/apps/details?id=com.vector123.whiteborder), and [Scrambled Exif](https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif). Overall, the cameras had basic features to balance highlights and shadows in photographs, produce decent detail in well-lit conditions, and assist with scene recognition and optimization, but these were limited by the mediocre sensors.
+Most of the photographs were edited using Android software applications, such as [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed), [White Border](https://play.google.com/store/apps/details?id=com.vector123.whiteborder), and [Scrambled Exif](https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif). Overall, the two cameras had basic features to balance highlights and shadows in photographs, produce decent detail in well-lit conditions, and assist with scene recognition and optimization, but these were limited by the mediocre sensors.
 
 
 
