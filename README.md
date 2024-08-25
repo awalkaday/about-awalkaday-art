@@ -29,13 +29,13 @@ A chronicle of Belgian-made pixels and the binary footprints of a wanderer.
 
 ### SUMMARY
 
-This innovative artist's book chronicles the evolution of [awalkaday.art](https://awalkaday.art) from 2017 to 2024. Its pages are uniquely bound by the `git`-based digital footprints of the photo series, creating a narrative that's as much about the medium as the message.&#x20;
+This artist's book chronicles the evolution of [awalkaday.art](https://awalkaday.art) from 2017 to 2024. Its pages are uniquely bound by the `git`-based digital footprints of the photo series, creating a narrative that's as much about the medium as the message.&#x20;
 
-Featuring third-person narrative text, the online book weaves together various digital media including photographs, lines of computer code, social media posts, and blockchain tokens. Together, these elements illustrate and trace the history of the photo collection across a range of public online platforms.
+Featuring third-person narrative text, the online book weaves together various digital media including photographs, lines of computer code, social media posts, and blockchain tokens. Together, these elements illustrate and trace the history of the photo collection across a range of public online platforms.&#x20;
 
-This book is supported by [GitBook](https://www.gitbook.com/) as an open source project under a community plan.
+This book is a companion piece to a collection of 263 photographs taken during long walks in Belgium, Europe. It is supported by [GitBook](https://www.gitbook.com/) as an open source project under a community plan.
 
-`25 Pages`—`ENGLISH`—`Black & White Digital Photography`
+#### `25 Pages`—`ENGLISH`—`Black & White Digital Photography`
 
 
 
@@ -61,7 +61,7 @@ awalkaday 251-2022
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/awalkaday-logo-1x1.png" alt="awalkaday.art logo" width="188"><figcaption><p>"walking human first, cityscape second"</p></figcaption></figure>
+<figure><img src=".gitbook/assets/awalkaday-logo-1x1.png" alt="awalkaday.art logo" width="188"><figcaption><p>"walking human first, sunny cityscape second"</p></figcaption></figure>
 
 </div>
 
