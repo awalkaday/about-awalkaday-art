@@ -15,9 +15,11 @@ layout:
 
 # BOOK
 
-## Commit _awalkaday.art_ to Memory &#x20;
+## Commit `awalkaday.art` to Memory
 
-### A chronicle of Belgian-made pixels and the binary footprints of a walker
+{% hint style="info" %}
+#### A chronicle of Belgian-made pixels and the binary footprints of a walker
+{% endhint %}
 
 
 
