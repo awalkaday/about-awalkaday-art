@@ -1,5 +1,5 @@
 ---
-description: An online artist's book about a seven-year digital photo odyssey
+description: An artist's book about a 7-year digital photo odyssey
 layout:
   title:
     visible: true
