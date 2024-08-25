@@ -57,7 +57,10 @@ awalkaday 251-2022
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/awalkaday-logo-1x1.png" alt="awalkaday.art logo" width="188"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/awalkaday-logo-1x1.png" alt="awalkaday.art logo" width="188"><figcaption><p>awalkaday.art logo</p></figcaption></figure>
 
 </div>
 
+
+
+#### `COVER`

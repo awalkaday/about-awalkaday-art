@@ -39,3 +39,6 @@ _A visual chart showing additions and deletions to this public project, on a wee
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency" %}
 
+
+
+#### `FRONT-1`
