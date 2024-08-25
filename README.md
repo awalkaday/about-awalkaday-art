@@ -53,7 +53,7 @@ awalkaday 251-2022
 
 
 
-<table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a data-mention href="imprint.md">imprint.md</a></td><td></td><td><a href="imprint.md">imprint.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a data-mention href="imprint.md">imprint.md</a></td><td></td><td><a href="imprint.md">imprint.md</a></td></tr><tr><td></td><td><a data-mention href="appendix.md">appendix.md</a></td><td></td><td><a href="appendix.md">appendix.md</a></td></tr></tbody></table>
 
 <div align="center">
 
