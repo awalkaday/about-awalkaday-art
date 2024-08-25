@@ -29,7 +29,7 @@ _The first coding blocks of the project appeared online in_ [_November 2017_](ht
 
 {% embed url="https://github.com/daqhris/daqhris.github.io/blob/80a18e2a08c1413ea8b4a26d1a86129624b8809f/a-walk_a-day.html#L1-L40" %}
 
-_This book is adapted from_ [_about.awalkaday.art_](https://about.awalkaday.art) _which has been a work-in-progress since_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4)_. The original code repository became the focus of my geeky attention and camera lenses soon after wrapping up my web coding classes at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._
+_This book features texts adapted from_ [_about.awalkaday.art_](https://about.awalkaday.art) _which has been a work-in-progress since_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4)_. The original code repository became the focus of my geeky attention and camera lenses soon after wrapping up my web coding classes at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4" %}
 

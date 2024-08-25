@@ -1,5 +1,5 @@
 ---
-description: An online artist's book about awalkaday.art
+description: An online artist's book about a seven-year digital photo odyssey
 layout:
   title:
     visible: true
@@ -15,7 +15,7 @@ layout:
 
 # BOOK
 
-## _awalkaday.art_ — A Seven-Year Digital Photo Odyssey
+## Binary Footsteps: The _awalkaday.art_ Chronicles
 
 
 
@@ -27,7 +27,7 @@ layout:
 
 This innovative artist's book chronicles the evolution of [awalkaday.art](https://awalkaday.art) from 2017 to 2024. Its pages are uniquely bound by the `git`-based digital footprints of the photo series, creating a narrative that's as much about the medium as the message.&#x20;
 
-Featuring third-person narrative texts adapted from the original [about.awalkaday.art](https://about.awalkaday.art), the online book interweaves various digital media including photographs, lines of computer code, social media posts, and blockchain tokens. These elements collectively illustrate and trace the history of the photo collection across a range of online public platforms.
+Featuring third-person narrative texts, the online book interweaves various digital media including photographs, lines of computer code, social media posts, and blockchain tokens. These elements collectively illustrate and trace the history of the photo collection across a range of online public platforms.
 
 This book is supported by [GitBook](https://www.gitbook.com/) as an open source project under a community plan.
 
