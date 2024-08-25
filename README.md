@@ -18,7 +18,7 @@ layout:
 ## Commit `awalkaday.art` to Memory
 
 {% hint style="info" %}
-#### A chronicle of Belgian-made pixels and the binary footprints of a walker
+A chronicle of Belgian-made pixels and the binary footprints of a wanderer.
 {% endhint %}
 
 
@@ -61,7 +61,7 @@ awalkaday 251-2022
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/awalkaday-logo-1x1.png" alt="awalkaday.art logo" width="188"><figcaption><p>awalkaday.art logo</p></figcaption></figure>
+<figure><img src=".gitbook/assets/awalkaday-logo-1x1.png" alt="awalkaday.art logo" width="188"><figcaption><p>"walking human first, cityscape second"</p></figcaption></figure>
 
 </div>
 
