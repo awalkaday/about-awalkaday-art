@@ -30,7 +30,7 @@ Author & Publisher: [Chris-Armel Iradukunda (daqhris)](https://daqhris.com)
 
 _Initial publication: July 2024_ — _Recent changes:_ [_Sept 2024_](https://github.com/awalkaday/about-awalkaday-art/commits/book/)
 
-_Online book open-sourced by `daqhris` (assisted by `gitbook-bot)`_
+_Online book open-sourced by `daqhris`, assisted by `gitbook-bot`_
 
 <table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a data-mention href="./">.</a></td><td></td><td><a href="imprint.md">imprint.md</a></td></tr></tbody></table>
 
