@@ -19,18 +19,18 @@ layout:
 awalkaday.art™ • Handbuilt with 🤍 • Made in 🇧🇪\
 _An Undocumented Product of Afro-Surrealism_
 
-PHOTOS & TEXTS: [CC Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
-SOURCE CODE: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt)
+Photos & Texts: [CC Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
+Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt)
 
 ***
 
 ### Copyrights&#x20;
 
-Author & Publisher: © 2024 [Chris-Armel (daqhris)](https://daqhris.com)
+Author & Publisher: [Chris-Armel Iradukunda (daqhris)](https://daqhris.com)
 
-_Initial Publication: 2024-July-21_
+_Initial publication: July 2024_ — _Recent changes:_ [_Sept 2024_](https://github.com/awalkaday/about-awalkaday-art/commits/book/)
 
-_Recent Changes:_ [_Summer 2024_](https://github.com/awalkaday/about-awalkaday-art/commits/book/)
+_Online book open-sourced by `daqhris` (assisted by `gitbook-bot)`_
 
 <table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a data-mention href="./">.</a></td><td></td><td><a href="imprint.md">imprint.md</a></td></tr></tbody></table>
 
