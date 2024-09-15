@@ -56,6 +56,10 @@ awalkaday 91-2022
 
 ### Acknowledgments
 
+#### Artist's Friends
+
+A token of gratitude goes to **Ant** H., **Adva** Z., **Peter** K. and **Suleiman** Z.&#x20;
+
 #### Book Publication
 
 <div align="left">
