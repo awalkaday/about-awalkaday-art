@@ -72,7 +72,7 @@ A token of gratitude goes to **Ant** H., **Adva** Z., **Peter** K. and **Suleima
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/Dot_Art_logo.png" alt="" width="188"><figcaption><p><a href="https://x.com/Art_Domains/status/1755917791658418315">Praised online by .ART domains</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/Dot_Art_logo.png" alt="https://art.art/" width="188"><figcaption><p><a href="https://x.com/Art_Domains/status/1755917791658418315">Praised online by .ART domains</a></p></figcaption></figure>
 
 </div>
 
@@ -80,7 +80,7 @@ A token of gratitude goes to **Ant** H., **Adva** Z., **Peter** K. and **Suleima
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/ethereum-logo-color.png" alt="" width="188"><figcaption><p><a href="https://zora.co/collect/eth:0xe31801c2e58b151c3ded2cb29da56147b7f27eb1">Photo series minted on Ethereum</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/ethereum-logo-color.png" alt="https://ethereum.org/en/" width="188"><figcaption><p><a href="https://zora.co/collect/eth:0xe31801c2e58b151c3ded2cb29da56147b7f27eb1">Photo series minted on Ethereum</a></p></figcaption></figure>
 
 </div>
 
@@ -88,13 +88,21 @@ A token of gratitude goes to **Ant** H., **Adva** Z., **Peter** K. and **Suleima
 
 <div align="left">
 
-<figure><img src="https://muntpunt.be/themes/custom/ocelot_muntpunt/assets/images/logo.svg" alt="" width="188"><figcaption><p><a href="https://x.com/search?q=from%3A%40awalkadayart+muntpunt&#x26;t=c0hdmw8z3Sk8WBtAwMj-DQ">Inspired by books from Muntpunt</a></p></figcaption></figure>
+<figure><img src="https://muntpunt.be/themes/custom/ocelot_muntpunt/assets/images/logo.svg" alt="https://muntpunt.be/" width="188"><figcaption><p><a href="https://x.com/search?q=from%3A%40awalkadayart+muntpunt&#x26;t=c0hdmw8z3Sk8WBtAwMj-DQ">Inspired by books from Muntpunt</a></p></figcaption></figure>
 
 </div>
 
 <div align="left">
 
 <figure><img src="https://456r5hpaktnuia4rvgd23ue2gnci6iy5cshax7565emfz3wj4eua.arweave.net/530eneBU20QDkamHrdCaM0SPIx0Ujgv_vukYXO7J4Sg" alt="" width="188"><figcaption><p><em>awalkaday 105-2022</em> at <a href="https://muntpunt.be/over-muntpunt">Muntpunt</a></p></figcaption></figure>
+
+</div>
+
+#### Storytelling Training
+
+<div align="left">
+
+<figure><img src="https://soundimageculture.org/wp-content/uploads/2023/05/sic_logo_white_circle_text_vec.svg" alt="https://soundimageculture.org/" width="188"><figcaption><p><a href="https://soundimageculture.org/laboratory/">SIC collective sessions</a>: 3x Observer ('23-'24)</p></figcaption></figure>
 
 </div>
 
