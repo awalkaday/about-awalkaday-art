@@ -84,6 +84,20 @@ A token of gratitude goes to **Ant** H., **Adva** Z., **Peter** K. and **Suleima
 
 </div>
 
+#### Brussels Public Library
+
+<div align="left">
+
+<figure><img src="https://muntpunt.be/themes/custom/ocelot_muntpunt/assets/images/logo.svg" alt="" width="188"><figcaption><p><a href="https://x.com/search?q=from%3A%40awalkadayart+muntpunt&#x26;t=c0hdmw8z3Sk8WBtAwMj-DQ">Inspired by books from Muntpunt</a></p></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="https://456r5hpaktnuia4rvgd23ue2gnci6iy5cshax7565emfz3wj4eua.arweave.net/530eneBU20QDkamHrdCaM0SPIx0Ujgv_vukYXO7J4Sg" alt="" width="188"><figcaption><p><em>awalkaday 105-2022</em> at <a href="https://muntpunt.be/over-muntpunt">Muntpunt</a></p></figcaption></figure>
+
+</div>
+
 
 
 #### `BACK-1`
