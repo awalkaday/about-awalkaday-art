@@ -26,15 +26,19 @@ Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 ### Copyrights&#x20;
 
-Author & Publisher: [Chris-Armel Iradukunda (daqhris)](https://daqhris.com)
+Author & Publisher: © 2024 [Chris-Armel Iradukunda (daqhris)](https://daqhris.com)
 
 _Initial publication: July 2024_ — _Recent changes:_ [_Sept 2024_](https://github.com/awalkaday/about-awalkaday-art/commits/book/)
 
-_Online book open-sourced by `daqhris`, assisted by `gitbook-bot`_
+_Online book open-sourced by `daqhris`(assisted by `gitbook-bot`)_
 
 <table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a data-mention href="./">.</a></td><td></td><td><a href="imprint.md">imprint.md</a></td></tr></tbody></table>
 
+{% hint style="warning" %}
+There is no print, e-book or tokenised version available yet. No part of this online book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any other information storage and retrieval system, for commercial purposes, without the prior permission and consent in writing of the publisher.
 
+If you remix, transform or build upon the material, you may not distribute the modified material. You must give appropriate credit to the author, provide copies of the CC BY-NC-ND 4.0 and EUPL-1.2 licences, and indicate whether any modifications have been made. You are free to share, copy, download and redistribute the material in its original medium or format.
+{% endhint %}
 
 ***
 
