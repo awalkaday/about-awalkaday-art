@@ -24,7 +24,7 @@ Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 ***
 
-### Copyrights&#x20;
+### Copyrights
 
 Author & Publisher: © 2024 [Chris-Armel Iradukunda (daqhris)](https://daqhris.com)
 
@@ -35,26 +35,22 @@ _Online book open-sourced by `daqhris`(assisted by `gitbook-bot`)_
 <table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a data-mention href="./">.</a></td><td></td><td><a href="imprint.md">imprint.md</a></td></tr></tbody></table>
 
 {% hint style="warning" %}
-There is no print, e-book or tokenised version available yet. No part of this online book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any other information storage and retrieval system, for commercial purposes, without the prior permission and consent in writing of the publisher.
+There is no print, e-book or tokenized version available yet. No part of this online book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any other information storage and retrieval system, for commercial purposes, without the prior permission and consent in writing of the publisher.
 
-If you remix, transform or build upon the material, you may not distribute the modified material. You must give appropriate credit to the author, provide copies of the CC BY-NC-ND 4.0 and EUPL-1.2 licences, and indicate whether any modifications have been made. You are free to share, copy, download and redistribute the material in its original medium or format.
+If you remix, transform or build upon the material, you may not distribute the modified material. You must give appropriate credit to the author, provide copies of the CC BY-NC-ND 4.0 and EUPL-1.2 licenses, and indicate whether any modifications have been made. You are free to share, copy, download and redistribute the material in its original medium or format.
+
+Legal rights shall be governed by Belgian law, as the Licensor has no affiliation with another Member State of the European Union. The "right of the soil" _(jus soli)_ applies to this book, without prejudice to [#public-licensing](imprint.md#public-licensing "mention"). The moral right of the author has been asserted.
 {% endhint %}
 
 ***
 
 ### Online Photo Store
 
-
-
 {% embed url="https://collect.awalkaday.art" %}
-
-
 
 {% embed url="https://xjp7hza4gi5jdcag2jq3jmtdysje24arqrq2mxdxxqenaxadq7yq.arweave.net/ul_z5BwyOpGIBtJhtLJjxJJNcBGEYaZcd7wI0FwDh_E" %}
 awalkaday 91-2022
 {% endembed %}
-
-
 
 ***
 
@@ -62,7 +58,7 @@ awalkaday 91-2022
 
 #### Artist's Friends
 
-A token of gratitude goes to **Ant** H., **Adva** Z., **Peter** K. and **Suleiman** Z.&#x20;
+A token of gratitude goes to **Ant** H., **Adva** Z., **Peter** K. and **Suleiman** Z.
 
 #### Book Publication
 
@@ -106,10 +102,8 @@ A token of gratitude goes to **Ant** H., **Adva** Z., **Peter** K. and **Suleima
 
 <div align="left">
 
-<figure><img src="https://soundimageculture.org/wp-content/uploads/2023/05/sic_logo_white_circle_text_vec.svg" alt="https://soundimageculture.org/" width="188"><figcaption><p> Observer of <a href="https://soundimageculture.org/laboratory/#sic-regular-text-block_cd5d0fa1e38b295170f402ac3a73b7d6">Collective Feedback Sessions</a> ('23-'24)</p></figcaption></figure>
+<figure><img src="https://soundimageculture.org/wp-content/uploads/2023/05/sic_logo_white_circle_text_vec.svg" alt="https://soundimageculture.org/" width="188"><figcaption><p>Observer of <a href="https://soundimageculture.org/laboratory/#sic-regular-text-block_cd5d0fa1e38b295170f402ac3a73b7d6">Collective Feedback Sessions</a> ('23-'24)</p></figcaption></figure>
 
 </div>
-
-
 
 #### `BACK-1`
