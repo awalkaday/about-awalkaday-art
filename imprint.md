@@ -17,7 +17,7 @@ layout:
 ### Public Licensing
 
 awalkaday.art™ • Handbuilt with 🤍 • Made in 🇧🇪\
-_An Undocumented Product of Afro-Surrealism_
+_An Undocumented Artistic Product of Afro-Surrealism_
 
 Photos & Texts: [CC Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
 Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt)
@@ -28,7 +28,7 @@ Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 Author & Publisher: © 2024 [Chris-Armel Iradukunda (daqhris)](https://daqhris.com)
 
-_Initial publication: July 2024_ — _Recent changes:_ [_Sept 2024_](https://github.com/awalkaday/about-awalkaday-art/commits/book/)
+_Initial publication: July 2024_ — _Recent changes:_ [_Oct 2024_](https://github.com/awalkaday/about-awalkaday-art/commits/book/)
 
 _Online book open-sourced by `daqhris`(assisted by `gitbook-bot`)_
 
