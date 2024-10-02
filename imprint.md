@@ -56,9 +56,9 @@ awalkaday 91-2022
 
 ### Acknowledgments
 
-#### Artist's Friends
+#### Caregiving Friends
 
-A token of gratitude goes to **Ant** H., **Adva** Z., **Peter** K. and **Suleiman** Z.
+A token of gratitude goes to Ant H., Adva Z., Anna R., Christine C., Christophe M., Peter K. and Suleiman Z.
 
 #### Book Publication
 
@@ -102,7 +102,7 @@ A token of gratitude goes to **Ant** H., **Adva** Z., **Peter** K. and **Suleima
 
 <div align="left">
 
-<figure><img src="https://soundimageculture.org/wp-content/uploads/2023/05/sic_logo_white_circle_text_vec.svg" alt="https://soundimageculture.org/" width="188"><figcaption><p>Observer of <a href="https://soundimageculture.org/laboratory/#sic-regular-text-block_cd5d0fa1e38b295170f402ac3a73b7d6">Collective Feedback Sessions</a> ('23-'24)</p></figcaption></figure>
+<figure><img src="https://soundimageculture.org/wp-content/uploads/2023/05/sic_logo_white_circle_text_vec.svg" alt="https://soundimageculture.org/" width="188"><figcaption><p>Observer of <a href="https://soundimageculture.org/laboratory/#sic-regular-text-block_cd5d0fa1e38b295170f402ac3a73b7d6">SIC Collective Sessions</a> ('23-'24)</p></figcaption></figure>
 
 </div>
 
