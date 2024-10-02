@@ -39,7 +39,7 @@ There is no print, e-book or tokenized version available yet. No part of this on
 
 If you remix, transform or build upon the material, you may not distribute the modified material. You must give appropriate credit to the author, provide copies of the CC BY-NC-ND 4.0 and EUPL-1.2 licenses, and indicate whether any modifications have been made. You are free to share, copy, download and redistribute the material in its original medium or format.
 
-Legal rights shall be governed by [Belgian law](https://www.wipo.int/wipolex/en/text/125254), as the Licensor has no affiliation with another Member State of the European Union. The "right of the soil" _(jus soli)_ applies to this book, without prejudice to [#public-licensing](imprint.md#public-licensing "mention"). The moral right of the author has been asserted.
+Its legal rights shall be governed by [Belgian law](https://www.wipo.int/wipolex/en/text/125254), as the licensor has no affiliation with another Member State of the European Union. The 'right of the soil' _(_in latin, _jus soli)_ applies to this book, without prejudice to the ethical virtues of [#public-licensing](imprint.md#public-licensing "mention"). The moral right of the author has been asserted.
 {% endhint %}
 
 ***
