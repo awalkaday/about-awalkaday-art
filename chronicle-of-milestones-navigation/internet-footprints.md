@@ -31,7 +31,7 @@ The Internet domain _awalkaday.art_ was officially registered in [May 2021](http
 One year later, a meaningful milestone was reached when selected photographs graced the virtual walls of the [MONOLITH Gallery](https://monolith.gallery/archives) inside Sellen Hall in [July 2022](https://monolith.gallery/hall/sellen/g56L1RdA9DXtqQR3aALG).
 
 {% embed url="https://www.instagram.com/p/CidZs2BDRMz/" %}
-The final photo in the series, posted on Instagram in Sept 2022, which was later preserved on a blockchain in Feb 2023.
+The final photo in the series, posted on Instagram in Sept 2022, which was later preserved on a blockchain.
 {% endembed %}
 
 Since [September 2023](https://x.com/awalkadayart/status/1703776310252736941?s=20), the [smart contract](https://etherscan.io/address/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1) and the [contract deployer](https://etherscan.io/address/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82) are labeled by [Etherscan](https://etherscan.io/).
