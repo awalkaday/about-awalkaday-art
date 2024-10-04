@@ -70,7 +70,7 @@ _The project's code building blocks first appeared online in_ [_November 2017_](
 ```
 {% endcode %}
 
-_This book features adapted texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) _which has been a work-in-progress since_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4)_. The original code repository became the focus of my geeky attention and camera lenses soon after I received a design certification from the web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._
+_This book features adapted texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) _which has been a work-in-progress since_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4)_. The `about-awalkaday-art` code repository became the focus of my geeky attention and camera lenses soon after I received a design certification from the web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4" %}
 
