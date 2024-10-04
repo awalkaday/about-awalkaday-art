@@ -15,7 +15,7 @@ layout:
 
 # AUTHOR'S NOTE
 
-_I created this artistic project in my spare time, in public, independently, and at the pace of a_ [_turtle_](https://en.m.wikipedia.org/wiki/Cultural\_depictions\_of\_turtles)_. Countless public drafts and serene walks in the open air have shaped it into its present state, like a therapeutic exercise._
+_I created this artistic project in my spare time, in public, independently, and at the pace of a_ [_turtle_](https://en.m.wikipedia.org/wiki/Cultural\_depictions\_of\_turtles)_. Countless public drafts and serene walks in the open air have shaped it into its present state, akin to a therapeutic exercise._
 
 {% embed url="https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-gdEnlGmI" %}
 awalkaday 219-2022
