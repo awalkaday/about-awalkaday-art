@@ -18,7 +18,7 @@ layout:
 
 {% embed url="https://keybase.io/daqhris/graph" %}
 
-This digital art project treats the creative process as a series of iterative steps that rely on public Git commits. In the same way that an artist traditionally refines creative works through proofs, the _awalkaday.art_ project evolves incrementally, leaving behind a history rich trail of its development intact. It's not far from being seen as a novel concept that mimics what has been defined as [evolution](https://evolution.berkeley.edu/evolution-101/the-history-of-life-looking-at-the-patterns/trees-not-ladders/) in the science of evolutionary biology.
+This digital art project treats the creative process as a series of iterative steps that rely on public `git` commits. In the same way that an artist traditionally refined creative works through proofs, the _awalkaday.art_ project has evolved incrementally, leaving behind a history rich trail of its development intact and public. It is not far from being seen as a novel concept that mimics what is defined as [evolution](https://evolution.berkeley.edu/evolution-101/the-history-of-life-looking-at-the-patterns/trees-not-ladders/) in the science of evolutionary biology.
 
 {% embed url="https://arweave.net/FScX2aEcLOJZM2Rv0y_RJ75a_vR57qYMXY9FOYOiD58" %}
 awalkaday 179-2022
