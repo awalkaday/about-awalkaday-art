@@ -22,7 +22,11 @@ _An Undocumented Artistic Product of Afro-Surrealism_
 Photos & Texts: [CC Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
 Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt)
 
-<figure><img src=".gitbook/assets/awalkaday-logo-1x1.png" alt="" width="375"><figcaption><p>awalkaday-logo-1x1: <em>'walking human first, sunny cityscape second'</em></p></figcaption></figure>
+<div align="left">
+
+<figure><img src=".gitbook/assets/awalkaday-logo-1x1.png" alt="awalkaday-logo-1x1: &#x27;walking human first, sunny cityscape second&#x27;" width="188"><figcaption></figcaption></figure>
+
+</div>
 
 ***
 
@@ -34,7 +38,7 @@ _Initial publication: July 2024_ — _Recent changes:_ [_Oct 2024_](https://gith
 
 _Online book open-sourced by `daqhris`(assisted by `gitbook-bot`)_
 
-<table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a data-mention href="./">.</a></td><td></td><td><a href="imprint.md">imprint.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a data-mention href="./">.</a></td><td></td><td><a href="imprint.md">imprint.md</a></td></tr></tbody></table>
 
 {% hint style="warning" %}
 There is no print, e-book or tokenized version available yet. No part of this online book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any other information storage and retrieval system, for commercial purposes, without the prior permission and consent in writing of the publisher.
