@@ -34,13 +34,13 @@ Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 Author & Publisher: © 2024 [Chris-Armel Iradukunda (daqhris)](https://daqhris.com)
 
-<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a data-mention href="./">.</a></td><td></td><td><a href="imprint.md">imprint.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a data-mention href="./">.</a></td><td></td><td><a href="imprint.md">imprint.md</a></td></tr><tr><td></td><td><a href="https://github.com/awalkaday/about-awalkaday-art/archive/refs/heads/book.zip">DOWNLOAD <em>(ZIP</em></a><em>)</em></td><td></td><td><a href="https://github.com/awalkaday/about-awalkaday-art/archive/refs/heads/book.zip">https://github.com/awalkaday/about-awalkaday-art/archive/refs/heads/book.zip</a></td></tr></tbody></table>
 
 _Initial online publication: July 2024_ • _Recent changes:_ [_Oct 2024_](https://github.com/awalkaday/about-awalkaday-art/commits/book/)\
 _Open-sourced by `daqhris`(assisted by `gitbook-bot`)_
 
 {% file src=".gitbook/assets/Book-Launch-Video.mp4" %}
-[Aug 25, 2024](https://x.com/awalkadayart/status/1827817564790981047): Promo video announcing the artist's book (as posted on X)
+[Aug 25, 2024](https://x.com/awalkadayart/status/1827817564790981047): Promo video of the artist's book (as posted on X)
 {% endfile %}
 
 {% hint style="warning" %}
