@@ -34,7 +34,8 @@ Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 Author & Publisher: © 2024 [Chris-Armel Iradukunda (daqhris)](https://daqhris.com)
 
-\
+{% file src=".gitbook/assets/Book-Launch-Video.mp4" %}
+
 _Initial online publication: July 2024_ — _Recent changes:_ [_Oct 2024_](https://github.com/awalkaday/about-awalkaday-art/commits/book/)\
 _Open-sourced by `daqhris`(assisted by `gitbook-bot`)_\
 
