@@ -22,6 +22,8 @@ _An Undocumented Artistic Product of Afro-Surrealism_
 Photos & Texts: [CC Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
 Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt)
 
+<figure><img src=".gitbook/assets/awalkaday-logo-1x1.png" alt="" width="375"><figcaption><p>awalkaday-logo-1x1: <em>'walking human first, sunny cityscape second'</em></p></figcaption></figure>
+
 ***
 
 ### Copyrights
