@@ -39,7 +39,7 @@ Check out the onchain photo on The Hug.
 
 Sculpted in bronze by Belgian artist [_Nat Neujean_](https://www.natneujean.com/), _The Daughters of Water_ (1951) depicts two intertwined nymphs, symbolizing two European rivers : the [_Meuse_](https://en.wikipedia.org/wiki/Meuse) and the [_Sambre_](https://en.wikipedia.org/wiki/Sambre). These four color photos of the sculpture were taken on May 8, 2024.
 
-_awalkaday 251-2022_ and _The Daughters of Water_ both have their roots in a 19th century park named after the first Queen of the Belgians, _Louise-Marie_. Note the uncanny resemblance between the setting of the bronze nymph sculpture (below) and the photo of a romantic couple in the shade of a tree (above).
+_awalkaday 251-2022_ and _The Daughters of Water_ both have their roots in a 19th century park named after the first Queen of the Belgians, _Louise-Marie_. Note the uncanny resemblance between the setting of the bronze nymph sculpture (below) and the photo of a romantic couple (above), all in the shade of a tree.
 
 <div>
 
@@ -59,9 +59,9 @@ _awalkaday 251-2022_ and _The Daughters of Water_ both have their roots in a 19t
 
 </div>
 
-### Photo Showcase + Ethereum domain names
+### Ethereum Domain Names + Onchain Photo Showcase
 
-Four [ENS domains](https://ens.domains/), named after Belgian towns and rivers, have been decorated with [awalkaday.art](https://app.zerion.io/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82/nfts?collections=116) photographs. The local landscape was mapped and displayed on an Ethereum blockchain naming protocol to celebrate a week of blockchain-focused international conferences in Belgium: [EthCC \[7\]](https://ethcc.io/archive?page=1\&event=EthCC%5B7%5D) & [ETHGlobal Brussels 2024](https://ethglobal.com/events/brussels).
+Four [ENS domains](https://ens.domains/), named after Belgian towns and rivers, have been decorated with [awalkaday.art](https://app.zerion.io/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82/nfts?collections=116) photographs. The local landscape was mapped and displayed on an Ethereum blockchain naming protocol to celebrate a rare week of blockchain-focused international conferences in Belgium: [EthCC \[7\]](https://ethcc.io/archive?page=1\&event=EthCC%5B7%5D) & [ETHGlobal Brussels](https://ethglobal.com/events/brussels) in the summer of 2024.
 
 <div>
 
