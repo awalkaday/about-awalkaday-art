@@ -16,7 +16,7 @@ layout:
 
 ### Public Licensing
 
-awalkaday.art™ • Handbuilt with 🤍 • Made in 🇧🇪\
+book.awalkaday.art • Handbuilt with 🤍 • Made in 🇧🇪\
 _An Undocumented Artistic Product of Afro-Surrealism_
 
 Photos & Texts: [CC Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
@@ -40,6 +40,8 @@ _Initial online publication: July 2024_ • _Recent changes:_ [_Oct 2024_](https
 _Open-sourced by `daqhris`(assisted by `gitbook-bot`)_
 
 {% file src=".gitbook/assets/Book-Launch-Video.mp4" %}
+[Aug 25, 2024](https://x.com/awalkadayart/status/1827817564790981047): Promo video announcing the artist's book (as posted on X)
+{% endfile %}
 
 {% hint style="warning" %}
 There is no print, e-book or tokenized version available yet. No part of this online book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any other information storage and retrieval system, for commercial purposes, without the prior permission and consent in writing of the publisher.
