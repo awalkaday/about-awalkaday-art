@@ -16,7 +16,7 @@ layout:
 
 ### Public Licensing
 
-awalkaday.art • Handbuilt with 🤍 • Made in 🇧🇪\
+`awalkaday.art` • Handbuilt with 🤍 • Made in 🇧🇪\
 _An Undocumented Artistic Product of Afro-Surrealism_
 
 Photos & Texts: [CC Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
@@ -32,7 +32,7 @@ Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 ### Copyrights
 
-Author & Publisher: © 2024 [Chris-Armel Iradukunda (`daqhris`)](https://daqhris.com)
+Author & Publisher: © 2024 [Chris-Armel Iradukunda `daqhris`](https://daqhris.com)
 
 <table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a data-mention href="./">.</a></td><td></td><td><a href="imprint.md">imprint.md</a></td></tr><tr><td></td><td><a href="https://github.com/awalkaday/about-awalkaday-art/archive/refs/heads/book.zip">DOWNLOAD <em>(ZIP</em></a><em>)</em></td><td></td><td><a href="https://github.com/awalkaday/about-awalkaday-art/archive/refs/heads/book.zip">https://github.com/awalkaday/about-awalkaday-art/archive/refs/heads/book.zip</a></td></tr></tbody></table>
 
