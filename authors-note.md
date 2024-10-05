@@ -21,7 +21,7 @@ _I created this artistic project in my spare time, in public, independently, and
 awalkaday 219-2022
 {% endembed %}
 
-_The project's code building blocks first appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_, four months after the summer debut of photographs. From the beginning, the creative process was intuitive, non-linear, and time-stamped by a digital clock._
+_The project's code building blocks first appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_, four months after the summer debut of walking and photographing. From the beginning, the creative process was intuitive, non-linear, and time-stamped by a digital clock._
 
 {% embed url="https://github.com/daqhris/daqhris.github.io/blob/80a18e2a08c1413ea8b4a26d1a86129624b8809f/a-walk_a-day.html#L1-L40" %}
 
@@ -70,7 +70,7 @@ _The project's code building blocks first appeared online in_ [_November 2017_](
 ```
 {% endcode %}
 
-_This book features adapted texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) _which has been a work-in-progress since_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4)_. The `about-awalkaday-art` code repository became the focus of my geeky attention and camera lenses soon after I received a design certification from the web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._
+_This book features adapted texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) _which has been a work-in-progress since_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4)_. The `about-awalkaday-art` code repository became the focus of my geeky attention and camera lenses right after I received a design certification from the web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4" %}
 
