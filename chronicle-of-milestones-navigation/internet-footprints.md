@@ -26,7 +26,7 @@ The first and last photographs, preserved in the blockchain-based collection, ap
 The first photo in the blockchain-minted series was taken and posted on Instagram in Nov 2017. The original version was lost, but a copy was recovered, named and minted on a blockchain in the first quarter of 2023.
 {% endembed %}
 
-The Internet domain _awalkaday.art_ was officially registered in [May 2021](https://whois.gandi.net/en/results?search=awalkaday.art).
+The Internet domain `awalkaday.art` was officially registered in [May 2021](https://whois.gandi.net/en/results?search=awalkaday.art).
 
 One year later, a meaningful milestone was reached when selected photographs graced the virtual walls of the [MONOLITH Gallery](https://monolith.gallery/archives) inside Sellen Hall in [July 2022](https://monolith.gallery/hall/sellen/g56L1RdA9DXtqQR3aALG).
 
