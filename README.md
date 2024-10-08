@@ -33,9 +33,9 @@ awalkaday 251-2022
 
 This artist's book chronicles the evolution of [awalkaday.art](https://awalkaday.art) from 2017 to 2024. Its pages are uniquely bound by the `git`-based digital footprints of the photo series, creating a narrative that's as much about the medium as the message.
 
-A unique blend of digital art forms—photography, code, social media, and blockchain—comes together with third-person narration to create a multifaceted story. Together, these elements illustrate and trace the history of the photo collection across a range of public online platforms.
+A unique blend of digital art forms—monochrome photography, open-source code, social media posts, and blockchain tokens—comes together with third-person narration to create a multifaceted story. Together, these elements illustrate and trace the history of the photo collection across a range of public online platforms.
 
-This book is a companion piece to a collection of 263 photographs taken during long walks in Belgium, Europe. It is supported by [GitBook](https://www.gitbook.com/) as an open source project under a community plan.
+This book is a companion piece to a collection of 263 photographs taken during long walks in Belgium, Europe. An open-source book that concludes a long-term public project by an exiled artist and an innovative approach to publishing digital art. It is supported by [GitBook](https://www.gitbook.com/) as an open source project under a community plan.
 
 #### `25 Pages`—`ENGLISH`—`Black & White Digital Photography`
 
