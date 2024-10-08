@@ -1,5 +1,5 @@
 ---
-description: A list of the chapters and subchapters in this artist's book
+description: List of chapters and subchapters in this artist book
 layout:
   title:
     visible: true
@@ -45,12 +45,8 @@ layout:
 * [IMPRINT](imprint.md)
 * [APPENDIX](appendix.md)
 
-
-
 {% embed url="https://7n5x6ki3xr2zlkzlhcpukbprymt3dhxl2kju2haif2y3xqajshpa.arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" %}
 awalkaday 129-2022
 {% endembed %}
-
-
 
 #### `FRONT-2`
