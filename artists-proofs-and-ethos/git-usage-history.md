@@ -14,7 +14,7 @@ layout:
 
 # Git Usage History
 
-The oldest GitHub-based commits written and signed by _daqhris_ date back to [February 2016](https://github.com/daqhris/hello-world/commits/master/?since=2016-02-22\&until=2016-06-15). They may be seen as the remnants of an extracurricular passion that infused an innovative spirit into a student's life in the East, spent crossing over the [Great Firewall of China](https://www.theguardian.com/news/2018/jun/29/the-great-firewall-of-china-xi-jinpings-internet-shutdown) and bypassing man-made virtual walls through private tunnels to wave _hello_ to the _world_.
+The oldest GitHub-based commits written and signed by `daqhris` date back to [February 2016](https://github.com/daqhris/hello-world/commits/master/?since=2016-02-22\&until=2016-06-15). They may be seen as the remnants of an extracurricular passion that infused an innovative spirit into a student's life in the East, spent crossing over the [Great Firewall of China](https://www.theguardian.com/news/2018/jun/29/the-great-firewall-of-china-xi-jinpings-internet-shutdown) and bypassing man-made virtual walls through private tunnels to wave _hello_ to the _world_.
 
 {% embed url="https://github.com/daqhris/hello-world/commits/master/?since=2016-02-22&until=2016-06-15" %}
 
