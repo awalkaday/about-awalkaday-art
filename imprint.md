@@ -67,7 +67,7 @@ awalkaday 91-2022
 
 #### Caregiving Friends
 
-A token of gratitude goes to **Alice M., Andrée D., Amir B., Ant H., Adva Z., Anna R., Britt H., Christine C., Christophe M., Cyril M., Effi W., Peter K., Shila A., Suleiman Z.** and **Willeke V.**
+A token of gratitude goes to Alice M., Andrée D., Amir B., Ant H., Adva Z., Anna R., Britt H., Christine C., Christophe M., Cyril M., Effi W., Peter K., Shila A., Suleiman Z. and Willeke V.
 
 #### Book Publication
 
