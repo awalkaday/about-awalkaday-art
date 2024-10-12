@@ -14,7 +14,7 @@ layout:
 
 # Beyond Pixels: A Stroll into Nature
 
-Let us embark on a visual journey with _awalkaday.art_, where the mission extends beyond the domain of pixels to kindle a passion for the great outdoors. More than just a visual spectacle, this collection is an invitation to embrace the rejuvenating power of nature, to enjoy the fresh air, to be captivated by the surroundings and to cultivate well-being through the simplicity of regular walks, whether short or long.
+Let us embark on a visual journey during which the mission extends beyond the domain of pixels to kindle a passion for the great outdoors. More than just a spectacle, this collection is an invitation to embrace the rejuvenating power of nature, to enjoy the fresh air, to be captivated by the surroundings and to cultivate well-being through the simplicity of regular walks, whether short or long.
 
 {% embed url="https://axvmx24llbmfiwg45ueou6fnfzw7ei37uirw7kf47ednojsd26dq.arweave.net/BerL64tYWFRY3O0I6nitLm3yI3-iI2-ovPkG1yZD14c" %}
 awalkaday 181-2021

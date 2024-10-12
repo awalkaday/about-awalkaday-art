@@ -15,7 +15,7 @@ layout:
 
 # AUTHOR'S NOTE
 
-_I created this artistic project in my spare time, in public, independently, and at the pace of a_ [_turtle_](https://en.m.wikipedia.org/wiki/Cultural\_depictions\_of\_turtles)_. Countless public drafts and serene walks in the open air have shaped it into its present state, akin to a therapeutic exercise._
+_I created this artistic project in my spare time, in public, independently, and at the pace of a_ [_turtle_](https://en.m.wikipedia.org/wiki/Cultural\_depictions\_of\_turtles)_. Countless public drafts and serene long walks have shaped it into its present state, akin to a therapeutic exercise._
 
 {% embed url="https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-gdEnlGmI" %}
 awalkaday 219-2022
@@ -70,7 +70,9 @@ _The project's code building blocks first appeared online in_ [_November 2017_](
 ```
 {% endcode %}
 
-_This book features adapted texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) _which has been a work-in-progress since_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4)_. The `about-awalkaday-art` code repository became the focus of my geeky attention and camera lenses right after I received a design certification from the web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._
+_The original single page describing A WALK≡A DAY was later migrated from my personal site to an independent project on GitHub, hosting all sites built under the umbrella of `awalkaday-art` , in_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4)_._
+
+_This book features adapted texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) _which has been a work-in-progress since the project's inception._ _The `awalkaday-art` coding blocks became the focus of my geeky attention and camera lenses right after I received a design certification from the web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._&#x20;
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4" %}
 

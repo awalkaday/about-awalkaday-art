@@ -34,7 +34,7 @@ The monochromatic snapshots were assembled, named and minted during a wintertime
 awalkaday 174-2022
 {% endembed %}
 
-After landing on a blockchain terrain in a batch series, each photo began to carry a name, like the title of a logbook. A string of words and numbers that begins with the artistic theme _awalkaday_, then ends with a computer-calculated [day of the year](https://www.inchcalculator.com/day-of-the-year/), linked by a hyphen to the year of when the photo was first dropped online without a parachute and crossed the radar of [cyberwarfare forces](https://en.m.wikipedia.org/wiki/List\_of\_cyber\_warfare\_forces) on a tourist visa (example: [_awalkaday 185-2022_](https://app.zerion.io/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82/nfts?collections=85657215)).
+After landing on a blockchain terrain in a batch series, each photo began to carry a name, like the title of a logbook. A string of words and numbers that begins with the artistic theme _awalkaday_, then ends with a computer-calculated [day of the year](https://asd.gsfc.nasa.gov/Craig.Markwardt/doy2024.html), linked by a hyphen to the year of when the photo was first dropped online without a parachute and crossed the radar of [cyberwarfare forces](https://en.m.wikipedia.org/wiki/List\_of\_cyber\_warfare\_forces) on a tourist visa (example: [_awalkaday 185-2022_](https://app.zerion.io/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82/nfts?collections=85657215)).
 
 {% embed url="https://arweave.net/QuZy3p6WDONJOwwHuqP9VyMCgTqMOJjm-m6fDVE-86Q" %}
 awalkaday 3-2022
