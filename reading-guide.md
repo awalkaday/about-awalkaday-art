@@ -24,7 +24,7 @@ layout:
   * [Cameras and Photo Editing](mobile-studio-and-digital-toolkit/cameras-and-photo-editing.md)
   * [Gaming Laptop](mobile-studio-and-digital-toolkit/gaming-laptop.md)
 * [Chronicle of Milestones Navigation](chronicle-of-milestones-navigation/)
-  * [Ongoing Pathways](chronicle-of-milestones-navigation/ongoing-pathways.md)
+  * [Parallel Pathways](chronicle-of-milestones-navigation/ongoing-pathways.md)
   * [Internet Footprints](chronicle-of-milestones-navigation/internet-footprints.md)
   * [Blockchain Records](chronicle-of-milestones-navigation/blockchain-records.md)
 * [Evolution of a Pixelated Trek on Platforms](evolution-of-a-trek-on-platforms/)
