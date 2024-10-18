@@ -15,7 +15,7 @@ layout:
 
 # BOOK
 
-## Commit `awalkaday.art` to Memory
+## Commit [`awalkaday`](https://github.com/awalkaday) to Memory
 
 {% hint style="info" %}
 A chronicle of Belgian-made pixels and the binary footprints of a wanderer.
