@@ -16,7 +16,7 @@ layout:
 
 Welcome to [awalkaday.art](https://awalkaday.art/), a collection of 263 photographs created by Chris-Armel (daqhris) and published on the [Ethereum](https://ethereum.org/en/what-is-ethereum) blockchain since February 2023.
 
-This digital series of black-and-white monochromatic photographs documents the captivating beauty observed in various landscapes of different Belgian regions during regular walks, initiated since 2017.
+This digital series of black-and-white monochromatic photographs portrays the captivating beauty observed in various landscapes of different Belgian regions during regular walks, initiated since 2017.
 
 Each photograph was assigned a unique name and an identification token on a public blockchain, guaranteeing that they are authentic, traceable and collectable.
 
