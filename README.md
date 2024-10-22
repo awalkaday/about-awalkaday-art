@@ -30,7 +30,7 @@ awalkaday 251-2022
 
 ### SUMMARY
 
-This artist's book documents the development of [awalkaday.art](https://awalkaday.art) from its conception in 2017 to where it ends in 2024. The pages of this book are bound by the `git`-based digital footprints of the photo series, creating a narrative that's as much about the medium as the message.
+This artist's book documents the development and growth of [awalkaday.art](https://awalkaday.art) from its conception in 2017 to its conclusion in 2024. The pages of this book are bound by the `git`-based digital footprints of the photo series, creating a narrative that's as much about the medium as the message.
 
 A unique blend of digital art forms—black-and-white photography, open-source code, social media posts, and blockchain tokens—comes together with third-person narration to create a multifaceted story. Together, these elements illustrate and trace the history of a photo odyssey across a range of public spaces and computing platforms.
 
