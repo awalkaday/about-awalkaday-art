@@ -16,7 +16,7 @@ layout:
 
 ### Public Licensing
 
-`awalkaday.art` • Handbuilt with 🤍 • Made in 🇧🇪\
+`book.awalkaday.art` • Written with 🤍 • Made in 🇧🇪\
 _An Undocumented Artistic Product of Afro-Surrealism_
 
 Photos & Texts: [CC Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
