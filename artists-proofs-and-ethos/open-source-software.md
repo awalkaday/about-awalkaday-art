@@ -20,7 +20,7 @@ An open-source ethos which embodies principles such as transparency, collaborati
 awalkaday 79-2022
 {% endembed %}
 
-To gain exposure to software-driven innovation, Chris-Armel (daqhris) has been an active contributor to the [Free and Open Source Software Developer Conference](https://fosdem.org/) in Brussels every year since 2020. The annual conference has enabled him to remain connected with the European software developer community, despite lacking the right to attend university or work professionally in the field.
+To gain exposure to software-powered innovation, Chris-Armel (daqhris) has been an active contributor to the [Free and Open Source Software Developer Conference](https://fosdem.org/) in Brussels every year since 2020. The annual conference has enabled him to remain connected with the European software developer community, despite lacking the right to attend university or work professionally in the field.
 
 {% embed url="https://fosdem.org/" %}
 
