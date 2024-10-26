@@ -15,7 +15,7 @@ layout:
 
 # AUTHOR'S NOTE
 
-_I created this artistic project in my spare time, in public, independently, and at the pace of a_ [_turtle_](https://en.m.wikipedia.org/wiki/Cultural\_depictions\_of\_turtles)_. Countless public drafts and serene long walks have shaped it into its present state, akin to a therapeutic exercise._
+_This artistic project was born in my spare time, in public, independently, and evolved at the pace of a_ [_turtle_](https://en.m.wikipedia.org/wiki/Cultural\_depictions\_of\_turtles)_. Countless public drafts and serene long walks have shaped it into its present state, akin to a therapeutic exercise._
 
 {% embed url="https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-gdEnlGmI" %}
 awalkaday 219-2022
@@ -70,9 +70,9 @@ _The project's building blocks first appeared online in_ [_November 2017_](https
 ```
 {% endcode %}
 
-_The foundational page, titled_ FAQ | A WALK≡A DAY_, was migrated from my personal site to an independent project on GitHub, in_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4)_, where all the sites built under the umbrella of `awalkaday` found a safe shelter._
+_The foundational page, titled_ FAQ | A WALK≡A DAY_, was migrated from a personal site to be turned into an independent project on GitHub, in_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4)_, where all the sites built under the umbrella of `awalkaday` found a safe shelter._
 
-_This book features adapted texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) _which has been a work-in-progress since the project's inception._ _The `awalkaday` building blocks became the focus of my geeky attention and camera lenses right after I received a developer certification from the web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._&#x20;
+_This book features adapted texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) _which has been a work-in-progress since the project's inception._ _The `awalkaday` building blocks became the focus of my geeky attention and camera lenses right after receiving a developer certification from the web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._&#x20;
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4" %}
 
