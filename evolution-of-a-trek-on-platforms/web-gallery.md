@@ -15,9 +15,9 @@ layout:
 
 # Web Gallery
 
-After the project resumed, the photos started being uploaded to a purpose-built web gallery, [awalkaday.art](https://awalkaday.art/), which hosts a catalog of 263 photographs from the collection in a custom-designed, interactive and responsive gallery.
+Once the art project resumed, a limited number of the salvaged photos began to be steadily uploaded to a purpose-built web gallery, [awalkaday.art](https://awalkaday.art/), which ultimately hosts a catalog of 263 photographs from the collection in a custom-designed, interactive and responsive gallery.
 
-It prioritizes a smooth and random order of display for each visit, allowing for ease of navigation and discovery of photographs.
+The gallery prioritizes a smooth and random order of display for each visit, allowing for ease of navigation and discovery of photographs.
 
 {% embed url="https://awalkaday.art" %}
 Make a short trip to the online gallery and discover the photos in a random order every time the webpage gets refreshed.
