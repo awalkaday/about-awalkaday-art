@@ -34,9 +34,9 @@ One year later, a meaningful milestone was reached when selected photographs gra
 The last photo in this series, posted on Instagram in Sept 2022, which was later preserved on a blockchain.
 {% endembed %}
 
-Since [September 2023](https://x.com/awalkadayart/status/1703776310252736941?s=20), the [smart contract](https://etherscan.io/address/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1) and the [contract deployer](https://etherscan.io/address/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82) are labeled by [Etherscan](https://etherscan.io/).
+As of [September 2023](https://x.com/awalkadayart/status/1703776310252736941?s=20), the `awalkaday.art` [smart contract](https://etherscan.io/address/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1) and its [contract deployer](https://etherscan.io/address/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82) are labeled by [Etherscan](https://etherscan.io/).
 
-A congratulatory message citing the virtual exhibition hall was posted by the [.ART web domains registry](https://art.art/) on two social media networks in [February](https://x.com/Art\_Domains/status/1755917791658418315?s=20) [2024](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MjM4NDY5NjU2MjEwMzQz?story\_media\_id=3301932341141746093\_5749556061\&igsh=MXVzbXJ0cmo4ZTByMQ==).
+A congratulatory message citing the virtual exhibition hall of the photo series was posted by the [.ART web domains registry](https://art.art/) on two social media networks in [February](https://x.com/Art\_Domains/status/1755917791658418315?s=20) [2024](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MjM4NDY5NjU2MjEwMzQz?story\_media\_id=3301932341141746093\_5749556061\&igsh=MXVzbXJ0cmo4ZTByMQ==).
 
 {% embed url="https://www.instagram.com/walk.day/p/CkWOfX2DCPU/" %}
 The final photo shared on Instagram in Oct 2022. Its original file, along with four others posted in the same month, were lost. They were not minted on Ethereum.
