@@ -26,13 +26,13 @@ Using rudimentary photographic equipment and online public platforms, coupled wi
 awalkaday 185-2022
 {% endembed %}
 
-After six months of posting on Instagram and coding on GitHub, the artistic project was put on hold due to the loss of electronic devices, in the aftermath of a laptop crash and a smartphone theft in the refugee camp. Three years later, in 2021, it was relaunched as a part-time artistic practice, even though his legal status and human life as an immigrant remained uncertain, hopeless, angst-inducing and precarious.
+After six months of posting on Instagram and coding on GitHub, the artistic endeavor was put on hold due to the loss of electronic devices, in the aftermath of a laptop crash and a smartphone theft within the enclosure of the refugee camp. Three years later, in 2021, it was relaunched as a part-time artistic practice, even though his legal status and human life as an immigrant remained uncertain, hopeless, angst-inducing and precarious.
 
 {% embed url="https://arweave.net/HZUJofLsOWTGYRYAOMzbtKN7Ad0jMmtDlg4HDgT5Vp8" %}
 awalkaday 40-2022
 {% endembed %}
 
-Contrary to modern conventions, _awalkaday.art_ is neither a state-sponsored artistic endeavor nor a brick-and-mortar art gallery. Since day one of the project, the artist has endured the human experience of lacking easy access to medical care, health insurance, humanitarian aid and banking services. He faced recurring unemployment, despite numerous skills, and mostly burned organic calories instead of emitting gas pollutants. To find out more, read his biography online at [daqhris.com/about](https://daqhris.com/about).
+Contrary to modern conventions, _awalkaday.art_ is neither a state-sponsored artistic endeavor nor a brick-and-mortar art gallery. Since day one of the project, the artist has endured the human experience of lacking easy access to medical care, health insurance, humanitarian aid and banking services. He faced recurring unemployment, despite numerous skills, and often burned organic calories instead of emitting gas pollutants. To find out more, read his biography online at [daqhris.com/about](https://daqhris.com/about).
 
 {% embed url="https://arweave.net/WB8akAD3XwwJ-5QCWgH9k-4eaDNRctqmTzBH4hwLwyo" %}
 awalkaday 184-2021
