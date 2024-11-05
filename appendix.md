@@ -20,7 +20,7 @@ The photograph on the [cover](./), _awalkaday 251-2022_, was taken and published
 
 <figure><img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="" width="188"><figcaption><p><em>awalkaday 251-2022</em></p></figcaption></figure>
 
-The black-and-white photo captured a fleeting moment in time before a renowned sculpture was moved to its current and permanent location. It immortalized a romantic outdoor scene : a lovely couple sitting on the grass in the shade of a glowing tree.
+This black-and-white photo captured a fleeting moment in time before a renowned sculpture was moved to its current and permanent location. It immortalized a romantic outdoor scene : a lovely couple sitting on the grass in the shade of a glowing tree.
 
 {% embed url="https://thehug.xyz/artists/daqhris/portfolio/item/6e2d07d3-3f4a-438c-b0e7-1224f7dcecfa" %}
 Check out the onchain photo on The Hug.
@@ -52,7 +52,7 @@ _awalkaday 251-2022_ and [_The Daughters of Water_](https://statues.vanderkrogt.
 
 ### Ethereum Domain Names + Onchain Photo Showcase
 
-Four [ENS domains](https://ens.domains/), named after Belgian towns and rivers, have been decorated with [awalkaday.art](https://app.zerion.io/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82/nfts?collections=116) photographs. The local landscape was mapped and displayed on an Ethereum blockchain naming protocol to celebrate a rare week of blockchain-focused international conferences in Belgium: [EthCC \[7\]](https://ethcc.io/archive?page=1\&event=EthCC%5B7%5D) & [ETHGlobal Brussels](https://ethglobal.com/events/brussels) in the summer of 2024.
+Four [ENS domains](https://ens.domains/), named after Belgian towns and rivers, have been decorated with [awalkaday.art](https://app.zerion.io/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82/nfts?collections=85657215) photographs. The local landscape was mapped and displayed on an Ethereum blockchain naming protocol to celebrate a rare week of blockchain-focused international conferences in Belgium: [EthCC \[7\]](https://ethcc.io/archive?page=1\&event=EthCC%5B7%5D) & [ETHGlobal Brussels](https://ethglobal.com/events/brussels) in the summer of 2024.
 
 <div>
 
