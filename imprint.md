@@ -28,8 +28,6 @@ Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 </div>
 
-***
-
 ### Copyrights
 
 Author & Publisher: © 2024 [Chris-Armel Iradukunda `daqhris`](https://daqhris.com)
@@ -51,7 +49,7 @@ If you remix, transform or build upon the material, you may not distribute the m
 Its legal rights shall be governed by [Belgian law](https://www.wipo.int/wipolex/en/text/125254), as the licensor has no affiliation with another Member State of the European Union. The 'right of the soil' _(_in latin, _jus soli)_ applies to this book, without prejudice to the ethical virtues of [#public-licensing](imprint.md#public-licensing "mention"). The moral right of the author has been asserted.
 {% endhint %}
 
-***
+
 
 ### Online Photo Store
 
@@ -61,7 +59,7 @@ Its legal rights shall be governed by [Belgian law](https://www.wipo.int/wipolex
 awalkaday 91-2022
 {% endembed %}
 
-***
+
 
 ### Acknowledgments
 

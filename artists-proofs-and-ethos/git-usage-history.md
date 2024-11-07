@@ -22,7 +22,7 @@ Much earlier fragments of his public coding blocks were likely archived inside t
 
 {% embed url="https://github.com/daqhris?from=2011-05-01&tab=overview&to=2011-06-01" %}
 
-***
+
 
 {% embed url="https://arweave.net/0Hh0hrWgJk3je9KmLqkRwIrg7UcE-Kazytm2HdUjEGc" %}
 awalkaday 356-2017
