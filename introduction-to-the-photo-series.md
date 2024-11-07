@@ -14,7 +14,7 @@ layout:
 
 # Introduction to the Photo Series
 
-Say hello to [awalkaday.art](https://awalkaday.art/), a collection of 263 photographs created by Chris-Armel (daqhris) and published on the [Ethereum](https://ethereum.org/en/what-is-ethereum) blockchain since February 2023.
+Say hello to [awalkaday.art](https://awalkaday.art/), a collection of 263 photographs created by `daqhris` and published on the [Ethereum](https://ethereum.org/en/what-is-ethereum) blockchain since February 2023.
 
 This is a series of black-and-white photographs depicting the captivating beauty observed in various landscapes of different Belgian regions during regular walks initiated in 2017.
 
