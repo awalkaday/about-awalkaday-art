@@ -70,7 +70,9 @@ _The project's building blocks first appeared online in_ [_November 2017_](https
 ```
 {% endcode %}
 
-_The foundational page, titled_ `FAQ | A WALK≡A DAY`_, was migrated from a personal site and turned into an independent project on GitHub, in_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4)_, where all the sites built under the umbrella of `awalkaday` found a safe shelter. As any reader can see, the_ `A WALK≡A DAY` _visual art project took more than the predicted five years to complete._
+
+
+_The original page, titled `FAQ | A WALK≡A DAY`, was moved from a personal site to an independent project on GitHub, in_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4)_, where all the sites built under the umbrella of `awalkaday` found a safe shelter. As any reader can see, the `A WALK≡A DAY` visual art project took more than the predicted five years to complete._
 
 _This book features adapted texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) _which has been a work-in-progress since the project's inception._ _The `awalkaday` building blocks became the focus of my geeky attention and camera lenses right after receiving a developer certification from the web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._
 
