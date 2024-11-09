@@ -24,7 +24,7 @@ To gain exposure to software-powered innovation, `daqhris` has been an active co
 
 {% embed url="https://fosdem.org/" %}
 
-As a volunteer, one of his most memorable acts was standing on stage in front of a packed amphitheater in February 2023, while homeless in Brussels, to introduce a scientific talk on ['Open Source Software at NASA'](https://archive.fosdem.org/2023/schedule/event/nasa/), presented by an [American astronomer](https://crawfordsm.github.io/about/). In the summer of 2024, `daqhris` published an online artist's book, [book.awalkaday.art](../), which shines a light on various aspects of his `git`-enabled artistic practice and is built using a technical documentation tool, [GitBook](https://www.gitbook.com/).
+As a volunteer, one of his most memorable acts was standing on stage in front of a packed amphitheater in February 2023, while homeless in Brussels, to introduce a scientific talk on ['Open Source Software at NASA'](https://archive.fosdem.org/2023/schedule/event/nasa/), presented by an [American astronomer](https://crawfordsm.github.io/about/), while celebrating 25 years of open-source with volunteering and attending peers. In the second half of the following year, `daqhris` launched an online artist's book, [`book.awalkaday.art`](../), which spotlights various aspects of his `git`-enabled artistic practice and has been published by using a technical documentation tool, [GitBook](https://www.gitbook.com/).
 
 {% embed url="https://archive.fosdem.org/2023/schedule/event/nasa/" %}
 
