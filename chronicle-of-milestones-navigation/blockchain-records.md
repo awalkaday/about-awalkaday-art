@@ -18,11 +18,11 @@ The blockchain publication of the photo collection was achieved with the creatio
 
 {% embed url="https://app.ens.domains/awalkaday.art" %}
 
-About half a year later, 263 [WALK tokens](https://etherscan.io/token/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1) were minted on Ethereum in [February 2023](https://etherscan.io/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b), marking a significant moment in the on-chain history of _awalkaday.art._
+About half a year later, 263 [WALK tokens](https://etherscan.io/token/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1) were minted on Ethereum in [February 2023](https://etherscan.io/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b), marking a significant moment in the onchain history of `awalkaday.art`_._
 
 {% embed url="https://deca.art/collection/awalkaday-art" %}
 
-In the virtual realm of blockchain-based art platforms, the artist has created a profile on behalf of his work and listed artworks on [Coinbase](https://nft.coinbase.com/collection/awalkaday-art), [Foundation](https://foundation.app/collection/awalkaday-art), [Rightclick](https://rc.xyz/daqhris/collections/awalkaday.art), [The Hug](https://thehug.xyz/artists/daqhris/portfolio/gallery/86a4f0a8-5609-4885-a9e2-ca0b625082e9), [Zora](https://zora.co/collect/eth:0xe31801c2e58b151c3ded2cb29da56147b7f27eb1), [SuperRare](https://superrare.com/daqhris?artwork=ONLY\_SERIES) and [Manifold](https://manifold.gallery/eth:0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1) starting from the second half of 2023.
+In the virtual realm of blockchain-based art platforms, the artist has created a profile on behalf of his work and listed artworks on [Coinbase](https://nft.coinbase.com/collection/awalkaday-art), [Foundation](https://foundation.app/collection/awalkaday-art), [Rightclick](https://rc.xyz/daqhris/collections/awalkaday.art), [The Hug](https://thehug.xyz/artists/daqhris/portfolio/gallery/86a4f0a8-5609-4885-a9e2-ca0b625082e9), [Zora](https://zora.co/collect/eth:0xe31801c2e58b151c3ded2cb29da56147b7f27eb1), [SuperRare](https://superrare.com/daqhris?artwork=ONLY_SERIES) and [Manifold](https://manifold.gallery/eth:0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1) starting from the second half of 2023.
 
 {% embed url="https://foundation.app/collection/awalkaday-art" %}
 

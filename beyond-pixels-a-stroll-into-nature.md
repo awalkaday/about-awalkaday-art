@@ -26,7 +26,7 @@ In an age of rapid urbanization and hyperconnectivity, many people feel disconne
 awalkaday 168-2022
 {% endembed %}
 
-Through the lens of `daqhris`, _awalkaday.art_ is much more than just a collection of photographs or a visual diary of sorts. It is a long-lasting testament to his passion for photography and a vessel for sharing his creative skills across borders and oceans. The web gallery and the blockchain smart contract were openly developed and are seamlessly interlinked to ensure effortless navigation for all who wish to discover and engage with the travelogue in a digital setting.
+Through the lens of `daqhris`, `awalkaday.art` is much more than just a collection of photographs or a visual diary of sorts. It is a long-lasting testament to his passion for photography and a vessel for sharing his creative skills across borders and oceans. The web gallery and the blockchain smart contract were openly developed and are seamlessly interlinked to ensure effortless navigation for all who wish to discover and engage with the travelogue in a digital setting.
 
 {% embed url="https://arweave.net/84AC-vf_aJkER9F0cQ5iEXP-lJ1PocTY9IuOf7Bpsdc" %}
 awalkaday 186-2022
