@@ -30,7 +30,7 @@ As an artist, coder and hacker with published work on a blockchain, he participa
 
 {% embed url="https://www.instagram.com/walk.day/p/C9sw6ZeNs7x/" %}
 
-Since then, after honing his skills as an Ethereum app developer and overcoming the learning curve of a hackathon, his next blockchain-based artistic project has been launched: [ZinnekeRescueMission](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf).
+Since then, after honing his skills as an Ethereum app developer and overcoming the learning curve of a hackathon, his next blockchain-based artistic project was launched: [ZinnekeRescueMission](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf).
 
 {% embed url="https://ethglobal.com/showcase/zinnekerescuemission-9fwjf" %}
 
