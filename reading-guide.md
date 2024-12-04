@@ -40,7 +40,7 @@ layout:
 * [Artist Profile](artist-profile/)
   * [Human Identity](artist-profile/human-identity.md)
   * [Training Ground](artist-profile/training-ground.md)
-  * [Project Inception Story](artist-profile/project-inception-story.md)
+  * [Project Inception](artist-profile/project-inception-story.md)
 * [Contact](contact.md)
 * [IMPRINT](imprint.md)
 * [APPENDIX](appendix.md)
