@@ -30,23 +30,7 @@ Sculpted in bronze by Belgian artist [_Nat Neujean_](https://www.natneujean.com/
 
 _awalkaday 251-2022_ and [_The Daughters of Water_](https://statues.vanderkrogt.net/object.php?webpage=ST\&record=bena030) both have their roots in a 19th century park named after the first Queen of the Belgians, _Louise-Marie_. Note the uncanny resemblance between the bronze sculpture of a pair of nymphs (below) and the photo of a romantic couple of humans (above), all in the shade of the same slow-aging tree.
 
-<div>
-
-<figure><img src=".gitbook/assets/IMG_20240508_162733_3-01.jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/IMG_20240508_162755_1-01.jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/IMG_20240508_162807_3-01.jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/IMG_20240508_162716_4.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src=".gitbook/assets/IMG_20240508_162733_3-01.jpeg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162755_1-01.jpeg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162716_4.jpg" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -54,25 +38,9 @@ _awalkaday 251-2022_ and [_The Daughters of Water_](https://statues.vanderkrogt.
 
 Four [ENS domains](https://ens.domains/), named after Belgian towns and rivers, have been decorated with [awalkaday.art](https://app.zerion.io/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82/nfts?collections=85657215) photographs. The local landscape was mapped and displayed on an Ethereum blockchain naming protocol to celebrate a rare week of blockchain-focused international conferences in Belgium: [EthCC \[7\]](https://ethcc.io/archive?page=1\&event=EthCC%5B7%5D) & [ETHGlobal Brussels](https://ethglobal.com/events/brussels) in the summer of 2024.
 
-<div>
+<div><figure><img src=".gitbook/assets/bastogne.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85:47981481869610083995936073997732283750222809913612277762499411613608388596160">bastogne.eth</a></p></figcaption></figure> <figure><img src=".gitbook/assets/meuse.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85:97365202193083432748976546813491271006919194810609036242907411146017330782368?address=0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82">meuse.eth</a></p></figcaption></figure></div>
 
-<figure><img src=".gitbook/assets/bastogne.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85:47981481869610083995936073997732283750222809913612277762499411613608388596160">bastogne.eth</a></p></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/meuse.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85:97365202193083432748976546813491271006919194810609036242907411146017330782368?address=0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82">meuse.eth</a></p></figcaption></figure>
-
-</div>
-
-<div align="center">
-
-<figure><img src=".gitbook/assets/sambre.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85:98656978081170204584090953328403136752112004695015963955947111110569277154361">sambre.eth</a></p></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/schaerbeek.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0xd4416b13d2b3a9abae7acd5d6c2bbdbe25686401:22609889999588536487736404583550363407381519385506395789547348851782388298946?address=0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82">schaerbeek.eth</a></p></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src=".gitbook/assets/sambre.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85:98656978081170204584090953328403136752112004695015963955947111110569277154361">sambre.eth</a></p></figcaption></figure> <figure><img src=".gitbook/assets/schaerbeek.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0xd4416b13d2b3a9abae7acd5d6c2bbdbe25686401:22609889999588536487736404583550363407381519385506395789547348851782388298946?address=0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82">schaerbeek.eth</a></p></figcaption></figure></div>
 
 
 
