@@ -30,7 +30,7 @@ Sculpted in bronze by Belgian artist [_Nat Neujean_](https://www.natneujean.com/
 
 _awalkaday 251-2022_ and [_The Daughters of Water_](https://statues.vanderkrogt.net/object.php?webpage=ST\&record=bena030) both have their roots in a 19th century park named after the first Queen of the Belgians, _Louise-Marie_. Note the uncanny resemblance between the bronze sculpture of a pair of nymphs (below) and the photo of a romantic couple of humans (above), all in the shade of the same slow-aging tree.
 
-<div><figure><img src=".gitbook/assets/IMG_20240508_162733_3-01.jpeg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162755_1-01.jpeg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162716_4.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/IMG_20240508_162733_3-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162755_1-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162716_4.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 
 
