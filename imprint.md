@@ -18,7 +18,7 @@ layout:
 
 `book.awalkaday.art` • Written with 🤍 • Made in 🇧🇪\
 &#xNAN;_&#x41;n Undocumented Artistic Product of Afro-Surrealism_\
-_By an Undocumented Black Artist on the Land of Surrealism_
+_By an Undocumented Artist on the Land of Surrealism_
 
 Photos & Texts: [CC Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
 Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt)
