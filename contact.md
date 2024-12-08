@@ -14,13 +14,13 @@ layout:
 
 # Contact
 
-Convenient methods of contacting the walking photographer were actively ran, over an extended time, running over the optical wires.&#x20;
+Convenient methods of contacting the walking photographer were actively ran, over an extended window of time, running over worldwide optical cables.&#x20;
 
-[@awalkadayart](https://twitter.com/awalkadayart) on **X**.
+#### [@awalkadayart](https://twitter.com/awalkadayart) on [x-twitter.md](evolution-of-a-trek-on-platforms/x-twitter.md "mention")
 
-[@walk.day](https://instagram.com/walk.day) on **Instagram**.
+#### [@walk.day](https://instagram.com/walk.day) on [instagram.md](evolution-of-a-trek-on-platforms/instagram.md "mention")
 
-[contact@awalkaday.art](mailto:contact@awalkaday.art) for **Electronic Mail**.
+#### [contact@awalkaday.art](mailto:contact@awalkaday.art) via **Electronic Mail**
 
 {% embed url="https://arweave.net/j5GfsE2q3Co8KhSvHwwjPpoNq0UZ5YN0FFeMBhdniiE" %}
 awalkaday 107-2022

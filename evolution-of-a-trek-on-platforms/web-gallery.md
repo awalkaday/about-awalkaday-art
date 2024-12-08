@@ -23,14 +23,16 @@ The gallery prioritizes a smooth and random order of display for each visit, all
 Make a short trip to the online gallery and discover the photos in a random order every time the webpage gets refreshed.
 {% endembed %}
 
-A 3D exhibition hall has also been set up to welcome all virtual visitors at [oncyber.io/awalkaday.art](https://oncyber.io/awalkaday.art).
 
-{% embed url="https://www.instagram.com/walk.day/reel/C4lci5_r0a8/" %}
-A web browser-based tour of the virtual exhibition hall dedicated to awalkaday.art
-{% endembed %}
+
+A 3D exhibition hall has also been set up to welcome all virtual visitors at [oncyber.io/awalkaday.art](https://oncyber.io/awalkaday.art).
 
 {% embed url="https://oncyber.io/awalkaday.art" %}
 Visit the virtual exhibition space in an environment that simulates a lifelike display of 24 photographs
+{% endembed %}
+
+{% embed url="https://www.instagram.com/walk.day/reel/C4lci5_r0a8/" %}
+A web browser-based tour of the virtual exhibition hall dedicated to _awalkaday.art_
 {% endembed %}
 
 #### `14`
