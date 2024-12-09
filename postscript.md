@@ -1,6 +1,6 @@
 ---
 description: >-
-  An exhaustive table containing all the blockchain-based photographs with some
+  An exhaustive table of all the blockchain-based photographs with some
   numerical attributes.
 layout:
   title:
