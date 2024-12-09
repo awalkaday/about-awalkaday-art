@@ -5,7 +5,7 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
@@ -43,23 +43,5 @@ Four [ENS domains](https://ens.domains/), named after Belgian towns and rivers, 
 <div align="center"><figure><img src=".gitbook/assets/sambre.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85:98656978081170204584090953328403136752112004695015963955947111110569277154361">sambre.eth</a></p></figcaption></figure> <figure><img src=".gitbook/assets/schaerbeek.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0xd4416b13d2b3a9abae7acd5d6c2bbdbe25686401:22609889999588536487736404583550363407381519385506395789547348851782388298946?address=0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82">schaerbeek.eth</a></p></figcaption></figure></div>
 
 
-
-### Catalogue
-
-<table><thead><tr><th align="center">LOCATION</th><th width="271" align="center">Number of Photos</th></tr></thead><tbody><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.LOCATION%3AAntwerp%2C+Belgium">Antwerp</a></td><td align="center"><code>21</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.LOCATION%3ABastogne%2C+Belgium">Bastogne</a></td><td align="center"><code>48</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.LOCATION%3ABrussels%2C+Belgium">Brussels</a></td><td align="center"><code>42</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.LOCATION%3AGembloux%2C+Belgium">Gembloux</a></td><td align="center"><code>1</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.LOCATION%3AHuy%2C+Belgium">Huy</a></td><td align="center"><code>2</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.LOCATION%3ALibramont%2C+Belgium">Libramont</a></td><td align="center"><code>8</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.LOCATION%3ALi%C3%A8ge%2C+Belgium">Liège</a></td><td align="center"><code>10</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.LOCATION%3AMarche-en-Famenne%2C+Belgium">Marche-en-Famenne</a></td><td align="center"><code>2</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.LOCATION%3AMarloie%2C+Belgium">Marloie</a></td><td align="center"><code>1</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.LOCATION%3AMetz%2C+France">Metz, France</a></td><td align="center"><code>2</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.LOCATION%3ANamur%2C+Belgium">Namur</a></td><td align="center"><code>116</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.LOCATION%3ANivelles%2C+Belgium">Nivelles</a></td><td align="center"><code>1</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.LOCATION%3AWaremme%2C+Belgium">Waremme</a></td><td align="center"><code>9</code></td></tr></tbody></table>
-
-|                                         YEAR                                        | Number of Photos |
-| :---------------------------------------------------------------------------------: | :--------------: |
-| [2017](https://foundation.app/collection/awalkaday-art?attr=attributes.YEAR%3A2017) |       `30`       |
-| [2018](https://foundation.app/collection/awalkaday-art?attr=attributes.YEAR%3A2018) |       `13`       |
-| [2021](https://foundation.app/collection/awalkaday-art?attr=attributes.YEAR%3A2021) |       `107`      |
-| [2022](https://foundation.app/collection/awalkaday-art?attr=attributes.YEAR%3A2022) |       `113`      |
-
-|                                           SEASON                                          | Number of Photos |
-| :---------------------------------------------------------------------------------------: | :--------------: |
-| [Autumn](https://foundation.app/collection/awalkaday-art?attr=attributes.SEASON%3AAutumn) |       `29`       |
-| [Winter](https://foundation.app/collection/awalkaday-art?attr=attributes.SEASON%3AWINTER) |       `93`       |
-| [Spring](https://foundation.app/collection/awalkaday-art?attr=attributes.SEASON%3ASpring) |       `39`       |
-| [Summer](https://foundation.app/collection/awalkaday-art?attr=attributes.SEASON%3ASummer) |       `102`      |
 
 #### `BACK-2`
