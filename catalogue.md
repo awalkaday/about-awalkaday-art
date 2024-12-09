@@ -22,3 +22,6 @@ description: >-
 | [Spring](https://foundation.app/collection/awalkaday-art?attr=attributes.SEASON%3ASpring) |       `39`       |
 | [Summer](https://foundation.app/collection/awalkaday-art?attr=attributes.SEASON%3ASummer) |       `102`      |
 
+
+
+#### `ANNEX-2`
