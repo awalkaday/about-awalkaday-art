@@ -1,7 +1,18 @@
 ---
 description: >-
-  Lists accounting for the number of awalkaday photographs, spilt into three
+  Lists accounting for the number of all onchain photographs, spilt into three
   categories, and arranged by location, year and season.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # CATALOGUE

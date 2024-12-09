@@ -43,6 +43,7 @@ layout:
   * [Project Inception](artist-profile/project-inception-story.md)
 * [Contact](contact.md)
 * [IMPRINT](imprint.md)
+* [CATALOGUE](catalogue.md)
 * [APPENDIX](appendix.md)
 * [POSTSCRIPT](postscript.md)
 
