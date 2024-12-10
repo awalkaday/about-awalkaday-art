@@ -22,8 +22,8 @@ layout:
 [training-ground.md](training-ground.md)
 {% endcontent-ref %}
 
-{% content-ref url="project-inception-story.md" %}
-[project-inception-story.md](project-inception-story.md)
+{% content-ref url="project-inception.md" %}
+[project-inception.md](project-inception.md)
 {% endcontent-ref %}
 
 

@@ -26,7 +26,7 @@
 * [Artist Profile](artist-profile/README.md)
   * [Human Identity](artist-profile/human-identity.md)
   * [Training Ground](artist-profile/training-ground.md)
-  * [Project Inception](artist-profile/project-inception-story.md)
+  * [Project Inception](artist-profile/project-inception.md)
 * [Contact](contact.md)
 * [IMPRINT](imprint.md)
 * [CATALOGUE](catalogue.md)
