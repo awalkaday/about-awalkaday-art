@@ -1,5 +1,3 @@
-# Project Inception
-
 ---
 layout:
   title:
