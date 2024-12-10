@@ -1,4 +1,7 @@
 ---
+description: >-
+  An artist's book tracing the binary footprints of an exiled wanderer and
+  Belgian-made pixels over the course of a seven-year digital odyssey.
 layout:
   title:
     visible: true
@@ -15,10 +18,6 @@ layout:
 # BOOK
 
 ## Commit [`awalkaday`](https://github.com/awalkaday) to Memory
-
-{% hint style="info" %}
-An artist's book tracing the binary footprints of an exiled wanderer and Belgian-made pixels over the course of a seven-year digital odyssey.
-{% endhint %}
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-card-target data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td></td><td><a href="authors-note.md">authors-note.md</a></td><td></td></tr><tr><td></td><td><a href="reading-guide.md">reading-guide.md</a></td><td></td></tr></tbody></table>
 
