@@ -1,7 +1,7 @@
 ---
 description: >-
-  An exhaustive table of all the blockchain-based photographs with key numerical
-  attributes.
+  An exhaustive table of all the 263 blockchain-based photographs with key
+  numerical attributes.
 layout:
   title:
     visible: true
