@@ -20,7 +20,7 @@ During the summer of 2017, Chris resided in a Red Cross camp for asylum seekers 
 awalkaday 344-2017
 {% endembed %}
 
-Using rudimentary photographic equipment and online public platforms, coupled with an open-source digital toolbox, he has visually documented a years-long journey that artfully depicts his time-bound walks and publicly logs his footprints around a land of refuge. He had initially landed in Belgium in the winter of 2016, seeking a safe haven away from the persecution by authorities of his homeland, while abroad in China, and their Chinese counterparts. His original sin, worthy of exile from Beijing, was unofficially linked to photographic portrayal of human faces and Burundian politics.
+Using rudimentary photographic equipment and online public platforms, coupled with an open-source digital toolbox, he has visually documented a years-long journey that artfully depicts his time-bound walks and publicly logs his footprints around a land of refuge. He had initially landed in Belgium in the winter of 2016, seeking a safe haven away from the persecution by authorities of his homeland, while abroad in China, and their Chinese counterparts. His original sin, worthy of exile from Beijing, was unofficially linked to the photographic portrayal of human faces and Burundian politics.
 
 {% embed url="https://arweave.net/PzcrZqCeMDwty56zrlbyngXjTYxpPCEKKo6MevHVf-Q" %}
 awalkaday 185-2022
