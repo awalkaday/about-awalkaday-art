@@ -14,7 +14,7 @@ layout:
 
 # Contact
 
-Convenient methods of contacting the walking photographer were actively ran, over an extended window of time, over worldwide optical cables.&#x20;
+Convenient methods of contacting the walking photographer were actively ran, over an extended window of time, through worldwide optical cables.&#x20;
 
 #### &#x20;[x-twitter.md](evolution-of-a-trek-on-platforms/x-twitter.md "mention") : [@awalkadayart](https://twitter.com/awalkadayart)
 
