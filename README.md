@@ -1,7 +1,7 @@
 ---
 description: >-
   An artist's book tracing the binary footprints of an exiled wanderer and
-  Belgian-made pixels over the course of a seven-year digital odyssey.
+  Belgian-made pixels over the course of a seven-year digital odyssey
 layout:
   title:
     visible: true
