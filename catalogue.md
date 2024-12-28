@@ -25,7 +25,7 @@ layout:
 
 
 
-<table><thead><tr><th width="404" align="center">SEASON</th><th width="270" align="center">Number of Photos</th></tr></thead><tbody><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.SEASON%3AAutumn">Autumn</a></td><td align="center"><code>29</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.SEASON%3AWINTER">Winter</a></td><td align="center"><code>93</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.SEASON%3ASpring">Spring</a></td><td align="center"><code>39</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.SEASON%3ASummer">Summer</a></td><td align="center"><code>102</code></td></tr></tbody></table>
+<table><thead><tr><th width="374" align="center">SEASON</th><th width="270" align="center">Number of Photos</th></tr></thead><tbody><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.SEASON%3AAutumn">Autumn</a></td><td align="center"><code>29</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.SEASON%3AWINTER">Winter</a></td><td align="center"><code>93</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.SEASON%3ASpring">Spring</a></td><td align="center"><code>39</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.SEASON%3ASummer">Summer</a></td><td align="center"><code>102</code></td></tr></tbody></table>
 
 
 
