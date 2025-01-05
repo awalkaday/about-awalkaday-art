@@ -78,7 +78,12 @@ _As any reader can see, the `A WALK≡A DAY` visual art project took more than t
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4" %}
 
-_The `awalkaday` building blocks became the focus of my geeky attention and camera lenses right after receiving a developer certification from the web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._
+_The `awalkaday` building blocks became the focus of my geeky attention and camera lenses right after receiving a developer certification from the web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._\
+
+
+{% embed url="https://daqhris.com/fcc-cert/" %}
+
+
 
 _A visual chart showing additions and deletions of encoded texts, on a weekly basis over a long time window, is available at_ [_https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency_](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency)_._
 

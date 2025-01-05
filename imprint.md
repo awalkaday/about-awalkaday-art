@@ -29,11 +29,11 @@ Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 ### Copyrights
 
-Author & Publisher: © 2024 [Chris-Armel Iradukunda `daqhris`](https://daqhris.com)
+Author & Publisher: © 2024 - 2025 [Chris-Armel Iradukunda `daqhris`](https://daqhris.com)
 
 <table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a data-mention href="./">.</a></td><td><a href="./">.</a></td></tr></tbody></table>
 
-_Initial online publication: July 2024_ • _Recent changes:_ [_December 2024_](https://github.com/awalkaday/about-awalkaday-art/commits/book/)\
+_Initial online publication: July 2024_ • _Recent changes:_ [_January 2025_](https://github.com/awalkaday/about-awalkaday-art/commits/book/)\
 &#xNAN;_&#x4F;pen-sourced by `daqhris`(assisted by `gitbook-bot`)_
 
 {% hint style="warning" %}
@@ -60,7 +60,7 @@ awalkaday 91-2022
 
 #### Caregiving Friends
 
-A token of gratitude goes to Adva Z., Alice D., Amir B., Andrée D., Anna R., Ant H., Britt H., Christine C., Christophe M., Cyril M., Daan V., Effi W., Peter K., Simon T., Shila A., Suleiman Z., Valérie H. and Willeke V.
+A token of gratitude goes to Adva Z., Alice D., Amir B., Andrée D., Anna R., Ant H., Britt H., Christine C., Christophe M., Cyril M., Daan V., Effi W., Grysbok & Agami, Peter K., Simon T., Shila A., Suleiman Z., Valérie H. and Willeke V.
 
 #### Book Publication
 
