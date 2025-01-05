@@ -22,7 +22,7 @@ About half a year later, 263 [WALK tokens](https://etherscan.io/token/0xe31801c2
 
 {% embed url="https://deca.art/collection/awalkaday-art" %}
 
-In the virtual realm of blockchain-based art platforms, the artist has created a profile on behalf of his work and listed artworks on [Coinbase](https://nft.coinbase.com/collection/awalkaday-art), [Foundation](https://foundation.app/collection/awalkaday-art), [Rightclick](https://rc.xyz/daqhris/collections/awalkaday.art), [The Hug](https://thehug.xyz/artists/daqhris/portfolio/gallery/86a4f0a8-5609-4885-a9e2-ca0b625082e9), [Zora](https://zora.co/collect/eth:0xe31801c2e58b151c3ded2cb29da56147b7f27eb1), [SuperRare](https://superrare.com/daqhris?artwork=ONLY_SERIES) and [Manifold](https://manifold.gallery/eth:0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1) starting from the second half of 2023.
+In the virtual realm of blockchain-based art platforms, the artist has created a profile on behalf of his work and listed artworks on [Coinbase](https://wallet.coinbase.com/assets/nft/collection/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1?chainId=1), [Foundation](https://foundation.app/collection/awalkaday-art), [Rightclick](https://rc.xyz/daqhris/collections/awalkaday.art), [The Hug](https://thehug.xyz/artists/daqhris/portfolio/gallery/86a4f0a8-5609-4885-a9e2-ca0b625082e9), [Zora](https://zora.co/collect/eth:0xe31801c2e58b151c3ded2cb29da56147b7f27eb1), [SuperRare](https://superrare.com/daqhris?artwork=ONLY_SERIES), [Manifold](https://manifold.gallery/eth:0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1) and [Highlight](https://highlight.xyz/mint/ethereum:0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1) starting from the second half of 2023.
 
 {% embed url="https://foundation.app/collection/awalkaday-art" %}
 
