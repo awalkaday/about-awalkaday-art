@@ -21,7 +21,7 @@ _This artistic project was born in my spare time, developed independently in pub
 awalkaday 219-2022
 {% endembed %}
 
-_The project's building blocks first appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_, four months after the summer debut of walking and photographing. From the beginning, the creative process was intuitive, occasional, but always time-stamped by a digital clock._
+_The project's building blocks first appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_, four months after the summer debut of walking and photographing. From the beginning, the creative process was intuitively occurring during free time, from time to time, and publicly time-stamped by a digital clock._
 
 {% embed url="https://github.com/daqhris/daqhris.github.io/blob/80a18e2a08c1413ea8b4a26d1a86129624b8809f/a-walk_a-day.html#L1-L40" %}
 
@@ -72,9 +72,9 @@ _The project's building blocks first appeared online in_ [_November 2017_](https
 
 
 
-_The original page, titled `FAQ | A WALK≡A DAY`, was moved from a personal site to an independent project on GitHub, in_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4)_, where all the sites built under the umbrella of `awalkaday` found a safe shelter._&#x20;
+_The original page, titled `FAQ | A WALK≡A DAY`, was moved from a personal site to an independent project on GitHub, in_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4)_, where all the sites built under the umbrella of `awalkaday` found a safe shelter. As any reader can see, the `A WALK≡A DAY` visual art project took more than the predicted five years to be completed._&#x20;
 
-_As any reader can see, the `A WALK≡A DAY` visual art project took more than the predicted five years to complete. This book features adapted texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) _which has been a work-in-progress since the project's inception._&#x20;
+_This book poetically features adapted texts from_ [_about.awalkaday.art_](https://about.awalkaday.art)_, which has been a work-in-progress since the project's inception, illustrated with visually evocative `awalkaday` photographs. Its pages tell the tale of a self-effacing wanderer and hint at challenges faced on a long marching mission._
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4" %}
 
@@ -89,6 +89,6 @@ _A visual chart showing additions and deletions of encoded texts, on a weekly ba
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency" %}
 
-_For an accurate time-based view and history of changes made via public `git` commits, please visit the open source code repository on_ [_GitHub.com_](https://github.com/awalkaday/about-awalkaday-art/tree/book)_._
+_For an accurate time-based view of changes made to the book's drafts and applied via public `git` commits, please visit the open source code repository on_ [_GitHub.com_](https://github.com/awalkaday/about-awalkaday-art/tree/book)_._
 
 #### `FRONT-1`
