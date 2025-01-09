@@ -21,7 +21,7 @@ _This artistic project was born in my spare time, developed independently in pub
 awalkaday 219-2022
 {% endembed %}
 
-_The project's building blocks first appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_, four months after the summer debut of walking and photographing. From the beginning, the creative process was intuitive, non-linear, and time-stamped by a digital clock._
+_The project's building blocks first appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_, four months after the summer debut of walking and photographing. From the beginning, the creative process was intuitive, occasional, but always time-stamped by a digital clock._
 
 {% embed url="https://github.com/daqhris/daqhris.github.io/blob/80a18e2a08c1413ea8b4a26d1a86129624b8809f/a-walk_a-day.html#L1-L40" %}
 

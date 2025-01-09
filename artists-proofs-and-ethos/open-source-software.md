@@ -14,7 +14,7 @@ layout:
 
 # Open Source Software
 
-An open-source ethos which embodies principles such as transparency, collaboration, and community-driven development has been embraced with open arms.
+An open-source ethos which embodies principles such as transparency, collaboration, and community-driven development was embraced with open arms.
 
 {% embed url="https://arweave.net/cygGvgGjhJ90lTr9DU38tJVP4LM3IuSyICrzCtvjtus" %}
 awalkaday 79-2022

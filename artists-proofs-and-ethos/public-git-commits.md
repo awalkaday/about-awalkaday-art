@@ -20,7 +20,7 @@ layout:
 
 {% embed url="https://keybase.io/daqhris/graph" %}
 
-The creative process was treated as a series of iterative steps that rely on public `git` commits. In the same way that creators of works of art used to refine their [artist's proofs](https://en.wikipedia.org/wiki/Artist's_proof), the `awalkaday` project has evolved incrementally, leaving behind a rich historical trail of its development intact and public. It is not far from being seen as a novel concept that mimics what is defined as [evolution](https://evolution.berkeley.edu/evolution-101/the-history-of-life-looking-at-the-patterns/trees-not-ladders/) in the science of evolutionary biology.
+The creative process was treated as a series of iterative steps that rely on public `git` commits. By improving upon the way that creators of works of art used to refine their [artist's proofs](https://en.wikipedia.org/wiki/Artist's_proof), the `awalkaday` project evolved incrementally, leaving behind a rich historical trail of its development intact and public. It was not far from being seen as a novel concept that mimics what is defined as [evolution](https://evolution.berkeley.edu/evolution-101/the-history-of-life-looking-at-the-patterns/trees-not-ladders/) in the science of evolutionary biology.
 
 {% embed url="https://arweave.net/FScX2aEcLOJZM2Rv0y_RJ75a_vR57qYMXY9FOYOiD58" %}
 awalkaday 179-2022

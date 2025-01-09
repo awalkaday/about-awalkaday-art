@@ -20,6 +20,6 @@ awalkaday 4-2022
 
 Chris started learning photography as a self-taught enthusiast during the early years of Instagram, and practicing after purchasing his first Canon camera circa 2012. At the time, he was studying [computer science and engineering](https://en.wikipedia.org/wiki/Computer_science_and_engineering) and working part-time in the film industry in Beijing, China.
 
-His style combines traditional photographic techniques with digital editing and publishing tools. The photographs are monochrome with a 1:1 aspect ratio and capture the timeless charm of the Belgian landscape.
+His style combines traditional photographic techniques with digital editing and publishing tools. The photographs are monochrome with a 1:1 aspect ratio, and capture memories of time-bound walks in exile and the timeless charm of the Belgian landscape.
 
 #### `23`

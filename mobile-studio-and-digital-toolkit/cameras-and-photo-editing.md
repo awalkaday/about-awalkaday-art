@@ -26,7 +26,7 @@ In early 2021, a smartphone operating under [Android One](https://www.android.co
 awalkaday 73-2022
 {% endembed %}
 
-The [Nokia](https://www.hmd.com/en_int/nokia-2-3)'s longevity and endurance have earned it the merit of being compared to a cheap handheld [Air Force One](https://en.m.wikipedia.org/wiki/Air_Force_One_\(disambiguation\)) in the hands of a moving target of celestial attention and protection. In a stunning turn of events, all of the devices cryptographically signed as his on a [cyberspace board](https://keybase.io/daqhris/devices) in the summer of 2022 were hit by a cyberattack, deniably sponsored by a nation-state, in the following season, proving Android One's resilience to malicious interference.&#x20;
+The [Nokia](https://www.hmd.com/en_int/nokia-2-3)'s longevity and endurance earned it the merit of being compared to a cheap handheld [Air Force One](https://en.m.wikipedia.org/wiki/Air_Force_One_\(disambiguation\)) in the hands of a moving target of celestial attention and protection. In a stunning turn of events, all of the devices cryptographically signed as his on a [cyberspace board](https://keybase.io/daqhris/devices) in the summer of 2022 were hit by a cyberattack, deniably sponsored by a nation-state, in the following season, proving Android One's resilience to malicious interference.&#x20;
 
 {% embed url="https://arweave.net/i6PP4en92kXHtQLpdd0XBSBrQuY6a5cWgMt3A1gJBCI" %}
 awalkaday 253-2022
