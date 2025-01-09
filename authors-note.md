@@ -21,7 +21,7 @@ _This artistic project was born in my spare time, developed independently in pub
 awalkaday 219-2022
 {% endembed %}
 
-_The project's building blocks first appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_, four months after the summer debut of walking and photographing. From the beginning, the creative process was intuitively, leisurely or swiftly occurring from time to time, offline or online, until being finalized retrospectively with an emphasis on narrative writing, visual storytelling, public timestamps and digital footprints._
+_The project's building blocks first appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_, four months after the summer debut of walking and photographing. From the beginning, the creative process was intuitively, leisurely or swiftly occurring from time to time, offline or online, until being finalized retrospectively with an emphasis on narrative writing, visual storytelling, digital footprints and timestamps._
 
 {% embed url="https://github.com/daqhris/daqhris.github.io/blob/80a18e2a08c1413ea8b4a26d1a86129624b8809f/a-walk_a-day.html#L1-L40" %}
 
@@ -74,7 +74,7 @@ _The project's building blocks first appeared online in_ [_November 2017_](https
 
 _The original page, titled `FAQ | A WALK≡A DAY`, was moved from a personal site to an independent project on GitHub, in_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4)_, where all the sites built under the umbrella of `awalkaday` found a safe shelter. As any reader can see, the `A WALK≡A DAY` visual art project took more than the predicted five years to be completed._&#x20;
 
-_This book poetically features adapted texts from_ [_about.awalkaday.art_](https://about.awalkaday.art)_, which has been a work-in-progress since the project's inception, illustrated with visually evocative `awalkaday` photographs. Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hints at what has come to pass during a long-lasting march in physical and digital worlds._
+_This book poetically features adapted texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) — _a work-in-progress page dating from the project's early days_ — _illustrated with visually evocative photographs. Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass during a long-lasting march._
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4" %}
 
