@@ -17,7 +17,7 @@ layout:
 
 # BOOK
 
-## COMMIT [`awalkaday`](https://github.com/awalkaday) TO MEMORY
+## COMMIT `awalkaday` TO MEMORY
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-card-target data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td></td><td><a href="authors-note.md">authors-note.md</a></td><td></td></tr><tr><td></td><td><a href="reading-guide.md">reading-guide.md</a></td><td></td></tr></tbody></table>
 
@@ -29,7 +29,7 @@ awalkaday 251-2022
 
 ### Synopsis
 
-This artist's book documents the development and growth of [awalkaday.art](https://awalkaday.art) from its conception in 2017 to its conclusion in 2024. The book's pages are bound with the `git`-based digital footprints of the photo series, creating a narrative that's as much about the medium as the message.
+This artist's book documents the development and growth of [`awalkaday`](https://github.com/awalkaday) from its conception in 2017 to its conclusion in 2024. The book's pages are bound with the `git`-based digital footprints of the photo series, creating a narrative that's as much about the medium as the message.
 
 A unique blend of digital art forms—black-and-white photography, open-source code, social media posts, and non-fungible blockchain tokens—comes together with third-person narration to create an autobiographical work of creative nonfiction. Together, these elements illustrate and trace the history of a photographic odyssey across a range of public spaces and computing platforms.
 
