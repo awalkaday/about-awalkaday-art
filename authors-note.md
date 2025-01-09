@@ -74,7 +74,7 @@ _The project's building blocks first appeared online in_ [_November 2017_](https
 
 _The original page, titled `FAQ | A WALK≡A DAY`, was moved from a personal site to an independent project on GitHub, in_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4)_, where all the sites built under the umbrella of `awalkaday` found a safe shelter. As any reader can see, the `A WALK≡A DAY` visual art project took more than the predicted five years to be completed._&#x20;
 
-_This book poetically features adapted texts from_ [_about.awalkaday.art_](https://about.awalkaday.art)_, which has been a work-in-progress since the project's inception, illustrated with visually evocative `awalkaday` photographs. Its pages tell the tale of a self-effacing wanderer and hint at challenges faced on a long marching mission._
+_This book poetically features adapted texts from_ [_about.awalkaday.art_](https://about.awalkaday.art)_, which has been a work-in-progress since the project's inception, illustrated with visually evocative `awalkaday` photographs. Its pages tell the tale of a wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hints at what has come to pass during a long-lasting march in physical and digital worlds._
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4" %}
 
@@ -82,8 +82,6 @@ _The `awalkaday` building blocks became the focus of my geeky attention and came
 
 
 {% embed url="https://daqhris.com/fcc-cert/" %}
-
-
 
 _A visual chart showing additions and deletions of encoded texts, on a weekly basis over a long time window, is available at_ [_https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency_](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency)_._
 
