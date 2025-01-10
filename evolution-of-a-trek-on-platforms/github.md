@@ -17,7 +17,7 @@ layout:
 
 [GitHub](https://github.com/) offers a collaborative environment to programmers in addition to version control and project management tools.
 
-The underlying source code for the _awalkaday.art Photo Collection_ is hosted and runs on GitHub, where all changes can be tracked and audited.
+The underlying source code for the `awalkaday` series of photos is hosted and runs on GitHub, where all changes can be tracked and audited.
 
 The public code repositories, available in [`git`](https://git-scm.com/) format, contain all commits and code changes from day one of the project at [github.com/awalkaday](https://github.com/awalkaday).
 
@@ -26,6 +26,8 @@ The public code repositories, available in [`git`](https://git-scm.com/) format,
 {% embed url="https://github.com/awalkaday/about-awalkaday-art" %}
 
 {% embed url="https://github.com/awalkaday/collect-awalkaday-art" %}
+
+
 
 {% embed url="https://www.instagram.com/walk.day/p/C8casQwtnMP/" %}
 A graph visualizing years-long coding progress, representing time spent building the web gallery.
