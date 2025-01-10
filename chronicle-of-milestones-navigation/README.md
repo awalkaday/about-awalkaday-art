@@ -14,8 +14,6 @@ layout:
 
 # Chronicle of Milestones Navigation
 
-Time to dive into some key moments that shaped his artistic journey - an odyssey navigated in solitude on a do-it-yourself creative path titled `awalkaday`_._ Each milestone not only marked a significant achievement, but also added another chapter to an evolving story. Join us as we explore the turning points, triumphs and transformative experiences that shaped the nature of this photographic series.
-
 {% content-ref url="ongoing-pathways.md" %}
 [ongoing-pathways.md](ongoing-pathways.md)
 {% endcontent-ref %}
