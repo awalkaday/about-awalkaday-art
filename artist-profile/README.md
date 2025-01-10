@@ -32,4 +32,6 @@ layout:
 awalkaday 8-2018
 {% endembed %}
 
-#### `21`
+&#x20;
+
+**`21`**

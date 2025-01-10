@@ -22,4 +22,6 @@ Born in Burundi (1992), he pursued an artistic passion in the midst of his twent
 awalkaday 202-2021
 {% endembed %}
 
-#### `22`
+&#x20;
+
+**`22`**

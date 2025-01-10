@@ -22,4 +22,6 @@ Chris started learning photography as a self-taught enthusiast during the early 
 
 His style combined traditional photographic techniques with digital editing and publishing tools. The photographs are monochrome with a 1:1 aspect ratio, and capture time-bound memories recorded during walks geofenced to a Belgian, and in part, European landscape.
 
-#### `23`
+
+
+**`23`**

@@ -31,4 +31,6 @@ Looking way back, an initial foray into GitHub in May 2011, at the [age of ninet
 awalkaday 356-2017
 {% endembed %}
 
-#### `19`
+&#x20;
+
+**`19`**
