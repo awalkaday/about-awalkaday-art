@@ -40,7 +40,7 @@ All of the photographs were edited using Android software applications before be
 
 Overall, the two cameras had basic features to balance highlights and shadows in photographs, produced decent detail in well-lit conditions, and assisted with scene recognition and optimization, but these cameras were limited by the mediocre sensors.
 
-{% embed url="https://arweave.net/hVUJWw9AGBUlWBJZeX6gP5rF_ipfjOl7XdPMevy6Zno" %}
+{% embed url="https://qvkqswypiambkjkycjmxs7vah6nml7rkl6gos6252pghv7f2mz5a.arweave.net/hVUJWw9AGBUlWBJZeX6gP5rF_ipfjOl7XdPMevy6Zno" %}
 awalkaday 28-2022
 {% endembed %}
 
