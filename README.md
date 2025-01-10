@@ -35,10 +35,10 @@ A unique blend of digital art forms—black-and-white photography, open-source c
 
 It is a companion piece to a collection of 263 photographs taken during regular walks in Belgium, Europe. A book that concludes a long-term project by an exiled artist and pioneers a novel approach to publishing digital art. By virtue of the artistic medium, all of the drafts and years of changes are baked into this online edition. Supported by [GitBook](https://www.gitbook.com/) as an open source project under a community plan.
 
-#### `25 Pages`—`ENGLISH`—`Black & White Digital Photography`
+**`25 Pages`—`ENGLISH`—`Black & White Digital Photography`**
 
-#### 📖 [book.awalkaday.art](https://book.awalkaday.art)
+📖 [book.awalkaday.art](https://book.awalkaday.art)
 
-#### 🛠 [github.com/awalkaday/about-awalkaday-art/tree/book](https://github.com/awalkaday/about-awalkaday-art/tree/book)
+🛠 [github.com/awalkaday/about-awalkaday-art/tree/book](https://github.com/awalkaday/about-awalkaday-art/tree/book)
 
 #### `COVER`
