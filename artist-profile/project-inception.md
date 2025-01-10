@@ -38,9 +38,7 @@ awalkaday 40-2022
 
 Contrary to modern conventions, `awalkaday.art` is neither a state-sponsored artistic endeavor nor a brick-and-mortar art gallery.&#x20;
 
-Since day one of the project, the artist endured the human experience of lacking easy access to medical care, health insurance, humanitarian aid and banking services.&#x20;
-
-He faced recurring unemployment, despite numerous skills, and often burned organic calories instead of emitting gas pollutants. To find out more, read his résumé online at [daqhris.com/about](https://daqhris.com/about).
+Since day one of the project, the artist endured the human experience of lacking easy access to medical care, health insurance, humanitarian aid and banking services. He faced recurring unemployment, despite numerous skills, and often burned organic calories instead of emitting gas pollutants.&#x20;
 
 {% embed url="https://arweave.net/WB8akAD3XwwJ-5QCWgH9k-4eaDNRctqmTzBH4hwLwyo" %}
 awalkaday 184-2021
