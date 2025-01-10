@@ -23,8 +23,12 @@ In total, 454 photographs can be seen on Instagram. They all carry the hashtag [
 
 {% embed url="https://www.instagram.com/walk.day/" %}
 
+
+
 {% embed url="https://arweave.net/L2CRb0ySUeg9xmZDRDQBI2zzHd4Cm9608AioFTSMrhc" %}
 awalkaday 167-2021
 {% endembed %}
 
-#### `12`
+&#x20;
+
+**`12`**

@@ -89,4 +89,6 @@ _A visual chart showing additions and deletions of encoded texts, on a weekly ba
 
 _For an accurate time-based view of changes made to the book's drafts and applied via public `git` commits, please visit the open source code repository on_ [_GitHub.com_](https://github.com/awalkaday/about-awalkaday-art/tree/book)_._
 
-#### `FRONT-1`
+
+
+**`FRONT-1`**

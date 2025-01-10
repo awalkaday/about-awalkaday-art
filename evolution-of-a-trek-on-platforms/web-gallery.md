@@ -30,7 +30,9 @@ Visit the virtual exhibition space in an environment that simulates a lifelike d
 {% endembed %}
 
 {% embed url="https://www.instagram.com/walk.day/reel/C4lci5_r0a8/" %}
-A web browser-based tour of the virtual exhibition hall dedicated to _awalkaday.art_
+A web browser-based tour of the virtual exhibition hall dedicated to `awalkaday.art`
 {% endembed %}
 
-#### `14`
+
+
+**`14`**

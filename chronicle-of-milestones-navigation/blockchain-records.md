@@ -34,4 +34,6 @@ Since then, after honing his skills as an Ethereum app developer and overcoming 
 
 {% embed url="https://ethglobal.com/showcase/zinnekerescuemission-9fwjf" %}
 
-#### `10`
+&#x20;
+
+**`10`**

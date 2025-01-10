@@ -36,4 +36,6 @@ The web gallery and the blockchain smart contract were openly developed and are 
 awalkaday 186-2022
 {% endembed %}
 
-#### `2`
+
+
+**`2`**

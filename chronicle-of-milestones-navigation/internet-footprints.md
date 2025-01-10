@@ -42,4 +42,6 @@ A congratulatory message citing the virtual exhibition hall of the photo series 
 The final photo shared on Instagram in Oct 2022. Its original file, along with four others posted in the same month, were lost. They were not minted on Ethereum.
 {% endembed %}
 
-#### `9`
+&#x20;
+
+**`9`**
