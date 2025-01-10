@@ -82,7 +82,7 @@ _This book poetically features adapted texts from_ [_about.awalkaday.art_](https
 
 _For an accurate time-based view of changes made to the book's drafts and applied via public `git` commits, please visit the GitHub-based open source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis over a long time window, is available_ [_here_](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency)_._
 
-{% embed url="https://github.com/awalkaday/about-awalkaday-art/tree/book" %}
+{% embed url="https://github.com/awalkaday/about-awalkaday-art/commits/book/" %}
 
 
 
