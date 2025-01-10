@@ -17,13 +17,13 @@ layout:
 
 [GitHub](https://github.com/) offers a collaborative environment to programmers in addition to version control and project management tools.
 
-The underlying source code for the `awalkaday` series of photos is hosted and runs on GitHub, where all changes can be tracked and audited.
+The underlying source code powering at least three pillars of the `awalkaday` series of photos — web gallery, online book, onchain store — is hosted and runs on GitHub, where all changes can be tracked and audited.
 
-The public code repositories, available in [`git`](https://git-scm.com/) format, contain all commits and code changes from day one of the project at [github.com/awalkaday](https://github.com/awalkaday).
+The public code repositories, available in [`git`](https://git-scm.com/) format, contain all commits and code changes from the beginning of the project at [github.com/awalkaday](https://github.com/awalkaday).
 
 {% embed url="https://github.com/awalkaday/awalkaday-art" %}
 
-{% embed url="https://github.com/awalkaday/about-awalkaday-art" %}
+{% embed url="https://github.com/awalkaday/about-awalkaday-art/tree/book" %}
 
 {% embed url="https://github.com/awalkaday/collect-awalkaday-art" %}
 
