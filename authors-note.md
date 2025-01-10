@@ -21,7 +21,7 @@ _This artistic project was born in my spare time, developed independently in pub
 awalkaday 219-2022
 {% endembed %}
 
-_The project's building blocks first appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_, four months after the summer debut of walking and photographing. From the beginning, the creative process was intuitively, leisurely or swiftly occurring from time to time, offline or online. Until, being finalized retrospectively with an emphasis on narrative writing, visual storytelling, book format, and timestamped footprints._
+_The project's building blocks first appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_, four months after the summer debut of walking and photographing. From the beginning, the creative process was intuitively, leisurely or swiftly occurring from time to time, offline or online. Until, being finalized retrospectively with an emphasis on narrative writing, visual storytelling, book formatting, and timestamped footprints._
 
 {% embed url="https://github.com/daqhris/daqhris.github.io/blob/80a18e2a08c1413ea8b4a26d1a86129624b8809f/a-walk_a-day.html#L1-L40" %}
 
@@ -70,24 +70,20 @@ _The project's building blocks first appeared online in_ [_November 2017_](https
 ```
 {% endcode %}
 
-_As any reader can see, the `A WALK≡A DAY` visual art project took more than the predicted five years to be completed. The original page, titled `FAQ | A WALK≡A DAY`, was migrated from a personal site to become part of an independent project on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter._&#x20;
+_As any reader can see, the `A WALK≡A DAY` visual art project took more than the predicted five years to be completed. The original page, titled `FAQ | A WALK≡A DAY`, was migrated away from a personal site to an independent project on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter._&#x20;
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/7660a21a32aa6c6b539beaf4b20c12c11fa4f148" %}
+
+_The `awalkaday` building blocks became the focus of my geeky attention and camera lenses from_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4) _onwards, right after receiving a developer certification from the web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._
+
+{% embed url="https://daqhris.com/fcc-cert/" %}
 
 _This book poetically features adapted texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) — _a work-in-progress page dating from the project's early days_ — _illustrated with visually evocative `awalkaday` photographs._ \
 _Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass during a long-lasting march._
 
-{% embed url="https://about.awalkaday.art/" %}
+_For an accurate time-based view of changes made to the book's drafts and applied via public `git` commits, please visit the GitHub-based open source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis over a long time window, is available_ [_here_](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency)_._
 
-_The `awalkaday` building blocks became the focus of my geeky attention and camera lenses in_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4)_, right after receiving a developer certification from the web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._
-
-{% embed url="https://daqhris.com/fcc-cert/" %}
-
-_A visual chart showing additions and deletions of encoded texts, on a weekly basis over a long time window, is available at_ [_https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency_](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency)_._
-
-{% embed url="https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency" %}
-
-_For an accurate time-based view of changes made to the book's drafts and applied via public `git` commits, please visit the open source code repository on_ [_GitHub.com_](https://github.com/awalkaday/about-awalkaday-art/tree/book)_._
+{% embed url="https://github.com/awalkaday/about-awalkaday-art/tree/book" %}
 
 
 
