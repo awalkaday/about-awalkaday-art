@@ -78,8 +78,7 @@ _The `awalkaday` building blocks became the focus of my geeky attention and came
 
 {% embed url="https://daqhris.com/fcc-cert/" %}
 
-_This book poetically features adapted texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) — _a single page dating from the project's early days_ — _illustrated with visually evocative `awalkaday` photographs._ \
-_Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass during a long-lasting march._
+_This book poetically features adapted texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) — _a single page dating from the project's early days_ — _illustrated with visually evocative `awalkaday` photographs. Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass during a long-lasting march._
 
 _For an accurate time-based view of changes made to the book's drafts and applied via public `git` commits, please visit the GitHub-based open source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis over a long time window, is available_ [_here_](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency)_._
 
