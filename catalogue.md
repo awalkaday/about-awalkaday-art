@@ -21,7 +21,7 @@ layout:
 
 
 
-<table><thead><tr><th width="376" align="center">YEAR</th><th width="252" align="center">Number of Photos</th></tr></thead><tbody><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.YEAR%3A2017">2017</a></td><td align="center"><code>30</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.YEAR%3A2018">2018</a></td><td align="center"><code>13</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.YEAR%3A2021">2021</a></td><td align="center"><code>107</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.YEAR%3A2022">2022</a></td><td align="center"><code>113</code></td></tr></tbody></table>
+<table><thead><tr><th width="369" align="center">YEAR</th><th width="252" align="center">Number of Photos</th></tr></thead><tbody><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.YEAR%3A2017">2017</a></td><td align="center"><code>30</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.YEAR%3A2018">2018</a></td><td align="center"><code>13</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.YEAR%3A2021">2021</a></td><td align="center"><code>107</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.YEAR%3A2022">2022</a></td><td align="center"><code>113</code></td></tr></tbody></table>
 
 
 

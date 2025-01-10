@@ -14,11 +14,11 @@ layout:
 
 # Blockchain Records
 
-The blockchain publication of the photo collection was achieved with the creation of an eponymous [smart contract](https://ethereum.org/en/developers/docs/smart-contracts/) in [August 2022](https://etherscan.io/tx/0x3cce44b92db9e6eb887fcbe90d59f5951e9928dea4540afbfe9fd3c2e9662f1f). This was followed by the registration of [awalkaday.art](https://app.ens.domains/awalkaday.art) as an Ethereum domain name in [September 2022](https://etherscan.io/tx/0x353f1900e073e6d97f8230021c3fce153b4b930269e5c8bd4f47c9c3950b9337).
+The blockchain publication of the photo collection was achieved with the creation of an eponymous [smart contract](https://ethereum.org/en/developers/docs/smart-contracts/) in [August 2022](https://etherscan.io/tx/0x3cce44b92db9e6eb887fcbe90d59f5951e9928dea4540afbfe9fd3c2e9662f1f). This was followed by the registration of [`awalkaday.art`](https://app.ens.domains/awalkaday.art) as an Ethereum domain name in [September 2022](https://etherscan.io/tx/0x353f1900e073e6d97f8230021c3fce153b4b930269e5c8bd4f47c9c3950b9337).
 
 {% embed url="https://app.ens.domains/awalkaday.art" %}
 
-About half a year later, 263 [WALK tokens](https://etherscan.io/token/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1) were minted on Ethereum in [February 2023](https://etherscan.io/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b), marking a significant moment in the onchain history of `awalkaday.art`_._
+About half a year later, 263 [WALK tokens](https://etherscan.io/token/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1) were minted on Ethereum in [February 2023](https://etherscan.io/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b), marking a significant moment in the onchain history of the tokenized photo serie&#x73;_._
 
 {% embed url="https://deca.art/collection/awalkaday-art" %}
 
