@@ -37,9 +37,9 @@ It is a companion piece to a collection of 263 photographs taken during regular 
 
 **`25 Pages`—`ENGLISH`—`Black & White Digital Photography`**
 
-📖 [book.awalkaday.art](https://book.awalkaday.art)
+📖 `book.awalkaday.art`
 
-🛠 [github.com/awalkaday/about-awalkaday-art/tree/book](https://github.com/awalkaday/about-awalkaday-art/tree/book)
+🛠 `github.com/awalkaday/about-awalkaday-art/tree/book`
 
 
 
