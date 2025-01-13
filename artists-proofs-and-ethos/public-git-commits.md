@@ -18,7 +18,7 @@ layout:
 
 [Git commits](https://github.com/git-guides/git-commit#git-commit) are snapshots of code changes in such a version control system at a particular point in time. Each commit captures signed modifications made by its developer.&#x20;
 
-The creative process was treated as a series of iterative steps that rely on public `git` commits. The `awalkaday` commits are kept openly, along with [cryptographic signatures](https://keybase.io/daqhris/graph), and organized in a linear sequence within a lightweight file.
+The creative process was treated as a series of iterative steps that rely on public `git` commits. The `awalkaday` commits were kept openly, along with [cryptographic signatures](https://keybase.io/daqhris/graph), and organized in a linear sequence within a lightweight file.
 
 {% embed url="https://keybase.io/daqhris/graph" %}
 
