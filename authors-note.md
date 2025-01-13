@@ -23,7 +23,9 @@ awalkaday 219-2022
 
 _The project's building blocks first appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_, four months after the summer debut of walking and photographing. From the beginning, the creative process was intuitively, leisurely or swiftly occurring from time to time, offline or online. Until, being finalized retrospectively with an emphasis on narrative writing, visual storytelling, book formatting, and timestamped footprints._
 
-{% embed url="https://github.com/daqhris/daqhris.github.io/blob/80a18e2a08c1413ea8b4a26d1a86129624b8809f/a-walk_a-day.html#L1-L40" %}
+{% embed url="https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f" %}
+
+
 
 {% code title="a-walk_a-day.html" %}
 ```html
