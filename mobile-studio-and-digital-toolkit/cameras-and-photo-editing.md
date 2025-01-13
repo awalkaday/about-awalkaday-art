@@ -36,7 +36,7 @@ In a stunning turn of events, all of the devices cryptographically signed as his
 awalkaday 253-2022
 {% endembed %}
 
-All of the photographs were edited using Android software applications before being sent off to cyberspace, namely [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed) (uncolouring into greyscale), [White Border](https://play.google.com/store/apps/details?id=com.vector123.whiteborder) (wide white framing), and [Scrambled Exif](https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif) (removal of native metadata). All manually processed in a procedural manner for the sake of evading global surveillance and third-party sabotage.&#x20;
+All of the photographs were edited using Android software applications before being sent off to cyberspace, namely [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed) (uncolouring into greyscale), [White Border](https://play.google.com/store/apps/details?id=com.vector123.whiteborder) (wide white framing), and [Scrambled Exif](https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif) (removal of native metadata). All manually processed in a procedural manner in an attempt to escape from real-time global surveillance and hostile third-party sabotage.&#x20;
 
 Overall, the two cameras had basic features to balance highlights and shadows in photographs, produced decent detail in well-lit conditions, and assisted with scene recognition and optimization, but these cameras were limited by the mediocre sensors.
 
