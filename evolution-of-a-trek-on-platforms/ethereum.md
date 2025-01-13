@@ -36,7 +36,7 @@ The monochromatic snapshots were assembled, named and minted during a wintertime
 
 He was able to safeguard them on a state-of-the-art blockchain on [Valentine's Day](https://etherscan.io/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b) in 2023, fortunately one day before a [scheduled eviction](https://www.lalibre.be/belgique/societe/2023/02/09/schaerbeek-le-palais-des-droits-sera-vide-pour-le-15-fevrier-J4FJQRA6UBGYNA2I4KKPDM27LA/) from the infamous Schaerbeek shelter.&#x20;
 
-Once dropped into a sovereign financial ecosystem, the fear of losing the `awalkaday` photographs vanished into thin air, escaping the confines of his last encrypted device, the Android One, whose secure updates had been halted at the [end of 2022](https://source.android.com/docs/security/bulletin/2022-12-01).
+Once released into a sovereign financial ecosystem, the fear of losing the `awalkaday` photographs vanished into thin air, escaping the confines of his last encrypted device, the Android One, whose secure updates had been halted at the [end of 2022](https://source.android.com/docs/security/bulletin/2022-12-01).
 
 {% embed url="https://arweave.net/0-_c04sCcDNe-rkCZvTETL1TkmxsLroCqoXVsaWSpOU" %}
 awalkaday 174-2022
