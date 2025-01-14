@@ -16,9 +16,9 @@ layout:
 
 ### Fun Facts
 
-The photograph on the [cover](./), _awalkaday 251-2022_, was taken and published online prior to the installation of a sculpture on the same site inside a public park in Namur (Wallonia, Belgium).
+The photograph on the [cover](./), `awalkaday 251-2022`, was taken and published online prior to the installation of a sculpture on the same site inside a public park in Namur (Wallonia, Belgium).
 
-<figure><img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="" width="188"><figcaption><p><em>awalkaday 251-2022</em></p></figcaption></figure>
+<figure><img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="" width="188"><figcaption><p><code>awalkaday 251-2022</code></p></figcaption></figure>
 
 This black-and-white photo captured a fleeting moment in time before a renowned sculpture was moved to its current and permanent location. It immortalized a romantic outdoor scene : a lovely couple sitting on the grass in the shade of a glowing tree.
 
@@ -28,7 +28,7 @@ Check out the onchain photo on The Hug.
 
 Sculpted in bronze by Belgian artist [_Nat Neujean_](https://www.natneujean.com/), _The Daughters of Water (1951)_ depicts two intertwined nymphs, symbolizing two European rivers : the [_Meuse_](https://en.wikipedia.org/wiki/Meuse) and the [_Sambre_](https://en.wikipedia.org/wiki/Sambre). These four color photos of the sculpture were taken on May 8 (2024), a day that commemorates the second war-ending victory of democracy over fascist ideologies across Europe in the mid-20th century.
 
-_awalkaday 251-2022_ and [_The Daughters of Water_](https://statues.vanderkrogt.net/object.php?webpage=ST\&record=bena030) both have their roots in a 19th century park named after the first Queen of the Belgians, _Louise-Marie_. Note the uncanny resemblance between the bronze sculpture of a pair of nymphs (below) and the photo of a romantic couple of humans (above), all in the shade of the same slow-aging tree.
+`awalkaday 251-2022` and [_The Daughters of Water_](https://statues.vanderkrogt.net/object.php?webpage=ST\&record=bena030) both have their roots in a 19th century park named after the first Queen of the Belgians, _Louise-Marie_. Note the uncanny resemblance between the bronze sculpture of a pair of nymphs (below) and the photo of a romantic couple of humans (above), all in the shade of the same slow-aging tree.
 
 <div><figure><img src=".gitbook/assets/IMG_20240508_162733_3-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162755_1-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162716_4.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
@@ -36,7 +36,7 @@ _awalkaday 251-2022_ and [_The Daughters of Water_](https://statues.vanderkrogt.
 
 ### Ethereum Domain Names + Onchain Photo Showcase
 
-Four [ENS domains](https://ens.domains/), named after Belgian towns and rivers, have been decorated with [awalkaday.art](https://app.zerion.io/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82/nfts?collections=85657215) photographs. The local landscape was mapped and displayed on an Ethereum blockchain naming protocol to celebrate a rare week of blockchain-focused international conferences in Belgium: [EthCC \[7\]](https://ethcc.io/archive?page=1\&event=EthCC%5B7%5D) & [ETHGlobal Brussels](https://ethglobal.com/events/brussels) in the summer of 2024.
+Four [ENS domains](https://ens.domains/), named after Belgian towns and rivers, have been decorated with [`awalkaday`](https://app.zerion.io/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82/nfts?collections=85657215) photographs. The local landscape was mapped and displayed on an Ethereum blockchain naming protocol to celebrate a rare week of blockchain-focused international conferences in Belgium: [EthCC \[7\]](https://ethcc.io/archive?page=1\&event=EthCC%5B7%5D) & [ETHGlobal Brussels](https://ethglobal.com/events/brussels) in the summer of 2024.
 
 <div><figure><img src=".gitbook/assets/bastogne.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85:47981481869610083995936073997732283750222809913612277762499411613608388596160">bastogne.eth</a></p></figcaption></figure> <figure><img src=".gitbook/assets/meuse.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85:97365202193083432748976546813491271006919194810609036242907411146017330782368?address=0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82">meuse.eth</a></p></figcaption></figure></div>
 
