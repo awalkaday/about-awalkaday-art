@@ -18,7 +18,8 @@ layout:
 awalkaday 71-2022
 {% endembed %}
 
-The photo collection has evolved since its inception. Over the years, the artist has:
+The `awalkaday` photo collection evolved since its launch with the guidance of its pathfinder. \
+Over the years, in parallel with his struggles with multitasking and in defiance of menial labor, the artist :
 
 * captured hundreds of monochrome photographs featuring various locations in Belgium.
 * attracted followers on social media platforms, comprised of acquaintances, supporters and enthusiasts.
