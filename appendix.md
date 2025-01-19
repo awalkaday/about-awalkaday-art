@@ -18,7 +18,7 @@ layout:
 
 The photograph on the [cover](./), `awalkaday 251-2022`, was taken and published online prior to the installation of a sculpture on the same site inside a public park in Namur (Wallonia, Belgium).
 
-<figure><img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="" width="188"><figcaption><p><code>awalkaday 251-2022</code></p></figcaption></figure>
+<figure><img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="" width="188"><figcaption><p>awalkaday 251-2022</p></figcaption></figure>
 
 This black-and-white photo captured a fleeting moment in time before a renowned sculpture was moved to its current and permanent location. It immortalized a romantic outdoor scene : a lovely couple sitting on the grass in the shade of a glowing tree.
 

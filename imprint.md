@@ -60,7 +60,7 @@ awalkaday 91-2022
 
 #### Caregiving Friends
 
-A token of gratitude goes to Adva Z., Agami A., Alice D., Amir B., Andrée D., Anna R., Ant H., Britt H., Christine C., Christophe M., Cyril M., Daan V., Effi W., Grysbok H., ObscuraDAO (Tony H., Omar R., Wim V.), Patrick F., Peter K., Simon T., Shila A., Suleiman Z., Sylvie T., Valérie H. and Willeke V.
+A token of gratitude goes to Adva Z., Agami A., Alice D., Amir B., Andrée D., Anna R., Ant H., Britt H., Christine C., Christophe M., Cyril M., Daan V., Effi W., Grysbok H., Obscura DAO (Tony H., Omar R., Wim V.), Patrick F., Peter K., Simon T., Shila A., Suleiman Z., Sylvie T., Valérie H. and Willeke V.
 
 #### Book Publication
 
