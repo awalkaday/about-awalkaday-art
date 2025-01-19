@@ -27,8 +27,6 @@ _From the beginning, the creative process was intuitively, leisurely or swiftly 
 
 {% embed url="https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f" %}
 
-
-
 {% code title="a-walk_a-day.html" %}
 ```html
 <!DOCTYPE html>
@@ -76,11 +74,11 @@ _From the beginning, the creative process was intuitively, leisurely or swiftly 
 
 _As any reader can see, the `A WALK≡A DAY` visual art project took more than the five years predicted at the onset before being completed._&#x20;
 
-_The original informative page, titled `FAQ | A WALK≡A DAY`, was eventually migrated away from a personal site to an independent project on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter._
-
-_The mathematical symbol_ [_`≡`_](https://en.wikipedia.org/wiki/Triple_bar) _, synonymous with the two-way street sign_ ↔ _and an indicator of logical equivalence, had piqued my interest as the monetary unit of a blockchain currency, in addition to being a symbol of no change of state in_ [_computing_](https://en.wikipedia.org/wiki/Computing)_._&#x20;
+_The informative page, named `FAQ | A WALK≡A DAY`, was eventually migrated away from a personal site to an independent project on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter._
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/7660a21a32aa6c6b539beaf4b20c12c11fa4f148" %}
+
+_The mathematical symbol_ [_`≡`_](https://en.wikipedia.org/wiki/Triple_bar) _, synonymous with the two-way street sign_ ↔ _and an indicator of logical equivalence, had piqued my interest as the monetary unit of a blockchain currency, in addition to being a symbol of no change of state in_ [_computing_](https://en.wikipedia.org/wiki/Computing)_._&#x20;
 
 _The `awalkaday` building blocks rebecame the focus of my geeky attention and camera lenses from_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4) _onwards, right after receiving a developer certification from the web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._
 
