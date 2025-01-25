@@ -60,7 +60,7 @@ awalkaday 91-2022
 
 #### Caregiving Friends
 
-A token of gratitude goes to Adva Z., Agami A., Alice D., Amir B., Andrée D., Anna R., Ant H., Britt H., Christine C., Christophe M., Cyril M., Daan V., Effi W., Grysbok H., Obscura team: Tony, Omar & Wim, Patrick F., Peter K., Simon T., Shila A., Suleiman Z., Sylvie T., Valérie H. and Willeke V.
+A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Alice D. & Cyril M., Andrée D., Anna R., Ant H., Britt H., Christine C., Christophe M., Croix-Rouge de Belgique, Daan V., Doc’Riders (Médecins du Monde), Effi & Amir, ETHGlobal, Obscura Team (Tony, Omar & Wim), Opération Thermos, Sylvie T. & Patrick F., Peter K., Rotary Club Bastogne, Samusocial Brussels, Simon T., Shila A., Salim, Suleiman Z., Valérie H. and Willeke V.
 
 #### Book Publication
 
