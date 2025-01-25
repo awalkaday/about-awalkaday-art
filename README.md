@@ -42,7 +42,7 @@ It is a companion piece to a collection of 263 photographs taken during regular 
 🛠 `github.com/awalkaday/about-awalkaday-art/tree/book`
 
 {% hint style="info" %}
-Ceci est un [Livre d'Artiste](https://fr.wikipedia.org/wiki/Livre_d'artiste) Sans-Papiers.
+_Ceci est un_ [_Livre d'Artiste_](https://fr.wikipedia.org/wiki/Livre_d'artiste) _Sans-Papiers._
 {% endhint %}
 
 
