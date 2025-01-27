@@ -29,7 +29,7 @@ Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 ### Copyrights
 
-Author & Publisher: © 2024 - 2025 [Chris-Armel Iradukunda](https://daqhris.com/) ([`daqhris`](https://github.com/daqhris))
+Author & Publisher: © [Chris-Armel Iradukunda](https://daqhris.com/) ([`daqhris`](https://github.com/daqhris))
 
 <table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a data-mention href="./">.</a></td><td><a href="./">.</a></td></tr></tbody></table>
 
@@ -60,7 +60,7 @@ awalkaday 91-2022
 
 #### Caregiving Friends
 
-A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Alice D. & Cyril M., Andrée D., Anna R., Ant H., Britt H., Christine C., Christophe M., Croix-Rouge de Belgique, Daan V., Doc’Riders (Médecins du Monde), Effi & Amir, ETHGlobal, FOSDEM, Obscura Team (Tony, Omar & Wim), Opération Thermos, Sylvie T. & Patrick F., Peter K., Rotary Club Bastogne, Samusocial Brussels, Simon T., Shila A., Salim, Suleiman Z., Valérie H. and Willeke V.
+A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Alice D. & Cyril M., Andrée D., Anna R., Ant H., Britt H., Christine C., Christophe M., Croix-Rouge de Belgique, Daan V., Doc’Riders (Médecins du Monde), Effi & Amir, ETHGlobal, FOSDEM, Obscura Team (Tony, Omar & Wim), Opération Thermos, Ornella V., Sylvie T. & Patrick F., Peter K., Rotary Club Bastogne, Samusocial Brussels, Simon T., Shila A., Salim, Suleiman Z., Valérie H. and Willeke V.
 
 #### Book Publication
 
