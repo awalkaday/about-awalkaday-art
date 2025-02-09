@@ -72,7 +72,7 @@ A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Alice D. & Cyril M
 
 #### Internet Registry
 
-<div align="left"><figure><img src="https://art.art/wp-content/themes/art/new/img/logo_DotArt.svg" alt="https://art.art/" width="375"><figcaption><p><a href="https://x.com/Art_Domains/status/1755917791658418315">Praised online by .ART domains</a> <em>('24)</em></p></figcaption></figure></div>
+<div align="left"><figure><img src="https://art.art/wp-content/themes/art/new/img/logo_DotArt.svg" alt="https://art.art/" width="188"><figcaption><p><a href="https://x.com/Art_Domains/status/1755917791658418315">Praised online by .ART domains</a> <em>('24)</em></p></figcaption></figure></div>
 
 #### Blockchain Network
 
