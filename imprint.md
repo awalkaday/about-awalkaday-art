@@ -64,7 +64,7 @@ A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Alice D. & Cyril M
 
 #### Book Publication
 
-<div align="left"><figure><img src=".gitbook/assets/gitbook logo white back.png" alt="" width="188"><figcaption><p><a href="https://www.g2.com/products/gitbook/reviews/gitbook-review-9962377">Business Plan for Open-Source</a></p></figcaption></figure></div>
+<div align="left"><figure><picture><source srcset=".gitbook/assets/GitBook - Light Logo.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/GitBook - Dark Logo.jpg" alt="" width="151"></picture><figcaption><p><a href="https://www.g2.com/products/gitbook/reviews/gitbook-review-9962377">Business Plan for Open-Source</a></p></figcaption></figure></div>
 
 #### Code Hosting
 
