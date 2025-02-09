@@ -66,6 +66,10 @@ A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Alice D. & Cyril M
 
 <div align="left"><figure><img src=".gitbook/assets/gitbook logo white back.png" alt="" width="188"><figcaption><p><a href="https://www.g2.com/products/gitbook/reviews/gitbook-review-9962377">Business Plan for Open-Source</a></p></figcaption></figure></div>
 
+#### Code Hosting
+
+<div align="left"><figure><img src=".gitbook/assets/GitHub_Logo.png" alt="" width="188"><figcaption><p><a href="https://github.com/awalkaday">Open-Source Organization account</a></p></figcaption></figure></div>
+
 #### Internet Registry
 
 <div align="left"><figure><img src=".gitbook/assets/Dot_Art_logo.png" alt="https://art.art/" width="188"><figcaption><p><a href="https://x.com/Art_Domains/status/1755917791658418315">Praised online by .ART domains</a></p></figcaption></figure></div>
