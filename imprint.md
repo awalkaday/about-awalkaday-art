@@ -60,7 +60,7 @@ awalkaday 91-2022
 
 #### Caregiving Friends
 
-A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Alice D. & Cyril M., Andrée D., Anna R., Ant H., Back to Camp (Les Scouts), Britt H., Christine C., Christophe M., Croix-Rouge de Belgique, Daan V., Doc’Riders (Médecins du Monde), Effi & Amir, ETHGlobal, FOSDEM, Obscura Team (Tony, Omar & Wim), Opération Thermos, Ornella V., Sylvie T. & Patrick F., Peter K., Rotary Club Bastogne, Samusocial Brussels, Simon T., Shila A., Salim, Suleiman Z., Valérie H. and Willeke V.
+A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Alice D. & Cyril M., Andrée D., Anna R., Ant H., Back to Camp (Les Scouts Fédération), Britt H., Christine C., Christophe M., Croix-Rouge de Belgique, Daan V., Doc’Riders (Médecins du Monde), Effi & Amir, ETHGlobal, FOSDEM, Obscura Team (Tony, Omar & Wim), Opération Thermos, Ornella V., Sylvie T. & Patrick F., Peter K., Rotary Club Bastogne, Samusocial Brussels, Simon T., Shila A., Salim, Suleiman Z., Valérie H. and Willeke V.
 
 #### Book Publication
 
@@ -69,6 +69,10 @@ A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Alice D. & Cyril M
 #### Code Hosting
 
 <div align="left"><figure><picture><source srcset=".gitbook/assets/GitHub_Lockup_Light.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/GitHub_Lockup_Dark.png" alt="" width="188"></picture><figcaption><p><a href="https://github.com/awalkaday">Open-Source Organization account</a></p></figcaption></figure></div>
+
+#### Online Coding School
+
+<div align="left"><figure><picture><source srcset=".gitbook/assets/freecodecamp_logo (1).png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/freecodecamp_alternative_logo.png" alt="" width="188"></picture><figcaption><p><a href="https://www.freecodecamp.org/certification/daqhris/responsive-web-design">Web Design and Development</a> <em>('16, '20-'21)</em></p></figcaption></figure></div>
 
 #### Internet Registry
 
@@ -83,10 +87,6 @@ A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Alice D. & Cyril M
 <div align="left"><figure><img src="https://muntpunt.be/themes/custom/ocelot_muntpunt/assets/images/logo.svg" alt="https://muntpunt.be/" width="188"><figcaption><p><a href="https://x.com/search?q=from%3A%40awalkadayart+muntpunt&#x26;t=c0hdmw8z3Sk8WBtAwMj-DQ">Inspired by photo books from Muntpunt</a></p></figcaption></figure></div>
 
 <div align="left"><figure><img src="https://456r5hpaktnuia4rvgd23ue2gnci6iy5cshax7565emfz3wj4eua.arweave.net/530eneBU20QDkamHrdCaM0SPIx0Ujgv_vukYXO7J4Sg" alt="" width="188"><figcaption><p><em>awalkaday 105-2022</em> portrays <a href="https://muntpunt.be/over-muntpunt">Muntpunt</a></p></figcaption></figure></div>
-
-#### Online Coding School
-
-<div align="left"><figure><picture><source srcset=".gitbook/assets/freecodecamp_logo (1).png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/freecodecamp_alternative_logo.png" alt="" width="375"></picture><figcaption><p><a href="https://www.freecodecamp.org/certification/daqhris/responsive-web-design">Web Design and Development</a> <em>('16, '20-'21)</em></p></figcaption></figure></div>
 
 #### Storytelling Training
 
