@@ -86,7 +86,7 @@ A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Alice D. & Cyril M
 
 #### Online Coding School
 
-<div align="left"><figure><img src=".gitbook/assets/fcc_secondary_large.jpg" alt="" width="188"><figcaption><p><a href="https://www.freecodecamp.org/certification/daqhris/responsive-web-design">Web Design and Development</a> <em>('16, '20, '21)</em></p></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/fcc_secondary_large.jpg" alt="" width="375"><figcaption><p><a href="https://www.freecodecamp.org/certification/daqhris/responsive-web-design">Web Design and Development</a> <em>('16, '20, '21)</em></p></figcaption></figure></div>
 
 #### Storytelling Training
 
