@@ -76,7 +76,7 @@ A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Alice D. & Cyril M
 
 #### Blockchain Network
 
-<div align="left"><figure><img src=".gitbook/assets/ethereum-logo-color.png" alt="https://ethereum.org/en/" width="188"><figcaption><p><a href="https://zora.co/collect/eth:0xe31801c2e58b151c3ded2cb29da56147b7f27eb1">Photo series minted on Ethereum</a> <em>('23)</em></p></figcaption></figure></div>
+<div align="left"><figure><img src="https://ethereum.org/_next/static/media/ethereum-logo-landscape-purple.2c091489.png" alt="https://ethereum.org/en/" width="188"><figcaption><p><a href="https://etherscan.io/token/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1">263 photos minted as WALK tokens</a> <em>('23)</em></p></figcaption></figure></div>
 
 #### Brussels Public Library
 
