@@ -72,11 +72,11 @@ A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Alice D. & Cyril M
 
 #### Internet Registry
 
-<div align="left"><figure><img src=".gitbook/assets/Dot_Art_logo.png" alt="https://art.art/" width="188"><figcaption><p><a href="https://x.com/Art_Domains/status/1755917791658418315">Praised online by .ART domains</a></p></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/Dot_Art_logo.png" alt="https://art.art/" width="188"><figcaption><p><a href="https://x.com/Art_Domains/status/1755917791658418315">Praised online by .ART domains</a> <em>('24)</em></p></figcaption></figure></div>
 
 #### Blockchain Network
 
-<div align="left"><figure><img src=".gitbook/assets/ethereum-logo-color.png" alt="https://ethereum.org/en/" width="188"><figcaption><p><a href="https://zora.co/collect/eth:0xe31801c2e58b151c3ded2cb29da56147b7f27eb1">Photo series minted on Ethereum</a></p></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/ethereum-logo-color.png" alt="https://ethereum.org/en/" width="188"><figcaption><p><a href="https://zora.co/collect/eth:0xe31801c2e58b151c3ded2cb29da56147b7f27eb1">Photo series minted on Ethereum</a> <em>('23)</em></p></figcaption></figure></div>
 
 #### Brussels Public Library
 
@@ -84,9 +84,13 @@ A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Alice D. & Cyril M
 
 <div align="left"><figure><img src="https://456r5hpaktnuia4rvgd23ue2gnci6iy5cshax7565emfz3wj4eua.arweave.net/530eneBU20QDkamHrdCaM0SPIx0Ujgv_vukYXO7J4Sg" alt="" width="188"><figcaption><p><em>awalkaday 105-2022</em> portrays <a href="https://muntpunt.be/over-muntpunt">Muntpunt</a></p></figcaption></figure></div>
 
+#### Online Coding School
+
+<div align="left"><figure><img src=".gitbook/assets/fcc_secondary_large.jpg" alt="" width="188"><figcaption><p><a href="https://www.freecodecamp.org/certification/daqhris/responsive-web-design">Web Design and Development</a> <em>('16, '20, '21)</em></p></figcaption></figure></div>
+
 #### Storytelling Training
 
-<div align="left"><figure><img src="https://soundimageculture.org/wp-content/uploads/2023/05/sic_logo_white_circle_text_vec.svg" alt="https://soundimageculture.org/" width="188"><figcaption><p>Observer: <a href="https://soundimageculture.org/laboratory/#sic-regular-text-block_cd5d0fa1e38b295170f402ac3a73b7d6">SIC Collective Sessions</a> ('23-'24)</p></figcaption></figure></div>
+<div align="left"><figure><img src="https://soundimageculture.org/wp-content/uploads/2023/05/sic_logo_white_circle_text_vec.svg" alt="https://soundimageculture.org/" width="188"><figcaption><p>Observer: <a href="https://soundimageculture.org/laboratory/#sic-regular-text-block_cd5d0fa1e38b295170f402ac3a73b7d6">SIC Collective Sessions</a> <em>('23-'24)</em></p></figcaption></figure></div>
 
 &#x20;
 
