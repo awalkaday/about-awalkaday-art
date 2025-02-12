@@ -34,7 +34,7 @@ Sculpted in bronze by Belgian artist [_Nat Neujean_](https://www.natneujean.com/
 
 
 
-### Ethereum Domain Names + Onchain Photo Showcase
+### Ethereum Domain Names + `awalkaday.art` Photo Showcase
 
 Four [ENS domains](https://ens.domains/), named after Belgian towns and rivers, have been decorated with [`awalkaday`](https://app.zerion.io/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82/nfts?collections=85657215) photographs. The local landscape was mapped and displayed on an Ethereum blockchain naming protocol to celebrate a rare week of blockchain-focused international conferences in Belgium: [EthCC \[7\]](https://ethcc.io/archive?page=1\&event=EthCC%5B7%5D) & [ETHGlobal Brussels](https://ethglobal.com/events/brussels) in the summer of 2024.
 
