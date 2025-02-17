@@ -33,7 +33,7 @@ This artist's book documents the development and growth of [`awalkaday`](https:/
 
 A unique blend of digital art forms—black-and-white photography, open-source code, social media posts, and non-fungible blockchain tokens—comes together with third-person narration to create an autobiographical work of creative nonfiction. Together, these elements illustrate and trace the history of a photographic odyssey across a range of public spaces and computing platforms.
 
-It is a companion piece to a collection of 263 photographs taken during regular walks in Belgium, Europe. A book that concludes a long-term project by an exiled artist and pioneers a novel approach to publishing digital art. By virtue of the artistic medium, all of the drafts and years of changes are baked into this online edition. This is an open source project supported by [GitBook](https://www.gitbook.com/).
+It is a companion piece to a collection of 263 photographs taken during regular walks in Belgium, Europe. A book that concludes a long-term project by an exiled artist and pioneers a novel approach to publishing digital art. By virtue of the artistic medium, all of the drafts and years of changes are baked into this online edition, which is an open source project supported by [GitBook](https://www.gitbook.com/).
 
 **`25 Pages`—`ENGLISH`—`Black & White Digital Photography`**
 
