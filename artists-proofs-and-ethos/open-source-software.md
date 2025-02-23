@@ -14,7 +14,7 @@ layout:
 
 # Open Source Software
 
-An open-source ethos which embodies principles such as transparency, collaboration, and community-driven development was embraced with open arms.
+An open source ethos which embodies principles such as transparency, collaboration, and community-driven development was embraced with open arms.
 
 {% embed url="https://arweave.net/cygGvgGjhJ90lTr9DU38tJVP4LM3IuSyICrzCtvjtus" %}
 awalkaday 79-2022
@@ -24,7 +24,7 @@ To gain exposure to software-powered innovation, `daqhris` was an active contrib
 
 {% embed url="https://fosdem.org/" %}
 
-As a volunteer, one of his most memorable acts was standing on stage in front of a packed amphitheater in February 2023, while homeless in Brussels, to introduce a scientific talk on ['Open Source Software at NASA'](https://archive.fosdem.org/2023/schedule/event/nasa/), presented by an [American astronomer](https://crawfordsm.github.io/about/), when celebrating [25 years of open-source](https://archive.fosdem.org/2023/schedule/track/keynotes/) with volunteering and attending peers.&#x20;
+As a volunteer, one of his most memorable acts was standing on stage in front of a packed amphitheater in February 2023, while homeless in Brussels, to introduce a scientific talk on ['Open Source Software at NASA'](https://archive.fosdem.org/2023/schedule/event/nasa/), presented by an [American astronomer](https://crawfordsm.github.io/about/), when celebrating [25 years of open-source](https://archive.fosdem.org/2023/schedule/track/keynotes/) with volunteering and attending peers.
 
 {% embed url="https://archive.fosdem.org/2023/schedule/event/nasa/" %}
 
@@ -32,12 +32,8 @@ In the second half of the following year, `daqhris` ingeniously crafted an onlin
 
 {% embed url="https://book.awalkaday.art" %}
 
-
-
 {% embed url="https://arweave.net/EGWfqt41-x4swizPynVwltLBmd-68PCM8q6CX3EmwG4" %}
 awalkaday 91-2022
 {% endembed %}
-
-&#x20;
 
 **`20`**
