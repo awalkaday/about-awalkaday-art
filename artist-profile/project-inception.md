@@ -20,15 +20,17 @@ During the summer of 2017, Chris resided in a Red Cross camp for asylum seekers 
 awalkaday 344-2017
 {% endembed %}
 
-Using rudimentary photographic equipment and online public platforms, coupled with an open-source digital toolbox, he has visually documented a years-long journey that artfully depicts his time-bound walks in exile and publicly logs his footprints around a land of refuge.&#x20;
+Using rudimentary photographic equipment and online public platforms, coupled with an open-source digital toolbox, he has visually documented a years-long journey that artfully depicts his time-bound walks in exile and publicly logs his footprints around a land of refuge.
 
-He had initially landed in Belgium in the winter of 2016, seeking a safe haven away from the persecution by authorities of his homeland, while abroad in China, and their Chinese counterparts. His original sin, worthy of exile from Beijing, was unofficially linked to the photographic portrayal of human faces and Burundian politics.
+He had initially landed in Brussels in the winter of 2016, seeking a safe haven away from persecution by his home country's diplomatic authorities and their Chinese counterparts, while studying abroad in China two seasons before.
+
+His original sin, worthy of exile from both Beijing and Bujumbura for many human years, was unofficially blamed on a cocktail of irrational factors such as the photographic portrayal of human faces, activism on university grounds as a student, his ethnicity and the politics of Burundi.
 
 {% embed url="https://arweave.net/PzcrZqCeMDwty56zrlbyngXjTYxpPCEKKo6MevHVf-Q" %}
 awalkaday 185-2022
 {% endembed %}
 
-After six months of posting on Instagram and coding on GitHub, the artistic endeavor was put on hold due to the loss of electronic devices, in the aftermath of a laptop crash and a smartphone theft within the enclosure of the refugee camp.&#x20;
+After six months of posting on Instagram and coding on GitHub, the artistic endeavor was put on hold due to the loss of electronic devices, in the aftermath of a laptop crash and a smartphone theft within the enclosure of the refugee camp.
 
 Three years later, in 2021, it was relaunched as a part-time artistic practice, even though his legal status and human life as an immigrant remained uncertain, hopeless, angst-inducing and precarious.
 
@@ -36,14 +38,12 @@ Three years later, in 2021, it was relaunched as a part-time artistic practice, 
 awalkaday 40-2022
 {% endembed %}
 
-Contrary to modern conventions, `awalkaday.art` is neither a state-sponsored artistic endeavor nor a brick-and-mortar art gallery.&#x20;
+Contrary to modern conventions, `awalkaday.art` is neither a state-sponsored artistic endeavor nor a brick-and-mortar art gallery.
 
-Since day one of the project, he endured the human experience of lacking easy access to medical care, health insurance, humanitarian aid and banking services. He faced recurring unemployment, despite numerous skills, and often burned organic calories instead of emitting gas pollutants.&#x20;
+Since day one of the project, he endured the human experience of lacking easy access to medical care, health insurance, humanitarian aid and banking services. He faced recurring unemployment, despite numerous skills, and often burned organic calories instead of emitting gas pollutants.
 
 {% embed url="https://arweave.net/WB8akAD3XwwJ-5QCWgH9k-4eaDNRctqmTzBH4hwLwyo" %}
 awalkaday 184-2021
 {% endembed %}
-
-
 
 **`24`**
