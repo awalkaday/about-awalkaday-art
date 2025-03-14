@@ -37,7 +37,7 @@ It is a companion piece to a collection of 263 photographs taken during regular 
 
 📖 `book.awalkaday.art`
 
-👨🏽‍💻 `github.com/awalkaday/about-awalkaday-art/tree/book`
+👨🏽‍💻 [`github.com/awalkaday/about-awalkaday-art/tree/book`](https://github.com/awalkaday/about-awalkaday-art/tree/book)
 
 {% hint style="info" %}
 Ceci est un [Livre d'Artiste](https://fr.wikipedia.org/wiki/Livre_d'artiste) Sans Papier.
