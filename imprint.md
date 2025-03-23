@@ -28,11 +28,10 @@ Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 ### Copyrights
 
-Author & Publisher: © [Chris-Armel Iradukunda](https://daqhris.com/) ([`daqhris`](https://github.com/daqhris))
+Author & Publisher: © [Chris-Armel Iradukunda](https://daqhris.com/) ([daqhris](https://github.com/daqhris))
 
-<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a data-mention href="./">.</a></td><td><a href="./">.</a></td></tr></tbody></table>
-
-_Initial online publication: July 2024_ • _Recent changes:_ [_March 2025_](https://github.com/awalkaday/about-awalkaday-art/commits/book/)\
+_Initial online publication:_ [_July 2024_](https://github.com/awalkaday/about-awalkaday-art/compare/about...book)\
+&#xNAN;_&#x52;ecent content changes:_ [_March 2025_](https://github.com/awalkaday/about-awalkaday-art/commits/book/)\
 &#xNAN;_&#x4F;pen-sourced by `gitbook-bot` on behalf of `daqhris`_&#x20;
 
 {% hint style="warning" %}
