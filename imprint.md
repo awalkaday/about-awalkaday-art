@@ -33,7 +33,7 @@ Author & Publisher: © [Chris-Armel Iradukunda](https://daqhris.com/) ([`daqhris
 <table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a data-mention href="./">.</a></td><td><a href="./">.</a></td></tr></tbody></table>
 
 _Initial online publication: July 2024_ • _Recent changes:_ [_March 2025_](https://github.com/awalkaday/about-awalkaday-art/commits/book/)\
-&#xNAN;_&#x4F;pen-sourced by `daqhris` with the assistance of `gitbook-bot`_
+&#xNAN;_&#x4F;pen-sourced by `gitbook-bot` on behalf of `daqhris`_&#x20;
 
 {% hint style="warning" %}
 There is no print, e-book or tokenized version available yet. No part of this online book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any other information storage and retrieval system, for commercial purposes, without the prior permission and consent in writing of the publisher.
@@ -55,7 +55,7 @@ awalkaday 91-2022
 
 #### Caregiving Friends
 
-A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Alice D. & Cyril M., Andrée D., Anna R., Ant H., Back to Camp (Les Scouts Fédération), Britt H., Cécile G., Christine C., Christophe M., Croix-Rouge de Belgique, Daan V., Doc’Riders (Médecins du Monde), Effi W. & Amir B., ETHGlobal, FOSDEM, Jean de Dieu N., Obscura Team (Tony, Omar & Wim), Opération Thermos, Ornella V., Sylvie T. & Patrick F., Peter K., Rotary Club Bastogne, Samusocial Brussels, Scolastique N. & Anselme N., Simon T., Shila A., Salim, Suleiman Z., Valérie H. and Willeke V.
+A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Alice D. & Cyril M., Andrée D., Anna R., Ant H., Back to Camp (Les Scouts Fédération), Britt H., Cécile G., Christine C., Christophe M., Croix-Rouge de Belgique, Daan V., Doc’Riders (Médecins du Monde), Effi W. & Amir B., ETHGlobal, FOSDEM, Jean de Dieu N., Karina B., Obscura Team (Tony, Omar & Wim), Opération Thermos, Ornella V., Sylvie T. & Patrick F., Peter K., Rotary Club Bastogne, Samusocial Brussels, Scolastique N. & Anselme N., Simon T., Shila A., Salim, Suleiman Z., Valérie H. and Willeke V.
 
 #### Book Publication
 
