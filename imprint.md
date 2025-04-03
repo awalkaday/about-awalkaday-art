@@ -82,7 +82,7 @@ A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Amandine N., Alice
 
 #### Brussels Public Library
 
-<div align="left"><figure><picture><source srcset=".gitbook/assets/MPS_Muntpunt_2022_White_RGB98.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/MPS_Muntpunt_2022_Black_RGB98.png" alt="https://muntpunt.be/" width="150"></picture><figcaption><p><a href="https://x.com/search?q=from%3A%40awalkadayart+muntpunt&#x26;t=c0hdmw8z3Sk8WBtAwMj-DQ">Inspired by photography and art books</a></p></figcaption></figure></div>
+<div align="left"><figure><picture><source srcset=".gitbook/assets/MPS_Muntpunt_2022_White_RGB98.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/MPS_Muntpunt_2022_Black_RGB98.png" alt="https://muntpunt.be/" width="150"></picture><figcaption><p><a href="https://x.com/search?q=from%3A%40awalkadayart%20%40muntpunt&#x26;src=typed_query&#x26;f=top">Inspired by photography and art books</a> <em>('22-'24)</em></p></figcaption></figure></div>
 
 <div align="left"><figure><img src="https://456r5hpaktnuia4rvgd23ue2gnci6iy5cshax7565emfz3wj4eua.arweave.net/530eneBU20QDkamHrdCaM0SPIx0Ujgv_vukYXO7J4Sg" alt="" width="188"><figcaption><p><code>awalkaday 105-2022</code> portrays <a href="https://muntpunt.be/over-muntpunt">Muntpunt</a></p></figcaption></figure></div>
 
