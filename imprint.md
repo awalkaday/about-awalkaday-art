@@ -54,7 +54,7 @@ awalkaday 91-2022
 
 #### Caregiving Friends
 
-A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Alice D. & Cyril M., Andrée D., Anna R., Ant H., Back to Camp (Les Scouts Fédération), Britt H., Cécile G., Christine C., Christophe M., Croix-Rouge de Belgique, Daan V., Doc’Riders (Médecins du Monde), Effi W. & Amir B., ETHGlobal, FOSDEM, Jean de Dieu N., Karina B., Obscura Team (Tony, Omar & Wim), Opération Thermos, Ornella V., Sylvie T. & Patrick F., Peter K., Rotary Club Bastogne, Samusocial Brussels, Scolastique N. & Anselme N., Simon T., Shila A., Salim, Suleiman Z., Valérie H. and Willeke V.
+A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Amandine N., Alice D. & Cyril M., Andrée D., Anna R., Ant H., Back to Camp (Les Scouts Fédération), Britt H., Cécile G., Christine C., Christophe M., Croix-Rouge de Belgique, Daan V., Doc’Riders (Médecins du Monde), Effi W. & Amir B., ETHGlobal, FOSDEM, Jean de Dieu N., Karina B., Obscura Team (Tony, Omar & Wim), Opération Thermos, Ornella V., Sylvie T. & Patrick F., Peter K., Rotary Club Bastogne, Samusocial Brussels, Scolastique N. & Anselme N., Simon T., Shila A., Salim, Suleiman Z., Valérie H. and Willeke V.
 
 #### Book Publication
 
@@ -71,6 +71,10 @@ A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Alice D. & Cyril M
 #### Internet Registry
 
 <div align="left"><figure><img src="https://art.art/wp-content/themes/art/new/img/logo_DotArt.svg" alt="https://art.art/" width="188"><figcaption><p><a href="https://x.com/Art_Domains/status/1755917791658418315">Praised online by .ART domains</a> <em>('24)</em></p></figcaption></figure></div>
+
+#### Blockchain Publication
+
+<div align="left"><figure><picture><source srcset="https://downloads.intercomcdn.com/i/o/528364/9173dde66bca6fe3aec82ee3/386b47383941bd1153032f4a4157cd76.png" media="(prefers-color-scheme: dark)"><img src="https://forum.manifold.xyz/uploads/default/original/2X/f/f55cc10ff24a8798a2532bc3536c74e12697ebac.png" alt="" width="188"></picture><figcaption><p><a href="https://forum.manifold.xyz/u/daqhris/summary">Onchain minting of photographs</a> <em>('23)</em></p></figcaption></figure></div>
 
 #### Blockchain Network
 
