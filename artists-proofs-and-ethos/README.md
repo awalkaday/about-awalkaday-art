@@ -5,7 +5,7 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
@@ -26,12 +26,8 @@ layout:
 [open-source-software.md](open-source-software.md)
 {% endcontent-ref %}
 
-
-
 {% embed url="https://zuz66mvkvsc3w6pc6jg5qlmrjgbyctr4ndyi2elmgo3fuke5nnkq.arweave.net/zTPvMqqshbt54vJN2C2RSYOBTjxo8I0RbDO2Wiida1U" %}
 awalkaday 178-2021
 {% endembed %}
-
-&#x20;
 
 **`17`**

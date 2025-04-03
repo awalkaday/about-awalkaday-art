@@ -5,7 +5,7 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
@@ -34,12 +34,8 @@ layout:
 [ethereum.md](ethereum.md)
 {% endcontent-ref %}
 
-
-
 {% embed url="https://i4ctj3fmalpaczcuwj2xhq7jx4kg7ktaxybmjkynlkbpcscz53jq.arweave.net/RwU07KwC3gFkVLJ1c8PpvxRvqmC-AsSrDVqC8UhZ7tM" %}
 awalkaday 25-2022
 {% endembed %}
-
-
 
 **`11`**

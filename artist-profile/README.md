@@ -5,7 +5,7 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
@@ -26,12 +26,8 @@ layout:
 [project-inception.md](project-inception.md)
 {% endcontent-ref %}
 
-
-
 {% embed url="https://dibgu6jbyfev7qwgpqg6sqj47phfzuul5wajfucqqfkvxwl3in4a.arweave.net/GgJqeSHBSV_CxnwN6UE8-85c0ovtgJLQUIFVW9l7Q3g" %}
 awalkaday 8-2018
 {% endembed %}
-
-&#x20;
 
 **`21`**

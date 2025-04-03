@@ -5,7 +5,7 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
@@ -26,12 +26,8 @@ layout:
 [blockchain-records.md](blockchain-records.md)
 {% endcontent-ref %}
 
-
-
 {% embed url="https://cc6eptmtmherdp7jt46ananrjsvjbscvbsxwhev3t3hoqgw37nqq.arweave.net/ELxHzZNhyRG_6Z88BoGxTKqQyFUMr2OSu57O6Brb-2E" %}
 awalkaday 198-2021
 {% endembed %}
 
-
-
-&#x20;**`7`**
+**`7`**
