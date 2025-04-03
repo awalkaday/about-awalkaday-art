@@ -26,11 +26,11 @@ This black-and-white photo captured a fleeting moment in time before a renowned 
 Check out the onchain photo on The Hug.
 {% endembed %}
 
-Sculpted in bronze by Belgian artist [_Nat Neujean_](https://www.natneujean.com/), _The Daughters of Water (1951)_ depicts two intertwined nymphs, symbolizing two European rivers : the [_Meuse_](https://en.wikipedia.org/wiki/Meuse) and the [_Sambre_](https://en.wikipedia.org/wiki/Sambre). These colorful photographs of the sculpture were taken on May 8, 2024, a day that commemorates the second war-ending victory of democracy over fascist ideologies across Europe in the mid-20th century.
-
-`awalkaday 251-2022` and [_The Daughters of Water_](https://statues.vanderkrogt.net/object.php?webpage=ST\&record=bena030) both have their roots in a 19th century park named after the first Queen of the Belgians, _Louise-Marie_. Note the uncanny resemblance between the bronze sculpture of a pair of nymphs (below) and the photo of a romantic couple of humans (above), all in the shade of the same slow-aging tree.
+Sculpted in bronze by Belgian artist [_Nat Neujean_](https://www.natneujean.com/), _The Daughters of Water (1951)_ depicts two intertwined nymphs, symbolizing two European rivers : the [_Meuse_](https://en.wikipedia.org/wiki/Meuse) and the [_Sambre_](https://en.wikipedia.org/wiki/Sambre). These colorful photographs of the sculpture were taken on May 8th in 2024, a day that commemorates the second war-ending victory of democracy over fascist ideologies across Europe in the mid-20th century.
 
 <div><figure><img src=".gitbook/assets/IMG_20240508_162733_3-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162755_1-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162716_4.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+
+`awalkaday 251-2022` and [_The Daughters of Water_](https://statues.vanderkrogt.net/object.php?webpage=ST\&record=bena030) both have their roots in a 19th century park named after the first Queen of the Belgians, _Louise-Marie_. Note the uncanny similarities between the color photographs of a bronze sculpture of a couple of nymphs and a monochrome photograph of a couple of human beings, all in the shade of the same slowly aging tree.
 
 ### Ethereum Domain Names + Photo Showcase
 
