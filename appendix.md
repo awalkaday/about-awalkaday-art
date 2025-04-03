@@ -16,17 +16,17 @@ layout:
 
 ### Fun Facts
 
-The photograph on the [cover](./), `awalkaday 251-2022`, was taken and published online prior to the installation of a sculpture on the same site inside a public park in Namur (Wallonia, Belgium).
+The photograph on the [cover](./), `awalkaday 251-2022`, was shot, edited and published online prior to the installation of a sculpture on the same site inside a public park in Namur (Wallonia, Belgium).
 
 <figure><img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="" width="188"><figcaption><p>awalkaday 251-2022</p></figcaption></figure>
 
-This black-and-white photo captured a fleeting moment in time before a renowned sculpture was moved to its current and permanent location. It immortalized a romantic outdoor scene : a lovely couple sitting on the grass in the shade of a glowing tree.
+This black-and-white photo captured a fleeting moment in time before a renowned sculpture was moved to its current and permanent location. It preserves for ages a romantic outdoor scene: a lovely couple of people sitting in the open air on the grass in the shade of a glowing tree.
 
 {% embed url="https://thehug.xyz/artists/daqhris/portfolio/item/6e2d07d3-3f4a-438c-b0e7-1224f7dcecfa" %}
 Check out the onchain photo on The Hug.
 {% endembed %}
 
-Sculpted in bronze by Belgian artist [_Nat Neujean_](https://www.natneujean.com/), _The Daughters of Water (1951)_ depicts two intertwined nymphs, symbolizing two European rivers : the [_Meuse_](https://en.wikipedia.org/wiki/Meuse) and the [_Sambre_](https://en.wikipedia.org/wiki/Sambre). These colorful photographs of the sculpture were taken on May 8th in 2024, a day that commemorates the second war-ending victory of democracy over fascist ideologies across Europe in the mid-20th century.
+Sculpted in bronze by Belgian artist [_Nat Neujean_](https://www.natneujean.com/), _The Daughters of Water (1951)_ depicts two intertwined nymphs, symbolizing two European rivers: the [_Meuse_](https://en.wikipedia.org/wiki/Meuse) and the [_Sambre_](https://en.wikipedia.org/wiki/Sambre). These colorful photographs of the sculpture were taken on May 8th in 2024, a day that commemorates the second war-ending victory of democracy over fascist ideologies across Europe in the mid-20th century.
 
 <div><figure><img src=".gitbook/assets/IMG_20240508_162733_3-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162755_1-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162716_4.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
