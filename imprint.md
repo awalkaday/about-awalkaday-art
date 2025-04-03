@@ -74,7 +74,7 @@ A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Amandine N., Alice
 
 #### Blockchain Publication
 
-<div align="left"><figure><picture><source srcset="https://downloads.intercomcdn.com/i/o/528364/9173dde66bca6fe3aec82ee3/386b47383941bd1153032f4a4157cd76.png" media="(prefers-color-scheme: dark)"><img src="https://forum.manifold.xyz/uploads/default/original/2X/f/f55cc10ff24a8798a2532bc3536c74e12697ebac.png" alt="" width="188"></picture><figcaption><p><a href="https://forum.manifold.xyz/u/daqhris/summary">Onchain minting of photographs</a> <em>('23)</em></p></figcaption></figure></div>
+<div align="left"><figure><picture><source srcset="https://raw.githubusercontent.com/manifoldxyz/manifold-brand/refs/heads/main/logo%20with%20text/png/manifold_logo-w-text_white_transparent-bg.png" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/manifoldxyz/manifold-brand/refs/heads/main/logo%20with%20text/png/manifold_logo-w-text_black_transparent-bg.png" alt="" width="188"></picture><figcaption><p><a href="https://forum.manifold.xyz/u/daqhris/summary">Onchain minting of photographs</a> <em>('23)</em></p></figcaption></figure></div>
 
 #### Blockchain Network
 
@@ -82,7 +82,7 @@ A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Amandine N., Alice
 
 #### Brussels Public Library
 
-<div align="left"><figure><picture><source srcset=".gitbook/assets/MPS_Muntpunt_2022_White_RGB98.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/MPS_Muntpunt_2022_Black_RGB98.png" alt="https://muntpunt.be/" width="150"></picture><figcaption><p><a href="https://x.com/search?q=from%3A%40awalkadayart%20%40muntpunt&#x26;src=typed_query&#x26;f=top">Inspired by photography and art books</a> <em>('22-'24)</em></p></figcaption></figure></div>
+<div align="left"><figure><picture><source srcset=".gitbook/assets/MPS_Muntpunt_2022_White_RGB98.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/MPS_Muntpunt_2022_Black_RGB98.png" alt="https://muntpunt.be/" width="150"></picture><figcaption><p><a href="https://x.com/search?q=from%3A%40awalkadayart%20%40muntpunt&#x26;src=typed_query&#x26;f=top">Inspired by photography &#x26; art books</a> <em>('22-'24)</em></p></figcaption></figure></div>
 
 <div align="left"><figure><img src="https://456r5hpaktnuia4rvgd23ue2gnci6iy5cshax7565emfz3wj4eua.arweave.net/530eneBU20QDkamHrdCaM0SPIx0Ujgv_vukYXO7J4Sg" alt="" width="188"><figcaption><p><code>awalkaday 105-2022</code> portrays <a href="https://muntpunt.be/over-muntpunt">Muntpunt</a></p></figcaption></figure></div>
 
