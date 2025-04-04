@@ -34,13 +34,13 @@ Source Code for the Onchain Shop
 {% endembed %}
 
 {% embed url="https://github.com/daqhris/awalkaday" %}
-Source Code for the Gallery's Beta Version
+Source Code for the Gallery's Beta Testing
 {% endembed %}
 
 
 
 {% embed url="https://www.instagram.com/walk.day/p/C8casQwtnMP/" %}
-A graph visualizing years-long coding progress, representing time spent building the web gallery.
+A graph visualizing a years-long coding process, representing the duration of work on the public code repositories.
 {% endembed %}
 
 **`13`**
