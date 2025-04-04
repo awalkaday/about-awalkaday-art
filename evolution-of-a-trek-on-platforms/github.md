@@ -22,17 +22,25 @@ The underlying source code powering at least three pillars of the `awalkaday` se
 The public code repositories, available in [`git`](https://git-scm.com/) format, contain all commits and code changes from the beginning of the project at [github.com/awalkaday](https://github.com/awalkaday).
 
 {% embed url="https://github.com/awalkaday/awalkaday-art" %}
+Source Code for the Web Gallery
+{% endembed %}
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/tree/book" %}
+Source Code for the Online Book
+{% endembed %}
 
 {% embed url="https://github.com/awalkaday/collect-awalkaday-art" %}
+Source Code for the Onchain Shop
+{% endembed %}
+
+{% embed url="https://github.com/daqhris/awalkaday" %}
+Source Code for the Gallery's Beta Version
+{% endembed %}
 
 
 
 {% embed url="https://www.instagram.com/walk.day/p/C8casQwtnMP/" %}
 A graph visualizing years-long coding progress, representing time spent building the web gallery.
 {% endembed %}
-
-
 
 **`13`**
