@@ -78,7 +78,7 @@ _The informative page, named `FAQ | A WALK≡A DAY`, was eventually migrated awa
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/7660a21a32aa6c6b539beaf4b20c12c11fa4f148" %}
 
-_The three-bar symbol_ [_`≡`_](https://en.wikipedia.org/wiki/Triple_bar) _, which is synonymous with the two-way street sign_ ↔, _is both an indicator of logical equivalence and the monetary unit of a blockchain currency._
+_The three-bar symbol_ [_`≡`_](https://en.wikipedia.org/wiki/Triple_bar) _, which is synonymous with the two-way street sign_ ↔, _had piqued my interest as an indicator of logical equivalence and the monetary unit of a blockchain currency._
 
 _The `awalkaday` building blocks rebecame the focus of my geeky attention and camera lenses from_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4) _onwards, right after receiving a developer certification from the web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._
 
