@@ -72,9 +72,13 @@ A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Amandine N., Alice
 
 <div align="left"><figure><img src="https://art.art/wp-content/themes/art/new/img/logo_DotArt.svg" alt="https://art.art/" width="188"><figcaption><p><a href="https://x.com/Art_Domains/status/1755917791658418315">Praised online by .ART domains</a> <em>('24)</em></p></figcaption></figure></div>
 
-#### Blockchain Publication
+#### Artwork Publication
 
 <div align="left"><figure><picture><source srcset="https://raw.githubusercontent.com/manifoldxyz/manifold-brand/refs/heads/main/logo%20with%20text/png/manifold_logo-w-text_white_transparent-bg.png" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/manifoldxyz/manifold-brand/refs/heads/main/logo%20with%20text/png/manifold_logo-w-text_black_transparent-bg.png" alt="" width="188"></picture><figcaption><p><a href="https://forum.manifold.xyz/u/daqhris/summary">Onchain minting of photographs</a> <em>('23)</em></p></figcaption></figure></div>
+
+#### Data Preservation
+
+<div align="left"><figure><picture><source srcset=".gitbook/assets/dark@2x.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/light@2x.png" alt="" width="158"></picture><figcaption><p><a href="https://www.arweave.org/use/">Public storage of minted photos</a> <em>('23)</em></p></figcaption></figure></div>
 
 #### Blockchain Network
 

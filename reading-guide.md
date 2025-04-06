@@ -29,7 +29,7 @@ layout:
   * [Parallel Pathways](chronicle-of-milestones-navigation/ongoing-pathways.md)
   * [Internet Footprints](chronicle-of-milestones-navigation/internet-footprints.md)
   * [Blockchain Records](chronicle-of-milestones-navigation/blockchain-records.md)
-* [Evolution of a Pixelated Trek on Platforms](evolution-of-a-trek-on-platforms/)
+* [Evolution of a Trek on Platforms](evolution-of-a-trek-on-platforms/)
   * [Instagram](evolution-of-a-trek-on-platforms/instagram.md)
   * [GitHub](evolution-of-a-trek-on-platforms/github.md)
   * [Web Gallery](evolution-of-a-trek-on-platforms/web-gallery.md)
@@ -52,7 +52,5 @@ layout:
 {% embed url="https://7n5x6ki3xr2zlkzlhcpukbprymt3dhxl2kju2haif2y3xqajshpa.arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" %}
 awalkaday 129-2022
 {% endembed %}
-
-
 
 **`FRONT-2`**
