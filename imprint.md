@@ -52,9 +52,15 @@ awalkaday 91-2022
 
 ### Acknowledgments
 
+_A token of gratitude goes to:_&#x20;
+
 #### Caregiving Friends
 
-A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Amandine N., Alice D. & Cyril M., Andrée D., Anna R., Ant H., Back to Camp (Les Scouts Fédération), Britt H., Cécile G., Christine C., Christophe M., Croix-Rouge de Belgique, Daan V., Doc’Riders (Médecins du Monde), Effi W. & Amir B., ETHGlobal, FOSDEM, Jean de Dieu N., Karina B., Obscura Team (Tony, Omar & Wim), Opération Thermos, Ornella V., Sylvie T. & Patrick F., Peter K., Rotary Club Bastogne, Samusocial Brussels, Scolastique N. & Anselme N., Simon T., Shila A., Salim, Suleiman Z., Valérie H. and Willeke V.
+Adva Z., Agami A. & Grysbok H., Amandine N., Alice D. & Cyril M., Andrée D., Anna R., Ant H., Back to Camp (Les Scouts Fédération), Britt H., Caroline R., Cécile G., Christine C., Christophe M., Croix-Rouge de Belgique, Daan V., Doc’Riders (Médecins du Monde), Effi W. & Amir B., ETHGlobal, FOSDEM, Jean de Dieu N., Karina B., Nadège N., Obscura Team (Tony, Omar & Wim), Opération Thermos, Ornella V., Sylvie T. & Patrick F., Peter K., Rotary Club Bastogne, Samusocial Brussels, Scolastique N. & Anselme N., Simon T., Shila A., Salim, Suleiman Z., Valérie H. and Willeke V.
+
+#### Parents & Siblings
+
+Diomède N., Espérance N., Shella I., Nicolas I., Jobert I.
 
 #### Book Publication
 
@@ -93,6 +99,10 @@ A token of gratitude goes to: Adva Z., Agami A. & Grysbok H., Amandine N., Alice
 #### Storytelling Training
 
 <div align="left"><figure><img src="https://soundimageculture.org/wp-content/uploads/2023/05/sic_logo_white_circle_text_vec.svg" alt="https://soundimageculture.org/" width="188"><figcaption><p>Observer: <a href="https://soundimageculture.org/laboratory/#sic-regular-text-block_cd5d0fa1e38b295170f402ac3a73b7d6">SIC Collective Sessions</a> <em>('23-'24)</em></p></figcaption></figure></div>
+
+#### Asylum Investigators
+
+<div align="left"><figure><img src="https://www.cgra.be/sites/default/files/logo_cgvs-cgra.png" alt="" width="188"><figcaption><p>Queries by <a href="https://www.cgrs.be/en">Belgian Federal Agents</a> <em>('17, '18, '19)</em></p></figcaption></figure></div>
 
 #### Terrestrial Land Ruler
 
