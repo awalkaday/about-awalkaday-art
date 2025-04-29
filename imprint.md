@@ -56,7 +56,7 @@ _A token of gratitude goes to:_&#x20;
 
 #### Caregiving Friends & Groups
 
-Adva Z. & Daan V., Anna R. & Christophe M., Agami A. & Grysbok H., Amandine N., Alice D. & Cyril M., Andrée D., Ant H., Back to Camp (Les Scouts Fédération), Britt H., Cécile G., Christine C., Croix-Rouge de Belgique, Doc’Riders (Médecins du Monde), Effi W. & Amir B., ETHGlobal, FOSDEM, Jean de Dieu N., Karina B., Maison Médicale 1190, Obscura Team (Tony, Omar & Wim), Opération Thermos, Ornella V., Sylvie T. & Patrick F., Peter K., Rotary Club Bastogne, Samusocial Brussels, Social Service Assistants (Caroline R., Nadège N., Tom V., Youssra E.), Scolastique N. & Anselme N., Simon T., Shila A., Salim, Suleiman Z., Valérie H. and Willeke V.
+Adva Z. & Daan V., Anna R. & Christophe M., Agami A. & Grysbok H., Amandine N., Alice D. & Cyril M., Andrée D., Ant H., Back to Camp (Les Scouts Fédération), Begüm E., Britt H., Cécile G., Christine C., Croix-Rouge de Belgique, Doc’Riders (Médecins du Monde), Effi W. & Amir B., ETHGlobal, FOSDEM, Jean de Dieu N., Karina B., Maison Médicale 1190, Obscura Team (Tony, Omar & Wim), Opération Thermos, Ornella V., Sylvie T. & Patrick F., Peter K., Rotary Club Bastogne, Samusocial Brussels, Social Service Assistants (Caroline R., Nadège N., Tom V., Youssra E.), Scolastique N. & Anselme N., Simon T., Shila A., Salim, Suleiman Z., Valérie H. and Willeke V.
 
 #### Faraway Blood Relatives
 
