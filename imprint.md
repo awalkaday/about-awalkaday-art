@@ -35,7 +35,7 @@ _Initial online publication:_ [_July 2024_](https://github.com/awalkaday/about-a
 &#xNAN;_&#x4F;pen-sourced by `gitbook-bot` on behalf of `daqhris`_&#x20;
 
 {% hint style="warning" %}
-There is no print, e-book or tokenized version available yet. No part of this online book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any other information storage and retrieval system, for commercial purposes, without the prior permission and consent in writing of the publisher.
+There is no print, e-book, PDF or tokenized version available yet. No part of this online book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any other information storage and retrieval system, for commercial purposes, without the prior permission and consent in writing of the publisher.
 
 If you remix, transform or build upon the material, you may not distribute the modified material. You must give appropriate credit to the author, provide copies of the CC BY-NC-ND 4.0 and EUPL-1.2 licenses, and indicate whether any modifications have been made. You are free to share, copy, download and redistribute the material in its original medium or format.
 
@@ -60,19 +60,19 @@ Adva Z. & Daan V., Anna R. & Christophe M., Agami A. & Grysbok H., Amandine N., 
 
 #### Faraway Blood Relatives
 
-Diomède N., Espérance N., Shella I., Nicolas I. and Jobert I.
+Diomède N., Espérance N., Shella I., Nicolas I. and Kenny-Jobert I.
 
-#### Book Publication
+#### Online Book Publishing
 
 <div align="left"><figure><picture><source srcset=".gitbook/assets/GitBook - Light Logo.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/GitBook - Dark Logo.jpg" alt="" width="151"></picture><figcaption><p><a href="https://www.g2.com/products/gitbook/reviews/gitbook-review-9962377">Business Plan for Open-Source</a></p></figcaption></figure></div>
 
-#### Code Hosting
+#### Source Code Hosting
 
 <div align="left"><figure><picture><source srcset=".gitbook/assets/GitHub_Lockup_Light.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/GitHub_Lockup_Dark.png" alt="" width="188"></picture><figcaption><p><a href="https://github.com/awalkaday">Open-Source Organization account</a></p></figcaption></figure></div>
 
 #### Coding School
 
-<div align="left"><figure><picture><source srcset=".gitbook/assets/freecodecamp_logo (1).png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/freecodecamp_alternative_logo.png" alt="" width="188"></picture><figcaption><p><a href="https://www.freecodecamp.org/certification/daqhris/responsive-web-design">Web Design &#x26; Development</a> <em>('16, '20-'21)</em></p></figcaption></figure></div>
+<div align="left"><figure><picture><source srcset=".gitbook/assets/freecodecamp_logo (1).png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/freecodecamp_alternative_logo.png" alt="" width="188"></picture><figcaption><p><a href="https://www.freecodecamp.org/certification/daqhris/responsive-web-design">Web Design &#x26; Development</a> <em>('16, '18, '20-'21)</em></p></figcaption></figure></div>
 
 #### Internet Registry
 
