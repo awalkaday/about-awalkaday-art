@@ -39,4 +39,8 @@ It is a companion piece to a collection of 263 photographs taken during regular 
 
 👨🏽‍💻 [`github.com/awalkaday/about-awalkaday-art/tree/book`](https://github.com/awalkaday/about-awalkaday-art/tree/book)
 
+{% hint style="info" %}
+Ceci est un Livre d'Artiste Sans Papier.
+{% endhint %}
+
 **`COVER`**
