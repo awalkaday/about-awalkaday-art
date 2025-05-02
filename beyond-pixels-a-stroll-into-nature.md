@@ -14,7 +14,7 @@ layout:
 
 # Beyond Pixels: A Stroll into Nature
 
-Let us embark on a visual journey during which the mission extends beyond the domain of pixels to kindle a passion for the great outdoors.&#x20;
+Let us embark on a visual journey during which the mission extends beyond the domain of pixels to kindle a passion for the great outdoors.
 
 More than just a spectacle, this collection is an invitation to embrace the rejuvenating power of nature, to enjoy the fresh air, to be captivated by the surroundings and to cultivate well-being through the simplicity of regular walks, whether short or long.
 
@@ -28,14 +28,12 @@ In an age of rapid urbanization and hyperconnectivity, many people feel disconne
 awalkaday 168-2022
 {% endembed %}
 
-Through the lens of `daqhris`, `awalkaday` is much more than just a collection of photographs or a visual diary of sorts. It is a long-lasting testament to his passion for photography and a vessel for sharing his creative skills across borders and oceans.&#x20;
+Through the lens of `daqhris`, `awalkaday` is much more than just a series of photographs or a visual diary of sorts. It is a long-lasting testament to his passion for photography and a vessel for sharing his creative skills across borders and oceans.
 
 The web gallery and the blockchain smart contract were openly developed and are seamlessly interlinked to ensure effortless navigation for all who wish to discover and engage with the travelogue in a digital setting.
 
 {% embed url="https://arweave.net/84AC-vf_aJkER9F0cQ5iEXP-lJ1PocTY9IuOf7Bpsdc" %}
 awalkaday 186-2022
 {% endembed %}
-
-
 
 **`2`**
