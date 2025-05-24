@@ -41,7 +41,7 @@ It is a companion piece to a collection of 263 photographs taken during regular 
 👨🏽‍💻 [`github.com/awalkaday/about-awalkaday-art/tree/book`](https://github.com/awalkaday/about-awalkaday-art/tree/book)
 
 {% hint style="info" %}
-<kbd>Ceci ■ est ■ un</kbd> [<kbd>Livre d'Artiste</kbd>](https://fr.wikipedia.org/wiki/Livre_d'artiste) <kbd>Sans Papier.</kbd>
+`Ceci ■ est ■ un`  [`Livre d'Artiste`](https://fr.wikipedia.org/wiki/Livre_d'artiste) `Sans Papier.`
 {% endhint %}
 
 **`COVER`**
