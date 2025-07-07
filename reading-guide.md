@@ -4,7 +4,7 @@ description: List of chapters and subchapters in this artist's book
 
 # READING GUIDE
 
-### Table of Contents
+## Table of Contents
 
 * [AUTHOR'S NOTE](authors-note.md)
 * [READING GUIDE](reading-guide.md)
@@ -41,7 +41,7 @@ description: List of chapters and subchapters in this artist's book
 * [CATALOGUE](catalogue.md)
 * [APPENDIX](appendix.md)
   * [Visual Fun Facts](appendix.md#visual-fun-facts)
-  * [Ethereum Domain Names](appendix.md#ethereum-domain-names--photo-showcase)
+  * [Ethereum Domain Names](appendix.md#ethereum-domain-names)
 * [POSTSCRIPT](postscript.md)
 
 {% embed url="https://7n5x6ki3xr2zlkzlhcpukbprymt3dhxl2kju2haif2y3xqajshpa.arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" %}
