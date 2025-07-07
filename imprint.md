@@ -16,7 +16,7 @@ Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 <p align="right">Author &#x26; Publisher: © <a href="https://daqhris.com/">Chris-Armel Iradukunda</a> (<a href="https://github.com/daqhris">daqhris</a>)</p>
 
-<p align="right">Initial online publication: <a href="https://github.com/awalkaday/about-awalkaday-art/compare/about...book">July 2024</a><br>Recent content changes: <a href="https://github.com/awalkaday/about-awalkaday-art/commits/book/">July 2025</a><br>Open-sourced by <code>gitbook-bot</code> on behalf of <code>daqhris</code> </p>
+<p align="right">Initial online publication: <a href="https://github.com/awalkaday/about-awalkaday-art/compare/about...book">July 2024</a><br>Latest versioned changes: <a href="https://github.com/awalkaday/about-awalkaday-art/commits/book/">July 2025</a><br>Open-sourced by <code>gitbook-bot</code> on behalf of <code>daqhris</code> </p>
 
 {% hint style="warning" %}
 There is no print, e-book, PDF or tokenized version available yet. No part of this online book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any other information storage and retrieval system, for commercial purposes, without the prior permission and consent in writing of the publisher.
@@ -40,11 +40,11 @@ _A token of gratitude goes to:_&#x20;
 
 <h4 align="center">Caregiving Friends &#x26; Groups</h4>
 
-Adva Z. & Daan V., Anna R. & Christophe M., Agami A. & Grysbok H., Amandine N., Alice D. & Cyril M., Andrée D., Ant H., Back to Camp (Les Scouts Fédération), Begüm E., Britt H., Cécile G., Christine C., Croix-Rouge de Belgique, Doc’Riders (Médecins du Monde), Effi W. & Amir B., ETHGlobal, FOSDEM, Jean de Dieu N., Karina B., Marthe P., Maison Médicale 1190, Obscura Team (Tony, Omar & Wim), Opération Thermos, Ornella V., Sylvie T. & Patrick F., Peter K., Rotary Club Bastogne, Samusocial Brussels, Social Service Assistants (Caroline R., Nadège N., Tom V., Youssra E.), Scolastique N. & Anselme N., Simon T., Shila A., Salim, Suleiman Z., Valérie H. and Willeke V.
+<p align="center">Adva Z. &#x26; Daan V., Anna R. &#x26; Christophe M., Agami A. &#x26; Grysbok H., Amandine N., Alice D. &#x26; Cyril M., Andrée D., Ant H., Back to Camp (Les Scouts Fédération), Begüm E., Britt H., Cécile G., Christine C., Croix-Rouge de Belgique, Doc’Riders (Médecins du Monde), Effi W. &#x26; Amir B., ETHGlobal, FOSDEM, Jean de Dieu N., Karina B., Marthe P., Maison Médicale 1190, Obscura Team (Tony, Omar &#x26; Wim), Opération Thermos, Ornella V., Sylvie T. &#x26; Patrick F., Peter K., Rotary Club Bastogne, Samusocial Brussels, Social Service Assistants (Caroline R., Nadège N., Tom V., Youssra E.), Scolastique N. &#x26; Anselme N., Simon T., Shila A., Salim, Suleiman Z., Valérie H. and Willeke V.</p>
 
 <h4 align="center">Faraway Blood Relatives</h4>
 
-Diomède N., Espérance N., Shella I., Nicolas I. and Jobert I.
+<p align="center">Diomède N., Espérance N., Shella I., Nicolas I. and Jobert I.</p>
 
 <h4 align="center">Online Book Publishing</h4>
 
