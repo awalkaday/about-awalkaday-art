@@ -35,4 +35,4 @@ It is a companion piece to a collection of 263 photographs taken during regular 
 `Ceci ■ est ■ un`  [`Livre d'Artiste`](https://fr.wikipedia.org/wiki/Livre_d'artiste) `Sans Papier.`
 {% endhint %}
 
-#### `COVER`
+`COVER`
