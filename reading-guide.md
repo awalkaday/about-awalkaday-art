@@ -1,16 +1,5 @@
 ---
 description: List of chapters and subchapters in this artist's book
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # READING GUIDE
@@ -45,8 +34,14 @@ layout:
   * [Project Inception](artist-profile/project-inception.md)
 * [Contact](contact.md)
 * [IMPRINT](imprint.md)
+  * [Public Licensing](imprint.md#public-licensing)
+  * [Copyrights](imprint.md#copyrights)
+  * [Online Photo Store](imprint.md#online-photo-store)
+  * [Acknowledgments](imprint.md#acknowledgments)
 * [CATALOGUE](catalogue.md)
 * [APPENDIX](appendix.md)
+  * [Visual Fun Facts](appendix.md#visual-fun-facts)
+  * [Ethereum Domain Names](appendix.md#ethereum-domain-names--photo-showcase)
 * [POSTSCRIPT](postscript.md)
 
 {% embed url="https://7n5x6ki3xr2zlkzlhcpukbprymt3dhxl2kju2haif2y3xqajshpa.arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" %}
