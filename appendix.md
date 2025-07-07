@@ -26,4 +26,4 @@ Four [ENS domains](https://ens.domains/), owned by [`daqhris.eth`](https://app.e
 
 <div><figure><img src=".gitbook/assets/bastogne.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85:47981481869610083995936073997732283750222809913612277762499411613608388596160"><strong>bastogne</strong>.eth</a></p></figcaption></figure> <figure><img src=".gitbook/assets/schaerbeek.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0xd4416b13d2b3a9abae7acd5d6c2bbdbe25686401:22609889999588536487736404583550363407381519385506395789547348851782388298946?address=0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82"><strong>schaerbeek</strong>.eth</a></p></figcaption></figure></div>
 
-**`BACK-1`**
+<p align="center"><strong><code>BACK-1</code></strong></p>

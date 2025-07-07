@@ -44,7 +44,7 @@ _A token of gratitude goes to:_&#x20;
 
 <h4 align="center">Faraway Blood Relatives</h4>
 
-<p align="center">Diomède N., Espérance N., Shella I., Nicolas I. and Jobert I.</p>
+<p align="center">Diomède N., Espérance N., Shella I., Nicolas I. &#x26; Jobert I.</p>
 
 <h4 align="center">Online Book Publishing</h4>
 
@@ -96,4 +96,4 @@ _A token of gratitude goes to:_&#x20;
 
 &#x20;
 
-**`ANNEX-1`**
+<p align="center"><strong><code>ANNEX-1</code></strong></p>

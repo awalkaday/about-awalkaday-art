@@ -10,4 +10,4 @@ Convenient methods of contacting the walking photographer were actively ran, ove
 awalkaday 107-2022
 {% endembed %}
 
-**`25`**
+<p align="center"><strong><code>25</code></strong></p>

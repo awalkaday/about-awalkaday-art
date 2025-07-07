@@ -12,4 +12,4 @@ description: >-
 
 <table data-full-width="false"><thead><tr><th width="369" align="center">SEASON</th><th width="260" align="center">Number of Photos</th></tr></thead><tbody><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.SEASON%3AAutumn">Autumn</a></td><td align="center"><code>29</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.SEASON%3AWINTER">Winter</a></td><td align="center"><code>93</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.SEASON%3ASpring">Spring</a></td><td align="center"><code>39</code></td></tr><tr><td align="center"><a href="https://foundation.app/collection/awalkaday-art?attr=attributes.SEASON%3ASummer">Summer</a></td><td align="center"><code>102</code></td></tr></tbody></table>
 
-**`ANNEX-2`**
+<p align="center"><strong><code>ANNEX-2</code></strong></p>
