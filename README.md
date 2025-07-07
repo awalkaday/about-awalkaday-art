@@ -3,17 +3,6 @@ description: >-
   An open-source artist's book tracing the binary footprints of an exiled
   wanderer and Belgian-made pixels over the course of a seven-year digital
   odyssey
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # BOOK
@@ -25,6 +14,8 @@ awalkaday 251-2022
 {% endembed %}
 
 <table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a data-mention href="imprint.md">imprint.md</a></td><td></td><td><a href="imprint.md">imprint.md</a></td></tr><tr><td></td><td><a data-mention href="appendix.md">appendix.md</a></td><td></td><td><a href="appendix.md">appendix.md</a></td></tr></tbody></table>
+
+***
 
 ### Synopsis
 
@@ -44,4 +35,4 @@ It is a companion piece to a collection of 263 photographs taken during regular 
 `Ceci ■ est ■ un`  [`Livre d'Artiste`](https://fr.wikipedia.org/wiki/Livre_d'artiste) `Sans Papier.`
 {% endhint %}
 
-**`COVER`**
+#### `COVER`
