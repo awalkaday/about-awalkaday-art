@@ -1,20 +1,6 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Gaming Laptop
 
-A laptop computer, branded as [Hasee God of War](http://en.haseecomputer.com/About/about24.html) and acquired on the Asian continent, was very useful for coding sessions while building the online gallery on top of digital foundations.&#x20;
+A laptop computer, branded as [Hasee God of War](http://en.haseecomputer.com/About/about24.html) and acquired on the Asian continent, was very useful for coding sessions while building the online gallery on top of digital foundations.
 
 This device was one of the few items that he was able to stealthily keep after being arbitrarily detained by Chinese authorities in June 2016.
 
@@ -22,9 +8,9 @@ This device was one of the few items that he was able to stealthily keep after b
 awalkaday 187-2021
 {% endembed %}
 
-Unfortunately, the gaming computer first mysteriously crashed in the winter of 2017, but was resurrected the next year, and finally, relapsed four years later, during a malware analysis in the winter of 2022.&#x20;
+Unfortunately, the gaming computer first mysteriously crashed in the winter of 2017, but was resurrected the next year, and finally, relapsed four years later, during a malware analysis in the winter of 2022.
 
-The nearly decade-old computing device, still alive and undiagnosed in his care, eventually regained basic functionality under [Ubuntu](https://ubuntu.com/desktop)-flavored [Linux](https://www.redhat.com/en/topics/linux/what-is-linux) software.&#x20;
+The nearly decade-old computing device, still alive and undiagnosed in his care, eventually regained basic functionality under [Ubuntu](https://ubuntu.com/desktop)-flavored [Linux](https://www.redhat.com/en/topics/linux/what-is-linux) software.
 
 It's worth pointing out that the creative tools and works were more than once rescued, recovered or revived thanks to pieces of computer software, `linux` and `git`, brought to life by a [Finnish-born inventor](https://github.com/torvalds).
 
@@ -32,6 +18,4 @@ It's worth pointing out that the creative tools and works were more than once re
 awalkaday 328-2017
 {% endembed %}
 
-
-
-**`6`**
+<p align="center"><strong><code>6</code></strong></p>

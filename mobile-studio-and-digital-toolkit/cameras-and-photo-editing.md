@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Cameras and Photo Editing
 
 At the beginning of `daqhris`'s travelogue on Western soil, between 2017 and 2018, a [Xiaomi](https://www.mi.com/global/about/) smartphone, purchased in Beijing around 2015, was the tool of choice for capturing and editing still images.
@@ -20,7 +6,7 @@ At the beginning of `daqhris`'s travelogue on Western soil, between 2017 and 201
 awalkaday 4-2018
 {% endembed %}
 
-In early 2021, a smartphone operating under [Android One](https://www.android.com/one/) software system was purchased to meet the need for a dedicated mobile camera that regularly receives secure software updates from its American creator, Google.&#x20;
+In early 2021, a smartphone operating under [Android One](https://www.android.com/one/) software system was purchased to meet the need for a dedicated mobile camera that regularly receives secure software updates from its American creator, Google.
 
 This low-cost phone, designed by a Finnish firm and bought on Belgian soil, was equipped with two rear cameras, endowed with a 13-megapixel primary sensor and a 2-megapixel depth sensor.
 
@@ -36,7 +22,7 @@ In a stunning turn of events, all of the devices cryptographically signed as his
 awalkaday 253-2022
 {% endembed %}
 
-All of the photographs were edited using Android software applications before being sent off to cyberspace, namely [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed) (uncolouring into greyscale), [White Border](https://play.google.com/store/apps/details?id=com.vector123.whiteborder) (wide white framing), and [Scrambled Exif](https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif) (removal of native metadata). All manually processed in a procedural manner to attempt escaping from real-time hostile surveillance and third-party sabotage.&#x20;
+All of the photographs were edited using Android software applications before being sent off to cyberspace, namely [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed) (uncolouring into greyscale), [White Border](https://play.google.com/store/apps/details?id=com.vector123.whiteborder) (wide white framing), and [Scrambled Exif](https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif) (removal of native metadata). All manually processed in a procedural manner to attempt escaping from real-time hostile surveillance and third-party sabotage.
 
 Overall, the two cameras had basic features to balance highlights and shadows in photographs, produced decent detail in well-lit conditions, and assisted with scene recognition and optimization, but these cameras were limited by the mediocre sensors.
 
@@ -44,6 +30,4 @@ Overall, the two cameras had basic features to balance highlights and shadows in
 awalkaday 28-2022
 {% endembed %}
 
-
-
-**`5`**
+<p align="center"><strong><code>5</code></strong></p>

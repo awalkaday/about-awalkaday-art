@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Mobile Studio and Digital Toolkit
 
 {% content-ref url="on-the-go-photography.md" %}
@@ -30,4 +16,4 @@ layout:
 awalkaday 23-2022
 {% endembed %}
 
-**`3`**
+<p align="center"><strong><code>3</code></strong></p>

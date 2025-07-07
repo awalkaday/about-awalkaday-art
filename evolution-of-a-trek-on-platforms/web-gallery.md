@@ -1,16 +1,5 @@
 ---
 description: Since May 2021
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # Web Gallery
@@ -33,6 +22,4 @@ Visit the virtual exhibition space in an environment that simulates a lifelike d
 A web browser-based tour of the virtual exhibition hall dedicated to `awalkaday.art`
 {% endembed %}
 
-
-
-**`14`**
+<p align="center"><strong><code>14</code></strong></p>

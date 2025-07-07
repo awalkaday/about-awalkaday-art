@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Open Source Software
 
 An open source ethos which embodies principles such as transparency, collaboration, and community-driven development was embraced with open arms.
@@ -36,4 +22,4 @@ In the second half of the following year, `daqhris` ingeniously crafted an onlin
 awalkaday 91-2022
 {% endembed %}
 
-**`20`**
+<p align="center"><strong><code>20</code></strong></p>

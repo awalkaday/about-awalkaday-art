@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Artist Profile
 
 {% content-ref url="human-identity.md" %}
@@ -30,4 +16,4 @@ layout:
 awalkaday 8-2018
 {% endembed %}
 
-**`21`**
+<p align="center"><strong><code>21</code></strong></p>

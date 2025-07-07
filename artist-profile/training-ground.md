@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Training Ground
 
 {% embed url="https://arweave.net/2s8V7COfuK32VaXHDAyInocahSsGR4FRdhxICHufdis" %}
@@ -22,6 +8,4 @@ Chris started learning photography as a self-taught enthusiast during the early 
 
 His style combined traditional photographic techniques with digital editing and publishing tools. The photographs are monochrome with a 1:1 aspect ratio, and capture time-bound memories recorded during walks geofenced to a Belgian, and in part, European landscape.
 
-
-
-**`23`**
+<p align="center"><strong><code>23</code></strong></p>

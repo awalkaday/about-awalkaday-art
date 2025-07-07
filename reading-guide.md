@@ -48,4 +48,4 @@ description: List of chapters and subchapters in this artist's book
 awalkaday 129-2022
 {% endembed %}
 
-**`FRONT-2`**
+<p align="center"><strong><code>FRONT-2</code></strong></p>

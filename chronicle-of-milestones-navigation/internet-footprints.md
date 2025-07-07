@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Internet Footprints
 
 The visual art practice, reinforced by web surfing, began in [July 2017](https://www.instagram.com/p/BWvILEmAPcy/), when a photo was posted on Instagram with the following caption: _<mark style="color:blue;">Don't watch the clock. Do what it does. Keep going.</mark>_
@@ -42,6 +28,4 @@ A congratulatory message citing the virtual exhibition hall of the photo series 
 The final photo shared on Instagram in Oct 2022. Its original file, along with four others posted in the same month, were lost. They were not minted on Ethereum.
 {% endembed %}
 
-&#x20;
-
-**`9`**
+<p align="center"><strong><code>9</code></strong></p>

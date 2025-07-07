@@ -1,24 +1,10 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Parallel Pathways
 
 {% embed url="https://arweave.net/g_a3kCxXvhagS4B62-glUh3IsomrXyXujClsWZKP1rI" %}
 awalkaday 71-2022
 {% endembed %}
 
-The `awalkaday` photo collection evolved since its launch with the guidance of its pathfinder. \
+The `awalkaday` photo collection evolved since its launch with the guidance of its pathfinder.\
 Over the years, in parallel with his struggles with multitasking and in defiance of menial labor, the artist :
 
 * captured hundreds of monochrome photographs featuring various locations in Belgium.
@@ -27,6 +13,4 @@ Over the years, in parallel with his struggles with multitasking and in defiance
 * published a smart contract containing his photo series, limited to 263 tokenized items, on the Ethereum blockchain.
 * created a virtual exhibition hall in a three-dimensional environment to simulate a lifelike exposition of 24 photographs.
 
-
-
-**`8`**
+<p align="center"><strong><code>8</code></strong></p>

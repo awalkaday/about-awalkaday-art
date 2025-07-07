@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Beyond Pixels: A Stroll into Nature
 
 Let us embark on a visual journey during which the mission extends beyond the domain of pixels to kindle a passion for the great outdoors.
@@ -36,4 +22,4 @@ The web gallery and the blockchain smart contract were openly developed and are 
 awalkaday 186-2022
 {% endembed %}
 
-**`2`**
+<p align="center"><strong><code>2</code></strong></p>

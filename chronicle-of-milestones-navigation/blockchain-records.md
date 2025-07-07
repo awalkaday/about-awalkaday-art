@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Blockchain Records
 
 The blockchain publication of the photo collection was achieved with the creation of an eponymous [smart contract](https://ethereum.org/en/developers/docs/smart-contracts/) in [August 2022](https://etherscan.io/tx/0x3cce44b92db9e6eb887fcbe90d59f5951e9928dea4540afbfe9fd3c2e9662f1f). This was followed by the registration of [`awalkaday.art`](https://app.ens.domains/awalkaday.art) as an Ethereum domain name in [September 2022](https://etherscan.io/tx/0x353f1900e073e6d97f8230021c3fce153b4b930269e5c8bd4f47c9c3950b9337).
@@ -34,4 +20,4 @@ Since then, after honing his skills as an Ethereum app developer and overcoming 
 
 {% embed url="https://ethglobal.com/showcase/zinnekerescuemission-9fwjf" %}
 
-**`10`**
+<p align="center"><strong><code>10</code></strong></p>

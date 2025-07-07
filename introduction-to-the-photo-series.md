@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Introduction to the Photo Series
 
 Say hello to [awalkaday.art](https://awalkaday.art/), a collection of 263 photographs created by `daqhris` and published on the [Ethereum](https://ethereum.org/en/what-is-ethereum) blockchain since February 2023.
@@ -24,6 +10,4 @@ Near the end of the digital odyssey, all snapshots were assigned a unique name a
 awalkaday 168.5-2021
 {% endembed %}
 
-
-
-**`1`**
+<p align="center"><strong><code>1</code></strong></p>

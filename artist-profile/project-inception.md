@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Project Inception
 
 During the summer of 2017, Chris resided in a Red Cross camp for asylum seekers in Namur, Belgium. To combat prolonged boredom and physical inactivity, an idea sparked in his mind, urging him to combine his skills in black-and-white photography, visual design, and software coding in order to create an artistic project.
@@ -46,4 +32,4 @@ Since day one of the project, the photographer endured the human experience of l
 awalkaday 184-2021
 {% endembed %}
 
-**`24`**
+<p align="center"><strong><code>24</code></strong></p>

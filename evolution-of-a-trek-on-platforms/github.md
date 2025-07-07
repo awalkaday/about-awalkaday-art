@@ -1,16 +1,5 @@
 ---
 description: Since November 2017
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # GitHub
@@ -43,4 +32,4 @@ Source Code for the Gallery's Beta Testing
 A graph visualizing a years-long coding process, representing the duration of work on the public code repositories.
 {% endembed %}
 
-**`13`**
+<p align="center"><strong><code>13</code></strong></p>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Chronicle of Milestones Navigation
 
 {% content-ref url="ongoing-pathways.md" %}
@@ -30,4 +16,4 @@ layout:
 awalkaday 198-2021
 {% endembed %}
 
-**`7`**
+<p align="center"><strong><code>7</code></strong></p>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Evolution of a Trek on Platforms
 
 {% content-ref url="instagram.md" %}
@@ -38,4 +24,4 @@ layout:
 awalkaday 25-2022
 {% endembed %}
 
-**`11`**
+<p align="center"><strong><code>11</code></strong></p>

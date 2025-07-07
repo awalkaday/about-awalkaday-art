@@ -1,16 +1,5 @@
 ---
 description: Since November 2021
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # X (Twitter)
@@ -23,6 +12,4 @@ News and viewpoints related to the photo collection were broadcast on X, where t
 awalkaday 220-2022
 {% endembed %}
 
-
-
-**`15`**
+<p align="center"><strong><code>15</code></strong></p>

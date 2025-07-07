@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Human Identity
 
 [Chris-Armel](https://daqhris.com), digitally identified as `daqhris`, is the artist, photographer and software developer at the origin of the digital life of the `awalkaday.art` Photography Collectio&#x6E;_._
@@ -22,6 +8,4 @@ Born in Burundi (1992), he pursued an artistic passion in the midst of his twent
 awalkaday 202-2021
 {% endembed %}
 
-&#x20;
-
-**`22`**
+<p align="center"><strong><code>22</code></strong></p>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Artist's Proofs and Ethos
 
 {% content-ref url="public-git-commits.md" %}
@@ -30,4 +16,4 @@ layout:
 awalkaday 178-2021
 {% endembed %}
 
-**`17`**
+<p align="center"><strong><code>17</code></strong></p>

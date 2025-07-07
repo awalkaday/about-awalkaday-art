@@ -81,4 +81,4 @@ _For an accurate time-stamped overview of changes made to the book's drafts and 
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commits/book/" %}
 
-**`FRONT-1`**
+<p align="center"><strong><code>FRONT-1</code></strong></p>
