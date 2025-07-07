@@ -1,16 +1,5 @@
 ---
 description: Disclosures and essential information written in the first person.
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # AUTHOR'S NOTE
@@ -23,7 +12,7 @@ awalkaday 219-2022
 
 _The project's lines of code first appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_, four months after the summer debut of walking and photographing._
 
-_From the beginning, the creative process was intuitively, leisurely or swiftly occurring from time to time, offline or online. Until, being finalized retrospectively with an emphasis on narrative writing, visual storytelling, book formatting, and date-timestamps._
+_From the beginning, the creative process was intuitively, leisurely or swiftly occurring from time to time, offline or online. Until being finalized, retrospectively, with an emphasis on narrative writing, visual storytelling, book formatting, and digital timestamps._
 
 {% embed url="https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f" %}
 
@@ -84,7 +73,7 @@ _The `awalkaday` building blocks rebecame the focus of my geeky attention and ca
 
 {% embed url="https://daqhris.com/fcc-cert/" %}
 
-_This book poetically features adapted texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) — _a single page dating from the project's early days_ — _illustrated with visually evocative `awalkaday` photographs._
+_This book poetically features modified texts originally from_ [_about.awalkaday.art_](https://about.awalkaday.art) — _a single page dating from the project's early days_ — _which are illustrated with visually evocative `awalkaday` photographs._
 
 _Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass during a long-lasting march._
 
