@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # APPENDIX
 
 ### Fun Facts
@@ -30,7 +16,7 @@ Sculpted in bronze by Belgian artist [_Nat Neujean_](https://www.natneujean.com/
 
 <div><figure><img src=".gitbook/assets/IMG_20240508_162733_3-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162755_1-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162716_4.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-`awalkaday 251-2022` and [_The Daughters of Water_](https://statues.vanderkrogt.net/object.php?webpage=ST\&record=bena030) both have their roots in a 19th century park named after the first Queen of the Belgians, _Louise-Marie_. Note the uncanny similarities between the color photographs of a bronze sculpture of a couple of nymphs and a monochrome photograph of a couple of human beings, all in the shade of the same slowly aging tree.
+`awalkaday 251-2022` and [_The Daughters of Water_](https://statues.vanderkrogt.net/object.php?webpage=ST\&record=bena030) both have their roots in a 19th century park named after the first Queen of the Belgians, _Louise-Marie_. Note the uncanny similarities between the color photographs of a bronze sculpture of a couple of nymphs and a monochromatic photograph of a couple of humans, all in the shade of the same slowly aging tree.
 
 ### Ethereum Domain Names + Photo Showcase
 
