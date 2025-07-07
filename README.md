@@ -7,13 +7,13 @@ description: >-
 
 # Book
 
-<table data-card-size="large" data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="authors-note.md">authors-note.md</a></td></tr><tr><td><a href="reading-guide.md">reading-guide.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><a href="authors-note.md">AUTHOR'S NOTE</a></td></tr><tr><td align="center"><a href="reading-guide.md">READING GUIDE</a></td></tr></tbody></table>
 
 {% embed url="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" %}
 awalkaday 251-2022
 {% endembed %}
 
-<table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th align="right"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="right"><a data-mention href="imprint.md">imprint.md</a></td><td><a href="imprint.md">imprint.md</a></td></tr><tr><td align="right"><a data-mention href="appendix.md">appendix.md</a></td><td><a href="appendix.md">appendix.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a data-mention href="imprint.md">imprint.md</a></td><td><a href="imprint.md">imprint.md</a></td></tr><tr><td align="center"><a data-mention href="appendix.md">appendix.md</a></td><td><a href="appendix.md">appendix.md</a></td></tr></tbody></table>
 
 ### Synopsis
 
