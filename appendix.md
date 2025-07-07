@@ -18,7 +18,7 @@ Sculpted in bronze by Belgian artist [Nat Neujean](https://www.natneujean.com/),
 
 `awalkaday 251-2022` and [_The Daughters of Water_](https://statues.vanderkrogt.net/object.php?webpage=ST\&record=bena030) both have their roots in a 19th century park named after the first Queen of the Belgians, _Louise-Marie_. Notice the timeless traits of two art forms grounding a duo — one in human form and another in metallic form — in the shade of a slowly aging tree.
 
-### Ethereum Domain Names + Photo Showcase
+### Ethereum Domain Names
 
 Four [ENS domains](https://ens.domains/), owned by [`daqhris.eth`](https://app.ens.domains/daqhris.eth) and named after Belgian towns and rivers, have been decorated with [`awalkaday`](https://app.zerion.io/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82/nfts?collections=85657215) photographs. The local landscape was mapped and displayed on an Ethereum blockchain naming protocol to celebrate a rare week of international conferences in Belgium: [EthCC \[7\]](https://ethcc.io/archive?page=1\&event=EthCC%5B7%5D) & [ETHGlobal Brussels](https://ethglobal.com/events/brussels) in the summer of 2024.
 
