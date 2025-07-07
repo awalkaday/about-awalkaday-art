@@ -23,11 +23,11 @@ A unique blend of digital art forms—black-and-white photography, open-source c
 
 It is a companion piece to a collection of 263 photographs taken during regular walks in Belgium, Europe. A book that concludes a long-term project by an exiled artist and pioneers a novel approach to publishing digital art. By virtue of the artistic medium, all of the drafts and years of changes are baked into this online edition.
 
-**`25 Pages`—`ENGLISH`—`Black & White Digital Photography`**
+<p align="center"><strong><code>25 Pages</code> — <code>ENGLISH</code> — <code>Black &#x26; White Digital Photography</code></strong></p>
 
-📖 `book.awalkaday.art`
+<p align="center">📖 <code>book.awalkaday.art</code></p>
 
-👨🏽‍💻 [`github.com/awalkaday/about-awalkaday-art/tree/book`](https://github.com/awalkaday/about-awalkaday-art/tree/book)
+<p align="center">👨🏽‍💻 <a href="https://github.com/awalkaday/about-awalkaday-art/tree/book"><code>github.com/awalkaday/about-awalkaday-art/tree/book</code></a></p>
 
 {% hint style="info" %}
 `Ceci ■ est ■ un`  [`Livre d'Artiste`](https://fr.wikipedia.org/wiki/Livre_d'artiste) `Sans Papier.`
