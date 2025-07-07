@@ -13,7 +13,7 @@ description: >-
 awalkaday 251-2022
 {% endembed %}
 
-<table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a data-mention href="imprint.md">imprint.md</a></td><td><a href="imprint.md">imprint.md</a></td></tr><tr><td align="center"><a data-mention href="appendix.md">appendix.md</a></td><td><a href="appendix.md">appendix.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="imprint.md">IMPRINT</a></td><td><a href="imprint.md">imprint.md</a></td></tr><tr><td align="center"><a href="appendix.md">APPENDIX</a></td><td><a href="appendix.md">appendix.md</a></td></tr></tbody></table>
 
 ### Synopsis
 
