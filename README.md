@@ -25,12 +25,12 @@ It is a companion piece to a collection of 263 photographs taken during regular 
 
 <p align="center"><strong><code>25 Pages</code> — <code>ENGLISH</code> — <code>Black &#x26; White Digital Photography</code></strong></p>
 
-<p align="center">📖 <code>book.awalkaday.art</code></p>
+<p align="center"> <strong><code>book.awalkaday.art</code></strong></p>
 
-<p align="center">👨🏽‍💻 <a href="https://github.com/awalkaday/about-awalkaday-art/tree/book"><code>github.com/awalkaday/about-awalkaday-art/tree/book</code></a></p>
+<p align="center"> <a href="https://github.com/awalkaday/about-awalkaday-art/tree/book"><code>github.com/awalkaday/about-awalkaday-art/tree/book</code></a></p>
 
 {% hint style="info" %}
-`Ceci ■ est ■ un`  [`Livre d'Artiste`](https://fr.wikipedia.org/wiki/Livre_d'artiste) `Sans Papier.`
+**`Ceci ■ est ■ un`**  [`Livre d'Artiste`](https://fr.wikipedia.org/wiki/Livre_d'artiste) **`Sans Papier.`**
 {% endhint %}
 
 <p align="center"><strong><code>COVER</code></strong></p>
