@@ -4,7 +4,7 @@ description: List of chapters and subchapters in this artist's book
 
 # READING GUIDE
 
-## Table of Contents
+### Table of Contents
 
 * [AUTHOR'S NOTE](authors-note.md)
 * [READING GUIDE](reading-guide.md)
