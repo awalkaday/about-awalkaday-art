@@ -24,7 +24,7 @@ The Android One's circuits were penetrated by an illogical force in the last sea
 awalkaday 253-2022
 {% endembed %}
 
-All of the photographs were edited by using Android software applications before being sent off to cyberspace, namely [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed) (uncolouring into greyscale), [White Border](https://play.google.com/store/apps/details?id=com.vector123.whiteborder) (wide white framing), and [Scrambled Exif](https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif) (removal of native metadata). All manually processd in a sequential manner to attempt escaping from Internet surveillance and third-party sabotage of equipment.
+All of the photographs were edited by using Android software applications before being sent off to cyberspace, namely [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed) (uncolouring into greyscale), [White Border](https://play.google.com/store/apps/details?id=com.vector123.whiteborder) (wide white framing), and [Scrambled Exif](https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif) (removal of native metadata). All manually processed in a sequential manner to attempt escaping from Internet surveillance and third-party sabotage of equipment.
 
 Overall, the two cameras had basic features to balance highlights and shadows in photographs, and produced decent details in well-lit conditions. They assisted with scene recognition and optimization, but all the cameras were obviously unprivileged by their mediocre sensors.
 
