@@ -33,7 +33,7 @@ awalkaday 174-2022
 
 After landing on a blockchain terrain in a batch series, each photo began to carry a name, like the title of a logbook, for example: [`awalkaday 185-2022`](https://app.zerion.io/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82/nfts?collections=85657215).
 
-The name is a string of words and numbers that begins with the artistic theme `awalkaday`, then ends with a computer-calculated [day of the year](https://asd.gsfc.nasa.gov/Craig.Markwardt/doy2024.html), linked by a hyphen to the year of when the photo was first dropped online without a parachute and crossed the radar of [cyberwarfare forces](https://en.m.wikipedia.org/wiki/List_of_cyber_warfare_forces) on a tourist visa.
+The name is a string of words and numbers that begins with the artistic theme `awalkaday`, then ends with a computer-calculated [day of the year](https://asd.gsfc.nasa.gov/Craig.Markwardt/doy2025.html), linked by a hyphen to the year of when the photo was first dropped online without a parachute and crossed the radar of [cyberwarfare forces](https://en.m.wikipedia.org/wiki/List_of_cyber_warfare_forces) on a tourist visa.
 
 {% embed url="https://arweave.net/QuZy3p6WDONJOwwHuqP9VyMCgTqMOJjm-m6fDVE-86Q" %}
 awalkaday 3-2022
