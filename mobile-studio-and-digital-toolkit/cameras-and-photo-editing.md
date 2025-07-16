@@ -16,7 +16,9 @@ awalkaday 73-2022
 
 The [Nokia](https://www.hmd.com/en_int/nokia-2-3)'s longevity and endurance earned it the merit of being compared to a cheap handheld [Air Force One](https://en.m.wikipedia.org/wiki/Air_Force_One_\(disambiguation\)) in the hands of a moving target of celestial attention and protection.
 
-In a stunning turn of events, all of the devices cryptographically signed as his on a [cyberspace board](https://keybase.io/daqhris/devices) in the summer of 2022 were hit by a cyberattack, deniably sponsored by a nation-state, in the following season, proving Android One's resilience to ill-willed interference.
+In a stunning turn of events, the smart device cryptographically signed as his on a [cyberspace board](https://keybase.io/daqhris/devices) in the summer of 2022 was, later on, attacked by more than a single cyber-vehicled intrusion, deniably sponsored by higher powers as strong as a nation-state.&#x20;
+
+The Android One's circuits were penetrated by an illogical force in the last season of 2022, then once again in the first season of 2024. A series of events that comically proved one's resilience to ill-willed interference and tearfully washed away hopes of mercy.
 
 {% embed url="https://arweave.net/i6PP4en92kXHtQLpdd0XBSBrQuY6a5cWgMt3A1gJBCI" %}
 awalkaday 253-2022
