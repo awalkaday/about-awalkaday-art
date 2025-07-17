@@ -8,7 +8,7 @@ description: Since November 2017
 
 The underlying source code powering at least three pillars of the `awalkaday` series of photos — gallery, book, shop — is hosted and runs on GitHub, where all changes can be tracked and audited.
 
-The public code repositories, available in [`git`](https://git-scm.com/) format, contain all commits and code changes from the beginning of the project at [github.com/awalkaday](https://github.com/awalkaday).
+The public code repositories, available in `git` format, contain all commits and code changes from the beginning of the project at [github.com/awalkaday](https://github.com/awalkaday).
 
 {% embed url="https://github.com/awalkaday/awalkaday-art" %}
 Source Code for the Web Gallery
