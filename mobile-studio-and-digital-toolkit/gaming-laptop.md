@@ -2,7 +2,7 @@
 
 A laptop computer, branded as [Hasee God of War](http://en.haseecomputer.com/About/about24.html) and acquired on the Asian continent, was very useful for coding sessions while building the online gallery on top of digital foundations.
 
-The computing device was one of the few items, in addition to computer engineering textbooks and other personal reading materials, that he was able to stealthily keep after being arbitrarily detained by Chinese authorities in June 2016.
+The computing device was one of the few items, in addition to engineering textbooks, and personal belongings of emotional value, that he was able to stealthily keep or ship out to North Africa after being arbitrarily detained by Chinese authorities in June 2016.
 
 {% embed url="https://arweave.net/MiuCILoiAVXSGdWoiN4tM6XHZGSCCkLvCFyKMwWvzHg" %}
 awalkaday 187-2021
