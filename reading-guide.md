@@ -6,43 +6,43 @@ description: List of chapters and subchapters in this artist's book
 
 ### Menu of Contents
 
-* [AUTHOR'S NOTE](authors-note.md)
-* [READING GUIDE](reading-guide.md)
-* [Introduction to the Photo Series](introduction-to-the-photo-series.md)
-* [Beyond Pixels: A Stroll into Nature](beyond-pixels-a-stroll-into-nature.md)
-* [Mobile Studio and Digital Toolkit](mobile-studio-and-digital-toolkit/)
-  * [On-the-go Photography](mobile-studio-and-digital-toolkit/on-the-go-photography.md)
-  * [Cameras and Photo Editing](mobile-studio-and-digital-toolkit/cameras-and-photo-editing.md)
-  * [Gaming Laptop](mobile-studio-and-digital-toolkit/gaming-laptop.md)
-* [Chronicle of Milestones Navigation](chronicle-of-milestones-navigation/)
-  * [Parallel Pathways](chronicle-of-milestones-navigation/ongoing-pathways.md)
-  * [Internet Footprints](chronicle-of-milestones-navigation/internet-footprints.md)
-  * [Blockchain Records](chronicle-of-milestones-navigation/blockchain-records.md)
-* [Evolution of a Trek on Platforms](evolution-of-a-trek-on-platforms/)
-  * [Instagram](evolution-of-a-trek-on-platforms/instagram.md)
-  * [GitHub](evolution-of-a-trek-on-platforms/github.md)
-  * [Web Gallery](evolution-of-a-trek-on-platforms/web-gallery.md)
-  * [X (Twitter)](evolution-of-a-trek-on-platforms/web-gallery.md)
-  * [Ethereum](evolution-of-a-trek-on-platforms/ethereum.md)
-* [Artist's Proofs and Ethos](artists-proofs-and-ethos/)
-  * [Public Git Commits](artists-proofs-and-ethos/public-git-commits.md)
-  * [Open Source Software](artists-proofs-and-ethos/open-source-software.md)
-  * [Git Usage History](artists-proofs-and-ethos/git-usage-history.md)
-* [Artist Profile](artist-profile/)
-  * [Human Identity](artist-profile/human-identity.md)
-  * [Training Ground](artist-profile/training-ground.md)
-  * [Project Inception](artist-profile/project-inception.md)
-* [Contact](contact.md)
-* [IMPRINT](imprint.md)
-  * [Public Licensing](imprint.md#public-licensing)
-  * [Copyrights](imprint.md#copyrights)
-  * [Online Photo Store](imprint.md#online-photo-store)
-  * [Acknowledgments](imprint.md#acknowledgments)
-* [CATALOGUE](catalogue.md)
-* [APPENDIX](appendix.md)
-  * [Visual Fun Facts](appendix.md#visual-fun-facts)
-  * [Ethereum Domain Names](appendix.md#ethereum-domain-names)
-* [POSTSCRIPT](postscript.md)
+* AUTHOR'S NOTE —— [`FRONT-1`](authors-note.md)
+* READING GUIDE —— [`FRONT-2`](reading-guide.md)
+* Introduction to the Photo Series —— [`1`](introduction-to-the-photo-series.md)
+* Beyond Pixels: A Stroll into Nature —— [`2`](beyond-pixels-a-stroll-into-nature.md)
+* Mobile Studio and Digital Toolkit —— [`3`](mobile-studio-and-digital-toolkit/) &#x20;
+  * On-the-go Photography —— [`4`](mobile-studio-and-digital-toolkit/on-the-go-photography.md)&#x20;
+  * Cameras and Photo Editing —— [`5`](mobile-studio-and-digital-toolkit/cameras-and-photo-editing.md)&#x20;
+  * Gaming Laptop —— [`6`](mobile-studio-and-digital-toolkit/gaming-laptop.md)&#x20;
+* Chronicle of Milestones Navigation —— [`7`](chronicle-of-milestones-navigation/)&#x20;
+  * Parallel Pathways —— [`8`](chronicle-of-milestones-navigation/ongoing-pathways.md)&#x20;
+  * Internet Footprints —— [`9`](chronicle-of-milestones-navigation/internet-footprints.md)&#x20;
+  * Blockchain Records —— [`10`](chronicle-of-milestones-navigation/blockchain-records.md)&#x20;
+* Evolution of a Trek on Platforms —— [`11`](evolution-of-a-trek-on-platforms/)&#x20;
+  * Instagram —— [`12`](evolution-of-a-trek-on-platforms/instagram.md)&#x20;
+  * GitHub —— [`13`](evolution-of-a-trek-on-platforms/github.md)&#x20;
+  * Web Gallery —— [`14`](evolution-of-a-trek-on-platforms/web-gallery.md)&#x20;
+  * X (Twitter) —— [`15`](evolution-of-a-trek-on-platforms/x-twitter.md)&#x20;
+  * Ethereum —— [`16`](evolution-of-a-trek-on-platforms/ethereum.md)&#x20;
+* Artist's Proofs and Ethos —— [`17`](artists-proofs-and-ethos/)&#x20;
+  * Public Git Commits —— [`18`](artists-proofs-and-ethos/public-git-commits.md)&#x20;
+  * Open Source Software —— [`19`](artists-proofs-and-ethos/open-source-software.md)&#x20;
+  * Git Usage History —— [`20`](artists-proofs-and-ethos/git-usage-history.md)&#x20;
+* Artist Profile —— [`21`](artist-profile/)&#x20;
+  * Human Identity —— [`22`](artist-profile/human-identity.md)&#x20;
+  * Training Ground —— [`23`](artist-profile/training-ground.md)&#x20;
+  * Project Inception —— [`24`](artist-profile/project-inception.md)&#x20;
+* Contact —— [`25`](contact.md)&#x20;
+* IMPRINT —— [`ANNEX-1`](imprint.md)&#x20;
+  * Public Licensing
+  * Copyrights
+  * Online Photo Store
+  * Acknowledgments
+* CATALOGUE —— [`ANNEX-2`](catalogue.md)&#x20;
+* APPENDIX —— [`BACK-1`](appendix.md)&#x20;
+  * Visual Fun Facts
+  * Ethereum Domain Names
+* POSTSCRIPT —— [`BACK-2`](postscript.md)&#x20;
 
 {% embed url="https://7n5x6ki3xr2zlkzlhcpukbprymt3dhxl2kju2haif2y3xqajshpa.arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" %}
 awalkaday 129-2022
