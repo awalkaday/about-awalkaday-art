@@ -8,15 +8,15 @@ awalkaday 344-2017
 
 Using rudimentary photographic equipment and online public platforms, coupled with an open-source digital toolbox, he has visually documented a years-long journey that artfully depicts his time-bound walks in exile and publicly logs his footprints around a land of refuge.
 
-He had landed in Brussels in the winter of 2016, preceded by a summertime stopover in Cairo, Egypt. His aim was seeking a safe haven away from persecution by his home country's diplomatic authorities and their Chinese counterparts, while studying abroad in China two seasons before.
-
-His original sin, worthy of exile from both Beijing and Bujumbura for many human years, was unofficially blamed on a one-day cocktail of irrational factors. Its ingredients were the photographic portrayal of human faces, activism on university grounds as a student, his ethnicity and a [_crime de lèse-majesté_](https://fr.wikipedia.org/wiki/Crime_de_l%C3%A8se-majest%C3%A9) against the dignity of the supreme ruler of Burundi.
+He had landed in Brussels in the winter of 2016, as final destination preceded by a summertime stopover in Cairo, Egypt. His aim was seeking a safe haven away from persecution by his home country's diplomatic authorities and their Chinese counterparts, while studying abroad in China two seasons before.
 
 {% embed url="https://arweave.net/PzcrZqCeMDwty56zrlbyngXjTYxpPCEKKo6MevHVf-Q" %}
 awalkaday 185-2022
 {% endembed %}
 
-After six months of posting on Instagram and coding on GitHub, the artistic endeavor was put on hold due to the loss of electronic devices, in the aftermath of a laptop crash and a smartphone theft within the enclosure of the refugee camp.
+His original sin, worthy of exile from both Beijing and Bujumbura for many human years, was unofficially blamed on a one-day cocktail of irrational factors. Its ingredients were the photographic portrayal of human faces, activism on university grounds as a student, his ethnicity and a [_crime de lèse-majesté_](https://fr.wikipedia.org/wiki/Crime_de_l%C3%A8se-majest%C3%A9) against the dignity of the supreme ruler of Burundi.
+
+After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/instagram.md) and coding on [GitHub](../evolution-of-a-trek-on-platforms/github.md), the artistic endeavor was put on hold due to the loss of electronic devices, in the aftermath of a laptop crash and a smartphone theft within the enclosure of the refugee camp at the start of 2018.
 
 Three years later, in 2021, it was relaunched as a part-time artistic practice, even though his legal status and human life as an immigrant remained uncertain, hopeless, angst-inducing and precarious.
 
