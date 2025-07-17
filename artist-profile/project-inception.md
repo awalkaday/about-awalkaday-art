@@ -8,7 +8,7 @@ awalkaday 344-2017
 
 Using rudimentary photographic equipment and online public platforms, coupled with an open-source digital toolbox, he has visually documented a years-long journey that artfully depicts his time-bound walks in exile and publicly logs his footprints around a land of refuge.
 
-He had landed in Brussels in the winter of 2016, as final destination preceded by a summertime stopover in Cairo, Egypt. His aim was seeking a safe haven away from persecution by his home country's diplomatic authorities and their Chinese counterparts, while studying abroad in China two seasons before.
+He had landed in Brussels in the winter of 2016, as the terminus preceded by a summertime stopover in Cairo, Egypt. His aim was seeking a safe haven away from persecution by his home country's diplomatic authorities and their Chinese counterparts, while studying abroad in China two seasons before.
 
 {% embed url="https://arweave.net/PzcrZqCeMDwty56zrlbyngXjTYxpPCEKKo6MevHVf-Q" %}
 awalkaday 185-2022
@@ -18,13 +18,11 @@ His original sin, worthy of exile from both Beijing and Bujumbura for many human
 
 After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/instagram.md) and coding on [GitHub](../evolution-of-a-trek-on-platforms/github.md), the artistic endeavor was put on hold due to the loss of electronic devices, in the aftermath of a laptop crash and a smartphone theft within the enclosure of the refugee camp at the start of 2018.
 
-Three years later, in 2021, it was relaunched as a part-time artistic practice, even though his legal status and human life as an immigrant remained uncertain, hopeless, angst-inducing and precarious.
-
 {% embed url="https://arweave.net/HZUJofLsOWTGYRYAOMzbtKN7Ad0jMmtDlg4HDgT5Vp8" %}
 awalkaday 40-2022
 {% endembed %}
 
-Contrary to modern conventions, `awalkaday.art` is neither a state-sponsored artistic endeavor nor a brick-and-mortar art gallery.
+Three years later, in 2021, it was relaunched as a part-time artistic practice, even though his legal status and human life as an immigrant remained uncertain, hopeless, angst-inducing and precarious. Contrary to modern conventions, `awalkaday.art` is neither a state-sponsored artistic endeavor nor a brick-and-mortar art gallery.
 
 Since day one of the project, the photographer endured the human experience of lacking easy access to medical care, health insurance, humanitarian aid and banking services. He faced recurring unemployment, despite numerous skills, and often burned organic calories instead of emitting gas pollutants.
 
