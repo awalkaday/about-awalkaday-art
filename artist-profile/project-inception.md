@@ -8,7 +8,9 @@ awalkaday 344-2017
 
 Using rudimentary photographic equipment and online public platforms, coupled with an open-source digital toolbox, he has visually documented a years-long journey that artfully depicts his time-bound walks in exile and publicly logs his footprints around a land of refuge.
 
-Accompanied by his mother who thereafter flew back, he had landed in Brussels in the winter of 2016, at a terminus preceded by a summertime stopover, next to all parents and siblings, in Cairo, Egypt. His aimful dream was seeking a safe haven away from persecution by his motherland's diplomats and their Chinese counterparts, while studying abroad in China two seasons before.
+Accompanied by his mother who thereafter flew back, he had landed in Brussels in the winter of 2016, at a terminus preceded by a summertime stopover, next to all parents and siblings, in Cairo, Egypt.&#x20;
+
+His aimful dream, aside from wishful dreaming of chasing again a university trophy, was seeking a safe haven away from persecution by his motherland's diplomats and their Chinese counterparts, while studying abroad in China two seasons earlier.
 
 {% embed url="https://arweave.net/PzcrZqCeMDwty56zrlbyngXjTYxpPCEKKo6MevHVf-Q" %}
 awalkaday 185-2022
