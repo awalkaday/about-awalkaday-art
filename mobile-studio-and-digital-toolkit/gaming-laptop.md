@@ -2,7 +2,7 @@
 
 A laptop computer, branded as [Hasee God of War](http://en.haseecomputer.com/About/about24.html) and acquired on the Asian continent, was very useful for coding sessions while building the online gallery on top of digital foundations.
 
-The computing device was one of the few items that he was able to stealthily keep after being arbitrarily detained by Chinese authorities in June 2016.
+The computing device was one of the few items, in addition to computer engineering textbooks and other personal reading materials, that he was able to stealthily keep after being arbitrarily detained by Chinese authorities in June 2016.
 
 {% embed url="https://arweave.net/MiuCILoiAVXSGdWoiN4tM6XHZGSCCkLvCFyKMwWvzHg" %}
 awalkaday 187-2021
@@ -10,7 +10,9 @@ awalkaday 187-2021
 
 Unfortunately, the gaming computer first mysteriously crashed in the winter of 2017, but was resurrected the next year, and finally, relapsed four years later, during a malware analysis in the winter of 2022. The nearly decade-old computing device, still alive and undiagnosed in his care, eventually regained basic functionality under [Ubuntu](https://ubuntu.com/desktop)-flavored [`linux`](https://www.redhat.com/en/topics/linux/what-is-linux) software.
 
-A second-hand lightweight laptop, made in USA, was bargained out of a friend's hands, with manually-earned cash, in the spring of 2023, to finish off the cloud-based construction mission. The gamer friend had been celebrating his birthday party, gathering Chris and other fresh off the boat friends, when foundational commits were made public by `daqhris`, in [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f#diff-4f167c64a65a03a4e373ec9069f3899d550708ddb9e77a3908246068cde7ac70).
+A second-hand lightweight laptop, made in USA, was bargained out of a friend's hands, with manually-earned cash, in the spring of 2023, to finish off the cloud-based construction mission from Brussels, post-tokenization of photos on [Ethereum](../evolution-of-a-trek-on-platforms/ethereum.md).&#x20;
+
+The gamer friend had been celebrating his first birthday party in Belgium, gathering `daqhris` and other fresh off the boat friends, when foundational commits and intentions were made public from the corner of the party room, way back in [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f#diff-4f167c64a65a03a4e373ec9069f3899d550708ddb9e77a3908246068cde7ac70).
 
 It's worth noticing and pointing out that most of the creative tools and works were more than once rescued, recovered or revived thanks to pieces of computer software, `linux` and `git`, brought to life by a Finnish-born American [inventor](https://github.com/torvalds).
 
