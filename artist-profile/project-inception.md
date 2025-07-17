@@ -18,7 +18,9 @@ awalkaday 185-2022
 
 His original sin, worthy of exile from both Beijing and Bujumbura for many human years, was unofficially blamed on a one-day cocktail of irrational factors during springtime of 2016.&#x20;
 
-The cocktail's ingredients were the photographic portrayal of human faces, activism on university grounds as a foreign student, his ethnicity, his father's high military rank, chemical traces of cannabinoid in his pee, a made-up [_crime de lèse-majesté_](https://fr.wikipedia.org/wiki/Crime_de_l%C3%A8se-majest%C3%A9) against the dignity of the supreme ruler of Burundi, official letters warning of terror from him adjoined to photographs of him in military attire on Chinese war films' sets, etc.
+The cocktail's ingredients were the photographic portrayal of human faces, activism on university grounds as a foreign student, his ethnicity in association with his father's 4-star ranking military career, chemical traces of cannabinoid found in his pee, a made-up [_crime de lèse-majesté_](https://fr.wikipedia.org/wiki/Crime_de_l%C3%A8se-majest%C3%A9) against the dignity of the supreme ruler of Burundi, official letters warning of terror from him adjoined to photographs of him in military attire on Chinese war films' sets, etc.&#x20;
+
+In absence of photographic evidence of the surreal story, a portion of those ingredients ended up being reused, remixed and repurposed against him in legal proceedings, circa 2017-2018. Until, his blurry mind and overwhelmed body vocalized an untrue African location of his father in response to a Belgian judge. Then, little did the trauma-ridden poor artist imagine how life could spiral on its own like a [_toupie_](https://en.wiktionary.org/wiki/toupie)_._
 
 After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/instagram.md) and coding on [GitHub](../evolution-of-a-trek-on-platforms/github.md) from the third continent discovered in his lifetime, the artistic endeavor was put on hold due to the loss of electronic devices, in the aftermath of a laptop crash and a smartphone theft within the enclosure of a refugee camp, located in a French-speaking Belgian region at the start of 2018.
 
