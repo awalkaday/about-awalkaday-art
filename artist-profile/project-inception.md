@@ -16,9 +16,11 @@ His aimful dream, aside from wishful dreaming of chasing again a university trop
 awalkaday 185-2022
 {% endembed %}
 
-His original sin, worthy of exile from both Beijing and Bujumbura for many human years, was unofficially blamed on a one-day cocktail of irrational factors. Its ingredients were the photographic portrayal of human faces, activism on university grounds as a student, his ethnicity and a [_crime de lèse-majesté_](https://fr.wikipedia.org/wiki/Crime_de_l%C3%A8se-majest%C3%A9) against the dignity of the supreme ruler of Burundi.
+His original sin, worthy of exile from both Beijing and Bujumbura for many human years, was unofficially blamed on a one-day cocktail of irrational factors during springtime of 2016.&#x20;
 
-After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/instagram.md) and coding on [GitHub](../evolution-of-a-trek-on-platforms/github.md), the artistic endeavor was put on hold due to the loss of electronic devices, in the aftermath of a laptop crash and a smartphone theft within the enclosure of a refugee camp, located in a French-speaking Belgian region at the start of 2018.
+The cocktail's ingredients were the photographic portrayal of human faces, activism on university grounds as a foreign student, his ethnicity, his father's high military rank, chemical traces of cannabinoid in his pee, a made-up [_crime de lèse-majesté_](https://fr.wikipedia.org/wiki/Crime_de_l%C3%A8se-majest%C3%A9) against the dignity of the supreme ruler of Burundi, official letters warning of terror from him adjoined to photographs of him in military attire on Chinese war films' sets, etc.
+
+After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/instagram.md) and coding on [GitHub](../evolution-of-a-trek-on-platforms/github.md) from the third continent discovered in his lifetime, the artistic endeavor was put on hold due to the loss of electronic devices, in the aftermath of a laptop crash and a smartphone theft within the enclosure of a refugee camp, located in a French-speaking Belgian region at the start of 2018.
 
 {% embed url="https://arweave.net/HZUJofLsOWTGYRYAOMzbtKN7Ad0jMmtDlg4HDgT5Vp8" %}
 awalkaday 40-2022
