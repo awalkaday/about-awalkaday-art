@@ -8,7 +8,7 @@ awalkaday 344-2017
 
 Using rudimentary photographic equipment and online public platforms, coupled with an open-source digital toolbox, he has visually documented a years-long journey that artfully depicts his time-bound walks in exile and publicly logs his footprints around a land of refuge.
 
-He had landed in Brussels in the winter of 2016, as the terminus preceded by a summertime stopover in Cairo, Egypt. His aim was seeking a safe haven away from persecution by his home country's diplomatic authorities and their Chinese counterparts, while studying abroad in China two seasons before.
+He had landed in Brussels in the winter of 2016, as the terminus preceded by a summertime stopover in Cairo, Egypt. His aim was seeking a safe haven away from persecution by his home country's diplomats and their Chinese counterparts, while studying abroad in China two seasons before.
 
 {% embed url="https://arweave.net/PzcrZqCeMDwty56zrlbyngXjTYxpPCEKKo6MevHVf-Q" %}
 awalkaday 185-2022
