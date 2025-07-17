@@ -12,7 +12,7 @@ Unfortunately, the gaming computer first mysteriously crashed in the winter of 2
 
 A second-hand lightweight laptop, made in USA, was bargained out of a friend's hands, with manually-earned cash, in the spring of 2023, to finish off the cloud-based construction mission. The gamer friend had been hanging out with him, when and where foundational commits and photographs were made public, in November 2017.
 
-It's worth noticing and pointing out that most of the creative tools and works were more than once rescued, recovered or revived thanks to pieces of computer software, `linux` and `git`, brought to life by a [Finnish-born inventor](https://github.com/torvalds).
+It's worth noticing and pointing out that most of the creative tools and works were more than once rescued, recovered or revived thanks to pieces of computer software, `linux` and `git`, brought to life by a Finnish-born American [inventor](https://github.com/torvalds).
 
 {% embed url="https://arweave.net/8FU-mhjYjLfvf3eWMYiJIx60YeKUbtx7x8Qf2O4bRL0" %}
 awalkaday 328-2017
