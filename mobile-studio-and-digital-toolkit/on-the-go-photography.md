@@ -20,7 +20,7 @@ Traveling on foot became essential after the outbreak of a global pandemic in 20
 awalkaday 206-2021
 {% endembed %}
 
-A minimalist technical plan was adopted to reduce the lingering fear of losing electronic tools (stolen, hacked, or malfunctioning) and to fuel a digital quest progressing at the rhythm of frequent and abrupt moves around a terrestrial territory seen as a land of adoption and refuge.
+A minimalist technical plan was adopted to reduce the lingering fear of losing electronic tools — stolen, hacked, or malfunctioning — and to fuel a digital quest progressing at the rhythm of frequent and abrupt moves around a terrestrial territory seen as a land of adoption and refuge.
 
 {% embed url="https://arweave.net/LyQCpGwEuD_ED2zh3f7JT5qeVfhLDyCdadgNa9WVh84" %}
 awalkaday 70-2022
