@@ -73,7 +73,7 @@ _The `awalkaday` building blocks rebecame the focus of my geeky attention and ca
 
 {% embed url="https://daqhris.com/fcc-cert/" %}
 
-_This book poetically features modified texts originally from_ [_about.awalkaday.art_](https://about.awalkaday.art) — _a single page dating from the project's early days_ — _which are illustrated with visually evocative `awalkaday` photographs._
+_This book poetically features either modified texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) — _a single page dating from the project's early days — or original writings narrating a «crème de la crème» artwork, illustrating visually evocative `awalkaday` photographs._
 
 _Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass during a long-lasting march._
 
