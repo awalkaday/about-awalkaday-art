@@ -17,11 +17,13 @@ awalkaday 251-2022
 
 ### Synopsis
 
-This artist's book documents the development and growth of `awalkaday` from its conception in 2017 to its conclusion in 2024. The book's pages are bound with the `git`-based digital footprints of the photo series, creating a narrative that's as much about the medium as the message.
+This artist's book documents the development and growth of `awalkaday` from its conception in 2017 to its conclusion in 2024. The book's pages are bound with the digital footprints of the photo series, creating a narrative that's as much about the art medium as the message.
 
-A unique blend of digital art forms—black-and-white photography, open-source code, social media posts, and non-fungible blockchain tokens—comes together with third-person narration to create an autobiographical work of creative nonfiction. Together, these elements illustrate and trace the history of a photographic odyssey across a range of public spaces and computing platforms.
+A unique blend of digital art forms—black-and-white photographs, poetic writings, open-source code, social media posts, and non-fungible blockchain tokens—shows up on screen, from a third-person viewpoint, to narrate the story of an autobiographical artwork made out of creative nonfiction.&#x20;
 
-It is a companion piece to a collection of 263 photographs taken during regular walks in Belgium, Europe. A book that concludes a long-term project by an exiled artist and pioneers a novel approach to publishing digital art. By virtue of the artistic medium, all of the drafts and years of changes are baked into this online edition.
+In sum, the book's chapters illustrate and trace the history of a photographic odyssey across a range of public spaces and computing platforms. It is a companion piece to a collection of 263 photographs taken during regular walks in Belgium, Europe.&#x20;
+
+An online book that concludes a long-term project by an exiled artist and pioneers a novel approach to publishing digital art. By virtue of the medium in `git` form, all of the drafts and years of changes are baked into this open-source edition.
 
 <p align="center"><strong><code>25 Pages</code> — <code>ENGLISH</code> — <code>Black &#x26; White Digital Photography</code></strong></p>
 
