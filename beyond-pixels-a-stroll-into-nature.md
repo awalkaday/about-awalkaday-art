@@ -1,6 +1,6 @@
 # Beyond Pixels: A Stroll into Nature
 
-Get ready to embark on a visual journey during which the mission extends beyond the domain of pixels to kindle a passion for the great outdoors.
+Get ready to embark on a visual journey through which the solo mission extends beyond the domain of pixels to kindle a passion for the great outdoors.
 
 More than just a spectacle, this collection is an invitation to embrace the rejuvenating power of nature, to enjoy the fresh air, to be captivated by the surroundings and to cultivate well-being through the simplicity of regular walks, whether short or long.
 
