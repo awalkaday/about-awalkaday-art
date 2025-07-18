@@ -1,6 +1,6 @@
 # Beyond Pixels: A Stroll into Nature
 
-Let us embark on a visual journey during which the mission extends beyond the domain of pixels to kindle a passion for the great outdoors.
+Get ready to embark on a visual journey during which the mission extends beyond the domain of pixels to kindle a passion for the great outdoors.
 
 More than just a spectacle, this collection is an invitation to embrace the rejuvenating power of nature, to enjoy the fresh air, to be captivated by the surroundings and to cultivate well-being through the simplicity of regular walks, whether short or long.
 
@@ -8,13 +8,13 @@ More than just a spectacle, this collection is an invitation to embrace the reju
 awalkaday 181-2021
 {% endembed %}
 
-In an age of rapid urbanization and hyperconnectivity, many people feel disconnected from their local environment and lack the inspiration to explore unfamiliar landscapes. The art of walking, one of the least tiring yet most rewarding physical activities, remains overlooked by most.
+In an age of fast-paced urbanization, sedentarism and hyperconnectivity, many people feel disconnected from their local environment and lack the inspiration to explore unfamiliar landscapes. The habit of walking, one of the least tiring yet most rewarding physical activities, remains overlooked by most.
 
 {% embed url="https://arweave.net/D8wYnDQXKBSQmlMY7_oMFqMYHGa_eHPDQTxpSE9k1Po" %}
 awalkaday 168-2022
 {% endembed %}
 
-Through the lens of `daqhris`, `awalkaday` is much more than just a series of photographs or a visual diary of sorts. It is a long-lasting testament to his passion for photography and a vessel for sharing his creative skills across borders and oceans.
+Through the lens of `daqhris`, `awalkaday` is at first sight a series of photographs and a visual diary of sorts. On a second look, it is a long-lasting testament to his passion for photography and a vessel for sharing his creative skills across borders and oceans.
 
 The web gallery and the blockchain smart contract were openly developed and are seamlessly interlinked to ensure effortless navigation for all who wish to discover and engage with the travelogue in a digital setting.
 
