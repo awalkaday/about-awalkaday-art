@@ -8,7 +8,7 @@ awalkaday 4-2018
 
 In early 2021, a smartphone operating under [Android One](https://www.android.com/one/) software system was purchased to meet the need for a dedicated mobile camera that regularly receives secure software updates from its American creator, Google.
 
-This low-cost phone, designed by a Finnish firm and bought on Belgian soil, was equipped with two rear cameras, endowed with a 13-megapixel primary sensor and a 2-megapixel depth sensor.
+The low-cost phone, designed by a Finnish enterprise and bought on Belgian soil, was equipped with two rear cameras, endowed with a 13-megapixel primary sensor and a 2-megapixel depth sensor.
 
 {% embed url="https://arweave.net/3wrYeB0PvtdlrZ9dbL0rIeqWB5KDBn0sa33casdaJX0" %}
 awalkaday 73-2022
