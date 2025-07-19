@@ -26,7 +26,7 @@ _In absentia_ of photographic evidence of the surreal story — made in, and imp
 
 <figure><img src="https://rodfztakuygtmhqfbszvgxfobnojd47isei6lmuh52ngxpcs72ca.arweave.net/i4ZczAqmDTYeBQyzU1yuC1yR8-iREeWyh-6aa7xS_oQ" alt="awalkaday 47-2022"><figcaption><p>awalkaday 47-2022</p></figcaption></figure>
 
-After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/instagram.md) and coding on [GitHub](../evolution-of-a-trek-on-platforms/github.md), from the third continent discovered in his lifetime, the artistic endeavor was put on hold due to the loss of electronic devices, in the aftermath of a laptop crash and a smartphone theft within the enclosure of a refugee camp, located in a French-speaking Belgian region at the start of 2018.
+After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/instagram.md) and coding on [GitHub](../evolution-of-a-trek-on-platforms/github.md), from the third continent discovered in his lifetime, the artistic endeavor was put on hold due to the loss of electronic devices, in the aftermath of a laptop crash and a smartphone theft within the enclosure of a refugee camp, located in a French-speaking Belgian region, at the start of 2018.
 
 Three years later, during springtime of 2020, the photographic odyssey was relaunched as a part-time artistic practice, ran from Bastogne which is situated nearby the southeastern Belgian border, near the landlocked nation of Luxembourg, until wintertime of 2022.&#x20;
 
