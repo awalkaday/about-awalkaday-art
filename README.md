@@ -15,6 +15,10 @@ awalkaday 251-2022
 
 <table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="imprint.md">IMPRINT</a></td><td><a href="imprint.md">imprint.md</a></td></tr><tr><td align="center"><a href="appendix.md">APPENDIX</a></td><td><a href="appendix.md">appendix.md</a></td></tr></tbody></table>
 
+{% hint style="warning" %}
+_**Drafting Stage** : The book's content keeps advancing step-by-step, day after day, nearing its_ [_PDF_](https://www.iso.org/standard/75839.html) _destination._
+{% endhint %}
+
 ### Synopsis
 
 This artist's book documents the development and growth of `awalkaday` from its conception in 2017 to its conclusion in 2024. The book's pages are bound with the digital footprints of the photo series, creating a narrative that's as much about the art medium as the message.
