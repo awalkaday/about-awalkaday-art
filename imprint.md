@@ -68,7 +68,7 @@ _A token of gratitude goes to:_&#x20;
 
 <h4 align="center">Data Preservation</h4>
 
-<div align="center"><figure><picture><source srcset=".gitbook/assets/dark@2x.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/light@2x.png" alt="" width="158"></picture><figcaption><p><a href="https://www.arweave.org/use/">Public storage of minted photos</a> <em>('23)</em></p></figcaption></figure></div>
+<div align="center"><figure><picture><source srcset=".gitbook/assets/dark@2x.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/light@2x.png" alt="" width="158"></picture><figcaption><p><a href="https://www.arweave.org/use/">Permanent storage of photos</a> <em>('23)</em></p></figcaption></figure></div>
 
 <h4 align="center">Blockchain Network</h4>
 
