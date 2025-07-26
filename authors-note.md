@@ -4,7 +4,7 @@ description: Disclosures and essential information written in the first person.
 
 # AUTHOR'S NOTE
 
-_This artistic project was born in my spare time, developed independently in the open and evolved at the pace of a_ [_turtle_](https://en.m.wikipedia.org/wiki/Cultural_depictions_of_turtles)_. Countless public drafts and serene long walks have shaped it into its present state, akin to a therapeutic exercise._
+_This artistic project was born in my spare time, developed independently in the open, and evolved at the pace of a_ [_turtle_](https://en.m.wikipedia.org/wiki/Cultural_depictions_of_turtles)_. Countless public drafts and serene long walks have shaped it into its present state, akin to a therapeutic exercise._
 
 {% embed url="https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-gdEnlGmI" %}
 awalkaday 219-2022
@@ -69,11 +69,11 @@ _The informative page, named `FAQ | A WALK≡A DAY`, was eventually migrated awa
 
 _The three-bar symbol_ [_`≡`_](https://en.wikipedia.org/wiki/Triple_bar) _, which is synonymous with the two-way street sign_ ↔, _had piqued my interest as an indicator of logical equivalence and the monetary unit of a blockchain currency._
 
-_The `awalkaday` building blocks rebecame the focus of my geeky attention and camera lenses from_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4) _onwards, right after receiving a developer certification from the web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._
+_The `awalkaday` building blocks rebecame the focus of my geeky attention and camera lenses from_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4) _onwards, right after receiving a developer certification from web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._
 
 {% embed url="https://daqhris.com/fcc-cert/" %}
 
-_This book poetically features either modified texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) — _a single page dating from the project's early days — or original writings narrating a «crème de la crème» artwork, illustrating visually evocative `awalkaday` photographs._
+_This book poetically features a mix of modified texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) — _a single page dating from the project's early days — mingled with writings narrating a «crème de la crème» artwork, illustrating visually evocative `awalkaday` photographs._
 
 _Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass during a long-lasting march._
 
