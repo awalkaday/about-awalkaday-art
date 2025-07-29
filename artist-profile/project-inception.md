@@ -22,7 +22,7 @@ The cocktail's ingredients were the photographic portrayal of human faces, activ
 
 <figure><img src="https://sd55vpc7xirkafqt6l42hrsiafn5kqkvdbliclrpomelxemu5opa.arweave.net/kPvavF-6IqAWE_L5o8ZIAVvVQVUYVoEuL3MIu5GU654" alt="awalkaday 59-2022"><figcaption><p>awalkaday 59-2022</p></figcaption></figure>
 
-_In absentia_ of photographic evidence of the surreal story — made in, and imported from China — a portion of those ingredients ended up being recycled against him in Belgian legal asylum proceedings (2017-2018). Until, his blurry mind and on alert body voiced an untrue African geolocation of his father in response to a male judge's oral inquiry. Then, little did the lonely and poor boy imagine how fast life could spiral, from hearing aloud _«_[_Il est où ton papa?_](https://genius.com/1828413)_»,_ to tumbling around like a [_toupie_](https://en.wiktionary.org/wiki/toupie)_._
+_In absentia_ of photographic evidence of the surreal story — made in, and imported from China — a portion of those ingredients ended up being recycled against him in Belgian legal asylum proceedings (2017-2018). Until, his blurry mind and on alert body voiced an untrue African geolocation of his father in response to a male judge's oral inquiry. Then, little did the lonely and poor boy imagine how fast life could spiral, from hearing aloud _«_[_Il est où ton papa?_](https://genius.com/1828413)_»_ in a court roo&#x6D;_,_ to life tumbling around like a [_toupie_](https://en.wiktionary.org/wiki/toupie)_._
 
 <figure><img src="https://rodfztakuygtmhqfbszvgxfobnojd47isei6lmuh52ngxpcs72ca.arweave.net/i4ZczAqmDTYeBQyzU1yuC1yR8-iREeWyh-6aa7xS_oQ" alt="awalkaday 47-2022"><figcaption><p>awalkaday 47-2022</p></figcaption></figure>
 
