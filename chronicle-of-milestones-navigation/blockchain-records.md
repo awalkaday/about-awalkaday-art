@@ -20,4 +20,6 @@ Since then, after honing his skills as an Ethereum app developer and overcoming 
 
 {% embed url="https://ethglobal.com/showcase/zinnekerescuemission-9fwjf" %}
 
+<div><figure><img src="https://assets.poap.xyz/ba72648e-b534-4630-80bf-caf648ee9ba9.png" alt="ETHGlobal Brussels 2024 Hacker (certified in Brussels)" width="375"><figcaption></figcaption></figure> <figure><img src="https://assets.poap.xyz/a1aed95e-3455-435f-8e8e-a13c1c4e7d29.png" alt="Superhack 2024 Hacker (certified by ETHGlobal)" width="375"><figcaption></figcaption></figure></div>
+
 <p align="center"><strong><code>10</code></strong></p>
