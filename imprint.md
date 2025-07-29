@@ -14,9 +14,9 @@ Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 <h3 align="right">Copyrights</h3>
 
-<p align="right">Author &#x26; Publisher: © <a href="https://daqhris.com/">Chris-Armel Iradukunda</a> (<a href="https://github.com/daqhris">daqhris</a>)</p>
+<p align="right">Author, Photographer, Writer, Designer, Coder, Editor &#x26; Publisher: <br>© <a href="https://daqhris.com/">Chris-Armel Iradukunda</a> — <a href="https://github.com/daqhris">daqhris</a></p>
 
-<p align="right">Initial online publication: <a href="https://github.com/awalkaday/about-awalkaday-art/compare/about...book">July 2024</a><br>Latest versioned changes: <a href="https://github.com/awalkaday/about-awalkaday-art/commits/book/">July 2025</a><br>Open-sourced by <code>gitbook-bot</code> on behalf of <code>daqhris</code> </p>
+<p align="right">First online publication of a draft: <a href="https://github.com/awalkaday/about-awalkaday-art/compare/about...book">July 2024</a><br>Latest versioned changes of content: <a href="https://github.com/awalkaday/about-awalkaday-art/commits/book/">July 2025</a><br>Open-sourced by <code>gitbook-bot</code> on behalf of <code>daqhris</code> </p>
 
 {% hint style="warning" %}
 There is no print, e-book, PDF or tokenized version available yet. No part of this online book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any other information storage and retrieval system, for commercial purposes, without the prior permission and consent in writing of the publisher.
