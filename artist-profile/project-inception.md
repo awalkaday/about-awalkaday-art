@@ -18,7 +18,7 @@ awalkaday 185-2022
 
 His original sin, worthy of exile from both Beijing and Bujumbura for many human years, was unofficially blamed on a one-day cocktail of irrational factors during springtime of 2016.&#x20;
 
-The cocktail's ingredients were the photographic portrayal of human faces, activism on university grounds as a foreign student, his ethnicity in association with his father's 4-star ranking military career, chemical traces of cannabinoid found in his pee, a made-up [_crime de lèse-majesté_](https://fr.wikipedia.org/wiki/Crime_de_l%C3%A8se-majest%C3%A9) against the dignity of the supreme ruler of Burundi, official letters warning of terror from him adjoined to photographs of him in military attire on Chinese war films' sets, etc.&#x20;
+The cocktail's ingredients were the photographic portrayal of human faces, activism on university grounds as a foreign student, his ethnicity in association with his father's 4-star ranking military career, a snitch call voiced by a friendly countrymate from the dormitory to higher-ups, a made-up [_crime de lèse-majesté_](https://fr.wikipedia.org/wiki/Crime_de_l%C3%A8se-majest%C3%A9) against the supreme ruler of Burundi, chemical traces of an organic drug in his pee, and official letters warning of terror from him, adjoined to behind-the-scenes photos of him in military attire on Chinese war films' sets shooting movies, etc.&#x20;
 
 <figure><img src="https://sd55vpc7xirkafqt6l42hrsiafn5kqkvdbliclrpomelxemu5opa.arweave.net/kPvavF-6IqAWE_L5o8ZIAVvVQVUYVoEuL3MIu5GU654" alt="awalkaday 59-2022"><figcaption><p>awalkaday 59-2022</p></figcaption></figure>
 
