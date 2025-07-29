@@ -34,7 +34,7 @@ Three years later, during springtime of 2020, the photographic odyssey was relau
 awalkaday 40-2022
 {% endembed %}
 
-Since day one of the project, the photographer endured the human experience of lacking easy access to medical care, health insurance, humanitarian aid and banking services. His legal status and human life as an immigrant remained uncertain, hopeless, angst-inducing and precarious.&#x20;
+Since day one of the project, the photographer endured the human experience of lacking easy access to medical care, health insurance, humanitarian aid and banking services. His social status and human life as an immigrant remained uncertain, hopeless, angst-inducing and precarious.&#x20;
 
 He faced recurring unemployment, despite numerous skills, and often burned organic calories instead of emitting gas pollutants. In stark contrast with modern European cultural conventions and artifacts, `awalkaday.art` is neither a state-sponsored artistic endeavor nor a brick-and-mortar art gallery.
 
