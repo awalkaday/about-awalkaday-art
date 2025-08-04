@@ -2,12 +2,13 @@
 
 ### Public Licensing
 
-`book.awalkaday.art` • Written with 🤍 • Made in 🇧🇪\
-&#xNAN;_&#x41;n Undocumented Artistic Product of Afro-Surrealism_\
-&#xNAN;_&#x42;y an Undocumented Artist on the Land of Surrealism_
+[**book.awalkaday.art**](https://book.awalkaday.art/) • Written with 🤍 • Made in 🇧🇪\
+&#xNAN;_&#x41;n Undocumented Artistic Product of Afro-Surrealism,_\
+&#xNAN;_&#x42;y an Undocumented Artist on the Land of Surrealism._
 
-[ISBN](https://en.wikipedia.org/wiki/ISBN): ▬▬▬▬▬▬▬▬▬▬▬▬▬ \
-&#xNAN;_&#x4E;o Unique Book ID yet, due to its Author's Human ID_
+**ISBN**: [▬▬▬-▬-▬▬-▬▬▬▬▬▬-▬](https://en.wikipedia.org/wiki/ISBN) \
+&#xNAN;_&#x54;he numbering of the Artist's Book ID is absent,_\
+_Awaits the unfreezing of the Author's Human ID._
 
 Photos & Texts: [CC Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
 Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt)\
@@ -17,9 +18,9 @@ Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 <h3 align="right">Copyrights</h3>
 
-<p align="right">Author, Photographer, Writer, Designer, Coder, Editor &#x26; Publisher: <br>© <a href="https://daqhris.com/">Chris-Armel Iradukunda</a> — <a href="https://github.com/daqhris">daqhris</a></p>
+<p align="right">Author, Photographer, Writer, <br>Graphic Designer, Software Engineer, <br>Book Editor &#x26; Online Publisher: <br>© <a href="https://daqhris.com/">Chris-Armel Iradukunda</a> — <a href="https://github.com/daqhris">daqhris</a></p>
 
-<p align="right">First online publication of a draft: <a href="https://github.com/awalkaday/about-awalkaday-art/compare/about...book">July 2024</a><br>Latest versioned changes of content: <a href="https://github.com/awalkaday/about-awalkaday-art/commits/book/">July 2025</a><br>Open-sourced by <code>gitbook-bot</code> on behalf of <code>daqhris</code> </p>
+<p align="right">Internet publication of a first draft: <a href="https://github.com/awalkaday/about-awalkaday-art/compare/about...book">July 2024</a><br>Latest versioned <code>git</code> changes: <a href="https://github.com/awalkaday/about-awalkaday-art/commits/book/">August 2025</a><br>Open-sourced by <code>gitbook-bot</code> on behalf of <code>daqhris</code> </p>
 
 {% hint style="warning" %}
 There is no print, e-book, PDF or tokenized version available yet. No part of this online book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any other information storage and retrieval system, for commercial purposes, without the prior permission and consent in writing of the publisher.
