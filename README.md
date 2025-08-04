@@ -16,24 +16,28 @@ awalkaday 251-2022
 <table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="imprint.md">IMPRINT</a></td><td><a href="imprint.md">imprint.md</a></td></tr><tr><td align="center"><a href="appendix.md">APPENDIX</a></td><td><a href="appendix.md">appendix.md</a></td></tr></tbody></table>
 
 {% hint style="warning" %}
-_**Drafting Stage** : The book's content keeps advancing step-by-step, day after day, nearing its_ [_PDF_](https://www.iso.org/standard/75839.html) _destination._
+_**Drafting Stage** : The book's content keeps advancing step by step, day after day, nearing its_ [_PDF_](https://www.iso.org/standard/75839.html) _destination._
 {% endhint %}
 
 ### Synopsis
 
-This artist's book documents the development and growth of `awalkaday` from its conception in 2017 to its conclusion in 2024. The book's pages are bound with the digital footprints of the photo series, creating a narrative that's as much about the art medium as the message.
+This artist's book documents the development and growth of `awalkaday` from its conception in 2017 to its conclusion in 2024. The book's pages are bound with the digital footprints of the photo series, creating a narrative that's as much about the medium as the message.
 
-A unique blend of digital art forms—black-and-white photographs, poetic writings, open-source code, social media posts, and non-fungible blockchain tokens—shows up on screen, from a third-person viewpoint, to narrate the story of an autobiographical artwork made out of creative nonfiction.&#x20;
+A unique blend of digital art forms — black-and-white photographs, poetic writings, open-source code, social media posts, and non-fungible blockchain tokens — shows up on screen, from a third-person viewpoint, to narrate the story of an autobiographical artwork, shaped up by creative nonfiction.
 
-In sum, the book's chapters illustrate and trace the history of a photographic odyssey across a range of public spaces and computing platforms. It is a companion piece to a collection of 263 photographs taken during regular walks in Belgium, Europe.&#x20;
+Its chapters illustrate and trace the history of a photographic odyssey across a range of public spaces and computing platforms. The book is a companion piece to a collection of 263 photographs taken during regular walks in Belgium, Europe.
 
-An online book that concludes a long-term project by an exiled artist and pioneers a novel approach to publishing digital art. By virtue of the medium in `git` form, all of the drafts and years of changes are baked into this open-source edition.
+By virtue of the `git` medium, all of the timestamped drafts and laborious years are baked into this open-source and free edition. An online book which concludes a long-term project by an exiled artist and pioneers a novel approach to publishing digital art.
+
+<p align="center">▬</p>
 
 <p align="center"><strong><code>25 Pages</code> — <code>ENGLISH</code> — <code>Black &#x26; White Digital Photography</code></strong></p>
 
 <p align="center"> <strong><code>book.awalkaday.art</code></strong></p>
 
 <p align="center"> <a href="https://github.com/awalkaday/about-awalkaday-art/tree/book"><code>github.com/awalkaday/about-awalkaday-art/tree/book</code></a></p>
+
+<p align="center">▬</p>
 
 {% hint style="info" %}
 `Ceci ■ est ■ un`  [`Livre d'Artiste`](https://fr.wikipedia.org/wiki/Livre_d'artiste) `Sans Papier.`
