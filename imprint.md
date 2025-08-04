@@ -6,9 +6,12 @@
 &#xNAN;_&#x41;n Undocumented Artistic Product of Afro-Surrealism_\
 &#xNAN;_&#x42;y an Undocumented Artist on the Land of Surrealism_
 
+[ISBN](https://en.wikipedia.org/wiki/ISBN): ▬▬▬▬▬▬▬▬▬▬▬▬▬ \
+&#xNAN;_&#x4E;o Unique Book ID yet, due to its Author's Human ID_
+
 Photos & Texts: [CC Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
 Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt)\
-[ISBN](https://en.wikipedia.org/wiki/ISBN): No Unique-Book-ID yet
+
 
 <div align="center"><figure><img src=".gitbook/assets/awalkaday-logo-1x1.png" alt="awalkaday-logo-1x1: &#x27;walking human first, sunny cityscape second&#x27;" width="188"><figcaption></figcaption></figure></div>
 
