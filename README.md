@@ -29,7 +29,7 @@ Its chapters illustrate and trace the history of a photographic odyssey across a
 
 By virtue of the `git` medium, all of the timestamped drafts and laborious years are baked into this open-source and free edition. An online book which concludes a long-term project by an exiled artist and pioneers a novel approach to publishing digital art.
 
-<p align="center">▬</p>
+<p align="center">◈</p>
 
 <p align="center"><strong><code>25 Pages</code> — <code>ENGLISH</code> — <code>Black &#x26; White Digital Photography</code></strong></p>
 
@@ -37,7 +37,7 @@ By virtue of the `git` medium, all of the timestamped drafts and laborious years
 
 <p align="center"> <a href="https://github.com/awalkaday/about-awalkaday-art/tree/book"><code>github.com/awalkaday/about-awalkaday-art/tree/book</code></a></p>
 
-<p align="center">▬</p>
+<p align="center">◈</p>
 
 {% hint style="info" %}
 `Ceci ■ est ■ un`  [`Livre d'Artiste`](https://fr.wikipedia.org/wiki/Livre_d'artiste) `Sans Papier.`
