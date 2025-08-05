@@ -6,7 +6,7 @@
 &#xNAN;_&#x41;n Undocumented Artistic Product of Afro-Surrealism,_\
 &#xNAN;_&#x42;y an Undocumented Artist on the Land of Surrealism._
 
-**ISBN**: [▬▬▬-▬-▬▬-▬▬▬▬▬▬-▬](https://en.wikipedia.org/wiki/ISBN) \
+**ISBN**: [▬▬▬ ▬ ▬▬ ▬▬▬▬▬▬ ▬](https://en.wikipedia.org/wiki/ISBN) \
 &#xNAN;_&#x54;he numbering of the Artist's Book ID is absent,_\
 _Awaits the unfreezing of the Author's Human ID._
 
@@ -18,7 +18,7 @@ Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/
 
 <h3 align="right">Copyrights</h3>
 
-<p align="right">Author, Photographer, Writer, <br>Graphic Designer, Software Engineer, <br>Book Editor &#x26; Online Publisher: <br>© <a href="https://daqhris.com/">Chris-Armel Iradukunda</a> — <a href="https://github.com/daqhris">daqhris</a></p>
+<p align="right">Author, Photographer, Writer, <br>Graphic Designer, Software Engineer, <br>Book Editor &#x26; Online Publisher: <br>© <a href="https://daqhris.com/"><strong>Chris-Armel Iradukunda</strong></a> — <a href="https://github.com/daqhris"><strong>daqhris</strong></a></p>
 
 <p align="right">Internet publication of a first draft: <a href="https://github.com/awalkaday/about-awalkaday-art/compare/about...book">July 2024</a><br>Latest versioned <code>git</code> changes: <a href="https://github.com/awalkaday/about-awalkaday-art/commits/book/">August 2025</a><br>Open-sourced by <code>gitbook-bot</code> on behalf of <code>daqhris</code> </p>
 
