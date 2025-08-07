@@ -8,19 +8,19 @@ The monochromatic scenes document sightings of eye-catching real-life environmen
 awalkaday 359-2021
 {% endembed %}
 
-These photographs were captured during walks through the streets and alleyways of [Flanders](https://www.visitflanders.com/en), [Wallonia](https://visitwallonia.be/), and [Brussels](https://www.visit.brussels/), regions within Belgium. The photographic process was stretched over the timespan of six years, [2017](https://www.instagram.com/p/BWvILEmAPcy/)-[2018](https://www.instagram.com/p/Bd1VmXvHDSj/) and [2021](https://www.instagram.com/p/CPoPiLpAlG0/)-[2022](https://www.instagram.com/p/CkWOfX2DCPU/), complemented by a gap of two blank years in-between.
+These photographs were captured during walks through the streets and alleyways of [Flanders](https://www.visitflanders.com/en), [Wallonia](https://visitwallonia.be/), and [Brussels](https://www.visit.brussels/) regions. The photographic process was stretched over the timespan of six years, [2017](https://www.instagram.com/p/BWvILEmAPcy/)-[2018](https://www.instagram.com/p/Bd1VmXvHDSj/) and [2021](https://www.instagram.com/p/CPoPiLpAlG0/)-[2022](https://www.instagram.com/p/CkWOfX2DCPU/), complemented by a gap of two blank years in-between.
 
 {% embed url="https://arweave.net/sH8zfbKAiJL2OcmQU0yiZ3Ed8crVitoIWDv_v9_VNIQ" %}
 awalkaday 347-2021
 {% endembed %}
 
-Traveling on foot became an essential habit following the outbreak of a global pandemic in 2020. Therefore, the artist resumed his leisure activity and morphed it into a therapeutic mobile quest.
+In 2020, traveling on foot became a grounding habit, following the outbreak of a global pandemic. Therefore, the artist resumed his leisure activity, and morphed it into a therapeutic mobile quest.
 
 {% embed url="https://arweave.net/E7KVR5AgkKYVHhgRgBS6_BtIjY5U96Djkfkqpvjk52o" %}
 awalkaday 206-2021
 {% endembed %}
 
-A minimalist technical plan was adopted to reduce the lingering fear of losing electronic tools — stolen, damaged, or malfunctioning — and to fuel a digital quest progressing at the rhythm of frequent and abrupt moves around a terrestrial territory seen as a land of adoption and refuge.
+A minimalist technical plan was adopted to reduce the lingering fear of losing electronic tools — stolen, damaged, or malfunctioning — and to fuel a quest progressing at the rhythm of both frequent and abrupt moves around a terrestrial territory seen as the land of adoption and refuge.
 
 {% embed url="https://arweave.net/LyQCpGwEuD_ED2zh3f7JT5qeVfhLDyCdadgNa9WVh84" %}
 awalkaday 70-2022

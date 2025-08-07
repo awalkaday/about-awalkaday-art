@@ -7,7 +7,7 @@
 &#xNAN;_&#x42;y an Undocumented Artist on the Land of Surrealism._
 
 **ISBN**: [▬▬▬ ▬ ▬▬ ▬▬▬▬▬▬ ▬](https://en.wikipedia.org/wiki/ISBN) \
-&#xNAN;_&#x54;he numbering of the Artist's Book ID is absent,_\
+&#xNAN;_&#x4E;umbering of the Book's ID is absent from_ [_KBR_](https://en.wikipedia.org/wiki/Royal_Library_of_Belgium)_,_\
 _Awaits the unfreezing of the Author's Human ID._
 
 Photos & Texts: [CC Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
@@ -44,7 +44,7 @@ _A token of gratitude goes to:_&#x20;
 
 <h4 align="center">Caregiving Friends &#x26; Groups</h4>
 
-<p align="center">Adva Z. &#x26; Daan V., Anna R. &#x26; Christophe M., Agami A. &#x26; Grysbok H., Amandine N., Alice D. &#x26; Cyril M., Andrée D., Anthony H., Back to Camp - Les Scouts Fédération, Begüm E., Britt H., Cécile G., Christine C., Claire L.-M., Croix-Rouge de Belgique, Doc’Riders - Médecins du Monde, Effi W. &#x26; Amir B., ETHGlobal, FOSDEM, Jean de Dieu N., Karina B., Marthe P., Maison Médicale 1190, Maxime P., Michel D., New Must Computer SPRL, Nicolas G., Obscura Team (Tony, Omar &#x26; Wim), Opération Thermos, Ornella V., Sylvie T. &#x26; Patrick F., Peter K., Rotary Club Bastogne, Samusocial Brussels, Public Welfare Workers (Caroline R., Nadège N., Tom V., Youssra E.), Scolastique N. &#x26; Anselme N., Simon T., Shila A., Salim, Suleiman Z., Université de Namur, Valérie H. and Willeke V.</p>
+<p align="center">Adva Z. &#x26; Daan V., Anna R. &#x26; Christophe M., Agami A. &#x26; Grysbok H., Amandine N., Alice D. &#x26; Cyril M., Andrée D., Anthony H., Back to Camp - Les Scouts Fédération, Begüm E., Britt H., Cécile G., Christine C., Claire L.-M., Croix-Rouge de Belgique, Doc’Riders - Médecins du Monde, Effi W. &#x26; Amir B., ETHGlobal, FOSDEM, Jean de Dieu N., Karina B., Khadja N., Marthe P., Maison Médicale 1190, Maxime P., Michel D., New Must Computer SPRL, Nicolas G., Obscura Team (Tony, Omar &#x26; Wim), Opération Thermos, Ornella V., Sylvie T. &#x26; Patrick F., Peter K., Rotary Club Bastogne, Samusocial Brussels, Public Welfare Workers (Caroline R., Nadège N., Tom V., Youssra E.), Scolastique N. &#x26; Anselme N., Simon T., Shila A., Salim, Suleiman Z., Université de Namur, Valérie H. and Willeke V.</p>
 
 <h4 align="center">Faraway Blood Relatives</h4>
 

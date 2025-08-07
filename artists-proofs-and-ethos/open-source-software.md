@@ -12,11 +12,11 @@ To gain exposure to software-powered innovation, `daqhris` was an active contrib
 
 <figure><img src="https://cfj7jngyewbwzyx6sog6d7ybicbglpr3idftmqeapmrkrdfufyca.arweave.net/EVP0tNglg2zi_pON4f8BQIJlvjtAyzZAgHsiqIy0LgQ" alt="awalkaday 12-2018"><figcaption><p>awalkaday 12-2018</p></figcaption></figure>
 
-As a volunteer, one of his most memorable acts was standing on stage in front of a packed amphitheater in February 2023, while homeless in Brussels, to introduce a scientific talk on ['Open Source Software at NASA'](https://archive.fosdem.org/2023/schedule/event/nasa/), presented by an [American astronomer](https://crawfordsm.github.io/about/), when celebrating [25 years of open-source](https://archive.fosdem.org/2023/schedule/track/keynotes/) with volunteering and attending peers.
+As a volunteer, one of his most memorable acts was standing on stage in front of a packed amphitheater in February 2023, while homeless in Brussels, to introduce a scientific talk on ['Open Source Software at NASA'](https://archive.fosdem.org/2023/schedule/event/nasa/), presented by an [American astronomer](https://crawfordsm.github.io/about/), when celebrating [25 years of open-source](https://archive.fosdem.org/2023/schedule/track/keynotes/) next to volunteering and attending peers.
 
 {% embed url="https://archive.fosdem.org/2023/schedule/event/nasa/" %}
 
-In the second half of the 2024, `daqhris` began to ingeniously craft an online art book, [`book.awalkaday.art`](../), which spotlights various aspects of his `git`-enabled artistic practice, and meets the public's eye thanks to a technical documentation tool, [GitBook](https://www.gitbook.com/).
+In the second half of the 2024, `daqhris` began to ingeniously craft an online art book, [`book.awalkaday.art`](../), which spotlights various aspects of his `git`-enabled artistic practice, and meets the public eye from a technical documentation platform, [GitBook](https://www.gitbook.com/).
 
 {% embed url="https://book.awalkaday.art" %}
 

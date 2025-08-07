@@ -2,21 +2,21 @@
 
 Get ready to embark on a visual journey through which the solo mission extends beyond the domain of pixels to kindle a passion for the great outdoors.
 
-More than just a spectacle, this collection is an invitation to embrace the rejuvenating power of nature, to enjoy the fresh air, to be captivated by the surroundings and to cultivate well-being through the simplicity of regular walks, whether short or long.
+More than a spectacle, this collection is an invitation to embrace the rejuvenating power of nature, to enjoy the fresh air, to be captivated by the surroundings, and to cultivate well-being thanks to regular walks, whether short or long.
 
 {% embed url="https://axvmx24llbmfiwg45ueou6fnfzw7ei37uirw7kf47ednojsd26dq.arweave.net/BerL64tYWFRY3O0I6nitLm3yI3-iI2-ovPkG1yZD14c" %}
 awalkaday 181-2021
 {% endembed %}
 
-In an age of fast-paced urbanization, sedentarism and hyperconnectivity, many people feel disconnected from their local environment and lack the inspiration to explore unfamiliar landscapes. The habit of walking, one of the least tiring yet most rewarding physical activities, remains overlooked by most.
+In an age of fast-paced urbanization, sedentarism and hyperconnectivity, many humans feel disconnected from their local environment and lack the inspiration to explore unfamiliar landscapes. The habit of walking, one of the least tiring yet most rewarding physical activity, remains overlooked.
 
 {% embed url="https://arweave.net/D8wYnDQXKBSQmlMY7_oMFqMYHGa_eHPDQTxpSE9k1Po" %}
 awalkaday 168-2022
 {% endembed %}
 
-Through the lens of `daqhris`, `awalkaday` is at first sight a series of photographs and a visual diary of sorts. On a second look, it is a long-lasting testament to his passion for photography and a vessel for sharing his creative skills across borders and oceans.
+At first sight, through the photographer's lens, `awalkaday` is a series of photographs and a visual diary of sorts. On a second look, it is a testament of his enduring passion for photography and a vessel sailing his creative skills across borders and oceans.
 
-The web gallery and the blockchain smart contract were openly developed and are seamlessly interlinked to ensure effortless navigation for all who wish to discover and engage with the travelogue in a digital setting.
+The web gallery and the blockchain smart contract were openly developed and seamlessly interlinked to ensure effortless navigation for all who wish to marvel at the travelogue in a digital setting.
 
 {% embed url="https://arweave.net/84AC-vf_aJkER9F0cQ5iEXP-lJ1PocTY9IuOf7Bpsdc" %}
 awalkaday 186-2022

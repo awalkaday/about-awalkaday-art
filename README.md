@@ -16,7 +16,7 @@ awalkaday 251-2022
 <table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="imprint.md">IMPRINT</a></td><td><a href="imprint.md">imprint.md</a></td></tr><tr><td align="center"><a href="appendix.md">APPENDIX</a></td><td><a href="appendix.md">appendix.md</a></td></tr></tbody></table>
 
 {% hint style="warning" %}
-_**Drafting Stage** : The book's content keeps advancing step by step, day after day, nearing its_ [_PDF_](https://www.iso.org/standard/75839.html) _destination._
+_**Drafting Stage** : The book's content keeps advancing day after day, nearing its final_ [_PDF_](https://www.iso.org/standard/75839.html) _destination._
 {% endhint %}
 
 ### Synopsis
@@ -36,7 +36,7 @@ Its pages illustrate and trace the history of a photographic odyssey across a ra
 <p align="center">◈</p>
 
 {% hint style="info" %}
-`Ceci ■ est ■ un`  [`Livre d'Artiste`](https://fr.wikipedia.org/wiki/Livre_d'artiste) `Sans Papier.`
+Ceci ■ est ■ un  [`Livre d'Artiste`](https://fr.wikipedia.org/wiki/Livre_d'artiste) Sans Papier.
 {% endhint %}
 
 <p align="center"><strong><code>COVER</code></strong></p>

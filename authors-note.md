@@ -77,7 +77,7 @@ _This book poetically features a mix of modified texts from_ [_about.awalkaday.a
 
 _Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass during a long-lasting march._
 
-_For an accurate time-stamped overview of changes made to the book's drafts and applied via public `git` commits, please visit the GitHub-hosted open source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis over a long time window, is available_ [_here_](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency)_._
+_For an accurate time-stamped record of changes made to the book's drafts and applied via public `git` commits, please visit the GitHub-hosted open source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis over a long time window, is available_ [_here_](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency)_._
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commits/book/" %}
 
