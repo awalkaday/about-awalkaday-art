@@ -26,7 +26,7 @@ The cocktail's ingredients were:&#x20;
 * a snitch call voiced by a friendly countrymate from the dormitory to higher-ups,&#x20;
 * a made-up [_crime de lèse-majesté_](https://fr.wikipedia.org/wiki/Crime_de_l%C3%A8se-majest%C3%A9) against the supreme ruler of Burundi,&#x20;
 * chemical traces of an organic drug in his pee, &#x20;
-* official letters warning of terror from him, adjoined to behind-the-scenes photos of him in military attire on Chinese war films' sets shooting movies, etc.&#x20;
+* official letters warning of terror from him, adjoined to behind-the-scenes photos of him in military attire in the midst of shooting movies on Chinese war film sets, etc.&#x20;
 
 <figure><img src="https://sd55vpc7xirkafqt6l42hrsiafn5kqkvdbliclrpomelxemu5opa.arweave.net/kPvavF-6IqAWE_L5o8ZIAVvVQVUYVoEuL3MIu5GU654" alt="awalkaday 59-2022"><figcaption><p>awalkaday 59-2022</p></figcaption></figure>
 
@@ -34,7 +34,7 @@ _In absentia_ of photographic evidence of the surreal story — made in and impo
 
 <figure><img src="https://rodfztakuygtmhqfbszvgxfobnojd47isei6lmuh52ngxpcs72ca.arweave.net/i4ZczAqmDTYeBQyzU1yuC1yR8-iREeWyh-6aa7xS_oQ" alt="awalkaday 47-2022"><figcaption><p>awalkaday 47-2022</p></figcaption></figure>
 
-After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/instagram.md) and coding on [GitHub](../evolution-of-a-trek-on-platforms/github.md), from the third continent discovered in his lifetime, the endeavor was put on hold due to the loss of electronic devices, in the aftermath of a laptop crash and a smartphone theft within the enclosure of a refugee camp, located in a French-speaking Belgian region, at the start of 2018.
+After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/instagram.md) and coding on [GitHub](../evolution-of-a-trek-on-platforms/github.md), from the second continent discovered in his lifetime, the self-assigned mission was put on hold due to the loss of electronic devices, in the aftermath of a laptop crash and a smartphone theft within the enclosure of a refugee camp, located in a Francophone Belgian region, at the start of 2018.
 
 Three years later, during springtime of 2020, the photographic odyssey was relaunched, as a part-time duty funded by earnings from a painting job, and ran from an attic room in Bastogne, nearby the southeastern Belgian border, at a walking distance from the landlocked nation of Luxembourg, until wintertime of 2022.&#x20;
 
