@@ -4,8 +4,8 @@
 awalkaday 4-2022
 {% endembed %}
 
-Chris started learning photography as a self-taught enthusiast during the early years of Instagram, and practicing after purchasing his first Canon camera circa 2012. At the time, he was studying [computer science and engineering](https://en.wikipedia.org/wiki/Computer_science_and_engineering), and working part-time in the film industry in Beijing, China.
+During the early years of Instagram, Chris decided to learn photography, as a self-taught enthusiast, while practicing with his first Canon camera, circa 2012. At the time of immersion in Mandarin Chinese culture, he was technically studying at a Beijing-based [computer science and engineering](https://en.wikipedia.org/wiki/Computer_science_and_engineering) university, and working part-time in film studios spread around the North of China.
 
-His style combined traditional photographic techniques with digital editing and publishing tools. The photographs are monochrome with a 1:1 aspect ratio, and capture time-bound memories recorded during walks geofenced to a Belgian, and in part, European landscape.
+His style has combined traditional photographic techniques with digital editing and publishing tools. The `awalkaday` photographs are monochrome with a 1:1 aspect ratio, and capture time-bound memories recorded during walks geofenced to a Belgian, and in part, European landscape.
 
 <p align="center"><strong><code>23</code></strong></p>
