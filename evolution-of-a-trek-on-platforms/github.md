@@ -14,13 +14,13 @@ The public code repositories, available in `git` format, contain all crypto-sign
 
 {% embed url="https://github.com/awalkaday" %}
 
-In the winter of 2017, when free attendance to French-spoken lectures inside the computer department of a Jesuit university based in Namur was just starting, the beta tests began at [github.com/daqhris/awalkaday](https://github.com/daqhris/awalkaday) by use of a computer-readable language.
+In the winter of 2017, when free attendance to French-spoken lectures inside the computer department of a Jesuits-affiliated and Namur-based public university was just starting, their testing phase began at [github.com/daqhris/awalkaday](https://github.com/daqhris/awalkaday) by use of a computer-readable language.
 
 {% embed url="https://github.com/daqhris/awalkaday" %}
 Source Code for the Gallery's Beta Testing
 {% endembed %}
 
-A domino effect, kicked off by a series of French-written law-abiding decisions, knocked down attendance rights few weeks later. Thus, `daqhris` was rewarded, with a two-times university drop-out trophy on two of Earth's continents, without a drum roll announcement, during the early chilling days of 2028.
+A domino effect, kicked off by a series of French-written law-abiding decisions, knocked down rights to attend a ground-based university few weeks later. Thus, `daqhris` was rewarded, with a two-times university drop-out trophy on two of Earth's continents, without a drum roll announcement, during the early chilling days of 2028.
 
 
 
