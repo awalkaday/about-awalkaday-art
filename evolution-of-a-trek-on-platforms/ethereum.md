@@ -6,7 +6,7 @@ description: Since August 2022
 
 For the final leg of a trek on digital platforms, [daqhris](https://app.ens.domains/daqhris.eth) publicly minted the set of 263 photographs which were miraculously recovered after another chaotic winter.
 
-Blessed by the angelic support of a cryptocurrency wallet, created in [2017](https://etherscan.io/address/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82#analytics), bootstrapped in [2021](https://platform.arkhamintelligence.com/explorer/entity/daqhris), and set in motion in [2022](https://etherscan.io/txs?a=0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82\&f=5), he preserved them for the long run as non-fungible [ERC-721 tokens](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) on the Ethereum blockchain.
+Blessed by the angelic support of a cryptocurrency wallet, configured for action in [2017](https://etherscan.io/address/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82#analytics), bootstrapped in [2021](https://platform.arkhamintelligence.com/explorer/entity/daqhris), and set in motion in [2022](https://etherscan.io/txs?a=0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82\&f=5), he preserved them for the long run as non-fungible [ERC-721 tokens](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) on the Ethereum blockchain.
 
 {% embed url="https://eth.blockscout.com/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b" %}
 
