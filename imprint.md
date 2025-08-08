@@ -2,25 +2,25 @@
 
 ### Public Licensing
 
-[**book.awalkaday.art**](https://book.awalkaday.art/) • Written with 🤍 • Made in 🇧🇪\
+[**book.awalkaday.art**](https://book.awalkaday.art/) ◈ **Written with 🤍** ◈ **Made in 🇧🇪**\
 &#xNAN;_&#x41;n Undocumented Artistic Product of Afro-Surrealism,_\
 &#xNAN;_&#x42;y an Undocumented Artist on the Land of Surrealism._
 
 **ISBN**: [▬▬▬ ▬ ▬▬ ▬▬▬▬▬▬ ▬](https://en.wikipedia.org/wiki/ISBN) \
-&#xNAN;_&#x4E;umbering of the Book's ID is absent from_ [_KBR_](https://en.wikipedia.org/wiki/Royal_Library_of_Belgium)_,_\
-_Awaits the unfreezing of the Author's Human ID._
+&#xNAN;_&#x54;his Book's ID is absent from the_ [_Royal Library_](https://en.wikipedia.org/wiki/Royal_Library_of_Belgium)_,_\
+_Awaits the unfreezing of its Author's Human ID._
 
-Photos & Texts: [CC Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
-Source Code: [European Union Public Licence v. 1.2](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt)\
+**Photos,** **Writings**: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
+**Source Code**: [EUPL 1.2](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt)\
 
 
-<div align="center"><figure><img src=".gitbook/assets/awalkaday-logo-1x1.png" alt="awalkaday-logo-1x1: &#x27;walking human first, sunny cityscape second&#x27;" width="188"><figcaption></figcaption></figure></div>
+<div align="center" data-full-width="false"><figure><img src=".gitbook/assets/awalkaday-logo-1x1.png" alt="awalkaday-logo-1x1: &#x27;walking human first, sunny cityscape second&#x27;" width="188"><figcaption></figcaption></figure></div>
 
 <h3 align="right">Copyrights</h3>
 
-<p align="right">Author, Photographer, Writer, <br>Graphic Designer, Software Engineer, <br>Book Editor &#x26; Online Publisher: <br><strong>©</strong> <a href="https://daqhris.com/"><strong>Chris-Armel Iradukunda</strong></a> <strong>—</strong> <a href="https://github.com/daqhris"><strong>daqhris</strong></a></p>
+<p align="right">Author, <br>Photographer, <br> Designer, Engineer, <br> Writer, Editor &#x26; Publisher: <br><strong>©</strong> <a href="https://daqhris.com/"><strong>Chris-Armel Iradukunda</strong></a> <strong>—</strong> <a href="https://github.com/daqhris"><strong>daqhris</strong></a></p>
 
-<p align="right">Internet publication of a first draft: <a href="https://github.com/awalkaday/about-awalkaday-art/compare/about...book">July 2024</a><br>Latest versioned <code>git</code> changes: <a href="https://github.com/awalkaday/about-awalkaday-art/commits/book/">August 2025</a><br>Open-sourced by <code>gitbook-bot</code> on behalf of <code>daqhris</code> </p>
+<p align="right">Online publication of the first draft: <a href="https://github.com/awalkaday/about-awalkaday-art/compare/about...book">July <strong>2024</strong></a><br>Latest <code>git</code> changes of book content: <a href="https://github.com/awalkaday/about-awalkaday-art/commits/book/">August <strong>2025</strong></a><br>Open-sourced by <code>gitbook-bot</code> on behalf of <code>daqhris</code> </p>
 
 {% hint style="warning" %}
 There is no print, e-book, PDF or tokenized version available yet. No part of this online book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any other information storage and retrieval system, for commercial purposes, without the prior permission and consent in writing of the publisher.
