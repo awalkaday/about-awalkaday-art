@@ -16,17 +16,21 @@ His aimful European dream, aside from wishful dreaming of chasing again a univer
 awalkaday 185-2022
 {% endembed %}
 
-His original sin, worthy of exile from both Beijing and Bujumbura for many human years, was unofficially blamed on a one-day cocktail of irrational factors during springtime of 2016.&#x20;
+His original sin, worthy of exile from both Beijing and Bujumbura for many human years, was unofficially blamed on a one-week cocktail of irrational factors during springtime of 2016.&#x20;
 
 The cocktail's ingredients were:&#x20;
 
-* the photographic portrayal of human faces,&#x20;
-* activism on university grounds as a foreign student,&#x20;
-* his ethnicity in association with his father's 4-star ranking military career,&#x20;
-* a snitch call voiced by a friendly countrymate from the dormitory to higher-ups,&#x20;
-* a made-up [_crime de lèse-majesté_](https://fr.wikipedia.org/wiki/Crime_de_l%C3%A8se-majest%C3%A9) against the supreme ruler of Burundi,&#x20;
-* chemical traces of an organic drug in his pee, &#x20;
-* official letters warning of terror from him, adjoined to behind-the-scenes photos of him in military attire in the midst of shooting movies on Chinese war film sets, etc.&#x20;
+* the photographic portrayal of human faces at a foreign students' cultural celebration&#x20;
+* activism on campus as a full-tuition, government-sponsored, foreign student&#x20;
+* his ethnicity in association with his father's 4-star ranking military career&#x20;
+* a snitch call voiced by a friendly countrymate from the dormitory to higher-ups&#x20;
+* a _crime de lèse-majesté_ gifted by his embassy's presidential portrait photographed on the floor&#x20;
+* chemical traces of an organic drug, found in his pee by the tech hub district's secret police&#x20;
+* an _invitation to tea_ in the company of, and paid for by, Chinese state security agents&#x20;
+* letters, sent to Beijing, warning of terror from him, stamped by his fatherland's diplomats&#x20;
+* his photos in military attire taken while shooting movies about Chinese heroes warring overseas
+* an overdose of suspicion, for being a Muslim, evidenced by logs of past travels to Egypt&#x20;
+* etc.&#x20;
 
 <figure><img src="https://sd55vpc7xirkafqt6l42hrsiafn5kqkvdbliclrpomelxemu5opa.arweave.net/kPvavF-6IqAWE_L5o8ZIAVvVQVUYVoEuL3MIu5GU654" alt="awalkaday 59-2022"><figcaption><p>awalkaday 59-2022</p></figcaption></figure>
 
