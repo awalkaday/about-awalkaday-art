@@ -4,17 +4,17 @@ The blockchain publication of the photo collection was achieved with the creatio
 
 {% embed url="https://app.ens.domains/awalkaday.art" %}
 
-About half a year later, 263 [WALK tokens](https://etherscan.io/token/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1) were minted on Ethereum in [February 2023](https://etherscan.io/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b), marking a significant moment in the history of the photo serie&#x73;_._ A month prior, the artist's wallet had left records behind in a [cryptographic ceremony](https://ceremony.ethereum.org/) contributing a random number to secure the future of Ethereum's scaling upgrades.
+About half a year later, 263 [WALK tokens](https://etherscan.io/token/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1) were minted on Ethereum in [February 2023](https://etherscan.io/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b), marking a significant moment in the history of the photo serie&#x73;_._ A month prior, the artist's wallet had left records behind in a [cryptographic ceremony](https://ceremony.ethereum.org/) after contributing a random number to secure the future of Ethereum's upgrades.
 
 <figure><img src="https://assets.poap.xyz/kzg-ceremony-contributor-2023-logo-1697634378053.png" alt="KZG Ceremony Contributor" width="188"><figcaption><p><a href="https://app.zerion.io/nfts/xdai/0x22c1f6050e56d2876009903609a2cc3fef83b415:6853025">KZG Ceremony Contributor</a></p></figcaption></figure>
 
 {% embed url="https://deca.art/collection/awalkaday-art" %}
 
-In the virtual realm of blockchain-based art platforms, the artist has created a profile on behalf of his work and listed artworks on [Coinbase](https://wallet.coinbase.com/assets/nft/collection/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1?chainId=1), [Foundation](https://foundation.app/collection/awalkaday-art), [Rightclick](https://rc.xyz/daqhris/collections/awalkaday.art), [The Hug](https://thehug.xyz/artists/daqhris/portfolio/gallery/86a4f0a8-5609-4885-a9e2-ca0b625082e9), [Zora](https://zora.co/collect/eth:0xe31801c2e58b151c3ded2cb29da56147b7f27eb1), [SuperRare](https://superrare.com/daqhris?artwork=ONLY_SERIES), [Manifold](https://manifold.gallery/eth:0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1), [Highlight](https://highlight.xyz/mint/ethereum:0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1) and [OpenSea](https://opensea.io/collection/awalkaday-art) starting from the second half of 2023.
+In the virtual realm of blockchain-based art platforms, the artist has created a profile on behalf of his work, then listed artworks on [Coinbase](https://wallet.coinbase.com/assets/nft/collection/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1?chainId=1), [Foundation](https://foundation.app/collection/awalkaday-art), [Rightclick](https://rc.xyz/daqhris/collections/awalkaday.art), [The Hug](https://thehug.xyz/artists/daqhris/portfolio/gallery/86a4f0a8-5609-4885-a9e2-ca0b625082e9), [Zora](https://zora.co/collect/eth:0xe31801c2e58b151c3ded2cb29da56147b7f27eb1), [SuperRare](https://superrare.com/daqhris?artwork=ONLY_SERIES), [Manifold](https://manifold.gallery/eth:0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1), [Highlight](https://highlight.xyz/mint/ethereum:0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1) and [OpenSea](https://opensea.io/collection/awalkaday-art) starting from the second half of 2023.
 
 {% embed url="https://foundation.app/collection/awalkaday-art" %}
 
-As an artist, coder and hacker with published work on a blockchain, he participated in a 3-day international hackathon and gathering of Ethereum software developers organized by [ETHGlobal](https://ethglobal.com/events/brussels) and held for the first time in Brussels, Belgium (July 2024).
+As an artist, coder and hacker with published work on a blockchain, he participated in a three-day international hackathon and gathering of Ethereum software developers organized by [ETHGlobal](https://ethglobal.com/events/brussels) and held for the first time in Brussels, Belgium (July 2024).
 
 {% embed url="https://www.instagram.com/walk.day/p/C9sw6ZeNs7x/" %}
 

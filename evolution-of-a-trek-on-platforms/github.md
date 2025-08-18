@@ -20,7 +20,7 @@ In the winter of 2017, when free attendance to French-spoken lectures inside the
 Source Code for the Gallery's Beta Testing
 {% endembed %}
 
-A domino effect, kicked off by a series of French-written law-abiding decisions, knocked down rights to attend a ground-based university few weeks later. Thus, `daqhris` was rewarded, with a two-times university drop-out trophy on two of Earth's continents, without a drum roll announcement, during the early chilling days of 2028.
+A domino effect, kicked off by a series of French-written law-abiding decisions, knocked down rights to attend a ground-based university few weeks later. Thus, `daqhris` was rewarded, with a two-times university drop-out trophy on two of Earth's continents, without a drum roll announcement, during the early chilling days of 2018.
 
 
 
