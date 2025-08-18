@@ -8,7 +8,7 @@ The monochromatic scenes document sightings of eye-catching real-life environmen
 awalkaday 359-2021
 {% endembed %}
 
-These photographs were captured during walks through the streets and alleyways of [Flanders](https://www.visitflanders.com/en), [Wallonia](https://visitwallonia.be/), and [Brussels](https://www.visit.brussels/) regions. The photographic process was stretched over the timespan of six years, [2017](https://www.instagram.com/p/BWvILEmAPcy/)-[2018](https://www.instagram.com/p/Bd1VmXvHDSj/) and [2021](https://www.instagram.com/p/CPoPiLpAlG0/)-[2022](https://www.instagram.com/p/CkWOfX2DCPU/), complemented by a gap of two blank years in-between.
+These photographs were captured during walks through the streets and alleyways of [Flanders](https://www.visitflanders.com/en), [Wallonia](https://visitwallonia.be/), and [Brussels](https://www.visit.brussels/) regions. The photographic process was stretched over the timespan of six years, [2017](https://www.instagram.com/p/BWvILEmAPcy/)-[2018](https://www.instagram.com/p/Bd1VmXvHDSj/) and [2021](https://www.instagram.com/p/CPoPiLpAlG0/)-[2022](https://www.instagram.com/p/CkWOfX2DCPU/), tied up by a gap of two blank years in-between.
 
 {% embed url="https://arweave.net/sH8zfbKAiJL2OcmQU0yiZ3Ed8crVitoIWDv_v9_VNIQ" %}
 awalkaday 347-2021
