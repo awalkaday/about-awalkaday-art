@@ -8,6 +8,8 @@ The computing device was one of the few items, in addition to engineering textbo
 awalkaday 187-2021
 {% endembed %}
 
+Once upon a wintertime day of 2015, enriched by rewards from acting in the background of state-produced war movies in the Far East, he had allocated a lot of digital earnings, pocketed via a social network's wallet, to a Chinese New Year's online sale. The deal's golden feature was the hardware's visual computing horsepower, an intangible currency for workloads when the handling imagery, machine-built inside factories owned by Nvidia.
+
 Unfortunately, the gaming computer first mysteriously crashed in the winter of 2017, but was resurrected the next year, and finally, relapsed four years later, during a malware analysis in the winter of 2022. The nearly decade-old computing device, still alive and undiagnosed in his care, eventually regained basic functionality under [Ubuntu](https://ubuntu.com/desktop)-flavored [`linux`](https://www.redhat.com/en/topics/linux/what-is-linux) software.
 
 A second-hand lightweight laptop, made in USA, was bargained out of a friend's hands, with hard-earned cash from a construction job in the spring of 2023. The laptop helped to finish off the cloud-based construction mission from Brussels, post-tokenization of photos on [Ethereum](../evolution-of-a-trek-on-platforms/ethereum.md).&#x20;
