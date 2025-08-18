@@ -20,7 +20,7 @@ _Awaits the unfreezing of its Author's Human ID._
 
 <p align="right">Author, <br>Photographer, <br> Designer, Engineer, <br> Writer, Editor &#x26; Publisher: <br><strong>©</strong> <a href="https://daqhris.com/"><strong>Chris-Armel Iradukunda</strong></a> <strong>—</strong> <a href="https://github.com/daqhris"><strong>daqhris</strong></a></p>
 
-<p align="right">Online publication of the first draft: <a href="https://github.com/awalkaday/about-awalkaday-art/compare/about...book">July <strong>2024</strong></a><br>Latest <code>git</code> changes of book content: <a href="https://github.com/awalkaday/about-awalkaday-art/commits/book/">August <strong>2025</strong></a><br>Open-sourced by <code>gitbook-bot</code> on behalf of <code>daqhris</code> </p>
+<p align="right">Online publication of the first draft: <a href="https://github.com/awalkaday/about-awalkaday-art/compare/about...book">July <strong>2024</strong></a><br>Latest GIT changes of book content: <a href="https://github.com/awalkaday/about-awalkaday-art/commits/book/">August <strong>2025</strong></a><br>Open-sourced by <code>gitbook-bot</code> on behalf of <code>daqhris</code> </p>
 
 {% hint style="warning" %}
 There is no print, e-book, PDF or tokenized version available yet. No part of this online book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any other information storage and retrieval system, for commercial purposes, without the prior permission and consent in writing of the publisher.

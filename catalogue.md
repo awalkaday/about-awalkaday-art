@@ -1,6 +1,6 @@
 ---
 description: >-
-  Lists accounting for the number of all onchain photographs, spilt into three
+  Lists accounting for the number of all tokenized photographs, spilt into three
   categories, and arranged by location, year and season
 ---
 
