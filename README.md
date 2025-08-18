@@ -1,7 +1,7 @@
 ---
 description: >-
   An open-source artist's book tracing the binary footprints of an exiled
-  wanderer and Belgian-made pixels over the course of an eight-year digital
+  wanderer and his Belgian-made pixels over the course of an eight-year digital
   odyssey
 ---
 
