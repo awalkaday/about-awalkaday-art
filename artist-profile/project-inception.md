@@ -1,6 +1,6 @@
 # Project Inception
 
-During the summer of 2017, Chris resided in a Red Cross camp for asylum seekers in Namur, Belgium. To combat prolonged boredom and physical inactivity, an idea sparked in his mind, urging him to combine his skills in black-and-white photography, visual design, and software coding in order to create an artistic project.
+At the kick-off of the summer of 2017, Chris resided in a Red Cross camp for asylum seekers in Namur, Belgium. To combat prolonged boredom and physical inactivity, an idea sparked in his mind, urging him to combine his skills in black-and-white photography, visual design, and software coding in order to launch an artistic project.
 
 {% embed url="https://aqdko2gvdb5swcvmv5fefjh2nvqay2jo25zaraa4e7gzvtmhqvra.arweave.net/BAanaNUYeysKrK9KQqT6bWAMaS7XcgiAHCfNms2HhWI" %}
 awalkaday 344-2017
@@ -16,25 +16,27 @@ His aimful European dream, aside from wishful dreaming of chasing again a univer
 awalkaday 185-2022
 {% endembed %}
 
-His original sin, worthy of exile from both Beijing and Bujumbura for many human years, was unofficially blamed on a one-week cocktail of irrational factors during springtime of 2016.&#x20;
+His original sin, worthy of exile from the capitals of China and Burundi for many human years, was unofficially blamed on a one-week cocktail of irrational factors during springtime of 2016. The cocktail's ingredients were deposited on a cross-country tabletop, covertly sent over electronic communication rails, and unaccompanied by any legal counsel in human form.&#x20;
 
-The cocktail's ingredients were:&#x20;
+On the torturous path to confining the multilingual man for five, then prolonged into twenty-one, nights-and-days of brainwashed-and-caged captivity, decisionmakers were aware that all ingredients were :&#x20;
 
-* the photographic portrayal of human faces at a foreign students' cultural celebration&#x20;
-* activism on campus as a full-tuition, government-sponsored, foreign student&#x20;
-* his ethnicity in association with his father's 4-star ranking military career&#x20;
-* a snitch call voiced by a friendly countrymate from the dormitory to higher-ups&#x20;
-* a _crime de lèse-majesté_ gifted by his embassy's presidential portrait photographed on the floor&#x20;
-* chemical traces of an organic drug, found in his pee by the tech hub district's secret police&#x20;
-* an _invitation to tea_ in the company of, and paid for by, Chinese state security agents&#x20;
-* letters, sent to Beijing, warning of terror from him, stamped by his fatherland's diplomats&#x20;
-* his photos in military attire taken while shooting movies about Chinese heroes warring overseas
-* an overdose of suspicion, for being a Muslim, evidenced by logs of past travels to Egypt&#x20;
-* etc.&#x20;
+1. the photographic portrayal of human faces at a foreign students' cultural celebration&#x20;
+2. activism on campus as a tuition-free, government-sponsored, foreign student&#x20;
+3. his inherited ethnicity associated to his father's four-star ranking military career&#x20;
+4. a snitch call voiced by a friendly countrymate from the dormitory to higher-ups&#x20;
+5. a _crime de lèse-majesté_ due to the embassy's presidential portrait being shot standing on the floor&#x20;
+6. chemical traces of an organic drug, found in his pee by the tech hub district's secret police&#x20;
+7. an _invitation to tea_ in the company of, and paid for by, Chinese state security agents&#x20;
+8. letters, sent to Beijing, warning of terror from him, stamped by his fatherland's diplomats&#x20;
+9. his photos in military attire captured while shooting movies about Chinese heroes warring overseas
+10. an overdose of suspicion, for being a Muslim, evidenced by logs of past travels to Egypt&#x20;
+11. etc.&#x20;
 
 <figure><img src="https://sd55vpc7xirkafqt6l42hrsiafn5kqkvdbliclrpomelxemu5opa.arweave.net/kPvavF-6IqAWE_L5o8ZIAVvVQVUYVoEuL3MIu5GU654" alt="awalkaday 59-2022"><figcaption><p>awalkaday 59-2022</p></figcaption></figure>
 
-_In absentia_ of photographic evidence of the surreal story — made in and imported from China — a portion of those ingredients ended up being recycled against him in Belgian legal asylum proceedings (2017-2018). Until when his blurry mind and on alert body voiced an untrue African geolocation of his father in response to a male judge's oral inquiry. Then, little did the lonely and poor boy imagine how fast life could spiral, from hearing aloud _«_[_Il est où ton papa?_](https://genius.com/1828413)_»_ in a court roo&#x6D;_,_ to tumbling around like a [_toupie_](https://en.wiktionary.org/wiki/toupie)_._
+_In absentia_ of photographic evidence of the surreal story — made in and imported from China — a portion of those ingredients ended up being recycled against him in Belgian legal asylum proceedings (2017-2018).&#x20;
+
+Until when his blurry mind and on alert body voiced an untrue African geolocation of his father in response to a male judge's oral inquiry. Then, little did the lonely and poor boy imagine how fast life could spiral, from hearing aloud _«_[_Il est où ton papa?_](https://genius.com/1828413)_»_ in a court roo&#x6D;_,_ to tumbling around like a [_toupie_](https://en.wiktionary.org/wiki/toupie)_._
 
 <figure><img src="https://rodfztakuygtmhqfbszvgxfobnojd47isei6lmuh52ngxpcs72ca.arweave.net/i4ZczAqmDTYeBQyzU1yuC1yR8-iREeWyh-6aa7xS_oQ" alt="awalkaday 47-2022"><figcaption><p>awalkaday 47-2022</p></figcaption></figure>
 
