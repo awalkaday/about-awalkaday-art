@@ -2,7 +2,7 @@
 
 During the early years of Instagram, Chris had decided on a whim to learn photography, as a self-taught enthusiast, while practicing in Beijing's streets with his first Canon camera around 2012.&#x20;
 
-At the time of dual immersion in Chinese culture and an American online network, he was scientifically and technically studying [computer engineering](https://en.wikipedia.org/wiki/Computer_science_and_engineering) at an elite university, located on a road that is memorable as the two-letter Mandarin translation of a school within a university.
+At the time of dual immersion, into the Chinese urban culture and an American online network, he was scientifically and technically studying [computer engineering](https://en.wikipedia.org/wiki/Computer_science_and_engineering) at an elite university, located on a road that is memorable as the two-letter Mandarin translation of a school within a university.
 
 {% embed url="https://arweave.net/2s8V7COfuK32VaXHDAyInocahSsGR4FRdhxICHufdis" %}
 awalkaday 4-2022
