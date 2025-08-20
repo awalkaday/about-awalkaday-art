@@ -18,19 +18,23 @@ awalkaday 185-2022
 
 His original sin, worthy of exile from the capitals of China and Burundi for many human years, was unofficially blamed on a one-week cocktail of irrational factors during springtime of 2016. The cocktail's ingredients were deposited on a cross-country tabletop, covertly sent over electronic communication rails, and unaccompanied by any legal counsel in human form.&#x20;
 
-On the torturous path to confining the multilingual man for five, then prolonged into twenty-one, nights-and-days of brainwashed and caged captivity, not all decisionmakers were aware that key ingredients were :&#x20;
+On the torturous path to confining the multilingual man for five, then stretched into twenty-one, nights-and-days of brainwashed-and-encaged captivity, not all decisionmakers were aware that key ingredients were :&#x20;
 
-* the photographic portrayal of human faces at a foreign students' cultural celebration&#x20;
-* activism on campus as a tuition-free, government-sponsored, foreign student&#x20;
-* his inherited ethnicity associated to his father's four-star ranking military career&#x20;
-* a snitch call voiced by a friendly countrymate from the dormitory to higher-ups&#x20;
-* a _crime de lèse-majesté_ due to the embassy's presidential portrait being shot standing on the floor&#x20;
-* chemical traces of an organic drug, found in his pee by the tech hub district's secret police&#x20;
-* an _invitation to tea_ in the company of, and paid for by, Chinese state security agents&#x20;
-* printed letters, sent to Beijing, warning of terror from him, stamped by his fatherland's diplomats&#x20;
-* his photos in military attire captured while shooting movies about Chinese heroes warring overseas
-* an overdose of suspicion, for being a Muslim, evidenced by logs of past travels to Egypt&#x20;
-* etc.&#x20;
+1. the photographic portrayal of human faces at a foreign students' cultural celebration&#x20;
+2. activism on campus as a tuition-free, government-sponsored, foreign student&#x20;
+3. his inherited ethnicity associated to his father's four-star ranking military career&#x20;
+4. a snitch call voiced by a friendly countrymate from the dormitory to higher-ups&#x20;
+5. a _crime de lèse-majesté_ due to the embassy's presidential portrait, photographed on the floor&#x20;
+6. chemical traces of an organic drug, found in his pee by the tech hub district's secret police&#x20;
+7. odors of a brand of cheap cigarettes, eponymous with Mao's and the complex housing their party
+8. an _invitation to tea_ in the company of, and paid for by, Chinese state security agents
+9. printed letters carried to Beijing, warning of terror from him, stamped by his fatherland's diplomats&#x20;
+10. his photos in military attire captured while shooting movies about Chinese heroes warring overseas
+11. an overdose of suspicion for belonging to Muslim religion, evidenced by logs of past travels to Egypt&#x20;
+12. a record of raising digital money relieving like-minded _Sindumuja_ protesters in Bujumbura's streets&#x20;
+13. the forceful mid-air rerouting to Uzbekistan of an _Egyptair_ airplane carrying his father to his rescue
+14. the shutdown of the airspace atop the powerful city inside the second-in-line terrestrial nation-state&#x20;
+15. etc.&#x20;
 
 <figure><img src="https://sd55vpc7xirkafqt6l42hrsiafn5kqkvdbliclrpomelxemu5opa.arweave.net/kPvavF-6IqAWE_L5o8ZIAVvVQVUYVoEuL3MIu5GU654" alt="awalkaday 59-2022"><figcaption><p>awalkaday 59-2022</p></figcaption></figure>
 
