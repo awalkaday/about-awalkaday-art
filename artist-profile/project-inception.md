@@ -27,13 +27,13 @@ On the torturous path to confining the multilingual man for five, then stretched
 5. a _crime de lèse-majesté_ due to the embassy's presidential portrait, photographed on the floor&#x20;
 6. chemical traces of an organic drug, found in his pee by the tech hub district's secret police&#x20;
 7. odors of a brand of cheap cigarettes, eponymous with Mao's and the complex housing their party
-8. an _invitation to tea_ in the company of, and paid for by, Chinese state security agents
+8. an hours-long _invitation to tea_ in the company of, and paid for by, Chinese state security agents&#x20;
 9. printed letters carried to Beijing, warning of terror from him, stamped by his fatherland's diplomats&#x20;
 10. his photos in military attire captured while shooting movies about Chinese heroes warring overseas
 11. an overdose of suspicion for bowing to Muslim religion, evidenced by logs of past travels to Egypt&#x20;
 12. a record of raising digital money relieving like-minded _Sindumuja_ protesters in Bujumbura's streets&#x20;
 13. the forceful mid-air rerouting to Uzbekistan of an _Egyptair_ airplane carrying his father to his rescue
-14. the shutdown of the airspace atop the powerful city inside the second-in-line terrestrial nation-state&#x20;
+14. the shutdown of motorized traffic atop the powerful city of the second-in-line terrestrial nation-state&#x20;
 15. etc.&#x20;
 
 <figure><img src="https://sd55vpc7xirkafqt6l42hrsiafn5kqkvdbliclrpomelxemu5opa.arweave.net/kPvavF-6IqAWE_L5o8ZIAVvVQVUYVoEuL3MIu5GU654" alt="awalkaday 59-2022"><figcaption><p>awalkaday 59-2022</p></figcaption></figure>
