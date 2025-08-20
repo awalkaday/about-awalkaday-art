@@ -30,7 +30,7 @@ On the torturous path to confining the multilingual man for five, then stretched
 8. an _invitation to tea_ in the company of, and paid for by, Chinese state security agents
 9. printed letters carried to Beijing, warning of terror from him, stamped by his fatherland's diplomats&#x20;
 10. his photos in military attire captured while shooting movies about Chinese heroes warring overseas
-11. an overdose of suspicion for belonging to Muslim religion, evidenced by logs of past travels to Egypt&#x20;
+11. an overdose of suspicion for bowing to Muslim religion, evidenced by logs of past travels to Egypt&#x20;
 12. a record of raising digital money relieving like-minded _Sindumuja_ protesters in Bujumbura's streets&#x20;
 13. the forceful mid-air rerouting to Uzbekistan of an _Egyptair_ airplane carrying his father to his rescue
 14. the shutdown of the airspace atop the powerful city inside the second-in-line terrestrial nation-state&#x20;
@@ -46,7 +46,7 @@ Until when his blurry mind and on alert body voiced an untrue African geolocatio
 
 After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/instagram.md) and coding on [GitHub](../evolution-of-a-trek-on-platforms/github.md), from the second continent discovered in his lifetime, the self-assigned mission was put on hold due to the loss of electronic devices, in the aftermath of a laptop crash and a smartphone theft within the enclosure of a refugee camp, located in a Francophone Belgian region, at the start of 2018.
 
-Three years later, during springtime of 2020, the photographic odyssey was relaunched, as a part-time duty funded by earnings from a painting job, and ran from an attic room in Bastogne, nearby the southeastern Belgian border, at a walking distance from the landlocked nation of Luxembourg, until wintertime of 2022.&#x20;
+Three years later, during springtime of 2020, the photographic odyssey was relaunched, like a part-time duty funded by earnings from a painting job, and ran from an attic room in Bastogne, nearby the southeastern Belgian border, at a walking distance from the landlocked nation of Luxembourg, until wintertime of 2022.&#x20;
 
 {% embed url="https://arweave.net/HZUJofLsOWTGYRYAOMzbtKN7Ad0jMmtDlg4HDgT5Vp8" %}
 awalkaday 40-2022
