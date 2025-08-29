@@ -15,15 +15,11 @@ awalkaday 78-2022
 {% endembed %}
 
 \
-[Ethereum](https://ethereum.org/) is a decentralized blockchain platform that allows developers to create and deploy self-executing code in the form of smart contracts and applications.
-
-The artworks were wrapped in the `awalkaday.art` smart contract and self-published on a public blockchain, where they can be verified, collected and exchanged. The smart contract address is [`0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1`](https://etherscan.io/address/0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1).
+[Ethereum](https://ethereum.org/) is a decentralized blockchain platform that allows developers to create and deploy self-executing code in the form of smart contracts and applications. The artworks were wrapped in the `awalkaday.art` smart contract and self-published where they can be verified, collected and exchanged. The smart contract address is [`0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1`](https://etherscan.io/address/0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1).
 
 {% embed url="https://zora.co/collect/eth:0xe31801c2e58b151c3ded2cb29da56147b7f27eb1" %}
 
-The monochromatic snapshots were assembled, named, and minted during a wintertime stay, as a homeless person at the [Palais des Droits](https://archive.is/2JkUB), a former financial office building which had been converted into a squalid squat in Brussels.
-
-He was able to safeguard them on a state-of-the-art blockchain on [Valentine's Day](https://etherscan.io/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b) in 2023, fortunately one day before a [scheduled eviction](https://www.lalibre.be/belgique/societe/2023/02/09/schaerbeek-le-palais-des-droits-sera-vide-pour-le-15-fevrier-J4FJQRA6UBGYNA2I4KKPDM27LA/) from the infamous Schaerbeek shelter.
+The monochromatic snapshots were assembled, named, and minted during a wintertime stay, as a homeless person at the ironically-named [Palais des Droits](https://archive.is/2JkUB), a state-owned financial building which had been converted into a squalid squat. He safeguarded them on a public financial network of computers on [Valentine's Day](https://etherscan.io/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b) in 2023, fortunately one day before a [scheduled eviction](https://www.lalibre.be/belgique/societe/2023/02/09/schaerbeek-le-palais-des-droits-sera-vide-pour-le-15-fevrier-J4FJQRA6UBGYNA2I4KKPDM27LA/) from the infamous shelter in Schaerbeek.
 
 Once released into a sovereign financial ecosystem, the fear of losing the `awalkaday` photographs vanished into thin air, escaping the confines of his last encrypted device, the Android One, whose secure updates had been halted near the [end of 2022](https://source.android.com/docs/security/bulletin/2022-12-01).
 
