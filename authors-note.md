@@ -61,7 +61,7 @@ _From the beginning, the creative process was intuitively, leisurely or swiftly 
 ```
 {% endcode %}
 
-_As any reader can see, the `A WALK≡A DAY` visual art project took more than the five years predicted at the onset before being completed._
+_As any reader can see, the `A WALK≡A DAY` visual art project took more than the five years, predicted at the onset, before being completed._
 
 _The informative page, named `FAQ | A WALK≡A DAY`, was eventually migrated away from a personal site to an independent project on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter._
 
@@ -73,7 +73,7 @@ _The `awalkaday` building blocks rebecame the focus of my geeky attention and ca
 
 {% embed url="https://daqhris.com/fcc-cert/" %}
 
-_This book poetically features a mix of modified texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) — _a single page dating from the project's early days — mingled with writings narrating a «crème de la crème» artwork, illustrating visually evocative `awalkaday` photographs._
+_This book poetically features a mix of modified texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) — _a single page dating from the project's early days — mingled with writings narrating a «crème de la crème» artwork, illustrated with evocative `awalkaday` photographs._
 
 _Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass during a long-lasting march._
 
