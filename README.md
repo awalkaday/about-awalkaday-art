@@ -1,11 +1,10 @@
 ---
 description: >-
-  An open-source artist's book tracing the binary footprints of an exiled
-  wanderer and his Belgian-made pixels over the course of an eight-year digital
-  odyssey
+  An open-source artist's book tracing the digital footprints of an exiled
+  wanderer and his Belgian-made pixels over the course of an eight-year odyssey
 ---
 
-# Book
+# Artist's Book
 
 <table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><a href="authors-note.md">AUTHOR'S NOTE</a></td></tr><tr><td align="center"><a href="reading-guide.md">READING GUIDE</a></td></tr></tbody></table>
 
