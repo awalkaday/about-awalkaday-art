@@ -10,9 +10,7 @@ _This artistic project was born in my spare time, developed independently in the
 awalkaday 219-2022
 {% endembed %}
 
-_The project's lines of code first appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_, four months after the summer debut of walking and photographing._
-
-_From the beginning, the creative process was intuitively, leisurely or swiftly occurring from time to time, offline or online. Until being finalized, retrospectively, with an emphasis on narrative writing, visual storytelling, book formatting, and digital timestamps._
+_The project's lines of code first appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_, four months after the summer debut of walking and photographing. From the beginning, the creative process was intuitively, leisurely or swiftly occurring from time to time, offline or online. Until being finalized, retrospectively, with an emphasis on narrative writing, visual storytelling, book formatting, and digital timestamps._
 
 {% embed url="https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f" %}
 
@@ -61,23 +59,19 @@ _From the beginning, the creative process was intuitively, leisurely or swiftly 
 ```
 {% endcode %}
 
-_As any reader can see, the `A WALK≡A DAY` visual art project took more than the five years, predicted at the onset, before being completed._
-
-_The informative page, named `FAQ | A WALK≡A DAY`, was eventually migrated away from a personal site to an independent project on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter._
+_As any reader can see, the `A WALK≡A DAY` visual art project took more than the five years, predicted at the onset, before being completed. The page listing answers to «when, why, how, where, who» questions, named `FAQ | A WALK≡A DAY`, was eventually migrated, away from my personal site at `daqhris.com/awalkaday`, to an independent open-source project on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter._
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/7660a21a32aa6c6b539beaf4b20c12c11fa4f148" %}
 
 _The three-bar symbol_ [_`≡`_](https://en.wikipedia.org/wiki/Triple_bar) _, which is synonymous with the two-way street sign_ ↔, _had piqued my interest as an indicator of logical equivalence and the monetary unit of a blockchain currency._
 
-_The `awalkaday` building blocks rebecame the focus of my geeky attention and camera lenses from_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4) _onwards, right after receiving a developer certification from web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._
+_The `awalkaday` building blocks became once again the focus of my geeky attention and camera lenses from_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4) _onwards, right after receiving a developer certification from web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._
 
 {% embed url="https://daqhris.com/fcc-cert/" %}
 
-_This book poetically features a mix of modified texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) — _a single page dating from the project's early days — mingled with writings narrating a «crème de la crème» artwork, illustrated with evocative `awalkaday` photographs._
+_This book poetically features a mix of modified texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) — _a single page dating from the project's early days — mingled with writings narrating a «crème de la crème» artwork, then illustrated with evocative `awalkaday` photographs. Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass during a long-lasting march._
 
-_Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass during a long-lasting march._
-
-_For an accurate time-stamped record of changes made to the book's drafts and applied via public GIT commits, please visit the GitHub-hosted open source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis over a long time window, is available_ [_here_](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency)_._
+_For an accurate time-stamped record of the book's drafts, or audit of my public edits scribble down with GIT commits, please visit the source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis over a long time window, is available_ [_here_](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency)_._
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commits/book/" %}
 
