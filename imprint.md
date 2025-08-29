@@ -70,29 +70,29 @@ _A token of gratitude goes to:_&#x20;
 
 <div align="left"><figure><picture><source srcset="https://raw.githubusercontent.com/manifoldxyz/manifold-brand/refs/heads/main/logo%20with%20text/png/manifold_logo-w-text_white_transparent-bg.png" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/manifoldxyz/manifold-brand/refs/heads/main/logo%20with%20text/png/manifold_logo-w-text_black_transparent-bg.png" alt="" width="188"></picture><figcaption><p><a href="https://forum.manifold.xyz/u/daqhris/summary">Onchain minting of photographs</a> <em>('23)</em></p></figcaption></figure></div>
 
-<h4 align="center">Data Preservation</h4>
+<h4 align="right">Data Preservation</h4>
 
-<div align="center"><figure><picture><source srcset=".gitbook/assets/dark@2x.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/light@2x.png" alt="" width="158"></picture><figcaption><p><a href="https://www.arweave.org/use/">Permanent storage of photos</a> <em>('23)</em></p></figcaption></figure></div>
+<div align="right"><figure><picture><source srcset=".gitbook/assets/dark@2x.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/light@2x.png" alt="" width="158"></picture><figcaption><p><a href="https://www.arweave.org/use/">Permanent storage of photos</a> <em>('23)</em></p></figcaption></figure></div>
 
-<h4 align="center">Blockchain Network</h4>
+#### Blockchain Network
 
-<div align="center"><figure><img src="https://ethereum.org/_next/static/media/ethereum-logo-landscape-purple.2c091489.png" alt="https://ethereum.org/en/" width="188"><figcaption><p><a href="https://etherscan.io/token/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1">263 photos minted as WALK tokens</a> <em>('23)</em></p></figcaption></figure></div>
+<div align="left"><figure><img src="https://ethereum.org/_next/static/media/ethereum-logo-landscape-purple.2c091489.png" alt="https://ethereum.org/en/" width="188"><figcaption><p><a href="https://etherscan.io/token/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1">263 photos minted as WALK tokens</a> <em>('23)</em></p></figcaption></figure></div>
 
-<h4 align="center">Brussels Public Library</h4>
+<h4 align="right">Brussels Public Library</h4>
 
-<div align="center"><figure><picture><source srcset=".gitbook/assets/MPS_Muntpunt_2022_White_RGB98.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/MPS_Muntpunt_2022_Black_RGB98.png" alt="https://muntpunt.be/" width="150"></picture><figcaption><p><a href="https://x.com/search?q=from%3A%40awalkadayart%20%40muntpunt&#x26;src=typed_query&#x26;f=top">Inspired by photography &#x26; art books</a> <em>('22-'24)</em></p></figcaption></figure></div>
+<div align="right"><figure><picture><source srcset=".gitbook/assets/MPS_Muntpunt_2022_White_RGB98.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/MPS_Muntpunt_2022_Black_RGB98.png" alt="https://muntpunt.be/" width="150"></picture><figcaption><p><a href="https://x.com/search?q=from%3A%40awalkadayart%20%40muntpunt&#x26;src=typed_query&#x26;f=top">Inspired by photo &#x26; art books</a> <em>('22-'24)</em></p></figcaption></figure></div>
 
-<div align="center"><figure><img src="https://456r5hpaktnuia4rvgd23ue2gnci6iy5cshax7565emfz3wj4eua.arweave.net/530eneBU20QDkamHrdCaM0SPIx0Ujgv_vukYXO7J4Sg" alt="" width="188"><figcaption><p><code>awalkaday 105-2022</code> portrays <a href="https://muntpunt.be/over-muntpunt">Muntpunt</a></p></figcaption></figure></div>
+<div align="center"><figure><img src="https://456r5hpaktnuia4rvgd23ue2gnci6iy5cshax7565emfz3wj4eua.arweave.net/530eneBU20QDkamHrdCaM0SPIx0Ujgv_vukYXO7J4Sg" alt="" width="563"><figcaption><p><code>awalkaday 105-2022</code> portrays <a href="https://muntpunt.be/over-muntpunt">Muntpunt</a></p></figcaption></figure></div>
 
-<h4 align="center">Storytelling Training</h4>
+#### Storytelling Training
 
-<div align="center"><figure><img src="https://soundimageculture.org/wp-content/uploads/2023/05/sic_logo_white_circle_text_vec.svg" alt="https://soundimageculture.org/" width="188"><figcaption><p>Observer: <a href="https://soundimageculture.org/laboratory/#sic-regular-text-block_cd5d0fa1e38b295170f402ac3a73b7d6">SIC Collective Sessions</a> <em>('23-'24)</em></p></figcaption></figure></div>
+<div align="left"><figure><img src="https://soundimageculture.org/wp-content/uploads/2023/05/sic_logo_white_circle_text_vec.svg" alt="https://soundimageculture.org/" width="188"><figcaption><p>Observer: <a href="https://soundimageculture.org/laboratory/#sic-regular-text-block_cd5d0fa1e38b295170f402ac3a73b7d6">SIC Collective Sessions</a> <em>('23-'24)</em></p></figcaption></figure></div>
 
-<h4 align="center">Asylum Investigators</h4>
+<h4 align="right">Asylum Investigators</h4>
 
-<div align="center"><figure><img src="https://www.cgra.be/sites/default/files/logo_cgvs-cgra.png" alt="" width="188"><figcaption><p>Queries by <a href="https://www.cgrs.be/en">Belgian Federal Agents</a> <em>('17, '18, '19)</em></p></figcaption></figure></div>
+<div align="right"><figure><img src="https://www.cgra.be/sites/default/files/logo_cgvs-cgra.png" alt="" width="188"><figcaption><p>Queries by <a href="https://www.cgrs.be/en">Belgian Federal Agents</a> <em>('17, '18, '19)</em></p></figcaption></figure></div>
 
-<div align="center"><figure><img src="https://www.rvv-cce.be/sites/default/files/wlogo-fr.png" alt="" width="188"><figcaption><p>Public Hearings by <a href="https://www.rvv-cce.be/fr">Judge R.</a> <em>('18, '19)</em></p></figcaption></figure></div>
+<div align="right"><figure><img src="https://www.rvv-cce.be/sites/default/files/wlogo-fr.png" alt="" width="188"><figcaption><p>Public Hearings by <a href="https://www.rvv-cce.be/fr">Judge R.</a> <em>('18, '19)</em></p></figcaption></figure></div>
 
 <h4 align="center">Terrestrial Land Ruler</h4>
 
