@@ -16,7 +16,7 @@ Sculpted in bronze by Belgian artist [Nat Neujean](https://www.natneujean.com/),
 
 <div><figure><img src=".gitbook/assets/IMG_20240508_162733_3-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162755_1-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162716_4.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-`awalkaday 251-2022` and [_The Daughters of Water_](https://statues.vanderkrogt.net/object.php?webpage=ST\&record=bena030) both have their roots in a 19th century park named after the first Queen of the Belgians, _Louise-Marie_. Notice the timeless traits of two art forms grounding a duo — one in human form and another in metallic form — in the shade of a slowly aging tree.
+`awalkaday 251-2022` and [The Daughters of Water](https://statues.vanderkrogt.net/object.php?webpage=ST\&record=bena030) both have their roots in a 19th century park named after the first Queen of the Belgians, _Louise-Marie_. Notice the timeless traits of two art forms grounding a duo — one in human form and another in metallic form — in the shade of a slowly aging tree.
 
 ### Ethereum Domain Names
 
