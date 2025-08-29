@@ -16,7 +16,7 @@ His aimful European dream, aside from wishful dreaming of chasing again a univer
 awalkaday 185-2022
 {% endembed %}
 
-His original sin, worthy of exile from the capitals of China and Burundi for many human years, was unofficially blamed on a one-week cocktail of irrational factors during springtime of 2016. The cocktail's ingredients were deposited on a cross-country tabletop, covertly sent over electronic communication rails, and unaccompanied by any legal counsel in human form.&#x20;
+His original sin, worthy of exile from the capitals of China and Burundi for many years, was unofficially blamed on a one-week cocktail of irrational factors during springtime of 2016. The cocktail's ingredients were deposited on a cross-country tabletop, covertly sent over electronic communication rails, and unaccompanied by any legal counsel in human form.&#x20;
 
 On the torturous path to confining the multilingual man for five, then stretched into twenty-one, nights-and-days of brainwashed-and-encaged captivity, not all decisionmakers were aware that key ingredients were :&#x20;
 
