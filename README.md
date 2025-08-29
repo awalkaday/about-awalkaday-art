@@ -2,6 +2,20 @@
 description: >-
   An open-source artist's book tracing the digital footprints of an exiled
   wanderer and his Belgian-made pixels over the course of an eight-year odyssey
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Artist's Book
