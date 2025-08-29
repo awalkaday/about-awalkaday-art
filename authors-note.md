@@ -10,7 +10,7 @@ _This artistic project was born in my spare time, developed independently in the
 awalkaday 219-2022
 {% endembed %}
 
-_The project's lines of code first appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_, four months after the summer debut of walking and photographing. From the beginning, the creative process was intuitively, leisurely or swiftly occurring from time to time, offline or online. Until being finalized, retrospectively, with an emphasis on narrative writing, visual storytelling, book formatting, and digital timestamps._
+_The project's lines of code first appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_, four months after the summer debut of walking and photographing. From the beginning, the creative process was intuitively, leisurely, or swiftly, occurring from time to time, offline or online. Until the process was retrospectively terminated, with an emphasis on narrative writing, visual storytelling, book formatting, and digital timestamps._
 
 {% embed url="https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f" %}
 
@@ -59,7 +59,7 @@ _The project's lines of code first appeared online in_ [_November 2017_](https:/
 ```
 {% endcode %}
 
-_As any reader can see, the `A WALK≡A DAY` visual art project took more than the five years, predicted at the onset, before being completed. The page listing answers to «when, why, how, where, who» questions, named `FAQ | A WALK≡A DAY`, was eventually migrated, away from my personal site at `daqhris.com/awalkaday`, to an independent open-source project on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter._
+_As any reader can see, the `A WALK≡A DAY` visual art project took more than the five years, predicted at the onset, before being completed. The page listing answers to «when, why, how, where, who» questions, named `FAQ | A WALK≡A DAY`, was eventually migrated, away from my personal site at `daqhris.com/awalkaday`, to an independent open-source project. The art project is structured like an organization on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter._
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/7660a21a32aa6c6b539beaf4b20c12c11fa4f148" %}
 
