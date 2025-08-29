@@ -2,6 +2,20 @@
 description: >-
   An exhaustive table of 263 photographs with names, date stamps and blockchain
   token IDs
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # POSTSCRIPT
