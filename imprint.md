@@ -50,25 +50,25 @@ _A token of gratitude goes to:_&#x20;
 
 <p align="center">Diomède N., Espérance N., Shella I., Nicolas I. &#x26; Jobert I.</p>
 
-<h4 align="center">Online Book Publishing</h4>
+#### Online Book Publishing
 
-<div align="center"><figure><picture><source srcset=".gitbook/assets/GitBook - Light Logo.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/GitBook - Dark Logo.jpg" alt="" width="151"></picture><figcaption><p><a href="https://www.g2.com/products/gitbook/reviews/gitbook-review-9962377">Business Plan for Open-Source</a></p></figcaption></figure></div>
+<div align="left"><figure><picture><source srcset=".gitbook/assets/GitBook - Light Logo.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/GitBook - Dark Logo.jpg" alt="" width="151"></picture><figcaption><p><a href="https://www.g2.com/products/gitbook/reviews/gitbook-review-9962377">Business Plan for Open-Source</a></p></figcaption></figure></div>
 
-<h4 align="center">Source Code Hosting</h4>
+<h4 align="right">Source Code Hosting</h4>
 
-<div align="center"><figure><picture><source srcset=".gitbook/assets/GitHub_Lockup_Light.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/GitHub_Lockup_Dark.png" alt="" width="188"></picture><figcaption><p><a href="https://github.com/awalkaday">Open-Source Organization account</a></p></figcaption></figure></div>
+<div align="right"><figure><picture><source srcset=".gitbook/assets/GitHub_Lockup_Light.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/GitHub_Lockup_Dark.png" alt="" width="188"></picture><figcaption><p><a href="https://github.com/awalkaday">Open-Source Organization account</a></p></figcaption></figure></div>
 
-<h4 align="center">Coding School</h4>
+#### Coding School
 
-<div align="center"><figure><picture><source srcset=".gitbook/assets/freecodecamp_logo (1).png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/freecodecamp_alternative_logo.png" alt="" width="188"></picture><figcaption><p><a href="https://www.freecodecamp.org/certification/daqhris/responsive-web-design">Web Design &#x26; Development</a> <em>('16, '18, '20-'21)</em></p></figcaption></figure></div>
+<div align="left"><figure><picture><source srcset=".gitbook/assets/freecodecamp_logo (1).png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/freecodecamp_alternative_logo.png" alt="" width="188"></picture><figcaption><p><a href="https://www.freecodecamp.org/certification/daqhris/responsive-web-design">Web Design &#x26; Development</a> <em>('16, '18, '20-'21)</em></p></figcaption></figure></div>
 
-<h4 align="center">Internet Registry</h4>
+<h4 align="right">Internet Registry</h4>
 
-<div align="center"><figure><img src="https://art.art/wp-content/themes/art/new/img/logo_DotArt.svg" alt="https://art.art/" width="188"><figcaption><p><a href="https://x.com/Art_Domains/status/1755917791658418315">Praised online by .ART domains</a> <em>('24)</em></p></figcaption></figure></div>
+<div align="right"><figure><img src="https://art.art/wp-content/themes/art/new/img/logo_DotArt.svg" alt="https://art.art/" width="188"><figcaption><p><a href="https://x.com/Art_Domains/status/1755917791658418315">Praised online by .ART domains</a> <em>('24)</em></p></figcaption></figure></div>
 
-<h4 align="center">Artwork Publication</h4>
+#### Artwork Publication
 
-<div align="center"><figure><picture><source srcset="https://raw.githubusercontent.com/manifoldxyz/manifold-brand/refs/heads/main/logo%20with%20text/png/manifold_logo-w-text_white_transparent-bg.png" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/manifoldxyz/manifold-brand/refs/heads/main/logo%20with%20text/png/manifold_logo-w-text_black_transparent-bg.png" alt="" width="188"></picture><figcaption><p><a href="https://forum.manifold.xyz/u/daqhris/summary">Onchain minting of photographs</a> <em>('23)</em></p></figcaption></figure></div>
+<div align="left"><figure><picture><source srcset="https://raw.githubusercontent.com/manifoldxyz/manifold-brand/refs/heads/main/logo%20with%20text/png/manifold_logo-w-text_white_transparent-bg.png" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/manifoldxyz/manifold-brand/refs/heads/main/logo%20with%20text/png/manifold_logo-w-text_black_transparent-bg.png" alt="" width="188"></picture><figcaption><p><a href="https://forum.manifold.xyz/u/daqhris/summary">Onchain minting of photographs</a> <em>('23)</em></p></figcaption></figure></div>
 
 <h4 align="center">Data Preservation</h4>
 
