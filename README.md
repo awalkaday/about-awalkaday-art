@@ -32,11 +32,9 @@ awalkaday 251-2022
 _**Drafting Stage** : The book's content keeps advancing day after day, nearing its final **PDF** destination._
 {% endhint %}
 
-### Synopsis
+<h3 align="center">Synopsis</h3>
 
-This artist's book documents the development and growth of `awalkaday` from its conception in 2017 to its conclusion in 2024. The book's pages are bound with the digital footprints of the photo series, creating a narrative that's as much about the medium as the message. A unique blend of art forms — black-and-white photographs, poetic writings, open-source code, social media posts, and blockchain tokens — shows up on screen, narrated from a third-person omniscient viewpoint, to tell an autobiographical story, visually shaped up by creative nonfiction.\
-\
-Its pages illustrate and trace the history of a photographic odyssey across a range of public spaces and computing platforms. The book is a companion piece to a collection of 263 photographs taken during regular walks in Belgium, Europe. By virtue of the `git` medium, all of the timestamped drafts and laborious years are baked into this open-source and free edition. An online book published to conclude a long-term project by an exiled artist and to pioneer a novel technique of handcrafting a digital artwork.
+<p align="center">This artist's book documents the development and growth of <code>awalkaday</code> from its conception in 2017 to its conclusion in 2024. The book's pages are bound with the digital footprints of the photo series, creating a narrative that's as much about the medium as the message. A unique blend of art forms — black-and-white photographs, poetic writings, open-source code, social media posts, and blockchain tokens — shows up on screen, narrated from a third-person omniscient viewpoint, to tell an autobiographical story, visually shaped up by creative nonfiction.<br><br>Its pages illustrate and trace the history of a photographic odyssey across a range of public spaces and computing platforms. The book is a companion piece to a collection of 263 photographs taken during regular walks in Belgium, Europe. By virtue of the <code>git</code> medium, all of the timestamped drafts and laborious years are baked into this open-source and free edition. An online book published to conclude a long-term project by an exiled artist and to pioneer a novel technique of handcrafting a digital artwork.</p>
 
 <p align="center">◈</p>
 
