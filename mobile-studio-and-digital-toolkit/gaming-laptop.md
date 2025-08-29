@@ -14,9 +14,9 @@ Unfortunately, the gaming computer first mysteriously crashed in the winter of 2
 
 <figure><img src="https://r66m6blkscdslv4l3y5pfdfuxed2ddxqp3uqyiyvyliwemlaotpq.arweave.net/j7zPBWqQhyXXi9468oy0uQehjvB-6QwjFcLRYjFgdN8" alt="awalkaday 32-2022"><figcaption><p>awalkaday 32-2022</p></figcaption></figure>
 
-A second-hand lightweight laptop, made in USA, was bargained out of a gamer friend's hands, with hard-earned cash from a construction job in the spring of 2023. The laptop helped to finish off the cloud-based construction mission from Brussels, post-tokenization of photos on [Ethereum](../evolution-of-a-trek-on-platforms/ethereum.md).&#x20;
+A second-hand lightweight laptop, made in USA, was bargained out of a gamer friend's hands, with hard-earned cash from a construction job in the spring of 2023. The laptop helped the mobile photographer to finish off the cloud-based construction mission from Brussels, post-tokenization of photos on [Ethereum](../evolution-of-a-trek-on-platforms/ethereum.md).&#x20;
 
-The gamer friend had hosted a first birthday party on Belgian soil, gathering `daqhris` and other fresh off the boat friends, when `A WALK≡A DAY` commits and intentions were made public for the first time, from a corner of the party room, in the cold days of [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f#diff-4f167c64a65a03a4e373ec9069f3899d550708ddb9e77a3908246068cde7ac70).
+The gamer friend of African origin had hosted a first birthday party on Belgian soil, gathering `daqhris` and other fresh off the boat friends, when `A WALK≡A DAY` commits and intentions were made public for the first time, from a corner of the party room, in the cold days of [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f#diff-4f167c64a65a03a4e373ec9069f3899d550708ddb9e77a3908246068cde7ac70).
 
 {% embed url="https://arweave.net/8FU-mhjYjLfvf3eWMYiJIx60YeKUbtx7x8Qf2O4bRL0" %}
 awalkaday 328-2017
