@@ -59,7 +59,7 @@ _The project's lines of code first appeared online in_ [_November 2017_](https:/
 ```
 {% endcode %}
 
-_As any reader can see, the `A WALK≡A DAY` visual art project took more than the five years, predicted at the onset, before being completed. The page listing answers to «when, why, how, where, who» questions, named `FAQ | A WALK≡A DAY`, was eventually migrated, away from my personal site at `daqhris.com/awalkaday`, to an independent open-source project. The art project is structured like an organization on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter._
+_As any reader can see, the `A WALK≡A DAY` visual art project took more than the five years, predicted at the onset, before being completed. The page listing answers to «when, why, how, where, who» questions, titled `FAQ | A WALK≡A DAY`, was eventually migrated, away from my personal site at `daqhris.com/awalkaday`, to an independent open-source project. The art project is structured like an organization on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter._
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/7660a21a32aa6c6b539beaf4b20c12c11fa4f148" %}
 
