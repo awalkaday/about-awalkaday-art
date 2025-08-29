@@ -25,7 +25,7 @@ On the torturous path to confining the multilingual man for five, then stretched
 3. his inherited ethnicity associated to his father's four-star ranking military career&#x20;
 4. a snitch call voiced by a friendly countrymate from the dormitory to higher-ups&#x20;
 5. a _crime de lèse-majesté_ due to the embassy's presidential portrait, photographed on the floor&#x20;
-6. chemical traces of an organic drug, found in his pee by the tech hub district's secret police&#x20;
+6. chemical traces of an organic drug, found in his pee by the secret police of the tech hub district&#x20;
 7. odors of a brand of cheap cigarettes, eponymous with Mao's and the complex housing their party
 8. an hours-long _invitation to tea_ in the company of, and paid for by, Chinese state security agents&#x20;
 9. printed letters carried to Beijing, warning of terror from him, stamped by his fatherland's diplomats&#x20;
