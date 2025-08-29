@@ -1,3 +1,23 @@
+---
+description: >-
+  Two spatial stories about the impact of the Belgian-made pixels on Earth and
+  Ethereum
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # APPENDIX
 
 ### Visual Fun Facts
