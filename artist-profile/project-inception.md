@@ -32,7 +32,7 @@ On the torturous path to confining the multilingual man for five, then stretched
 10. his photos in military attire captured while shooting movies about Chinese heroes warring overseas
 11. an overdose of suspicion for bowing to Muslim religion, evidenced by logs of past travels to Egypt&#x20;
 12. a record of raising digital money relieving like-minded _Sindumuja_ protesters in Bujumbura's streets&#x20;
-13. the forceful mid-air rerouting to Uzbekistan of an _Egyptair_ airplane carrying his father to his rescue
+13. the forceful mid-air rerouting to Uzbekistan of an [_Egyptair_ airplane](https://www.theguardian.com/world/2016/jun/08/hoax-bomb-threat-egyptair-emergency-landing-uzbekistan) carrying his father to his rescue
 14. the shutdown of motorized traffic atop the powerful city of the second-in-line terrestrial nation-state&#x20;
 15. etc.&#x20;
 
