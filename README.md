@@ -49,7 +49,7 @@ _**Drafting Stage** : The book's content keeps advancing day after day, nearing 
 <p align="center">◈</p>
 
 {% hint style="info" %}
-Ceci ■ est ■ un  [`Livre d'Artiste`](https://fr.wikipedia.org/wiki/Livre_d'artiste) Sans Papier.
+Ceci ■ est ■ un Livre d'Artiste Sans Papier.
 {% endhint %}
 
 <p align="center"><strong><code>COVER</code></strong></p>
