@@ -60,4 +60,6 @@ He faced recurring unemployment, despite numerous skills, and often burned organ
 awalkaday 184-2021
 {% endembed %}
 
+One question was stuck on top of his mind, all along the photo odyssey on foot, «What if the requests for state-protection did not yield negative answers?» A question to which the Greek & Roman gods of time thought of answering in chronological order: «Fear not the powers that be. Amen.»&#x20;
+
 <p align="center"><strong><code>24</code></strong></p>
