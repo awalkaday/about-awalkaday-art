@@ -8,7 +8,7 @@ The computing device was one of the few items, in addition to engineering textbo
 awalkaday 187-2021
 {% endembed %}
 
-Once upon a snowy day of 2015, enriched by acting in the background of state-produced war movies in the Far East, he allocated a handful of electronic money, pocketed via a social network's wallet, to a Chinese New Year's online sale. The deal's golden feature was the hardware's visual computing horsepower which is graphically attuned to workloads handling imagery, as well as machine-built inside factories tasked with Nvidia's outsourcing.
+Once upon a snowy day of 2015, enriched by acting in the background of state-produced war movies in the Far East, he allocated a handful of electronic money, pocketed via a social network's wallet, to a Chinese New Year's online sale. The deal's golden feature was the hardware's visual computing horsepower which is graphically attuned to workloads handling imagery, as well as machine-built inside factories tasked with [Nvidia](https://www.nvidia.com/en-us/about-nvidia/corporate-timeline/)'s outsourcing.
 
 Unfortunately, the gaming computer first mysteriously crashed in the winter of 2017, but was resurrected the next year, and finally, relapsed four years later, during a malware analysis in the winter of 2022. The nearly decade-old computing device, still alive and undiagnosed in his care, eventually regained basic functionality under [Ubuntu](https://ubuntu.com/desktop)-flavored [`linux`](https://www.redhat.com/en/topics/linux/what-is-linux) software.
 
