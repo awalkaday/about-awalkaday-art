@@ -6,7 +6,7 @@ At the beginning of the travelogue on Western soil, between 2017 and 2018, a [Xi
 awalkaday 4-2018
 {% endembed %}
 
-In early 2021, a smartphone operating under [Android One](https://www.android.com/one/) software system was purchased to meet the need for a dedicated mobile camera that regularly receives secure software updates from an American corporation, Google.
+In early 2021, a smartphone operating under [Android One](https://www.android.com/one/) software system was purchased to meet the need for a dedicated mobile camera that regularly receives secure software updates from an American corporation, [Google](https://about.google/).
 
 The low-cost computing machine, manufactured by a supply chain for a Finnish corporation, bought at a Belgian chain of stores, was equipped with two rear cameras, endowed with a 13-megapixel primary sensor and a 2-megapixel depth sensor.
 
