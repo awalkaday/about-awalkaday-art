@@ -11,10 +11,9 @@
 _Awaits the unfreezing of its Author's Human ID._
 
 **Photos,** **Writings**: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
-**Source Code**: [EUPL 1.2](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt)\
+**Source Code**: [EUPL 1.2](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt)
 
-
-<div align="center" data-full-width="false"><figure><img src=".gitbook/assets/awalkaday-logo-1x1.png" alt="awalkaday-logo-1x1: &#x27;walking human first, sunny cityscape second&#x27;" width="188"><figcaption></figcaption></figure></div>
+<figure><img src="https://raw.githubusercontent.com/awalkaday/awalkaday-art/refs/heads/master/assets/icons/awalkaday-logo-3x2.png" alt="" width="375"><figcaption></figcaption></figure>
 
 <h3 align="right">Copyrights</h3>
 
