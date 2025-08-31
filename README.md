@@ -51,7 +51,7 @@ _**Drafting Stage** : The book's content keeps advancing day after day, nearing 
 <figure><img src="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/awalkaday-logo-2x1.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Ceci ■ est ■ un Livre d'Artiste Sans Papier.
+&#x43;_&#x65;ci ■ est ■ un Livre d'Artiste Sans Papier._
 {% endhint %}
 
 <p align="center"><strong><code>COVER</code></strong></p>
