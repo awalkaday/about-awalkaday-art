@@ -77,6 +77,4 @@ _For an accurate time-stamped record of the book's drafts, or audit of my public
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commits/book/" %}
 
-<figure><img src="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/awalkaday-logo-2x1.png" alt=""><figcaption></figcaption></figure>
-
 <p align="center"><strong><code>FRONT-1</code></strong></p>

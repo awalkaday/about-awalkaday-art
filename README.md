@@ -46,7 +46,7 @@ _**Drafting Stage** : The book's content keeps advancing day after day, nearing 
 
 <p align="center"> <a href="https://github.com/awalkaday/about-awalkaday-art/tree/book"><code>github.com/awalkaday/about-awalkaday-art/tree/book</code></a></p>
 
-<p align="center">◈</p>
+<div align="center"><figure><img src="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/awalkaday-logo-1x1.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Ceci ■ est ■ un Livre d'Artiste Sans Papier.
