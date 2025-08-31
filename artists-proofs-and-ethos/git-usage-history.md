@@ -14,7 +14,7 @@ awalkaday 356-2017
 
 Looking way back, an initial foray into the hub of GIT repositories in May 2011, at the [age of nineteen](https://github.com/daqhris?tab=overview\&from=2011-05-01\&to=2011-06-01) in Bujumbura, Burundi (Africa), seems comparable to planting a seed of innovation in the fertile soil of a burgeoning digital platform.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot-daqhris-GitContributions-Activity-2011.png" alt=""><figcaption><p>Screenshot of his first activity, as a Git user and contributor, time-stamped to <a href="https://github.com/daqhris?from=2011-05-01&#x26;tab=overview&#x26;to=2011-06-01">2011</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot-daqhris-GitContributions-Activity-2011.png" alt="" width="447"><figcaption><p>Screenshot of his first activity, as a Git user and contributor, time-stamped to <a href="https://github.com/daqhris?from=2011-05-01&#x26;tab=overview&#x26;to=2011-06-01">2011</a></p></figcaption></figure>
 
 That seed has since blossomed into a time-stamped odyssey — rooted in cyberspace, erected tall by a slender figure, and grounded on Belgian soil — `awalkaday.art`_._
 
