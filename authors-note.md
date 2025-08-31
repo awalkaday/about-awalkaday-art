@@ -63,9 +63,7 @@ _As any reader can see, the `A WALK≡A DAY` visual art project took more than t
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/7660a21a32aa6c6b539beaf4b20c12c11fa4f148" %}
 
-_The three-bar symbol_ [_`≡`_](https://en.wikipedia.org/wiki/Triple_bar) _, which is synonymous with the two-way street sign_ ↔, _had piqued my interest as an indicator of logical equivalence and the monetary unit of a blockchain currency._
-
-_The `awalkaday` building blocks became once again the focus of my geeky attention and camera lenses from_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4) _onwards, right after receiving a developer certification from web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._
+_The three-bar symbol_ [_`≡`_](https://en.wikipedia.org/wiki/Triple_bar) _, which is synonymous with the two-way street sign_ ↔, _had piqued my interest as an indicator of logical equivalence and the monetary unit of a blockchain currency. The `awalkaday` building blocks became once again the focus of my geeky attention and camera lenses from_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4) _onwards, right after receiving a developer certification from web coding classes taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_._
 
 <figure><img src="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/freeCodeCamp-ResponsiveWebDesign.png" alt=""><figcaption></figcaption></figure>
 
@@ -76,6 +74,8 @@ _This book displays a mix of modified texts from_ [_about.awalkaday.art_](https:
 <figure><img src="https://wsxgsr6e2fq4xoktdz3sqpudk7wusjy5lsip2zdramftcwphlkdq.arweave.net/tK5pR8TRYcu5Ux53KD6DV-1JJx1ckP1kcQMLMVnnWoc" alt=""><figcaption><p>awalkaday 48-2022</p></figcaption></figure>
 
 _Peering into photographs devoid of humans, combing through scattered data trails, cleansing away trauma by crying were the trodden neural pathways when recalling shattered memories during a life review. Traveling back in time and space was made a breeze by the patronage of_ [_Ant Hampton_](https://www.anthampton.com/) _who provided rent-free housing on top of Mount Kemmel, at a flat overlooking the Park of Forest where rose inspiration, for nearly a year and half in Brussels (2023-2025)._&#x20;
+
+<figure><img src="https://7qcx5f3hkbvgk5mz33xc3cpbuxozanrxhfpl7qinekgqyptnkuea.arweave.net/_AV-l2dQamV1md7uLYnhpd2QNjc5Xr_BDSKNDD5tVQg" alt=""><figcaption><p>awalkaday 172-2022</p></figcaption></figure>
 
 _For an accurate time-stamped record of the book's drafts, or audit of my public edits scribbled down in GIT commits, please visit the source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis over a long time window, is available_ [_here_](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency)_._&#x20;
 
