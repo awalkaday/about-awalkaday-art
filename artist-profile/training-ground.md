@@ -2,7 +2,7 @@
 
 During the early years of Instagram, Chris decided to learn photography, without knocking on any teacher's door, in order to kill time by way of practicing in Beijing's streets and clicking on the shutter button of a Canon camera, bought with his student's savings, circa 2012.&#x20;
 
-<figure><img src="https://raw.githubusercontent.com/barryclark/jekyll-now/dad41ce5cc904befdab29c3a9d7f1ca43d46b3ec/images/web-daqhris-photo.jpg" alt="" width="375"><figcaption><p>Past profile photo on <code>daqhris.me</code> (stored on GitHub since <a href="https://github.com/barryclark/jekyll-now/commit/dad41ce5cc904befdab29c3a9d7f1ca43d46">2017</a>)</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/barryclark/jekyll-now/dad41ce5cc904befdab29c3a9d7f1ca43d46b3ec/images/web-daqhris-photo.jpg" alt="" width="375"><figcaption><p>Old profile photo used on <code>daqhris.me</code> (public on GitHub since <a href="https://github.com/barryclark/jekyll-now/commit/dad41ce5cc904befdab29c3a9d7f1ca43d46">2017</a>)</p></figcaption></figure>
 
 From the 2013 speedup of dual immersion — in a Chinese urban culture and an American online network — until the season of his black-and-white portrait at the peak of [Mount Tai](https://en.wikipedia.org/wiki/Mount_Tai) (Spring 2016), he was scientifically studying [computer engineering](https://en.wikipedia.org/wiki/Computer_science_and_engineering) at an elite technical university, located on a road that is memorable as the two-letter Mandarin translation of a school within a university.
 
