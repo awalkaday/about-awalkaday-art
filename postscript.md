@@ -3,7 +3,7 @@ description: >-
   An exhaustive table of 263 photographs with names, date stamps and their token
   IDs
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

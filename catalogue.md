@@ -2,6 +2,20 @@
 description: >-
   Lists accounting for the number of all tokenized photographs, spilt into three
   categories, and arranged by location, year and season
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # CATALOGUE
