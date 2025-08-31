@@ -16,7 +16,7 @@ Looking way back, an initial foray into the hub of GIT repositories in May 2011,
 
 <figure><img src="../.gitbook/assets/Screenshot-daqhris-GitContributions-Activity-2011.png" alt=""><figcaption><p>Screenshot of his first activity, as a Git user and contributor, time-stamped to <a href="https://github.com/daqhris?from=2011-05-01&#x26;tab=overview&#x26;to=2011-06-01">2011</a></p></figcaption></figure>
 
-That seed has since blossomed into a time-stamped odyssey, rooted in cyberspace, erected tall by a slender nomad, and grounded on Belgian soil — `awalkaday.art`_._
+That seed has since blossomed into a time-stamped odyssey — rooted in cyberspace, erected tall by a slender figure, and grounded on Belgian soil — `awalkaday.art`_._
 
 <figure><img src="https://z4vbv73owuna6ent52mzokvk5qzs6c66cxsky65my5grlv5vsj3a.arweave.net/zyoa_261Gg8Rs-6Zlyqq7DMvC94V5Kx7rMdNFde1knY" alt="awalkaday 66-2022"><figcaption><p>awalkaday 66-2022</p></figcaption></figure>
 
