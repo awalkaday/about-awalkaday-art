@@ -60,6 +60,8 @@ He faced recurring unemployment, despite numerous skills, and often burned organ
 awalkaday 184-2021
 {% endembed %}
 
-One question was stuck in his mind, all along the photo odyssey on foot, _«What if all the refuge-seeking walks to request state protection did not yield negative-sounding by-products?»_ A question to which the Greco-Roman God of Time always thought of answering in chronological order: _«Fear not the powers that be. Time will tell.»_, just after the Catholic Church's God whispered to his inner ear: _«Amen, Chris.»_&#x20;
+One question always strolled in his brain, all along the photo odyssey on foot, _«What if all the refuge-seeking walks to request state protection will not yield negative-sounding by-products?»_ A question to which the Greco-Roman God of Time would think of answering in chronological order: _«Fear not the powers that be. Time will tell.»_, just after the Catholic Church's God whispered to his inner ear: _«Amen, Chris.»_&#x20;
+
+
 
 <p align="center"><strong><code>24</code></strong></p>
