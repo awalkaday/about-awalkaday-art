@@ -10,7 +10,9 @@ From the 2013 speedup of dual immersion — in a Chinese urban culture and an Am
 awalkaday 4-2022
 {% endembed %}
 
-His artistic style combines traditional photography techniques with digital editing, publishing tools, and computing knowhow. The `awalkaday` photographs are monochrome with a 1:1 aspect ratio, and capture time-bound memories recorded during walks geofenced to a Belgian, and in part, European landscape.
+His artistic style cheaply improves upon old-school photography techniques with the aid of open-sourced computing software, digital playgrounds in public, and dormant engineering knowhow. The `awalkaday` photographs are monochrome with a 1:1 aspect ratio, and capture time-bound memories recorded during walks geofenced to a Belgian, and in part, European landscape.
+
+<figure><img src="https://xfme3cnkqhrv2cypjwb56rxvm3xjp2vaoevjswevtnpewduvzewa.arweave.net/uVhNiaqB410LD02D30b1Zu6X6qBxKplYlZteSw6VySw" alt=""><figcaption><p>awalkaday 89-2022</p></figcaption></figure>
 
 
 
