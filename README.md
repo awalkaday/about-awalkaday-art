@@ -3,7 +3,7 @@ description: >-
   An open-source artist's book tracing the digital footprints of an exiled
   wanderer and his Belgian-made pixels over the course of an eight-year odyssey
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
@@ -46,7 +46,9 @@ _**Drafting Stage** : The book's content keeps advancing day after day, nearing 
 
 <p align="center"> <a href="https://github.com/awalkaday/about-awalkaday-art/tree/book"><code>github.com/awalkaday/about-awalkaday-art/tree/book</code></a></p>
 
-<div align="center"><figure><img src="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/awalkaday-logo-1x1.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<p align="center">◈</p>
+
+<figure><img src="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/awalkaday-logo-2x1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Ceci ■ est ■ un Livre d'Artiste Sans Papier.
