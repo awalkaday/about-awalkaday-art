@@ -73,6 +73,8 @@ _The `awalkaday` building blocks became once again the focus of my geeky attenti
 
 _This book displays a mix of modified texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) — _an online page that is as old as the project's earliest footprints — mingled with poetic writings narrating a «crème de la crème» artwork, then illustrated with evocative `awalkaday` photographs. Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass during a long-lasting march._&#x20;
 
+<figure><img src="https://wsxgsr6e2fq4xoktdz3sqpudk7wusjy5lsip2zdramftcwphlkdq.arweave.net/tK5pR8TRYcu5Ux53KD6DV-1JJx1ckP1kcQMLMVnnWoc" alt=""><figcaption><p>awalkaday 48-2022</p></figcaption></figure>
+
 _Peering into photographs devoid of humans, combing through scattered data trails, cleansing away trauma by crying were the trodden neural pathways when recalling shattered memories during a life review. Traveling back in time and space was made a breeze by the patronage of_ [_Ant Hampton_](https://www.anthampton.com/) _who provided rent-free housing on top of Mount Kemmel, at a flat overlooking the Park of Forest where rose inspiration, for nearly a year and half in Brussels (2023-2025)._&#x20;
 
 _For an accurate time-stamped record of the book's drafts, or audit of my public edits scribbled down in GIT commits, please visit the source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis over a long time window, is available_ [_here_](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency)_._&#x20;
