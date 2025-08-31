@@ -1,10 +1,10 @@
 ---
-description: List of chapters and subchapters in this artist's book
+description: A list of chapters and subchapters showing on which page each one appears
 ---
 
 # READING GUIDE
 
-### Menu of Contents
+## Contents
 
 * AUTHOR'S NOTE                                           → [`FRONT-1`](authors-note.md)
 * READING GUIDE                                           → [`FRONT-2`](reading-guide.md)

@@ -1,6 +1,6 @@
 # Training Ground
 
-During the early years of Instagram, Chris had decided on a whim to learn photography, as a self-taught enthusiast, while practicing in Beijing's streets with his first Canon camera, circa 2012.&#x20;
+During the early years of Instagram, Chris decided to learn photography, without knocking on any teacher's door, in order to kill time by way of practicing in Beijing's streets and clicking on the shutter button of a Canon camera, bought with his student's savings, circa 2012.&#x20;
 
 <figure><img src="https://raw.githubusercontent.com/barryclark/jekyll-now/dad41ce5cc904befdab29c3a9d7f1ca43d46b3ec/images/web-daqhris-photo.jpg" alt="" width="375"><figcaption><p>Past profile photo on <code>daqhris.me</code> (stored on GitHub since <a href="https://github.com/barryclark/jekyll-now/commit/dad41ce5cc904befdab29c3a9d7f1ca43d46">2017</a>)</p></figcaption></figure>
 

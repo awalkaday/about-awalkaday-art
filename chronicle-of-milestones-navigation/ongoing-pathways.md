@@ -4,8 +4,7 @@
 awalkaday 71-2022
 {% endembed %}
 
-The `awalkaday` photo collection evolved since its launch with the guidance of its pathfinder.\
-In parallel with his struggles with multitasking, plus in defiance of menial labor, the artist :
+The `awalkaday` photo collection evolved since its launch with the guidance of its pathfinder. In parallel with his struggles with multitasking, plus in defiance of menial labor, the artist :&#x20;
 
 * captured hundreds of monochrome photographs featuring various locations in Belgium.
 * attracted followers on social media platforms, comprised of acquaintances, supporters and enthusiasts.

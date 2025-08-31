@@ -1,7 +1,7 @@
 ---
 description: >-
-  Two spatial stories about the impact of the Belgian-made pixels on Earth and
-  Ethereum
+  Two extra spatial stories about the impact of the Belgian-made pixels on Earth
+  and Ethereum
 layout:
   width: default
   title:
