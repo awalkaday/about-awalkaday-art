@@ -34,7 +34,7 @@ _**Drafting Stage** : The book's content keeps advancing day after day, nearing 
 
 <h3 align="center">Synopsis</h3>
 
-<p align="center"><strong>This artist's book documents the development and growth of <code>awalkaday</code> from its conception in 2017 to its conclusion in 2024.</strong> The book's pages are bound with the digital footprints of the photo series, creating a narrative that's as much about the medium as the message. A unique blend of art forms — black-and-white photographs, poetic writings, open-source code, social media posts, and blockchain tokens — shows up on screen, narrated from a third-person omniscient viewpoint, to tell an autobiographical story, visually shaped up by creative nonfiction.</p>
+<p align="center"><strong>This artist's book documents the development and growth of <code>awalkaday</code> from its inception in 2017 to its conclusion in 2024.</strong> The book's pages are bound with the digital footprints of the photo series, creating a narrative that's as much about the medium as the message. A unique blend of art forms — black-and-white photographs, poetic writings, open-source code, social media posts, and blockchain tokens — shows up on screen, narrated from a third-person omniscient viewpoint, to tell an autobiographical story, visually shaped up by creative nonfiction.</p>
 
 <p align="center"><strong>Its pages illustrate and trace the history of a photographic odyssey across a range of public spaces and computing platforms.</strong> The book is a companion piece to a collection of 263 photographs taken during regular walks in Belgium, Europe. By virtue of the <code>git</code> medium, all of the timestamped drafts and laborious years are baked into this open-source and free edition. An online book published to conclude a long-term project by an exiled artist and to pioneer a novel technique of handcrafting a digital artwork.</p>
 
@@ -53,5 +53,7 @@ _**Drafting Stage** : The book's content keeps advancing day after day, nearing 
 {% hint style="info" %}
 &#x43;_&#x65;ci ■ est ■ un Livre d'Artiste Sans Papier._
 {% endhint %}
+
+<p align="center"></p>
 
 <p align="center"><strong><code>COVER</code></strong></p>
