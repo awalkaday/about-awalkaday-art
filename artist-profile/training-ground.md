@@ -1,6 +1,6 @@
 # Training Ground
 
-Around the global debut of Instagram's cyber conquest, Chris decided to learn photography, without knocking on any teacher's door, in order to kill time by way of practicing in Beijing's streets and clicking on the shutter button of a Canon camera, bought with his student's savings, circa 2012.&#x20;
+Around the worldwide debut of Instagram's cyber conquest, Chris decided to learn photography, without knocking on any teacher's door, in order to kill time by way of practicing in Beijing's streets and clicking on the shutter button of a Canon camera, bought with his student's savings, circa 2012.&#x20;
 
 <figure><img src="https://raw.githubusercontent.com/barryclark/jekyll-now/dad41ce5cc904befdab29c3a9d7f1ca43d46b3ec/images/web-daqhris-photo.jpg" alt="" width="375"><figcaption><p>Old profile photo used on <code>daqhris.me</code> (public on GitHub since <a href="https://github.com/barryclark/jekyll-now/commit/dad41ce5cc904befdab29c3a9d7f1ca43d46">2017</a>)</p></figcaption></figure>
 

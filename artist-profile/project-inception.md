@@ -1,6 +1,6 @@
 # Project Inception
 
-At the kick-off of the summer of 2017, Chris resided in a Red Cross camp for asylum seekers in Namur, Belgium. To combat prolonged boredom and physical inactivity, an idea sparked in his mind, urging him to combine his skills in black-and-white photography, visual design, and software coding in order to launch an artistic project.
+At the kick-off of summer 2017, Chris had been residing in a Red Cross camp sheltering asylum seekers in Namur, Belgium, for almost ten months from his wintertime birthday there. To combat prolonged boredom and physical inactivity, an idea sparked in his mind, urging him to combine his skills in black-and-white photography, visual design, and software coding in order to launch an artistic project.
 
 {% embed url="https://aqdko2gvdb5swcvmv5fefjh2nvqay2jo25zaraa4e7gzvtmhqvra.arweave.net/BAanaNUYeysKrK9KQqT6bWAMaS7XcgiAHCfNms2HhWI" %}
 awalkaday 344-2017
