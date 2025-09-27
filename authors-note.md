@@ -59,7 +59,7 @@ _The project's lines of code first appeared online in_ [_November 2017_](https:/
 ```
 {% endcode %}
 
-_As any reader can see, the `A WALK≡A DAY` visual art project took more than the five years, predicted at the onset, before being completed. The page listing answers to «when, why, how, where, who» questions, titled `FAQ | A WALK≡A DAY`, was eventually migrated, away from my personal site at `daqhris.com/awalkaday`, to an independent open-source project. The art project is structured like an organization on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter._
+_As any reader can see, the visual art project, originally named  `A WALK≡A DAY` , took more than the five years, predicted at the onset before being completed. The page listing answers to_ “_when, why, how, where, who_” _questions, titled `FAQ | A WALK≡A DAY`, was eventually migrated, away from my personal site at `daqhris.com/awalkaday`, to an independent open-source project. The art project is structured like an organization on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter._
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/7660a21a32aa6c6b539beaf4b20c12c11fa4f148" %}
 
@@ -73,7 +73,7 @@ _This book displays a mix of modified texts from_ [_about.awalkaday.art_](https:
 
 <figure><img src="https://wsxgsr6e2fq4xoktdz3sqpudk7wusjy5lsip2zdramftcwphlkdq.arweave.net/tK5pR8TRYcu5Ux53KD6DV-1JJx1ckP1kcQMLMVnnWoc" alt=""><figcaption><p>awalkaday 48-2022</p></figcaption></figure>
 
-_Peering into photographs devoid of humans, combing through scattered data trails, cleansing away trauma by crying were the trodden neural pathways when recalling shattered memories during a life review. Traveling back in time and space was made a breeze by the patronage of_ [_Ant Hampton_](https://www.anthampton.com/) _who provided rent-free housing on top of Mount Kemmel, at a flat overlooking the Park of Forest where rose inspiration, for nearly a year and half in Brussels (2023-2025)._&#x20;
+_Peering into photographs devoid of humans, combing through scattered data trails, cleansing away trauma by crying were the trodden neural pathways when recalling shattered memories during a life review. Traveling back in spacetime against my brain's comfort was made a breeze by the patronage of_ [_Ant Hampton_](https://www.anthampton.com/) _who provided rent-free housing on top of Mount Kemmel, at a flat overlooking the Park of Forest where rose up inspiration, for nearly a year and half in Brussels (2023-2025)._&#x20;
 
 <figure><img src="https://7qcx5f3hkbvgk5mz33xc3cpbuxozanrxhfpl7qinekgqyptnkuea.arweave.net/_AV-l2dQamV1md7uLYnhpd2QNjc5Xr_BDSKNDD5tVQg" alt=""><figcaption><p>awalkaday 172-2022</p></figcaption></figure>
 
