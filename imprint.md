@@ -7,8 +7,8 @@
 &#xNAN;_&#x42;y an Undocumented Artist on the Land of Surrealism._
 
 **ISBN**: [▬▬▬ ▬ ▬▬ ▬▬▬▬▬▬ ▬](https://en.wikipedia.org/wiki/ISBN) \
-&#xNAN;_&#x54;his Book's ID is absent from the_ [_Royal Library_](https://en.wikipedia.org/wiki/Royal_Library_of_Belgium)_,_\
-_Awaits the unfreezing of its Author's Human ID._
+&#xNAN;_&#x54;he ID of this book is absent from the_ [_Royal Library_](https://en.wikipedia.org/wiki/Royal_Library_of_Belgium)_,_\
+_It awaits the reactivation of its Author's Human ID._
 
 **Photos,** **Writings**: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
 **Source Code**: [EUPL 1.2](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt)
@@ -17,9 +17,9 @@ _Awaits the unfreezing of its Author's Human ID._
 
 <h3 align="right">Copyrights</h3>
 
-<p align="right">Author, <br>Photographer, <br> Designer, Engineer, <br> Writer, Editor &#x26; Publisher: <br><strong>©</strong> <a href="https://daqhris.com/"><strong>Chris-Armel Iradukunda</strong></a> ↔ <a href="https://github.com/daqhris"><strong>daqhris</strong></a></p>
+<p align="right">Author, <br>Photographer, <br> Designer, Producer, <br> Writer, Editor &#x26; Publisher: <br><strong>©</strong> <a href="https://daqhris.com/"><strong>Chris-Armel Iradukunda</strong></a> ↔ <a href="https://github.com/daqhris"><strong>daqhris</strong></a></p>
 
-<p align="right">Online publication of the first draft: <a href="https://github.com/awalkaday/about-awalkaday-art/compare/about...book">July <strong>2024</strong></a><br>Latest GIT changes of book content: <a href="https://github.com/awalkaday/about-awalkaday-art/commits/book/">September <strong>2025</strong></a><br>Open-sourced by <code>gitbook-bot</code> on behalf of <code>daqhris</code> </p>
+<p align="right">Online publication of the first draft: <a href="https://github.com/awalkaday/about-awalkaday-art/compare/about...book">July <strong>2024</strong></a><br>Last changes of book content: <a href="https://github.com/awalkaday/about-awalkaday-art/commits/book/">October <strong>2025</strong></a><br>Open-sourced by <code>gitbook-bot</code> with <code>daqhris</code> </p>
 
 {% hint style="warning" %}
 There is no print, e-book, PDF or tokenized version available yet. No part of this online book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any other information storage and retrieval system, for commercial purposes, without the prior permission and consent in writing of the publisher.
@@ -87,11 +87,11 @@ _A token of gratitude goes to:_&#x20;
 
 <div align="left"><figure><img src="https://soundimageculture.org/wp-content/uploads/2023/05/sic_logo_white_circle_text_vec.svg" alt="https://soundimageculture.org/" width="188"><figcaption><p>Observer: <a href="https://soundimageculture.org/laboratory/#sic-regular-text-block_cd5d0fa1e38b295170f402ac3a73b7d6">SIC Collective Sessions</a> <em>('23-'24)</em></p></figcaption></figure></div>
 
-<h4 align="right">Asylum Investigators</h4>
+<h4 align="right">Political Asylum Officers</h4>
 
 <div align="right"><figure><img src="https://www.cgra.be/sites/default/files/logo_cgvs-cgra.png" alt="" width="188"><figcaption><p>Queries by <a href="https://www.cgrs.be/en">Belgian Federal Agents</a> <em>('17, '18, '19)</em></p></figcaption></figure></div>
 
-<div align="right"><figure><img src="https://www.rvv-cce.be/sites/default/files/wlogo-fr.png" alt="" width="188"><figcaption><p>Public Hearings by <a href="https://www.rvv-cce.be/fr">Judge R.</a> <em>('18, '19)</em></p></figcaption></figure></div>
+<div align="right"><figure><img src="https://www.rvv-cce.be/sites/default/files/wlogo-fr.png" alt="" width="188"><figcaption><p>Hearings of Appeals by <a href="https://www.rvv-cce.be/fr">Judge R.V.</a> <em>('18, '19)</em></p></figcaption></figure></div>
 
 <h4 align="center">Terrestrial Land Ruler</h4>
 
