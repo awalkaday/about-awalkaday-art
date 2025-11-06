@@ -14,7 +14,7 @@ The gallery prioritizes a smooth and random order of display for each visit, all
 
 <figure><img src="https://raw.githubusercontent.com/awalkaday/awalkaday-art/master/assets/icons/awalkaday_art-web_overview.png" alt="Screenshot of the web gallery at awalkaday.art" width="563"><figcaption></figcaption></figure>
 
-A 3D exhibition hall, constructed since the spring of 2023, welcomes all digital visitors at [oncyber.io/awalkaday.art](https://oncyber.io/awalkaday.art). The virtual exhibition, which caught the attention of silicon-based reality promoters in the spring of 2024, remains open to this day.
+A 3D exhibition hall, constructed since springtime of 2023, welcomes all digital visitors at [oncyber.io/awalkaday.art](https://oncyber.io/awalkaday.art). The virtual exhibition, which caught the attention of silicon-based reality promoters at launch in the spring of 2024, remains open to this day.
 
 {% embed url="https://oncyber.io/awalkaday.art" %}
 Enter the virtual exhibition space inside an environment that simulates a lifelike display of 24 photographs

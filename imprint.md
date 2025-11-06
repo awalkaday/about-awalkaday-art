@@ -51,52 +51,52 @@ _A token of gratitude goes to:_&#x20;
 
 #### Online Book Publishing
 
-<div align="left"><figure><picture><source srcset=".gitbook/assets/GitBook - Light Logo.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/GitBook - Dark Logo.jpg" alt="" width="151"></picture><figcaption><p><a href="https://www.g2.com/products/gitbook/reviews/gitbook-review-9962377">Business Plan for Open-Source</a></p></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><picture><source srcset=".gitbook/assets/GitBook - Light Logo.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/GitBook - Dark Logo.jpg" alt="" width="151"></picture><figcaption><p><a href="https://www.g2.com/products/gitbook/reviews/gitbook-review-9962377">Business Plan for Open-Source</a></p></figcaption></figure></div>
 
 <h4 align="right">Source Code Hosting</h4>
 
-<div align="right"><figure><picture><source srcset=".gitbook/assets/GitHub_Lockup_Light.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/GitHub_Lockup_Dark.png" alt="" width="188"></picture><figcaption><p><a href="https://github.com/awalkaday">Open-Source Organization account</a></p></figcaption></figure></div>
+<div align="right" data-with-frame="true"><figure><picture><source srcset=".gitbook/assets/GitHub_Lockup_Light.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/GitHub_Lockup_Dark.png" alt="" width="188"></picture><figcaption><p><a href="https://github.com/awalkaday">Open-Source Organization account</a></p></figcaption></figure></div>
 
 #### Coding School
 
-<div align="left"><figure><picture><source srcset=".gitbook/assets/freecodecamp_logo (1).png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/freecodecamp_alternative_logo.png" alt="" width="188"></picture><figcaption><p><a href="https://www.freecodecamp.org/certification/daqhris/responsive-web-design">Web Design &#x26; Development</a> <em>('16, '18, '20-'21)</em></p></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><picture><source srcset=".gitbook/assets/freecodecamp_logo (1).png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/freecodecamp_alternative_logo.png" alt="" width="188"></picture><figcaption><p><a href="https://www.freecodecamp.org/certification/daqhris/responsive-web-design">Web Design &#x26; Development</a> <em>('16, '18, '20-'21)</em></p></figcaption></figure></div>
 
 <h4 align="right">Internet Registry</h4>
 
-<div align="right"><figure><img src="https://art.art/wp-content/themes/art/new/img/logo_DotArt.svg" alt="https://art.art/" width="188"><figcaption><p><a href="https://x.com/Art_Domains/status/1755917791658418315">Praised online by .ART domains</a> <em>('24)</em></p></figcaption></figure></div>
+<div align="right" data-with-frame="true"><figure><img src="https://art.art/wp-content/themes/art/new/img/logo_DotArt.svg" alt="https://art.art/" width="188"><figcaption><p><a href="https://x.com/Art_Domains/status/1755917791658418315">Praised online by .ART domains</a> <em>('24)</em></p></figcaption></figure></div>
 
 #### Artwork Publication
 
-<div align="left"><figure><picture><source srcset="https://raw.githubusercontent.com/manifoldxyz/manifold-brand/refs/heads/main/logo%20with%20text/png/manifold_logo-w-text_white_transparent-bg.png" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/manifoldxyz/manifold-brand/refs/heads/main/logo%20with%20text/png/manifold_logo-w-text_black_transparent-bg.png" alt="" width="188"></picture><figcaption><p><a href="https://forum.manifold.xyz/u/daqhris/summary">Onchain minting of photographs</a> <em>('23)</em></p></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><picture><source srcset="https://raw.githubusercontent.com/manifoldxyz/manifold-brand/refs/heads/main/logo%20with%20text/png/manifold_logo-w-text_white_transparent-bg.png" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/manifoldxyz/manifold-brand/refs/heads/main/logo%20with%20text/png/manifold_logo-w-text_black_transparent-bg.png" alt="" width="188"></picture><figcaption><p><a href="https://forum.manifold.xyz/u/daqhris/summary">Onchain minting of photographs</a> <em>('23)</em></p></figcaption></figure></div>
 
 <h4 align="right">Data Preservation</h4>
 
-<div align="right"><figure><picture><source srcset=".gitbook/assets/dark@2x.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/light@2x.png" alt="" width="158"></picture><figcaption><p><a href="https://www.arweave.org/use/">Permanent storage of photos</a> <em>('23)</em></p></figcaption></figure></div>
+<div align="right" data-with-frame="true"><figure><picture><source srcset=".gitbook/assets/dark@2x.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/light@2x.png" alt="" width="158"></picture><figcaption><p><a href="https://www.arweave.org/use/">Permanent storage of photos</a> <em>('23)</em></p></figcaption></figure></div>
 
 #### Blockchain Network
 
-<div align="left"><figure><img src="https://ethereum.org/_next/static/media/ethereum-logo-landscape-purple.2c091489.png" alt="https://ethereum.org/en/" width="188"><figcaption><p><a href="https://etherscan.io/token/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1">263 photos minted as WALK tokens</a> <em>('23)</em></p></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="https://ethereum.org/_next/static/media/ethereum-logo-landscape-purple.2c091489.png" alt="https://ethereum.org/en/" width="188"><figcaption><p><a href="https://etherscan.io/token/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1">263 photos minted as WALK tokens</a> <em>('23)</em></p></figcaption></figure></div>
 
 <h4 align="right">Brussels Public Library</h4>
 
-<div align="right"><figure><picture><source srcset=".gitbook/assets/MPS_Muntpunt_2022_White_RGB98.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/MPS_Muntpunt_2022_Black_RGB98.png" alt="https://muntpunt.be/" width="150"></picture><figcaption><p><a href="https://x.com/search?q=from%3A%40awalkadayart%20%40muntpunt&#x26;src=typed_query&#x26;f=top">Inspired by photo &#x26; art books</a> <em>('22-'24)</em></p></figcaption></figure></div>
+<div align="right" data-with-frame="true"><figure><picture><source srcset=".gitbook/assets/MPS_Muntpunt_2022_White_RGB98.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/MPS_Muntpunt_2022_Black_RGB98.png" alt="https://muntpunt.be/" width="150"></picture><figcaption><p><a href="https://x.com/search?q=from%3A%40awalkadayart%20%40muntpunt&#x26;src=typed_query&#x26;f=top">Inspired by photo &#x26; art books</a> <em>('22-'24)</em></p></figcaption></figure></div>
 
 <div align="center"><figure><img src="https://456r5hpaktnuia4rvgd23ue2gnci6iy5cshax7565emfz3wj4eua.arweave.net/530eneBU20QDkamHrdCaM0SPIx0Ujgv_vukYXO7J4Sg" alt="" width="375"><figcaption><p><code>awalkaday 105-2022</code> portrays <a href="https://muntpunt.be/over-muntpunt">Muntpunt</a></p></figcaption></figure></div>
 
 #### Storytelling Training
 
-<div align="left"><figure><img src="https://soundimageculture.org/wp-content/uploads/2023/05/sic_logo_white_circle_text_vec.svg" alt="https://soundimageculture.org/" width="188"><figcaption><p>Observer: <a href="https://soundimageculture.org/laboratory/#sic-regular-text-block_cd5d0fa1e38b295170f402ac3a73b7d6">SIC Collective Sessions</a> <em>('23-'24)</em></p></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="https://soundimageculture.org/wp-content/uploads/2023/05/sic_logo_white_circle_text_vec.svg" alt="https://soundimageculture.org/" width="188"><figcaption><p>Observer: <a href="https://soundimageculture.org/laboratory/#sic-regular-text-block_cd5d0fa1e38b295170f402ac3a73b7d6">SIC Collective Sessions</a> <em>('23-'24)</em></p></figcaption></figure></div>
 
-<h4 align="right">Political Asylum Officers</h4>
+<h4 align="right">Political Asylum O<strong>verseers</strong></h4>
 
-<div align="right"><figure><img src="https://www.cgra.be/sites/default/files/logo_cgvs-cgra.png" alt="" width="188"><figcaption><p>Queries by <a href="https://www.cgrs.be/en">Belgian Federal Agents</a> <em>('17, '18, '19)</em></p></figcaption></figure></div>
+<div align="right" data-with-frame="true"><figure><img src="https://www.cgra.be/sites/default/files/logo_cgvs-cgra.png" alt="" width="188"><figcaption><p>Queries by <a href="https://www.cgrs.be/en">Belgian Federal Agents</a> <em>('17/'18/'19)</em></p></figcaption></figure></div>
 
-<div align="right"><figure><img src="https://www.rvv-cce.be/sites/default/files/wlogo-fr.png" alt="" width="188"><figcaption><p>Hearings of Appeals by <a href="https://www.rvv-cce.be/fr">Judge R.V.</a> <em>('18, '19)</em></p></figcaption></figure></div>
+<div align="right" data-with-frame="true"><figure><img src="https://www.rvv-cce.be/sites/default/files/wlogo-fr.png" alt="" width="188"><figcaption><p>Appeals to the court of <a href="https://www.rvv-cce.be/fr">Judge R.V.</a> <em>('18/'19)</em></p></figcaption></figure></div>
 
 <h4 align="center">Terrestrial Land Ruler</h4>
 
-<div align="center"><figure><img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Coat_of_Arms_of_the_King_of_the_Belgians.svg" alt="" width="188"><figcaption><p>His Majesty <a href="https://www.monarchie.be/en/royal-family/the-king">King Philippe</a> of the Belgians </p></figcaption></figure></div>
+<div align="center" data-with-frame="true"><figure><img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Coat_of_Arms_of_the_King_of_the_Belgians.svg" alt="" width="188"><figcaption><p>His Majesty <a href="https://www.monarchie.be/en/royal-family/the-king">King Philippe</a> of the Belgians </p></figcaption></figure></div>
 
-&#x20;
+<p align="center"> </p>
 
 <p align="center"><strong><code>ANNEX-1</code></strong></p>

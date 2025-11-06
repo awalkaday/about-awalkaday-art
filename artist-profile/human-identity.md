@@ -8,7 +8,7 @@
 
 Born in 1992 with a metallic spoon in his mouth on East African soil, Chris was educated in his teenage years at a state-funded public school, and another one backed by a Jesuit institution on the territory of Bujumbura, Burundi. The two public schools were religiously named after the morning star in Latin, and the holy spirit in French.
 
-<figure><img src="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/daqhris-qrcode2.png" alt=""><figcaption><p>This QR code is a portal to an <a href="https://daqhris.com/about">online CV</a></p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/daqhris-qrcode2.png" alt=""><figcaption><p>This QR code is a portal to an <a href="https://daqhris.com/about">online CV</a></p></figcaption></figure></div>
 
 <p align="center"></p>
 

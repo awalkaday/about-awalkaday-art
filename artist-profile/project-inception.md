@@ -36,7 +36,7 @@ On the torturous path to confining the multilingual man for five, then stretched
 14. the shutdown of motorized traffic atop the powerful city of the second-in-line terrestrial nation-state&#x20;
 15. etc.&#x20;
 
-<figure><img src="https://sd55vpc7xirkafqt6l42hrsiafn5kqkvdbliclrpomelxemu5opa.arweave.net/kPvavF-6IqAWE_L5o8ZIAVvVQVUYVoEuL3MIu5GU654" alt="awalkaday 59-2022"><figcaption><p>awalkaday 59-2022</p></figcaption></figure>
+<figure><img src="https://sd55vpc7xirkafqt6l42hrsiafn5kqkvdbliclrpomelxemu5opa.arweave.net/kPvavF-6IqAWE_L5o8ZIAVvVQVUYVoEuL3MIu5GU654" alt="awalkaday 59-2022"><figcaption><p><strong>awalkaday 59-2022</strong></p></figcaption></figure>
 
 _In absentia_ of photographic evidence of the surreal story — made in and imported from China — a portion of those ingredients ended up being recycled against him in Belgian legal asylum proceedings (2017-2018).&#x20;
 
@@ -62,7 +62,7 @@ He faced recurring unemployment, despite numerous skills, and often burned organ
 
 One question always strolled in his head, all along the photo odyssey on his feet, _«What if all the nationwide walks in the midst of seeking state protection will not yield negative-sounding by-products?»_&#x20;
 
-A question to which the Greco-Roman God of Time thought of answering in chronological order: _«Fear not the powers that be. Time will tell.»;_ soon after the Catholic Church's God whispered to his inner ear one Hebrew loanword naturalized as Greek and then Latin: _«Amen.»_&#x20;
+A question to which the Greco-Roman God of Time thought of answering in chronological order: _«Fear not the powers that be. Time will tell.»;_ just after the Catholic Church's God whispered to his inner ear one word, a Hebrew loanword naturalized as Greek and later as Latin: _«Amen.»_&#x20;
 
 
 
