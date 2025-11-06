@@ -13,7 +13,9 @@
 {% endcontent-ref %}
 
 {% embed url="https://xkvvewkoca4dqnjxmcm43heqtbd7l3dppc66mj2cbq7bev52m47q.arweave.net/uqtSWU4QODg1N2CZzZyQmEf17G94veYnQgw-Ele6Zz8" %}
-awalkaday 23-2022
+**awalkaday 23-2022**
 {% endembed %}
+
+<p align="center"></p>
 
 <p align="center"><strong><code>3</code></strong></p>

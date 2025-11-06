@@ -45,7 +45,9 @@ description: A list of chapters and subchapters showing on which page each one a
 * POSTSCRIPT                                              → [`BACK-2`](postscript.md)&#x20;
 
 {% embed url="https://7n5x6ki3xr2zlkzlhcpukbprymt3dhxl2kju2haif2y3xqajshpa.arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" %}
-awalkaday 129-2022
+**awalkaday 129-2022**
 {% endembed %}
+
+<p align="center"></p>
 
 <p align="center"><strong><code>FRONT-2</code></strong></p>

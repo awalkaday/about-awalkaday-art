@@ -23,7 +23,7 @@ layout:
 <table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><a href="authors-note.md">AUTHOR'S NOTE</a></td></tr><tr><td align="center"><a href="reading-guide.md">READING GUIDE</a></td></tr></tbody></table>
 
 {% embed url="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" %}
-awalkaday 251-2022
+**awalkaday 251-2022**
 {% endembed %}
 
 <table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="imprint.md">IMPRINT</a></td><td><a href="imprint.md">imprint.md</a></td></tr><tr><td align="center"><a href="appendix.md">APPENDIX</a></td><td><a href="appendix.md">appendix.md</a></td></tr></tbody></table>

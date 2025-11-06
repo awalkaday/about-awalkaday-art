@@ -7,7 +7,7 @@ description: Disclosures and essential information written in the first person.
 _This artistic project was born in my spare time, developed independently in the open, and evolved at the pace of a_ [_turtle_](https://en.m.wikipedia.org/wiki/Cultural_depictions_of_turtles)_. Countless public drafts and serene long walks have shaped it into its present state, akin to a therapeutic exercise._
 
 {% embed url="https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-gdEnlGmI" %}
-awalkaday 219-2022
+**awalkaday 219-2022**
 {% endembed %}
 
 _The project's lines of code first appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_, four months after the summer debut of walking and photographing. From the beginning, the creative process was intuitively, leisurely, or swiftly, occurring from time to time, offline or online. Until the process was retrospectively terminated, with an emphasis on narrative writing, visual storytelling, book formatting, and digital timestamps._
@@ -71,11 +71,11 @@ _The three-bar symbol_ [_`≡`_](https://en.wikipedia.org/wiki/Triple_bar) _, wh
 
 _This book displays a mix of modified texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) — _an online page that is as old as the project's earliest footprints — mingled with poetic writings narrating a «crème de la crème» artwork, then illustrated with evocative `awalkaday` photographs. Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass during a long-lasting march._&#x20;
 
-<figure><img src="https://wsxgsr6e2fq4xoktdz3sqpudk7wusjy5lsip2zdramftcwphlkdq.arweave.net/tK5pR8TRYcu5Ux53KD6DV-1JJx1ckP1kcQMLMVnnWoc" alt=""><figcaption><p>awalkaday 48-2022</p></figcaption></figure>
+<figure><img src="https://wsxgsr6e2fq4xoktdz3sqpudk7wusjy5lsip2zdramftcwphlkdq.arweave.net/tK5pR8TRYcu5Ux53KD6DV-1JJx1ckP1kcQMLMVnnWoc" alt=""><figcaption><p><strong>awalkaday 48-2022</strong></p></figcaption></figure>
 
 _Peering into photographs devoid of humans, combing through scattered data trails, cleansing away trauma by crying were the trodden neural pathways when recalling shattered memories during a lifetime review. Traveling back in spacetime against my brain's comfort was made a breeze by the patronage of_ [_Ant Hampton_](https://www.anthampton.com/) _who provided rent-free housing on top of Mount Kemmel, at a flat overlooking the Park of Forest where rose up inspiration, for nearly a year and half in Brussels (2023-2025)._&#x20;
 
-<figure><img src="https://7qcx5f3hkbvgk5mz33xc3cpbuxozanrxhfpl7qinekgqyptnkuea.arweave.net/_AV-l2dQamV1md7uLYnhpd2QNjc5Xr_BDSKNDD5tVQg" alt=""><figcaption><p>awalkaday 172-2022</p></figcaption></figure>
+<figure><img src="https://7qcx5f3hkbvgk5mz33xc3cpbuxozanrxhfpl7qinekgqyptnkuea.arweave.net/_AV-l2dQamV1md7uLYnhpd2QNjc5Xr_BDSKNDD5tVQg" alt=""><figcaption><p><strong>awalkaday 172-2022</strong></p></figcaption></figure>
 
 _For an accurate time-stamped record of the book's drafts, or audit of my public edits scribbled down in GIT commits, please visit the source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis over a long time window, is available_ [_here_](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency)_._&#x20;
 

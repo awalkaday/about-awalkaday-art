@@ -1,7 +1,7 @@
 # Parallel Pathways
 
 {% embed url="https://arweave.net/g_a3kCxXvhagS4B62-glUh3IsomrXyXujClsWZKP1rI" %}
-awalkaday 71-2022
+**awalkaday 71-2022**
 {% endembed %}
 
 The `awalkaday` photo collection evolved since its launch with the guidance of its pathfinder. In parallel with his struggles with multitasking, plus in defiance of under-the-table menial labor, the artist :&#x20;

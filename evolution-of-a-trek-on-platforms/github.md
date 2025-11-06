@@ -8,7 +8,7 @@ description: Since November 2017
 
 The underlying codebase supporting at least three pillars of the `awalkaday` series of photos — gallery, book, shop — is hosted and runs on GitHub, where every single committed modification can be tracked, retraced, or audited.
 
-<figure><img src="https://g45uizvtj4rxqie5bobsz5pzcimp7je3gdnj6tz7634zyi6oubzq.arweave.net/NztEZrNPI3ggnQuDLPX5Ehj_pJsw2p9PP_b5nCPOoHM" alt="awalkaday 353.5-2017"><figcaption><p>awalkaday 353.5-2017</p></figcaption></figure>
+<figure><img src="https://g45uizvtj4rxqie5bobsz5pzcimp7je3gdnj6tz7634zyi6oubzq.arweave.net/NztEZrNPI3ggnQuDLPX5Ehj_pJsw2p9PP_b5nCPOoHM" alt="awalkaday 353.5-2017"><figcaption><p><strong>awalkaday 353.5-2017</strong></p></figcaption></figure>
 
 The public code repositories, available in `git` format, contain all commits attached to a digital signature and code changes from the beginning at [github.com/awalkaday](https://github.com/awalkaday).&#x20;
 
@@ -27,5 +27,7 @@ A domino effect, kicked off by a series of French-written law-abiding decisions,
 {% embed url="https://www.instagram.com/walk.day/p/C8casQwtnMP/" %}
 A graph visualizing a years-long coding process, representing the duration of work on the public code repositories.
 {% endembed %}
+
+<p align="center"></p>
 
 <p align="center"><strong><code>13</code></strong></p>
