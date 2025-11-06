@@ -20,6 +20,6 @@
 [ethereum.md](ethereum.md)
 {% endcontent-ref %}
 
-<div data-with-frame="true"><figure><img src="https://i4ctj3fmalpaczcuwj2xhq7jx4kg7ktaxybmjkynlkbpcscz53jq.arweave.net/RwU07KwC3gFkVLJ1c8PpvxRvqmC-AsSrDVqC8UhZ7tM" alt="awalkaday 25-2022"><figcaption><p>awalkaday 25-2022</p></figcaption></figure></div>
+<figure><img src="https://i4ctj3fmalpaczcuwj2xhq7jx4kg7ktaxybmjkynlkbpcscz53jq.arweave.net/RwU07KwC3gFkVLJ1c8PpvxRvqmC-AsSrDVqC8UhZ7tM" alt="awalkaday 25-2022"><figcaption><p><strong>awalkaday 25-2022</strong></p></figcaption></figure>
 
 <p align="center"><strong><code>11</code></strong></p>
