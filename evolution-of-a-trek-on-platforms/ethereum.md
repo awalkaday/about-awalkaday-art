@@ -11,10 +11,9 @@ Blessed by the angelic support of a cryptocurrency wallet, configured for action
 {% embed url="https://eth.blockscout.com/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b" %}
 
 {% embed url="https://arweave.net/YUAAmDamuHChXj-NssLZxiYHsesYNUlQjazoh3I-4ZQ" %}
-awalkaday 78-2022
+**awalkaday 78-2022**
 {% endembed %}
 
-\
 [Ethereum](https://ethereum.org/) is a decentralized blockchain platform that allows developers to create and deploy self-executing code in the form of smart contracts and applications. The artworks were wrapped in the `awalkaday.art` smart contract and self-published where they can be verified, collected and exchanged. The smart contract address is [`0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1`](https://etherscan.io/address/0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1).
 
 The monochromatic snapshots were assembled, named, and minted during a wintertime stay, as a homeless person at the ironically-named [Palais des Droits](https://archive.is/2JkUB), a state-owned financial building which had been converted into a squalid squat. He publicly safeguarded them on a financial network of computers on [Valentine's Day](https://etherscan.io/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b) in 2023, fortunately one day before a [scheduled eviction](https://www.lalibre.be/belgique/societe/2023/02/09/schaerbeek-le-palais-des-droits-sera-vide-pour-le-15-fevrier-J4FJQRA6UBGYNA2I4KKPDM27LA/) from the infamous shelter in Schaerbeek.
@@ -30,7 +29,7 @@ After landing on a blockchain terrain in a batch series, each photo began to car
 The name is a string of words and numbers that begins with the artistic theme `awalkaday`, then ends with a computer-calculated [day of the year](https://asd.gsfc.nasa.gov/Craig.Markwardt/doy2025.html), linked by a hyphen to the year of when the photo was first dropped online without a parachute, and crossed the radar of [cyberwarfare forces](https://en.m.wikipedia.org/wiki/List_of_cyber_warfare_forces) without a travel visa.
 
 {% embed url="https://arweave.net/QuZy3p6WDONJOwwHuqP9VyMCgTqMOJjm-m6fDVE-86Q" %}
-awalkaday 3-2022
+**awalkaday 3-2022**
 {% endembed %}
 
 <p align="center"></p>

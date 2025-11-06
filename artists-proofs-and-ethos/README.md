@@ -13,7 +13,9 @@
 {% endcontent-ref %}
 
 {% embed url="https://zuz66mvkvsc3w6pc6jg5qlmrjgbyctr4ndyi2elmgo3fuke5nnkq.arweave.net/zTPvMqqshbt54vJN2C2RSYOBTjxo8I0RbDO2Wiida1U" %}
-awalkaday 178-2021
+**awalkaday 178-2021**
 {% endembed %}
+
+<p align="center"></p>
 
 <p align="center"><strong><code>17</code></strong></p>

@@ -24,7 +24,7 @@ layout:
 
 The photograph on the [cover](./), `awalkaday 251-2022`, was shot, edited and published online prior to the installation of a sculpture on the same site inside a public park in Namur (Wallonia, Belgium).
 
-<figure><img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="" width="188"><figcaption><p>awalkaday 251-2022</p></figcaption></figure>
+<figure><img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="" width="188"><figcaption><p><strong>awalkaday 251-2022</strong></p></figcaption></figure>
 
 This black-and-white photo captured a fleeting moment in time before a renowned sculpture was moved to its current and permanent location. It preserves for ages a romantic outdoor scene: a couple of people sitting in the open air on the grass under a glowing tree.
 
@@ -45,5 +45,7 @@ Four [ENS domains](https://ens.domains/), owned by [`daqhris.eth`](https://app.e
 <div><figure><img src=".gitbook/assets/meuse.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85:97365202193083432748976546813491271006919194810609036242907411146017330782368?address=0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82"><strong>meuse</strong>.eth</a></p></figcaption></figure> <figure><img src=".gitbook/assets/sambre.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85:98656978081170204584090953328403136752112004695015963955947111110569277154361"><strong>sambre</strong>.eth</a></p></figcaption></figure></div>
 
 <div><figure><img src=".gitbook/assets/bastogne.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85:47981481869610083995936073997732283750222809913612277762499411613608388596160"><strong>bastogne</strong>.eth</a></p></figcaption></figure> <figure><img src=".gitbook/assets/schaerbeek.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0xd4416b13d2b3a9abae7acd5d6c2bbdbe25686401:22609889999588536487736404583550363407381519385506395789547348851782388298946?address=0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82"><strong>schaerbeek</strong>.eth</a></p></figcaption></figure></div>
+
+<p align="center"></p>
 
 <p align="center"><strong><code>BACK-1</code></strong></p>

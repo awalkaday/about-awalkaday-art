@@ -3,7 +3,7 @@
 At the kick-off of summer 2017, Chris had been residing in a Red Cross camp sheltering asylum seekers in Namur, Belgium, for almost ten months from his wintertime birthday there. To combat prolonged boredom and physical inactivity, an idea sparked in his mind, urging him to combine his skills in black-and-white photography, visual design, and software coding in order to launch an artistic project.
 
 {% embed url="https://aqdko2gvdb5swcvmv5fefjh2nvqay2jo25zaraa4e7gzvtmhqvra.arweave.net/BAanaNUYeysKrK9KQqT6bWAMaS7XcgiAHCfNms2HhWI" %}
-awalkaday 344-2017
+**awalkaday 344-2017**
 {% endembed %}
 
 Using rudimentary photographic equipment and online public platforms, coupled with an open-source digital toolbox, he has visually documented a years-long journey that artfully depicts his time-bound walks in exile, and publicly logs his footprints around a non-native land.
@@ -13,7 +13,7 @@ Accompanied by his mother who thereafter flew back, he had landed in Brussels in
 His aimful European dream, aside from wishful dreaming of chasing again a university trophy, was seeking a safe haven away from persecution by his motherland's diplomats and their Chinese counterparts, while studying abroad in China two seasons earlier.
 
 {% embed url="https://arweave.net/PzcrZqCeMDwty56zrlbyngXjTYxpPCEKKo6MevHVf-Q" %}
-awalkaday 185-2022
+**awalkaday 185-2022**
 {% endembed %}
 
 His original sin, worthy of exile from the capitals of China and Burundi for many years, was unofficially blamed on a one-week cocktail of irrational factors during springtime of 2016. The cocktail's ingredients were deposited on a cross-country tabletop, covertly sent over electronic communication rails, and unaccompanied by any legal counsel in human form.&#x20;
@@ -42,14 +42,14 @@ _In absentia_ of photographic evidence of the surreal story — made in and impo
 
 Until when his blurry mind and on alert body voiced an untrue African geolocation of his father in response to a male judge's oral inquiry. Then, little did the lonely and poor boy imagine how fast life could spiral, from hearing aloud _«_[_Il est où ton papa?_](https://genius.com/1828413)_»_ in a court roo&#x6D;_,_ to tumbling around like a [_toupie_](https://en.wiktionary.org/wiki/toupie)_._
 
-<figure><img src="https://rodfztakuygtmhqfbszvgxfobnojd47isei6lmuh52ngxpcs72ca.arweave.net/i4ZczAqmDTYeBQyzU1yuC1yR8-iREeWyh-6aa7xS_oQ" alt="awalkaday 47-2022"><figcaption><p>awalkaday 47-2022</p></figcaption></figure>
+<figure><img src="https://rodfztakuygtmhqfbszvgxfobnojd47isei6lmuh52ngxpcs72ca.arweave.net/i4ZczAqmDTYeBQyzU1yuC1yR8-iREeWyh-6aa7xS_oQ" alt="awalkaday 47-2022"><figcaption><p><strong>awalkaday 47-2022</strong></p></figcaption></figure>
 
 After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/instagram.md) and coding on [GitHub](../evolution-of-a-trek-on-platforms/github.md), from the second continent discovered in his lifetime, the self-assigned mission was put on hold due to the loss of electronic devices, in the aftermath of a laptop crash and a smartphone theft within the enclosure of a refugee camp, located in a Francophone Belgian region, at the start of 2018.
 
 Three years later, during springtime of 2020, the photographic odyssey was relaunched, like a part-time duty funded by earnings from a painting job, and ran from an attic room in Bastogne, nearby the southeastern Belgian border, at a walking distance from the landlocked nation of Luxembourg, until wintertime of 2022.&#x20;
 
 {% embed url="https://arweave.net/HZUJofLsOWTGYRYAOMzbtKN7Ad0jMmtDlg4HDgT5Vp8" %}
-awalkaday 40-2022
+**awalkaday 40-2022**
 {% endembed %}
 
 Since day one of the project, the photographer endured the human experience of lacking easy access to medical care, health insurance, humanitarian aid, and banking services. His social status and life as an immigrant remained uncertain, hopeless, angst-inducing and precarious.&#x20;
@@ -57,7 +57,7 @@ Since day one of the project, the photographer endured the human experience of l
 He faced recurring unemployment, despite numerous skills, and often burned organic calories instead of emitting gas pollutants. In stark contrast with modern European cultural conventions and artifacts, `awalkaday.art` is neither a state-sponsored artistic endeavor, nor a brick-and-mortar art gallery.
 
 {% embed url="https://arweave.net/WB8akAD3XwwJ-5QCWgH9k-4eaDNRctqmTzBH4hwLwyo" %}
-awalkaday 184-2021
+**awalkaday 184-2021**
 {% endembed %}
 
 One question always strolled in his head, all along the photo odyssey on his feet, _«What if all the nationwide walks in the midst of seeking state protection will not yield negative-sounding by-products?»_&#x20;

@@ -34,7 +34,7 @@ Its legal rights shall be governed by [Belgian law](https://www.wipo.int/wipolex
 {% embed url="https://collect.awalkaday.art" %}
 
 {% embed url="https://xjp7hza4gi5jdcag2jq3jmtdysje24arqrq2mxdxxqenaxadq7yq.arweave.net/ul_z5BwyOpGIBtJhtLJjxJJNcBGEYaZcd7wI0FwDh_E" fullWidth="false" %}
-awalkaday 91-2022
+**awalkaday 91-2022**
 {% endembed %}
 
 ### Acknowledgments
