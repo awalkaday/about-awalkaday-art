@@ -20,8 +20,6 @@
 [ethereum.md](ethereum.md)
 {% endcontent-ref %}
 
-{% embed url="https://i4ctj3fmalpaczcuwj2xhq7jx4kg7ktaxybmjkynlkbpcscz53jq.arweave.net/RwU07KwC3gFkVLJ1c8PpvxRvqmC-AsSrDVqC8UhZ7tM" %}
-awalkaday 25-2022
-{% endembed %}
+<div data-with-frame="true"><figure><img src="https://i4ctj3fmalpaczcuwj2xhq7jx4kg7ktaxybmjkynlkbpcscz53jq.arweave.net/RwU07KwC3gFkVLJ1c8PpvxRvqmC-AsSrDVqC8UhZ7tM" alt=""><figcaption></figcaption></figure></div>
 
 <p align="center"><strong><code>11</code></strong></p>
