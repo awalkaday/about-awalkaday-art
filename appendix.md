@@ -26,7 +26,7 @@ The photograph on the [cover](./), `awalkaday 251-2022`, was shot, edited and pu
 
 <figure><img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="" width="188"><figcaption><p><strong>awalkaday 251-2022</strong></p></figcaption></figure>
 
-This black-and-white photo captured a fleeting moment in time before a renowned sculpture was moved to its current and permanent location. It preserves for ages a romantic outdoor scene: a couple of people sitting in the open air on the grass under a glowing tree.
+This black-and-white photo captured a fleeting moment before a renowned sculpture was moved to its current and permanent location. It preserves for ages a romantic outdoor scene: a couple of people sitting in the open air on the grass under a glowing tree.
 
 {% embed url="https://thehug.xyz/artists/daqhris/portfolio/item/6e2d07d3-3f4a-438c-b0e7-1224f7dcecfa" %}
 Check out the onchain photo on The Hug.
@@ -36,7 +36,7 @@ Sculpted in bronze by Belgian artist [Nat Neujean](https://www.natneujean.com/),
 
 <div><figure><img src=".gitbook/assets/IMG_20240508_162733_3-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162755_1-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162716_4.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-`awalkaday 251-2022` and [The Daughters of Water](https://statues.vanderkrogt.net/object.php?webpage=ST\&record=bena030) both have their roots in a 19th century park named after the first Queen of the Belgians, _Louise-Marie_. Notice the timeless traits of two art forms grounding a duo — one in human form and another in metallic form — in the shade of a slowly aging tree.
+`awalkaday 251-2022` and [The Daughters of Water](https://statues.vanderkrogt.net/object.php?webpage=ST\&record=bena030) both have their roots in a 19th century park named after the first Queen of the Belgians, _Louise-Marie_. Notice the timeless traits of two art forms grounding a duo — one in human form before another in metallic form — in the shade of a slowly aging tree.
 
 ### Ethereum Domain Names
 
