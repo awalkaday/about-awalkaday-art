@@ -25,7 +25,7 @@ A domino effect, kicked off by a series of French-written law-abiding decisions,
 
 
 {% embed url="https://www.instagram.com/walk.day/p/C8casQwtnMP/" %}
-A graph visualizing a years-long coding process, representing the duration of work on the public code repositories.
+A graph visualizing years-long coding process, representing the duration of work for the public code repositories.
 {% endembed %}
 
 <p align="center"></p>

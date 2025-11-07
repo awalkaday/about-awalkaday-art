@@ -3,13 +3,13 @@
 The visual art practice, reinforced by web surfing, began in [July 2017](https://www.instagram.com/p/BWvILEmAPcy/), when a photo was posted on Instagram with the following caption: _<mark style="color:blue;">Don't watch the clock. Do what it does. Keep going.</mark>_
 
 {% embed url="https://www.instagram.com/p/BWvILEmAPcy/" %}
-The first photo posted on Instagram in 2017. Its original file, as well as many other photos shared on Instagram between July and November, have been lost and were not preserved on the Ethereum blockchain.
+The 1st photo posted on Instagram. Its original file, as well as other photos shared on Instagram between July and November of 2017, were lost and not preserved on the Ethereum blockchain.
 {% endembed %}
 
 The first and last photographs, preserved in the blockchain-based collection, appeared online respectively in [November 2017](https://www.instagram.com/p/BbXjDXsH22K) and [September 2022](https://www.instagram.com/p/CidZs2BDRMz).
 
 {% embed url="https://www.instagram.com/p/BbXjDXsH22K/" %}
-The oldest photo in the blockchain-minted series was posted on Instagram in Nov 2017. Its original version was lost, but a copy was recovered, named and minted on a blockchain in the first quarter of 2023. Same story for all tokenized photos of the first two years.
+The oldest photo in the blockchain-minted series was posted on Instagram in Nov 2017. Its original version was lost, but a copy was recovered, named and minted in the first quarter of 2023. Same story for all tokenized photos of the first 2 years.
 {% endembed %}
 
 The Internet domain `awalkaday.art` was officially registered in [May 2021](https://whois.gandi.net/en/results?search=awalkaday.art).
@@ -25,7 +25,7 @@ As of [September 2023](https://x.com/awalkadayart/status/1703776310252736941?s=2
 A congratulatory message citing the virtual exhibition hall of the photo series was posted by the [.ART web domains registry](https://art.art/) on two social media networks in [February](https://x.com/Art_Domains/status/1755917791658418315?s=20) [2024](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MjM4NDY5NjU2MjEwMzQz?story_media_id=3301932341141746093_5749556061\&igsh=MXVzbXJ0cmo4ZTByMQ==).
 
 {% embed url="https://www.instagram.com/walk.day/p/CkWOfX2DCPU/" %}
-The final photo shared on Instagram in Oct 2022. Its original file, along with four others posted in the same month, were lost. They were not minted on Ethereum.
+The final photo on Instagram in Oct 2022. Its original file, with 4 others posted that October, were lost and not preserved on Ethereum.
 {% endembed %}
 
 <p align="center"></p>

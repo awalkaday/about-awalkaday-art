@@ -21,7 +21,7 @@ The monochromatic snapshots were assembled, named, and minted during a wintertim
 Once released into a sovereign financial ecosystem, the fear of losing the `awalkaday` photographs vanished into thin air, escaping the confines of his last encrypted device, the Android One, whose secure updates had been halted near the [end of 2022](https://source.android.com/docs/security/bulletin/2022-12-01).
 
 {% embed url="https://arweave.net/0-_c04sCcDNe-rkCZvTETL1TkmxsLroCqoXVsaWSpOU" %}
-awalkaday 174-2022
+**awalkaday 174-2022**
 {% endembed %}
 
 After landing on a blockchain terrain in a batch series, each photo began to carry a name, like the title of a logbook, for example: [`awalkaday 185-2022`](https://app.zerion.io/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82/nfts?collections=85657215).

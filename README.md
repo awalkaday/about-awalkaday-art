@@ -40,15 +40,15 @@ _**Drafting Stage** : The book's content keeps advancing day after day, nearing 
 
 <p align="center">◈</p>
 
-<p align="center"><strong><code>25 Pages</code> — <code>ENGLISH</code> — <code>Black &#x26; White Digital Photography</code></strong></p>
+<h4 align="center"> book.awalkaday.art</h4>
 
-<p align="center"> <strong><code>book.awalkaday.art</code></strong></p>
+<p align="center"><strong><code>25 Pages</code> — ENGLISH — Black &#x26; White Digital Photography</strong></p>
 
-<p align="center"> <a href="https://github.com/awalkaday/about-awalkaday-art/tree/book"><code>github.com/awalkaday/about-awalkaday-art/tree/book</code></a></p>
+<p align="center"> <a href="https://github.com/awalkaday/about-awalkaday-art/tree/book">github.com/awalkaday/about-awalkaday-art/tree/book</a></p>
 
 <p align="center">◈</p>
 
-<figure><img src="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/awalkaday-logo-2x1.png" alt="" width="375"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/awalkaday-logo-2x1.png" alt="Official Logo of &#x27;A Walk A Day&#x27;" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Ceci ■ est ■ un Livre d'Artiste Sans Papier.

@@ -12,7 +12,7 @@ Make a short trip to the online gallery and encounter in a random order the phot
 
 The gallery prioritizes a smooth and random order of display for each visit, allowing for ease of navigation and discovery of photographs, surprising visitors with fresh-eye perspectives every load time.
 
-<figure><img src="https://raw.githubusercontent.com/awalkaday/awalkaday-art/master/assets/icons/awalkaday_art-web_overview.png" alt="Screenshot of the web gallery at awalkaday.art" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="https://raw.githubusercontent.com/awalkaday/awalkaday-art/master/assets/icons/awalkaday_art-web_overview.png" alt="Screenshot of the web gallery at awalkaday.art" width="563"><figcaption></figcaption></figure></div>
 
 A 3D exhibition hall, constructed since springtime of 2023, welcomes all digital visitors at [oncyber.io/awalkaday.art](https://oncyber.io/awalkaday.art). The virtual exhibition, which caught the attention of silicon-based reality promoters at launch in the spring of 2024, remains open to this day.
 
