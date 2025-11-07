@@ -60,9 +60,9 @@ He faced recurring unemployment, despite numerous skills, and often burned organ
 **awalkaday 184-2021**
 {% endembed %}
 
-One question always strolled in his head, all along the photo odyssey on his feet, “_What if all the nationwide walks in the midst of seeking state protection will not yield negative-sounding by-products?_”&#x20;
+One question always strolled in his head, circling around the nervous pathways to and from his brain, all along the photo odyssey on his feet, “_What if all the nationwide walks in the midst of seeking state protection will not yield negative-sounding by-products?_”&#x20;
 
-A question to which the Greco-Roman God of Time thought of answering through intuition: “_Fear not. Time will tell._”_;_ just after the Catholic Church's God whispered to his inner ear one word, a Hebrew loanword naturalized as Greek and later as Latin: “_Amen._”
+A question to which the Greco-Roman God of Time thought of intuitively answering: “_Fear not. Time will tell._”_;_ ahead of when the Catholic Church's God would telepathically whisper to his inner ear one word, a Hebrew loanword naturalized as Greek and later as Latin: “_Amen._”
 
 
 
