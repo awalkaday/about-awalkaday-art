@@ -14,11 +14,11 @@ In the virtual realm of blockchain-based art platforms, the artist created a pro
 
 {% embed url="https://foundation.app/collection/awalkaday-art" %}
 
-As an artist, coder and hacker with published work on a blockchain, he participated in a three-day international hackathon and gathering of Ethereum software developers organized by [ETHGlobal](https://ethglobal.com/events/brussels) and held for the first time in Brussels, Belgium (July 2024).
+As an artist, coder and hacker with published work on a blockchain, he participated in a 3-day international hackathon and gathering of Ethereum software developers organized by [ETHGlobal](https://ethglobal.com/events/brussels) and held for the first time in Brussels, Belgium (July 2024).
 
 {% embed url="https://www.instagram.com/walk.day/p/C9sw6ZeNs7x/" %}
 
-Since then, after honing his skills as an Ethereum app developer and overcoming the learning curve of hackathons, his next blockchain-based artistic projects were launched: [Zinneke Rescue Mission](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf), to be preceded by [Mission Enrollment](https://mission-enrollment.daqhris.com/).&#x20;
+Since then, after honing his skills as an Ethereum app developer and overcoming the learning curve of hackathons, his next blockchain-based artistic projects began: [Zinneke Rescue Mission](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf), to be preceded by [Mission Enrollment](https://mission-enrollment.daqhris.com/).&#x20;
 
 <div><figure><img src="https://assets.poap.xyz/ba72648e-b534-4630-80bf-caf648ee9ba9.png" alt="ETHGlobal Brussels 2024 Hacker (certified in Brussels)" width="375"><figcaption><p><a href="https://gnosis.blockscout.com/token/0x22c1f6050e56d2876009903609a2cc3fef83b415/instance/7187414">ETHGlobal Brussels 2024</a></p></figcaption></figure> <figure><img src="https://assets.poap.xyz/a1aed95e-3455-435f-8e8e-a13c1c4e7d29.png" alt="Superhack 2024 Hacker (certified by ETHGlobal)" width="375"><figcaption><p><a href="https://gnosis.blockscout.com/token/0x22c1f6050e56d2876009903609a2cc3fef83b415/instance/7187414">Superhack 2024</a></p></figcaption></figure></div>
 

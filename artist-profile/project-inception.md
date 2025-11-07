@@ -1,6 +1,6 @@
 # Project Inception
 
-At the kick-off of summer 2017, Chris had been residing in a Red Cross camp sheltering asylum seekers in Namur, Belgium, for almost ten months from his wintertime birthday there. To combat prolonged boredom and physical inactivity, an idea sparked in his mind, urging him to combine his skills in black-and-white photography, visual design, and software coding in order to launch an artistic project.
+At the kick-off of summer 2017, Chris had been residing in a Red Cross camp sheltering asylum seekers in Namur, Belgium, for almost ten months from his wintertime birthday there. To combat prolonged boredom and physical inactivity, an idea sparkled in his mind, urging him to combine his skills in black-and-white photography, visual design, and software coding in order to launch an artistic project.
 
 {% embed url="https://aqdko2gvdb5swcvmv5fefjh2nvqay2jo25zaraa4e7gzvtmhqvra.arweave.net/BAanaNUYeysKrK9KQqT6bWAMaS7XcgiAHCfNms2HhWI" %}
 **awalkaday 344-2017**
@@ -62,7 +62,7 @@ He faced recurring unemployment, despite numerous skills, and often burned organ
 
 One question always strolled in his head, all along the photo odyssey on his feet, _«What if all the nationwide walks in the midst of seeking state protection will not yield negative-sounding by-products?»_&#x20;
 
-A question to which the Greco-Roman God of Time thought of answering in chronological order: _«Fear not the powers that be. Time will tell.»;_ just after the Catholic Church's God whispered to his inner ear one word, a Hebrew loanword naturalized as Greek and later as Latin: _«Amen.»_&#x20;
+A question to which the Greco-Roman God of Time thought of answering in chronological order: _«Fear not. Time will tell.»;_ just after the Catholic Church's God whispered to his inner ear one word, a Hebrew loanword naturalized as Greek and later as Latin: _«Amen.»_&#x20;
 
 
 

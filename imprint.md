@@ -3,12 +3,12 @@
 ### Public Licensing
 
 [**book.awalkaday.art**](https://book.awalkaday.art/) ◈ **Written with 🤍** ◈ **Made in 🇧🇪**\
-&#xNAN;_&#x41;n Undocumented Artistic Product of Afro-Surrealism,_\
-&#xNAN;_&#x42;y an Undocumented Artist on the Land of Surrealism._
+&#xNAN;_&#x41;n Artistic Product of Afro-Surrealism,_\
+&#xNAN;_&#x42;y an Artist on the Land of Surrealism._
 
 **ISBN**: [▬▬▬ ▬ ▬▬ ▬▬▬▬▬▬ ▬](https://en.wikipedia.org/wiki/ISBN) \
-&#xNAN;_&#x54;he ID of this book is absent from the_ [_Royal Library_](https://en.wikipedia.org/wiki/Royal_Library_of_Belgium)_,_\
-_It awaits the reactivation of its Author's Human ID._
+&#xNAN;_&#x54;his Book ID is absent from the_ [_Royal Library_](https://en.wikipedia.org/wiki/Royal_Library_of_Belgium)_,_\
+_Until the activation of its Author's Human ID._
 
 **Photos,** **Writings**: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
 **Source Code**: [EUPL 1.2](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt)
