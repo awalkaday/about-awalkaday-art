@@ -2,7 +2,7 @@
 
 ### Public Licensing
 
-[**book.awalkaday.art**](https://book.awalkaday.art/) ◈ **Written with 🤍** ◈ **Made in 🇧🇪**\
+[**book.awalkaday.art**](https://book.awalkaday.art/) ◈ **Made in 🇧🇪**\
 &#xNAN;_&#x41;n Artistic Product of Afro-Surrealism,_\
 &#xNAN;_&#x42;y an Artist on the Land of Surrealism._
 
