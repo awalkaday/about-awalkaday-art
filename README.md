@@ -20,13 +20,17 @@ layout:
 
 # Walking Memories
 
+<p align="center"></p>
+
 {% embed url="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" %}
 **awalkaday 251-2022**
 {% endembed %}
 
-<h3 align="center"></h3>
+<p align="center"></p>
 
 ***
+
+<p align="center"></p>
 
 <h3 align="center">Synopsis</h3>
 
