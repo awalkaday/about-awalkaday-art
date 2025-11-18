@@ -1,7 +1,7 @@
 ---
 description: >-
   An open-source artist's book tracing the digital footprints of an exiled
-  wanderer and his Belgian-made pixels over the course of an eight-year odyssey
+  wanderer and his Belgian pixels over an eight-year odyssey
 layout:
   width: default
   title:
@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Artist's Book
+# Walking Memories
 
 <table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><a href="authors-note.md">AUTHOR'S NOTE</a></td></tr><tr><td align="center"><a href="reading-guide.md">READING GUIDE</a></td></tr></tbody></table>
 
@@ -40,11 +40,11 @@ _**Drafting Stage** : The book's content keeps advancing day after day, nearing 
 
 <p align="center">◈</p>
 
-<h4 align="center"> book.awalkaday.art</h4>
+<h4 align="center"><mark style="color:$info;">book.</mark>awalkaday.art</h4>
 
 <p align="center"><strong><code>25 Pages</code> — ENGLISH — Black &#x26; White Digital Photography</strong></p>
 
-<p align="center"> <a href="https://github.com/awalkaday/about-awalkaday-art/tree/book">github.com/awalkaday/about-awalkaday-art/tree/book</a></p>
+<p align="center"><a href="https://github.com/awalkaday/about-awalkaday-art/tree/book">github.com/awalkaday/about-awalkaday-art/tree/book</a></p>
 
 <p align="center">◈</p>
 
