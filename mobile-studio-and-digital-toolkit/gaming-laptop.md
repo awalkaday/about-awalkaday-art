@@ -16,7 +16,7 @@ Unfortunately, the gaming computer first mysteriously crashed in the winter of 2
 
 A second-hand lightweight laptop, made in USA, was bargained out of a gamer friend's hands, with hard-earned cash from a land-based construction job in the spring of 2023. The laptop helped the mobile photographer to finish off the mission of cloud-based construction from Brussels, post-tokenization of photos on [Ethereum](../evolution-of-a-trek-on-platforms/ethereum.md).&#x20;
 
-The gamer friend of African origin had been hosting a first birthday party on Belgian soil, gathering `daqhris` and other fresh off the boat friends, while `A WALK≡A DAY` commits and intentions were initially made public, out of a corner of a party room, in the cold days of [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f#diff-4f167c64a65a03a4e373ec9069f3899d550708ddb9e77a3908246068cde7ac70).
+The gamer friend of African origin had been hosting a first birthday party on Belgian soil, gathering `daqhris` and other fresh off the boat friends, when `A WALK≡A DAY` commits and intentions were initially made public, out of a corner of a party room, in the cold days of [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f#diff-4f167c64a65a03a4e373ec9069f3899d550708ddb9e77a3908246068cde7ac70).
 
 {% embed url="https://arweave.net/8FU-mhjYjLfvf3eWMYiJIx60YeKUbtx7x8Qf2O4bRL0" %}
 **awalkaday 328-2017**

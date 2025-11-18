@@ -14,9 +14,9 @@ In an age of fast-paced urbanization, sedentarism and hyperconnectivity, many hu
 **awalkaday 168-2022**
 {% endembed %}
 
-At first sight, through the photographer's lens, `awalkaday` is a series of photographs and a visual diary of sorts. On a second look, it is a testament of his enduring passion for photography and a vessel sailing his creative skills across borders and oceans.&#x20;
+At first sight, through the photographer's lens, `awalkaday` is a series of photographs and a visual diary of sorts. On a second look, it is a testament to the endurance of a long-running passion for photography and a vessel sailing his creative skills across borders and oceans.&#x20;
 
-A web gallery and a smart contract were openly developed, and seamlessly interlinked, to ensure effortless navigation, for whoever wishes to marvel, from anywhere, at the travelogue in a paperless and a visa-free setting.
+Architected in computer code languages, a web gallery and a smart contract were openly developed, and seamlessly interlinked, to ensure effortless navigation, for whoever wishes to marvel, from anywhere, at the travelogue in a paperless and a visa-free setting.
 
 {% embed url="https://arweave.net/84AC-vf_aJkER9F0cQ5iEXP-lJ1PocTY9IuOf7Bpsdc" %}
 **awalkaday 186-2022**
