@@ -54,7 +54,7 @@ Three years later, during springtime of 2020, the photographic odyssey was relau
 
 Since day one of the project, the photographer endured the human experience of lacking easy access to medical care, health insurance, humanitarian aid, and banking services. His social status and life as an immigrant remained uncertain, hopeless, angst-inducing and precarious.&#x20;
 
-He faced recurring unemployment, despite numerous skills, and often burned organic calories instead of emitting gas pollutants. In stark contrast with modern European cultural conventions and artifacts, `awalkaday.art` is neither a state-sponsored artistic endeavor, nor a brick-and-mortar art gallery.
+He faced recurring unemployment, despite numerous skills, and often burned organic calories instead of emitting gas pollutants. In stark contrast with modern European cultural conventions, `awalkaday.art` is neither a state-sponsored artistic endeavor, nor a brick-and-mortar art gallery.
 
 {% embed url="https://arweave.net/WB8akAD3XwwJ-5QCWgH9k-4eaDNRctqmTzBH4hwLwyo" %}
 **awalkaday 184-2021**
@@ -62,7 +62,7 @@ He faced recurring unemployment, despite numerous skills, and often burned organ
 
 One question always strolled in his head, circling around the nervous pathways to and from his brain, all along the photo odyssey on his feet, “_What if all the nationwide walks in the midst of seeking state protection will not yield negative-sounding by-products?_”&#x20;
 
-A question to which the Greco-Roman God of Time thought of intuitively answering: “_Fear not. Time will tell._”_;_ ahead of the Catholic Church's God telepathically whispering to his inner ear one word, a Hebrew loanword naturalized as Greek and later as Latin: “_Amen._”
+A question to which the Greco-Roman God of Time thought of intuitively answering: “_Fear not. Time will tell._”_;_ ahead of the Catholic Church's God telepathically whispering to his inner ear one word, a Hebrew loanword, naturalized as Greek and later as Latin: “_Amen._”
 
 
 

@@ -4,7 +4,7 @@ description: Since November 2017
 
 # GitHub
 
-[GitHub](https://github.com/) offers a collaborative environment to programmers, in addition to version control, codebase hosting, and project management tools.
+[GitHub](https://github.com/) offers a collaborative environment to programmers in addition to version control, codebase hosting, and project management tools.
 
 The underlying codebase supporting at least three pillars of the `awalkaday` series of photos — gallery, book, shop — is hosted and runs on GitHub, where every single committed modification can be tracked, retraced, or audited in real time.
 

@@ -1,7 +1,7 @@
 ---
 description: >-
-  An exhaustive table identifying the 263 photographs with names, date stamps
-  and their token IDs
+  An exhaustive table listing the 263 photographs with names, date stamps and
+  their token IDs
 layout:
   width: default
   title:
