@@ -24,10 +24,6 @@ layout:
 **awalkaday 251-2022**
 {% endembed %}
 
-{% hint style="warning" %}
-_**Drafting Stage** : The book's content keeps advancing day after day, nearing its final **PDF** destination._
-{% endhint %}
-
 <h3 align="center">Synopsis</h3>
 
 <p align="center"><strong>This artist's book documents the  <code>awalkaday</code> project from inception in 2017 to its conclusion in 2024.</strong> The book is bound with a toolkit used since day one and its pages narrate crucial keystrokes and steps. A blend of diverse media—photography, poetry, code, social posts, and blockchain tokens—weaves creative nonfiction into autobiographical insights told from a third-person omniscient viewpoint.</p>
@@ -52,6 +48,10 @@ _**Drafting Stage** : The book's content keeps advancing day after day, nearing 
 
 {% hint style="info" %}
 Ceci ■ est ■ un Livre d'Artiste Sans Papier.
+{% endhint %}
+
+{% hint style="warning" %}
+_**Drafting Stage** : The book's content keeps advancing day after day, nearing its final **PDF** destination._
 {% endhint %}
 
 <p align="center"></p>
