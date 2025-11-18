@@ -24,6 +24,10 @@ layout:
 **awalkaday 251-2022**
 {% endembed %}
 
+<h3 align="center"></h3>
+
+***
+
 <h3 align="center">Synopsis</h3>
 
 <p align="center"><strong>This artist's book documents the  <code>awalkaday</code> project from inception in 2017 to its conclusion in 2024.</strong> The book is bound with a toolkit used since day one and its pages narrate crucial keystrokes and steps. A blend of diverse media—photography, poetry, code, social posts, and blockchain tokens—weaves creative nonfiction into autobiographical insights told from a third-person omniscient viewpoint.</p>
