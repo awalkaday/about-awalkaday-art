@@ -34,9 +34,9 @@ _**Drafting Stage** : The book's content keeps advancing day after day, nearing 
 
 <p align="center"><strong>Its illustrated pages tell the story of a terrestrial odyssey across public spaces and computing platforms.</strong> Accompanying a series of 263 photographs shot during regular walks throughout Belgium, Europe, the book captures both visual and emotional landscapes. It's the online culmination of an eight-year project by an exiled artist, pioneering a digital artwork that integrates all timestamped drafts into one open-source and free edition.</p>
 
-<p align="center">◈</p>
-
 <table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><a href="authors-note.md">AUTHOR'S NOTE</a></td></tr><tr><td align="center"><a href="reading-guide.md">READING GUIDE</a></td></tr></tbody></table>
+
+<p align="center">◈</p>
 
 <h4 align="center"><mark style="color:$info;">book.</mark>awalkaday.art</h4>
 
