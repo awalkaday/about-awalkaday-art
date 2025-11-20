@@ -1,7 +1,7 @@
 ---
 description: >-
   An open-source artist's book tracing the digital footprints of an exiled
-  wanderer and his Belgian pixels over an eight-year odyssey
+  wanderer and his Belgian pixels during an eight-year odyssey
 layout:
   width: default
   title:
@@ -25,6 +25,8 @@ layout:
 {% embed url="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" %}
 **awalkaday 251-2022**
 {% endembed %}
+
+<p align="center"></p>
 
 <p align="center"></p>
 
