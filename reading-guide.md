@@ -8,7 +8,7 @@ description: >-
 
 ## Contents
 
-* ARTIST STATEMENT                                           → [`FRONT-1`](authors-note.md)
+* ARTIST STATEMENT                                           → [`FRONT-1`](artist-statement.md)
 * READING GUIDE                                           → [`FRONT-2`](reading-guide.md)
 * Introduction to the Photo Series                        → [`1`](introduction-to-the-photo-series.md)
 * Beyond Pixels: A Stroll into Nature                     → [`2`](beyond-pixels-a-stroll-into-nature.md)

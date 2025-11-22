@@ -77,13 +77,13 @@ Peering into photographs devoid of humans, combing through scattered data trails
 
 <figure><img src="https://7qcx5f3hkbvgk5mz33xc3cpbuxozanrxhfpl7qinekgqyptnkuea.arweave.net/_AV-l2dQamV1md7uLYnhpd2QNjc5Xr_BDSKNDD5tVQg" alt=""><figcaption><p><strong>awalkaday 172-2022</strong></p></figcaption></figure>
 
-For an accurate time-stamped record of the book's drafts, or an analysis of my public edits scribbled down in GIT commits, please visit the source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis and over a long time window, is available [here](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency).&#x20;
+For an accurate time-stamped record of the book's drafts, or an analysis of my public edits scribbled down in Git commits, please visit the source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis and over a long time window, is available [here](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency).&#x20;
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commits/book/" %}
 
-### On Writing Oneself In Third Person
+### Writing About Oneself In Third Person
 
-Most of this book is written in the third person, referring to me as _'Chris-Armel'_, _'daqhris', or 'he'_ (but not as _'Iradukunda'_)_._ It is not stylistic affectation, but rather a necessary method in ways decoded below.
+Most of this book is written in the third person, referring to me as _'Chris-Armel'_, _'daqhris', or 'he'_ (not as _'Iradukunda'_)_._ It is not stylistic affectation, but rather a necessary method in ways decoded below.
 
 **Self-Protection:** Eight years of walks encompass years of financial precarity, rejection letters, awareness of being the _'alien'_ in public space, threat attack mitigation, social isolation of exile, zero employment contract, denial of healthcare access, retribution from power-abusers, homelessness, hypervigilance, and uncertain future. First person requires reliving. Third person allows recording.
 
