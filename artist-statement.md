@@ -95,12 +95,12 @@ Most of this book is written in the third person, referring to me as _Chris-Arme
 
 **Western Literary Precedents:**
 
-* Julius Caesar wrote, about his military campaigns, _"Commentarii"_ in third person (both self-documentation and self-mythologizing)
-* Henry Adams wrote _"The Education of Henry Adams"_ in third person to examine himself as case study, objectified for analysis
-* W.G. Sebald's narrators observe themselves observing, creating dreamlike distance
-* Gertrude Stein ventriloquized herself through Alice B. Toklas
+* _Julius Caesar_ wrote, about his military campaigns, _"Commentarii"_ in third person (both self-documentation and self-mythologizing)
+* _Henry Adams_ wrote _"The Education of Henry Adams"_ in third person to examine himself as case study, objectified for analysis
+* _W.G. Sebald_'s narrators observe themselves observing, creating dreamlike distance
+* _Gertrude Stein_ ventriloquized herself through _Alice B. Toklas_
 
-The omniscient narrator is not neutral when voicing my data logs. It dresses up as every system, that tracked my existence, compiled and narrated on my terms. Where the _I_ pronoun appears, it marks moments of direct address, of breaking the archival frame. These ruptures are intentional.&#x20;
+The omniscient narrator is not neutral when voicing the story of my data logs. They speak up like a system, that tracked my existence, compiled and narrated on my terms. Where the first person appears, it marks moments of direct address, of breaking the archival frame. These ruptures are intentional.&#x20;
 
 <p align="center"></p>
 
