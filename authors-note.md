@@ -81,6 +81,27 @@ _For an accurate time-stamped record of the book's drafts, or an audit of my pub
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commits/book/" %}
 
+### _Notes On Writing Oneself in Third Person_
+
+_Most of this book is written in the third person, referring to me as "Chris-Armel" or "he." It is not stylistic affectation but necessary method._
+
+_**Self-protection for survival:** Eight years of walks include eight years of financial precarity, rejection letters, awareness of being the "alien" in public space, social isolation of exile, zero employment contract, exclusion from healthcare systems,_ _retribution from power-abusing humans, homelessness, hypervigilance and uncertain future. First person would require reliving. Third person allows recording._
+
+_**Objectivity under scrutiny:** As an undocumented person, my subjective testimony is often suspect. Third person borrows the authority of the archive—blockchain timestamps, Git commits, EXIF data. These don't ask to be believed; they simply are._
+
+_**Archival consciousness:** This work is designed to outlive me across all digital, long-lasting and neutral ecosystems, such as Ethereum, Arctic Code Vault, or decentralized storage. These computing systems speak in third person. I match their voice._
+
+_**Memory's limitations:** I cannot reliably recall all memories and failed at saving all snapshots over time. Some periods are fragmentary, obscured by trauma or time. The photographs document and contribute what memory cannot. Third person acknowledges this gap between experience and evidence._
+
+_**Western Literary Precedents:**_
+
+* _Julius Caesar wrote about his military campaigns "Commentarii" in third person (both self-documentation and self-mythologizing)_
+* _Henry Adams wrote "The Education of Henry Adams" in third person to examine himself as case study, objectified for analysis_
+* _W.G. Sebald's narrators observe themselves observing, creating dreamlike distance_
+* _Gertrude Stein ventriloquized herself through Alice B. Toklas_
+
+_The omniscient narrator is not neutral. It's the archive speaking—Git, blockchain, metadata, timestamp. It is every system that tracked my existence compiled and narrated by me, on my terms. Where first person appears, it marks moments of direct address, of breaking the archival frame to speak as myself. These ruptures are intentional._
+
 <p align="center"></p>
 
 <p align="center"><strong><code>FRONT-1</code></strong></p>
