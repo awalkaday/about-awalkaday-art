@@ -1,7 +1,7 @@
 ---
 description: >-
-  The concept of reframing version control philosophy as artistic methodology
-  through transparent iteration, public refinement, and trails of GIT commits
+  Reframing version control philosophy as artistic methodology through
+  transparent iteration, public refinement, and trails of GIT commits
 layout:
   width: default
   title:

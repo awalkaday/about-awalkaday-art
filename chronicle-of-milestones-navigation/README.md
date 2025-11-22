@@ -1,7 +1,7 @@
 ---
 description: >-
-  A temporal skeleton lining up bits and pieces of the scaffolding: the
-  milestones marking progressive moves and data flows over a cyberspace terrain
+  A temporal skeleton lining up bits and pieces of the scaffolding, plus the
+  milestones marking progressive moves and data flows on a cyber spatial terrain
 layout:
   width: default
   title:
