@@ -1,3 +1,23 @@
+---
+description: >-
+  The conceptual heart of reframing version control as artistic methodology
+  proven by transparent iteration, public refinement, and evolutionary trails
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # Artist's Proofs and Ethos
 
 {% content-ref url="public-git-commits.md" %}

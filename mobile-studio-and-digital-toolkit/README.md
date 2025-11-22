@@ -1,3 +1,23 @@
+---
+description: >-
+  The wanderer's burden lightened by rudimentary equipment: Nokia as Air Force
+  One, laptop as command center, and software as portable darkroom
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # Mobile Studio and Digital Toolkit
 
 {% content-ref url="on-the-go-photography.md" %}

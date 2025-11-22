@@ -1,4 +1,25 @@
-# Artist Profile
+---
+description: >-
+  A non-Burundian portrait assembled from fragments of darkened memories:
+  Beijing to Brussels, Canon to Nokia, engineering student to undocumented
+  artist
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
+# Artist Profiling
 
 {% content-ref url="human-identity.md" %}
 [human-identity.md](human-identity.md)

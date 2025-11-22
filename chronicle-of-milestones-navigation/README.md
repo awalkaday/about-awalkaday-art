@@ -1,3 +1,24 @@
+---
+description: >-
+  A temporal skeleton lining up the bits and pieces of the scaffolding of
+  duration: the milestones marking progressive moves and data flows over a
+  cyberspace terrain
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # Chronicle of Milestones Navigation
 
 {% content-ref url="ongoing-pathways.md" %}

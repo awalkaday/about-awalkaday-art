@@ -1,3 +1,23 @@
+---
+description: >-
+  Five digital territories claimed to map nomadism for visibility, for
+  transparency, for presentation, for discourse, and for permanence
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # Evolution of a Trek on Platforms
 
 {% content-ref url="instagram.md" %}
@@ -21,5 +41,7 @@
 {% endcontent-ref %}
 
 <figure><img src="https://i4ctj3fmalpaczcuwj2xhq7jx4kg7ktaxybmjkynlkbpcscz53jq.arweave.net/RwU07KwC3gFkVLJ1c8PpvxRvqmC-AsSrDVqC8UhZ7tM" alt="awalkaday 25-2022"><figcaption><p><strong>awalkaday 25-2022</strong></p></figcaption></figure>
+
+<p align="center"></p>
 
 <p align="center"><strong><code>11</code></strong></p>

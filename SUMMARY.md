@@ -23,7 +23,7 @@
   * [Public GIT Commits](artists-proofs-and-ethos/public-git-commits.md)
   * [GIT Usage History](artists-proofs-and-ethos/git-usage-history.md)
   * [Open Source Software](artists-proofs-and-ethos/open-source-software.md)
-* [Artist Profile](artist-profile/README.md)
+* [Artist Profiling](artist-profile/README.md)
   * [Human Identity](artist-profile/human-identity.md)
   * [Training Ground](artist-profile/training-ground.md)
   * [Project Inception](artist-profile/project-inception.md)
