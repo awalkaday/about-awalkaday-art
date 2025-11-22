@@ -10,7 +10,7 @@ This project was born in my spare time, developed independently in the open, and
 **awalkaday 219-2022**
 {% endembed %}
 
-The project's lines of code first appeared online in [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f), four months after the summer debut of walking and photographing. From the beginning, the creative process was intuitively, leisurely, or swiftly, occurring from time to time, offline or online. Until the process was terminated with an emphasis on narrative writing, visual storytelling in retrospective, artist's book formatting, and timestamps of computing platforms.
+The project's lines of code first appeared online in [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f), four months after the summer debut of walking and photographing. Since the beginning, the creative process was intuitively, leisurely, or swiftly, occurring from time to time, offline or online. Until it was terminated with an emphasis on narrative writing, visual storytelling retrospectively, artist's book formatting, and public timestamps.
 
 {% embed url="https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f" %}
 
@@ -59,7 +59,7 @@ The project's lines of code first appeared online in [November 2017](https://git
 ```
 {% endcode %}
 
-As any reader can see, the visual art project, originally named  `A WALK≡A DAY` , took more than the five years predicted at the onset before being completed. The page listing answers to _'WHEN?, WHY?, HOW?, WHERE?, WHO?'_, titled `FAQ | A WALK≡A DAY`, was eventually migrated away from my personal site at `daqhris.com/awalkaday` to an independent open-source project. The art project is structured like an organization on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter.
+As any reader can see, the visual art project, originally named  `A WALK≡A DAY` , took more than the five years predicted at the onset before completion. The page listing answers to _'WHEN?, WHY?, HOW?, WHERE?, WHO?'_, titled `FAQ | A WALK≡A DAY`, was eventually migrated away from my personal site at `daqhris.com/awalkaday` to an independent open-source project. The art project is structured like an organization on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter.
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/7660a21a32aa6c6b539beaf4b20c12c11fa4f148" %}
 
@@ -69,19 +69,17 @@ The three-bar symbol [`≡`](https://en.wikipedia.org/wiki/Triple_bar) , which i
 
 {% embed url="https://daqhris.com/fcc-cert/" %}
 
-This book displays a mix of modified texts from [about.awalkaday.art](https://about.awalkaday.art) — an online page that is as old as the project's earliest footprints — mingling with poetic writings narrating a _'crème de la crème'_ artwork, then illustrated with evocative `awalkaday` photographs. Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass during a long-lasting march.&#x20;
+This book displays a mix of texts copied and modified from [about.awalkaday.art](https://about.awalkaday.art) — an online page as old as the project's earliest footprints — with poetic writings narrating a _'crème de la crème'_ artwork, which are illustrated by evocative `awalkaday` photographs. Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass.&#x20;
 
 <figure><img src="https://wsxgsr6e2fq4xoktdz3sqpudk7wusjy5lsip2zdramftcwphlkdq.arweave.net/tK5pR8TRYcu5Ux53KD6DV-1JJx1ckP1kcQMLMVnnWoc" alt=""><figcaption><p><strong>awalkaday 48-2022</strong></p></figcaption></figure>
 
-Peering into photographs devoid of humans, combing through scattered data trails, cleansing away trauma by crying were a weekly occurrence when recalling shattered memories during a lifetime review at the start of 2024. Traveling back in spacetime, against my brain's comfort, was made a breeze by the patronage of [Ant Hampton](https://www.anthampton.com/) who provided rent-free housing on top of Mount Kemmel, at a flat overlooking the Park of Forest where rose up inspiration, for nearly a year and half in Brussels (2023-2025).&#x20;
+Peering into photographs devoid of humans, combing through scattered data trails, cleansing away trauma by crying were a weekly occurrence when recalling shattered memories during a life review at the start of 2024. Traveling back in my mind's timeline, against my brain's comfort, was made a breeze by the patronage of [Ant Hampton](https://www.anthampton.com/) who provided rent-free housing on top of Mount Kemmel, in Brussels, at a flat overlooking the Park of Forest where rose up inspiration, for nearly a year and half (2023-2025).&#x20;
 
 <figure><img src="https://7qcx5f3hkbvgk5mz33xc3cpbuxozanrxhfpl7qinekgqyptnkuea.arweave.net/_AV-l2dQamV1md7uLYnhpd2QNjc5Xr_BDSKNDD5tVQg" alt=""><figcaption><p><strong>awalkaday 172-2022</strong></p></figcaption></figure>
 
-For an accurate time-stamped record of the book's drafts, or an audit of my public edits scribbled down in GIT commits, please visit the source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis and over a long time window, is available [here](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency).&#x20;
+For an accurate time-stamped record of the book's drafts, or an analysis of my public edits scribbled down in GIT commits, please visit the source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis and over a long time window, is available [here](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency).&#x20;
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commits/book/" %}
-
-***
 
 ### On Writing Oneself In Third Person
 
@@ -91,7 +89,7 @@ Most of this book is written in the third person, referring to me as _'Chris-Arm
 
 **Objectivity Under Scrutiny:** As an undocumented person, my subjective testimony is often suspect, silenced or surveilled. Immigration _'interviews'_ are tainted by a hostile assumption of faking suffering for sympathy gain. Third person borrows the authority of the technological archive spread around third-party networks that don't ask to be believed; they simply are. &#x20;
 
-**Archival Consciousness:** This work is designed to outlive me across long-lasting and neutral ecosystems, such as decentralized storage. My studies in computer science paved my way to the future rails of information. These computing systems speak in third person. I match their voice.&#x20;
+**Archival Consciousness:** This work is designed to outlive me across long-lasting and neutral systems, such as decentralized storage. My interrupted studies in computer science paved my way to the future rails of information. These computing systems speak in third person. I match their voice.&#x20;
 
 **Memory's Limitations:** I cannot reliably recall all memories and resurface all snapshots. Some periods are fragmentary, obscured by trauma or time. Photographs contribute to remembering what memory cannot naturally. Third person acknowledges this gap between experience and evidence.
 
@@ -102,7 +100,7 @@ Most of this book is written in the third person, referring to me as _'Chris-Arm
 * W.G. Sebald's narrators observe themselves observing, creating dreamlike distance
 * Gertrude Stein ventriloquized herself through Alice B. Toklas
 
-The omniscient narrator is not neutral when lending a voice to data crumbs—Git, blockchain, metadata, timestamp. It is every system, that tracked my existence, compiled and narrated by me on my terms. Where first person appears, it marks moments of direct address, of breaking the archival frame to speak as myself. These ruptures are intentional.&#x20;
+The omniscient narrator is not neutral when lending a voice to data logs, like Git, blockchain, timestamp. It is every system, that tracked my existence, compiled and narrated by me on my terms. Where first person appears, it marks moments of direct address, of breaking the archival frame to speak as myself. These ruptures are intentional.&#x20;
 
 <p align="center"></p>
 
