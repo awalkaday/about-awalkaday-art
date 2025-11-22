@@ -38,15 +38,15 @@ layout:
 
 <p align="center"><strong>This artist's book documents the  <code>awalkaday</code> project from inception in 2017 to its conclusion in 2024.</strong> The book is bound with a toolkit used since day one and its pages narrate crucial keystrokes and steps. A blend of diverse media—photography, poetry, code, social posts, and blockchain tokens—weaves creative nonfiction into autobiographical insights told from a third-person omniscient viewpoint.</p>
 
-<p align="center"><strong>Its illustrated pages tell the story of a terrestrial odyssey across public spaces and computing platforms.</strong> Accompanying a series of 263 photographs shot during regular walks throughout Belgium, Europe, the book captures both visual and emotional landscapes. It's the online culmination of an eight-year project by an exiled artist, pioneering a digital artwork that integrates all timestamped drafts into one open-source and free edition.</p>
+<p align="center"><strong>Its illustrated pages tell the story of a terrestrial odyssey across public spaces and computing platforms.</strong> Acting as the companion to a series of 263 photographs shot during regular walks throughout Belgium, Europe, the book captures both visual and emotional landscapes. It's the online culmination of an eight-year project by an exiled artist, pioneering a digital artwork that integrates all timestamped drafts into one open-source and free edition.</p>
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><a href="authors-note.md">AUTHOR'S NOTE</a></td></tr><tr><td align="center"><a href="reading-guide.md">READING GUIDE</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><a href="authors-note.md">ARTIST'S NOTE</a></td></tr><tr><td align="center"><a href="reading-guide.md">READING GUIDE</a></td></tr></tbody></table>
 
 <p align="center">◈</p>
 
 <h4 align="center"><mark style="color:$info;">book.</mark>awalkaday.art</h4>
 
-<p align="center"><strong><code>25 Pages</code> — ENGLISH — Black &#x26; White Digital Photography</strong></p>
+<p align="center"><strong><code>32 Pages</code> — ENGLISH — Black &#x26; White Digital Photography</strong></p>
 
 <p align="center"><a href="https://github.com/awalkaday/about-awalkaday-art/tree/book">github.com/awalkaday/about-awalkaday-art/tree/book</a></p>
 

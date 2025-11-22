@@ -1,12 +1,14 @@
 ---
-description: A list of chapters and subchapters showing on which page each one appears
+description: >-
+  A list of 18 chapters and 14 subchapters showing on which page each one
+  appears
 ---
 
 # READING GUIDE
 
 ## Contents
 
-* AUTHOR'S NOTE                                           → [`FRONT-1`](authors-note.md)
+* ARTIST'S NOTE                                           → [`FRONT-1`](authors-note.md)
 * READING GUIDE                                           → [`FRONT-2`](reading-guide.md)
 * Introduction to the Photo Series                        → [`1`](introduction-to-the-photo-series.md)
 * Beyond Pixels: A Stroll into Nature                     → [`2`](beyond-pixels-a-stroll-into-nature.md)
