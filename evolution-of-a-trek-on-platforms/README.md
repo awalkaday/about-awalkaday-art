@@ -1,7 +1,7 @@
 ---
 description: >-
-  Five digital territories claimed to map nomadism for visibility, for
-  transparency, for presentation, for discourse, and for permanence
+  Five digital territories map strategically nomadism in search of visibility,
+  transparency, presentation, discourse, and permanence
 layout:
   width: default
   title:

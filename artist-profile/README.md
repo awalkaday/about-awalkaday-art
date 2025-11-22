@@ -1,8 +1,8 @@
 ---
 description: >-
   A non-Burundian portrait assembled from fragments of darkened memories:
-  Beijing to Brussels, Canon to Nokia, engineering student to undocumented
-  artist
+  Beijing to Brussels, war filming to refuge seeking, engineer-in-training to
+  undocumented human
 layout:
   width: default
   title:

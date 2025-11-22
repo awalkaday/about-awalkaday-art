@@ -1,7 +1,7 @@
 ---
 description: >-
   The wanderer's burden lightened by rudimentary equipment: Nokia as Air Force
-  One, laptop as command center, and software as portable darkroom
+  One, laptops as command center, and free software as portable darkroom
 layout:
   width: default
   title:
