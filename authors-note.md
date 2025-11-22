@@ -83,17 +83,17 @@ For an accurate time-stamped record of the book's drafts, or an audit of my publ
 
 ***
 
-### Notes On Writing Oneself in Third Person
+### On Writing Oneself In Third Person
 
-Most of this book is written in the third person, referring to me as _'Chris-Armel'_, _'daqhris', 'he',_ or never as _'Iradukunda'_. It is not stylistic affectation, but rather a necessary method in ways decoded below.
+Most of this book is written in the third person, referring to me as _'Chris-Armel'_, _'daqhris', or 'he'_ (but not as _'Iradukunda'_)_._ It is not stylistic affectation, but rather a necessary method in ways decoded below.
 
-**Protection of Oneself:** Eight years of walks encompass years of financial precarity, rejection letters, awareness of being the _'alien'_ in public space, threat attack mitigation, social isolation of exile, zero employment contract, denial of healthcare access, retribution from power-abusers, homelessness, hypervigilance, and uncertain future. First person would require reliving. Third person allows recording.
+**Self-Protection:** Eight years of walks encompass years of financial precarity, rejection letters, awareness of being the _'alien'_ in public space, threat attack mitigation, social isolation of exile, zero employment contract, denial of healthcare access, retribution from power-abusers, homelessness, hypervigilance, and uncertain future. First person requires reliving. Third person allows recording.
 
-**Objectivity Under Scrutiny:** As an undocumented person, my subjective testimony is often suspect, silenced or surveilled. Immigration _'interviews'_ were tainted by a hostile assumption of faking suffering for sympathy gain. Third person borrows the authority of the technological archive spread around third-party networks that don't ask to be believed; they simply are. &#x20;
+**Objectivity Under Scrutiny:** As an undocumented person, my subjective testimony is often suspect, silenced or surveilled. Immigration _'interviews'_ are tainted by a hostile assumption of faking suffering for sympathy gain. Third person borrows the authority of the technological archive spread around third-party networks that don't ask to be believed; they simply are. &#x20;
 
-**Archival Consciousness:** This work is designed to outlive me across long-lasting and neutral ecosystems, such as decentralized storage. My studies in computer science paved the way to step onto the future rails of information. These computing systems speak in third person. I match their voice.&#x20;
+**Archival Consciousness:** This work is designed to outlive me across long-lasting and neutral ecosystems, such as decentralized storage. My studies in computer science paved my way to the future rails of information. These computing systems speak in third person. I match their voice.&#x20;
 
-**Memory's Limitations:** I cannot reliably recall all memories and failed at saving all snapshots over time. Some periods are fragmentary, obscured by trauma or time. Photographs contribute to remembering what memory cannot naturally. Third person acknowledges this gap between experience and evidence.
+**Memory's Limitations:** I cannot reliably recall all memories and resurface all snapshots. Some periods are fragmentary, obscured by trauma or time. Photographs contribute to remembering what memory cannot naturally. Third person acknowledges this gap between experience and evidence.
 
 **Western Literary Precedents:**
 
@@ -102,8 +102,8 @@ Most of this book is written in the third person, referring to me as _'Chris-Arm
 * W.G. Sebald's narrators observe themselves observing, creating dreamlike distance
 * Gertrude Stein ventriloquized herself through Alice B. Toklas
 
-The omniscient narrator is not neutral when lending a voice to the archive—Git, blockchain, metadata, timestamp. It is every system that tracked my existence compiled and narrated by me, on my terms. Where first person appears, it marks moments of direct address, of breaking the archival frame to speak as myself. These ruptures are intentional.&#x20;
+The omniscient narrator is not neutral when lending a voice to data crumbs—Git, blockchain, metadata, timestamp. It is every system, that tracked my existence, compiled and narrated by me on my terms. Where first person appears, it marks moments of direct address, of breaking the archival frame to speak as myself. These ruptures are intentional.&#x20;
 
 <p align="center"></p>
 
-<p align="center"><em><strong><code>FRONT-1</code></strong></em></p>
+<p align="center"><strong><code>FRONT-1</code></strong></p>
