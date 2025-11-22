@@ -13,7 +13,7 @@ _Until the activation of its Author's Human ID._
 **Photos,** **Writings**: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
 **Source Code**: [EUPL 1.2](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt)
 
-<figure><img src="https://raw.githubusercontent.com/awalkaday/awalkaday-art/refs/heads/master/assets/icons/awalkaday-logo-3x2.png" alt="" width="375"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="https://raw.githubusercontent.com/awalkaday/awalkaday-art/refs/heads/master/assets/icons/awalkaday-logo-3x2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 <h3 align="right">Copyrights</h3>
 
