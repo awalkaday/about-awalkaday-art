@@ -4,13 +4,13 @@ description: Disclosures and essential information written in the first person.
 
 # ARTIST STATEMENT
 
-_This project was born in my spare time, developed independently in the open, and evolved at the pace of a_ [_turtle_](https://en.m.wikipedia.org/wiki/Cultural_depictions_of_turtles)_. Countless public drafts and serene long walks have shaped it into its present state, akin to a therapeutic exercise._
+This project was born in my spare time, developed independently in the open, and evolved at the pace of a [turtle](https://en.m.wikipedia.org/wiki/Cultural_depictions_of_turtles). Countless public drafts and serene long walks have shaped it into its present state, akin to a therapeutic exercise.
 
 {% embed url="https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-gdEnlGmI" %}
 **awalkaday 219-2022**
 {% endembed %}
 
-_The project's lines of code first appeared online in_ [_November 2017_](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f)_, four months after the summer debut of walking and photographing. From the beginning, the creative process was intuitively, leisurely, or swiftly, occurring from time to time, offline or online. Until the process was terminated with an emphasis on narrative writing, visual storytelling in retrospective, artist's book formatting, and timestamps of computing platforms._
+The project's lines of code first appeared online in [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f), four months after the summer debut of walking and photographing. From the beginning, the creative process was intuitively, leisurely, or swiftly, occurring from time to time, offline or online. Until the process was terminated with an emphasis on narrative writing, visual storytelling in retrospective, artist's book formatting, and timestamps of computing platforms.
 
 {% embed url="https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f" %}
 
@@ -59,52 +59,51 @@ _The project's lines of code first appeared online in_ [_November 2017_](https:/
 ```
 {% endcode %}
 
-_As any reader can see, the visual art project, originally named  `A WALK≡A DAY` , took more than the five years predicted at the onset before being completed. The page listing answers to_ “_when, why, how, where, who_” _questions, titled `FAQ | A WALK≡A DAY`, was eventually migrated away from my personal site at `daqhris.com/awalkaday` to an independent open-source project. The art project is structured like an organization on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter._
+As any reader can see, the visual art project, originally named  `A WALK≡A DAY` , took more than the five years predicted at the onset before being completed. The page listing answers to _'WHEN?, WHY?, HOW?, WHERE?, WHO?'_, titled `FAQ | A WALK≡A DAY`, was eventually migrated away from my personal site at `daqhris.com/awalkaday` to an independent open-source project. The art project is structured like an organization on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter.
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/7660a21a32aa6c6b539beaf4b20c12c11fa4f148" %}
 
-_The three-bar symbol_ [_`≡`_](https://en.wikipedia.org/wiki/Triple_bar) _, which is synonymous with the two-way street sign_ ↔, _had piqued my interest as an indicator of logical equivalence and the monetary unit of a blockchain currency. The `awalkaday` building blocks became once again the focus of my geeky attention and camera lenses from_ [_May 2021_](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4) _onwards. That was right after receiving a developer certification from web coding classes, taught at_ [_freeCodeCamp.org_](https://www.freecodecamp.org/daqhris)_, elongated into the timeframes of Aug-Oct 2016 and Dec 2020-Feb 2021._
+The three-bar symbol [`≡`](https://en.wikipedia.org/wiki/Triple_bar) , which is synonymous with the two-way street sign ↔, had piqued my interest as an indicator of logical equivalence and the monetary unit of a blockchain currency. The `awalkaday` building blocks became once again the focus of my geeky attention and camera lenses from [May 2021](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4) onwards. That was right after receiving a developer certification from web coding classes, taught at [freeCodeCamp.org](https://www.freecodecamp.org/daqhris), elongated into the timeframes of Aug-Oct 2016 and Dec 2020-Feb 2021.
 
 <div data-with-frame="true"><figure><img src="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/freeCodeCamp-ResponsiveWebDesign.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% embed url="https://daqhris.com/fcc-cert/" %}
 
-_This book displays a mix of modified texts from_ [_about.awalkaday.art_](https://about.awalkaday.art) — _an online page that is as old as the project's earliest footprints — mingling with poetic writings narrating a «crème de la crème» artwork, then illustrated with evocative `awalkaday` photographs. Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass during a long-lasting march._&#x20;
+This book displays a mix of modified texts from [about.awalkaday.art](https://about.awalkaday.art) — an online page that is as old as the project's earliest footprints — mingling with poetic writings narrating a _'crème de la crème'_ artwork, then illustrated with evocative `awalkaday` photographs. Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass during a long-lasting march.&#x20;
 
 <figure><img src="https://wsxgsr6e2fq4xoktdz3sqpudk7wusjy5lsip2zdramftcwphlkdq.arweave.net/tK5pR8TRYcu5Ux53KD6DV-1JJx1ckP1kcQMLMVnnWoc" alt=""><figcaption><p><strong>awalkaday 48-2022</strong></p></figcaption></figure>
 
-_Peering into photographs devoid of humans, combing through scattered data trails, cleansing away trauma by crying were a weekly occurrence_ _when recalling shattered memories during a lifetime review at the start of 2024. Traveling back in spacetime, against my brain's comfort, was made a breeze by the patronage of_ [_Ant Hampton_](https://www.anthampton.com/) _who provided rent-free housing on top of Mount Kemmel, at a flat overlooking the Park of Forest where rose up inspiration, for nearly a year and half in Brussels (2023-2025)._&#x20;
+Peering into photographs devoid of humans, combing through scattered data trails, cleansing away trauma by crying were a weekly occurrence when recalling shattered memories during a lifetime review at the start of 2024. Traveling back in spacetime, against my brain's comfort, was made a breeze by the patronage of [Ant Hampton](https://www.anthampton.com/) who provided rent-free housing on top of Mount Kemmel, at a flat overlooking the Park of Forest where rose up inspiration, for nearly a year and half in Brussels (2023-2025).&#x20;
 
 <figure><img src="https://7qcx5f3hkbvgk5mz33xc3cpbuxozanrxhfpl7qinekgqyptnkuea.arweave.net/_AV-l2dQamV1md7uLYnhpd2QNjc5Xr_BDSKNDD5tVQg" alt=""><figcaption><p><strong>awalkaday 172-2022</strong></p></figcaption></figure>
 
-_For an accurate time-stamped record of the book's drafts, or an audit of my public edits scribbled down in GIT commits, please visit the source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis and over a long time window, is available_ [_here_](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency)_._&#x20;
+For an accurate time-stamped record of the book's drafts, or an audit of my public edits scribbled down in GIT commits, please visit the source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis and over a long time window, is available [here](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency).&#x20;
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commits/book/" %}
 
 ***
 
-### _Notes On Writing Oneself in Third Person_
+### Notes On Writing Oneself in Third Person
 
-_Most of this book is written in the third person, referring to me as "Chris-Armel" or "he." It is not stylistic affectation, but rather a necessary method in ways decoded below._
+Most of this book is written in the third person, referring to me as _'Chris-Armel'_, _'daqhris', 'he',_ or never as _'Iradukunda'_. It is not stylistic affectation, but rather a necessary method in ways decoded below.
 
-_**Protection of Oneself:** Eight years of walks encompass years of financial precarity, rejection letters, awareness of being the "alien" in public space, social isolation of exile, zero employment contract, denial of healthcare access,_ _retribution from power-abusing humans, homelessness, hypervigilance and uncertain future. First person would require reliving. Third person allows recording._
+**Protection of Oneself:** Eight years of walks encompass years of financial precarity, rejection letters, awareness of being the _'alien'_ in public space, threat attack mitigation, social isolation of exile, zero employment contract, denial of healthcare access, retribution from power-abusers, homelessness, hypervigilance, and uncertain future. First person would require reliving. Third person allows recording.
 
-_**Objectivity under Scrutiny:** As an undocumented person, my subjective testimony is often suspect, scrutinized or surveilled. Third person borrows the authority of the technological archive spread around third-party networks which doesn't ask to be believed; it simply is._
+**Objectivity Under Scrutiny:** As an undocumented person, my subjective testimony is often suspect, silenced or surveilled. Immigration _'interviews'_ were tainted by a hostile assumption of faking suffering for sympathy gain. Third person borrows the authority of the technological archive spread around third-party networks that don't ask to be believed; they simply are. &#x20;
 
-_**Archival Consciousness:** This work is designed to outlive me across long-lasting and neutral ecosystems, such as decentralized digital storage. These computing systems speak in third person. I match their voice._
+**Archival Consciousness:** This work is designed to outlive me across long-lasting and neutral ecosystems, such as decentralized storage. My studies in computer science paved the way to step onto the future rails of information. These computing systems speak in third person. I match their voice.&#x20;
 
-_**Memory's Limitations:** I cannot reliably recall all memories and failed at saving all snapshots over time. Some periods are fragmentary, obscured by trauma or time. The online photographs contribute to documenting what natural memory cannot. Third person acknowledges this gap between experience and evidence._
+**Memory's Limitations:** I cannot reliably recall all memories and failed at saving all snapshots over time. Some periods are fragmentary, obscured by trauma or time. Photographs contribute to remembering what memory cannot naturally. Third person acknowledges this gap between experience and evidence.
 
-_**Western Literary Precedents:**_
+**Western Literary Precedents:**
 
-* _Julius Caesar wrote, about his military campaigns, "Commentarii" in third person (both self-documentation and self-mythologizing)_
-* _Henry Adams wrote "The Education of Henry Adams" in third person to examine himself as case study, objectified for analysis_
-* _W.G. Sebald's narrators observe themselves observing, creating dreamlike distance_
-* _Gertrude Stein ventriloquized herself through Alice B. Toklas_
+* Julius Caesar wrote, about his military campaigns, _"Commentarii"_ in third person (both self-documentation and self-mythologizing)
+* Henry Adams wrote _"The Education of Henry Adams"_ in third person to examine himself as case study, objectified for analysis
+* W.G. Sebald's narrators observe themselves observing, creating dreamlike distance
+* Gertrude Stein ventriloquized herself through Alice B. Toklas
 
-_The omniscient narrator is not neutral. It's the archive speaking—Git, blockchain, metadata, timestamp. It is every system that tracked my existence compiled and narrated by me, on my terms._ \
-_Where first person appears, it marks moments of direct address, of breaking the archival frame to speak as myself. These ruptures are intentional._&#x20;
+The omniscient narrator is not neutral when lending a voice to the archive—Git, blockchain, metadata, timestamp. It is every system that tracked my existence compiled and narrated by me, on my terms. Where first person appears, it marks moments of direct address, of breaking the archival frame to speak as myself. These ruptures are intentional.&#x20;
 
 <p align="center"></p>
 
-<p align="center"><strong><code>FRONT-1</code></strong></p>
+<p align="center"><em><strong><code>FRONT-1</code></strong></em></p>
