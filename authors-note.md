@@ -2,9 +2,9 @@
 description: Disclosures and essential information written in the first person.
 ---
 
-# ARTIST'S NOTE
+# ARTIST STATEMENT
 
-_This artistic project was born in my spare time, developed independently in the open, and evolved at the pace of a_ [_turtle_](https://en.m.wikipedia.org/wiki/Cultural_depictions_of_turtles)_. Countless public drafts and serene long walks have shaped it into its present state, akin to a therapeutic exercise._
+_This project was born in my spare time, developed independently in the open, and evolved at the pace of a_ [_turtle_](https://en.m.wikipedia.org/wiki/Cultural_depictions_of_turtles)_. Countless public drafts and serene long walks have shaped it into its present state, akin to a therapeutic exercise._
 
 {% embed url="https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-gdEnlGmI" %}
 **awalkaday 219-2022**
