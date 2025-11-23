@@ -4,6 +4,8 @@ description: Disclosures and essential information written in the first person.
 
 # ARTIST STATEMENT
 
+### First Steps (2017)
+
 This project was born in my spare time, developed independently in the open, and evolved at the pace of a [turtle](https://en.m.wikipedia.org/wiki/Cultural_depictions_of_turtles). Countless public drafts and serene long walks have shaped it into its present state, akin to a therapeutic exercise.
 
 {% embed url="https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-gdEnlGmI" %}
@@ -11,6 +13,8 @@ This project was born in my spare time, developed independently in the open, and
 {% endembed %}
 
 The project's lines of code first appeared online in [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f), four months after the summer debut of walking and photographing. Since the beginning, the creative process was intuitively, leisurely, or swiftly, occurring from time to time, offline or online. Until it was terminated with an emphasis on narrative writing, visual storytelling retrospectively, artist's book formatting, and public timestamps.
+
+Below is the original FAQ from November 2017, preserved exactly as written. Note the optimistic "5 year lifespan"—the project, originally named  `A WALK≡A DAY` , ultimately spanned eight years.
 
 {% embed url="https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f" %}
 
@@ -59,21 +63,25 @@ The project's lines of code first appeared online in [November 2017](https://git
 ```
 {% endcode %}
 
-As any reader can see, the visual art project, originally named  `A WALK≡A DAY` , took more than the five years predicted at the onset before completion. The page listing answers to _'WHEN?, WHY?, HOW?, WHERE?, WHO?'_, titled `FAQ | A WALK≡A DAY`, was eventually migrated away from my personal site at `daqhris.com/awalkaday` to an independent open-source project. The art project is structured like an organization on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter.
+### Technical Boost (2021)
+
+The page listing answers to _'WHEN?, WHY?, HOW?, WHERE?, WHO?'_, titled `FAQ | A WALK≡A DAY`, was eventually migrated away from my personal site at `daqhris.com/awalkaday` to an independent open-source project. The art project is structured like an organization on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter.
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/7660a21a32aa6c6b539beaf4b20c12c11fa4f148" %}
 
-The three-bar symbol [`≡`](https://en.wikipedia.org/wiki/Triple_bar) , which is synonymous with the two-way street sign ↔, had piqued my interest as an indicator of logical equivalence and the monetary unit of a blockchain currency. The `awalkaday` building blocks became once again the focus of my geeky attention and camera lenses from [May 2021](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4) onwards. That was right after receiving a developer certification from web coding classes, taught at [freeCodeCamp.org](https://www.freecodecamp.org/daqhris), elongated into the timeframes of Aug-Oct 2016 and Dec 2020-Feb 2021.
+The three-bar symbol [`≡`](https://en.wikipedia.org/wiki/Triple_bar) , which is synonymous with the two-way street sign ↔, piqued my interest as an indicator of logical equivalence and the monetary unit of a currency on the Ethereum blockchain. The `awalkaday` building blocks became once again the focus of my geeky attention and camera lenses from [May 2021](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4) onwards. That was right after receiving a developer certification from web coding classes, taught at [freeCodeCamp.org](https://www.freecodecamp.org/daqhris), elongated into the timeframes of Aug-Oct 2016 and Dec 2020-Feb 2021.
 
 <div data-with-frame="true"><figure><img src="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/freeCodeCamp-ResponsiveWebDesign.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% embed url="https://daqhris.com/fcc-cert/" %}
 
-This book displays a mix of texts copied and modified from [about.awalkaday.art](https://about.awalkaday.art) — an online page as old as the project's earliest footprints — with poetic writings narrating a _'crème de la crème'_ artwork, which are illustrated by evocative `awalkaday` photographs. Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass.&#x20;
+This book displays a mix of texts copied and modified from [about.awalkaday.art](https://about.awalkaday.art) — an online page as old as the project's earliest footprints — with poetic writings narrating a _'crème de la crème'_ online artwork, which is illustrated by evocative `awalkaday` photographs. Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass.&#x20;
 
 <figure><img src="https://wsxgsr6e2fq4xoktdz3sqpudk7wusjy5lsip2zdramftcwphlkdq.arweave.net/tK5pR8TRYcu5Ux53KD6DV-1JJx1ckP1kcQMLMVnnWoc" alt=""><figcaption><p><strong>awalkaday 48-2022</strong></p></figcaption></figure>
 
-Peering into photographs devoid of humans, combing through scattered data trails, cleansing away trauma by crying were a weekly occurrence when recalling shattered memories during a life review at the start of 2024. Traveling back in my mind's timeline, against my brain's comfort, was made a breeze by the patronage of [Ant Hampton](https://www.anthampton.com/) who provided rent-free housing on top of Mount Kemmel, in Brussels, at a flat overlooking the Park of Forest where rose up inspiration, for nearly a year and half (2023-2025).&#x20;
+### Memory Work (2024)
+
+Peering into photographs devoid of humans, combing through scattered data trails, cleansing away trauma by crying were a weekly occurrence when recalling shattered memories during a life review at the start of 2024. Traveling back in my mind's timeline, against my brain's resistance, was made a breeze by the patronage of [Ant Hampton](https://www.anthampton.com/) (British artist) who provided rent-free housing on top of Mount Kemmel, in Brussels, at a flat overlooking the Park of Forest where rose up inspiration, for nearly a year and half (2023-2025).&#x20;
 
 <figure><img src="https://7qcx5f3hkbvgk5mz33xc3cpbuxozanrxhfpl7qinekgqyptnkuea.arweave.net/_AV-l2dQamV1md7uLYnhpd2QNjc5Xr_BDSKNDD5tVQg" alt=""><figcaption><p><strong>awalkaday 172-2022</strong></p></figcaption></figure>
 
