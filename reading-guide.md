@@ -17,7 +17,7 @@ description: >-
   * Cameras and Photo Editing                               → [`5`](mobile-studio-and-digital-toolkit/cameras-and-photo-editing.md)&#x20;
   * Gaming Laptop                                           → [`6`](mobile-studio-and-digital-toolkit/gaming-laptop.md)&#x20;
 * Chronicle of Milestones Navigation                      → [`7`](chronicle-of-milestones-navigation/)&#x20;
-  * Parallel Pathways                                       → [`8`](chronicle-of-milestones-navigation/ongoing-pathways.md)&#x20;
+  * Parallel Pathways                                       → [`8`](chronicle-of-milestones-navigation/parallel-pathways.md)&#x20;
   * Internet Footprints                                     → [`9`](chronicle-of-milestones-navigation/internet-footprints.md)&#x20;
   * Blockchain Records                                      → [`10`](chronicle-of-milestones-navigation/blockchain-records.md)&#x20;
 * Evolution of a Trek on Platforms                        → [`11`](evolution-of-a-trek-on-platforms/)&#x20;

@@ -20,8 +20,8 @@ layout:
 
 # Chronicle of Milestones Navigation
 
-{% content-ref url="ongoing-pathways.md" %}
-[ongoing-pathways.md](ongoing-pathways.md)
+{% content-ref url="parallel-pathways.md" %}
+[parallel-pathways.md](parallel-pathways.md)
 {% endcontent-ref %}
 
 {% content-ref url="internet-footprints.md" %}
