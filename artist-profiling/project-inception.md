@@ -1,6 +1,6 @@
 # Project Inception
 
-At the kick-off of summer 2017, Chris had been residing in a Red Cross camp sheltering asylum seekers in Namur, Belgium, for almost ten months from his wintertime birthday there. To combat prolonged boredom and physical inactivity, an idea sparkled in his mind, urging him to combine his skills in black-and-white photography, visual design, and software coding in order to launch an artistic project.
+Summer 2017. Chris had been residing in a Red Cross camp in Namur, Belgium, for almost ten months—since his wintertime birthday as a newly arrived asylum seeker. To combat prolonged boredom and physical inactivity, an idea sparkled in his mind, urging him to combine his skills in black-and-white photography, visual design, and software coding in order to launch an artistic project.
 
 {% embed url="https://aqdko2gvdb5swcvmv5fefjh2nvqay2jo25zaraa4e7gzvtmhqvra.arweave.net/BAanaNUYeysKrK9KQqT6bWAMaS7XcgiAHCfNms2HhWI" %}
 **awalkaday 344-2017**
@@ -8,7 +8,7 @@ At the kick-off of summer 2017, Chris had been residing in a Red Cross camp shel
 
 Using rudimentary photographic equipment and online public platforms, coupled with an open-source digital toolbox, he has visually documented a years-long journey that artfully depicts his time-bound walks in exile, and publicly logs his footprints around a non-native land.
 
-Accompanied by his mother, who flew back shortly after, he had landed in Brussels in the winter of 2016.  The family separation was preceded by a summer-and-autumn stopover in Cairo, next to parents and siblings established in a prestigious district known as المهندسين or as '_The Engineers'_ in Arabic, plus touristic journeys to the Egyptian pyramids.&#x20;
+Accompanied by his mother, who flew back shortly after, he landed in Brussels in winter 2016. The separation followed a summer-autumn stopover in Cairo, where his parents and siblings had settled in the prestigious district of المهندسين—'The Engineers' in Arabic—before his European departure.&#x20;
 
 His aims in Europe—beyond pursuing university education again—included seeking safe haven away from persecution by his motherland's diplomats and their Chinese counterparts while studying abroad two seasons earlier.
 
@@ -16,7 +16,7 @@ His aims in Europe—beyond pursuing university education again—included seeki
 **awalkaday 185-2022**
 {% endembed %}
 
-His original sin, that led to his exile from China and Burundi for many years, was unofficially blamed by Communist federal authorities on a one-week confluence of arbitrary factors during springtime of 2016. The confidential ingredients were deposited on a cross-country tabletop, covertly sent over electronic communication rails, and unaccompanied by any legal counsel.&#x20;
+His original sin, which led to exile from China and Burundi, was attributed by Communist authorities to a one-week confluence of arbitrary factors in spring 2016. The confidential ingredients were deposited on a cross-country tabletop, covertly sent over electronic communication rails, and unaccompanied by any legal counsel.&#x20;
 
 On the torturous path to confining the multilingual man for five, then stretched into twenty-one, nights and days of brainwashed captivity, all decisionmakers were not aware that the ingredients were :&#x20;
 
@@ -40,29 +40,29 @@ On the torturous path to confining the multilingual man for five, then stretched
 
 In the absence of photographic evidence of the surreal story — made in and imported from China — a portion of those ingredients ended up being recycled against him in Belgian legal asylum proceedings (2017-2018).&#x20;
 
-Until his blurry mind and body on alert voiced an untrue African geolocation of his father in response to a male judge's oral inquiry. Then, little did the lonely and poor boy imagine how fast life could spiral, from hearing aloud _«_[_Il est où ton papa?_](https://genius.com/1828413)_»_ in a court roo&#x6D;_,_ to tumbling around like a [_toupie_](https://en.wiktionary.org/wiki/toupie) _('spinning top')._
+Until his exhausted mind and hypervigilant body gave an incorrect location—his father was in Rwanda, he told the male judge, though this was untrue. Then life spiraled: from the courtroom question _«_[_Il est où ton papa?_](https://genius.com/1828413)_»_ to spinning like a [_toupie_](https://en.wiktionary.org/wiki/toupie) _('spinning top')_, out of control.
 
 <figure><img src="https://rodfztakuygtmhqfbszvgxfobnojd47isei6lmuh52ngxpcs72ca.arweave.net/i4ZczAqmDTYeBQyzU1yuC1yR8-iREeWyh-6aa7xS_oQ" alt="awalkaday 47-2022"><figcaption><p><strong>awalkaday 47-2022</strong></p></figcaption></figure>
 
-After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/instagram.md) and coding on [GitHub](../evolution-of-a-trek-on-platforms/github.md), from the second continent discovered in his lifetime, the self-assigned mission was put on hold due to the loss of electronic devices, in the aftermath of a laptop crash and a smartphone theft within the enclosure of a refugee camp, located in a Francophone Belgian region, at the start of 2018.
+After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/instagram.md) and coding on [GitHub](../evolution-of-a-trek-on-platforms/github.md)—from Europe, the second continent he'd discovered in his lifetime—the mission was abruptly halted. His laptop crashed; his smartphone was stolen. Both losses occurred within the refugee camp enclosure in Francophone Belgium, at the start of 2018.
 
-Three years later, during springtime of 2020, the photographic odyssey was relaunched, like a part-time duty funded by earnings from a painting job, and ran from an attic room in Bastogne, nearby the southeastern Belgian border, at a walking distance from the landlocked nation of Luxembourg, until wintertime of 2022.&#x20;
+Three years later, in spring 2020, the photographic odyssey relaunched. Funded by earnings from a painting job, it ran from an attic room in Bastogne—near the Belgian-Luxembourg border—until winter 2022.&#x20;
 
 {% embed url="https://arweave.net/HZUJofLsOWTGYRYAOMzbtKN7Ad0jMmtDlg4HDgT5Vp8" %}
 **awalkaday 40-2022**
 {% endembed %}
 
-Since day one of the project, the photographer endured the human experience of lacking easy access to medical care, health insurance, humanitarian aid, and banking services. His social status and life as an immigrant remained uncertain, hopeless, angst-inducing and precarious.&#x20;
+Since day one, the photographer lacked medical care, health insurance, humanitarian aid, and banking services. His social status and life as an immigrant remained uncertain, hopeless, angst-inducing and precarious.&#x20;
 
-He faced recurring unemployment, despite numerous skills, and often burned organic calories instead of emitting gas pollutants. In stark contrast with modern European cultural conventions, `awalkaday.art` is neither a state-sponsored artistic endeavor, nor a brick-and-mortar art gallery.
+He faced recurring unemployment despite numerous skills. He walked—burning organic calories instead of emitting gas pollutants—because he had no other choice. In stark contrast with modern European cultural conventions, `awalkaday.art` is neither a state-sponsored artistic endeavor, nor a brick-and-mortar art gallery.
 
 {% embed url="https://arweave.net/WB8akAD3XwwJ-5QCWgH9k-4eaDNRctqmTzBH4hwLwyo" %}
 **awalkaday 184-2021**
 {% endembed %}
 
-One question always strolled in his head, circling around the nervous pathways to and from his brain, all along the photo odyssey on his feet, “_What if all the nationwide walks in the midst of seeking state protection will not yield negative-sounding by-products?_”&#x20;
+One question strolled through his mind, circling the nervous pathways during every walk: “_What if these walks, these photographs, these commits—what if none of it yields positive results and by-products? What if the state still says no?_”&#x20;
 
-A question to which the Greco-Roman God of Time thought of intuitively answering: “_Fear not. Time will tell._”_;_ ahead of the Catholic Church's God telepathically whispering to his inner ear one word, a Hebrew loanword, naturalized as Greek and later as Latin: “_Amen._”
+A question answered intuitively by Chronos, the Greco-Roman God of Time: “_Fear not. Time will tell._”_._ And then, quieter, the Catholic God whispered telepathically one word—a Hebrew loan naturalized through Greek to Latin—to his inner ear: “_Amen._”
 
 
 
