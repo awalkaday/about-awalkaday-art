@@ -83,24 +83,26 @@ For an accurate time-stamped record of the book's drafts, or an analysis of my p
 
 ### On Writing Oneself In Third Person
 
-Most of this book is written in the third person, referring to me as _Chris-Armel_, _daqhris, or he_ without the family nam&#x65;_._ It is not stylistic affectation, but rather a necessary method in ways decoded below.
+Most of this book is written in the third person, referring to me as _Chris-Armel_, _daqhris, &#x6F;_&#x72; _he_—somehow no trace of my family name _Iradukunda._ It is not stylistic affectation, but rather a necessary method in ways decoded below.
 
 **Self-Protection:** Eight years of walks encompass years of financial precarity, rejection letters, awareness of being the _'alien'_ in public space, threat attack mitigation, social isolation of exile, zero employment contract, denial of healthcare access, retribution from power-abusers, homelessness, hypervigilance, and uncertain future. First person requires reliving. Third person allows recording.
 
 **Objectivity Under Scrutiny:** As an immigrant deprived of basic rights, my subjective testimony is often suspect, silenced or surveilled. Immigration _'interviews'_ were tainted by a hostile assumption of faking suffering for sympathy gain. Third person borrows the authority of the technological archive spread around third-party networks that don't ask to be believed; they simply are. &#x20;
 
-**Archival Consciousness:** This work is designed to outlive me across long-lasting and neutral systems, such as decentralized storage. Interrupted studies in computer science paved my way to the future rails of information. These computing systems speak in third person. I match their voice.&#x20;
+**Archival Consciousness:** This work is designed to outlive me across long-lasting and neutral systems, such as decentralized storage. Though forced to interrupt studies in computer engineering, I built an infrastructure for my artworks to reach the rest of the cybernetic universe on digital rails. These computing systems speak in third person. I match their voice.&#x20;
 
 **Memory's Limitations:** I cannot reliably recall all memories and resurface all snapshots. Some periods are fragmentary, obscured by trauma or time. Photographs and timestamps contribute what memory cannot naturally. Third person acknowledges this gap between experience and evidence.
 
-**Western Literary Precedents:**
+**Literary, Cultural, and Political Precedents:**
 
-* _Julius Caesar_ wrote, about his military campaigns, _"Commentarii"_ in third person (both self-documentation and self-mythologizing)
+* _Julius Caesar_ wrote _"Commentarii"_ about his military campaigns in third person (both self-documentation and self-mythologizing)
 * _Henry Adams_ wrote _"The Education of Henry Adams"_ in third person to examine himself as case study, objectified for analysis
 * _W.G. Sebald_'s narrators observe themselves observing, creating dreamlike distance
 * _Gertrude Stein_ ventriloquized herself through _Alice B. Toklas_
+* _W.E.B. Du Bois_**'**&#x73; "double consciousness": the necessity of seeing oneself through the gaze of systems that mark you as other. As an African exile in Europe, I exist in this dual consciousness—my lived experience and the bureaucratic third-person that defines my (non-)status.
+* Afrofuturism's archival urgency (_Sun Ra, Octavia Butler, Samuel R. Delany_): the practice of creating permanent records when dominant systems erase or distort Black existence.&#x20;
 
-The omniscient narrator is not neutral when voicing the story of my data logs. They speak up like a system, that tracked my existence, compiled and narrated on my terms. Where the first person appears, it marks moments of direct address, of breaking the archival frame. These ruptures are intentional.&#x20;
+The omniscient narrator is not neutral. They speak as a system that tracked my existence, but compiled and narrated on my terms. Where the first person appears, it marks moments of direct address, of breaking the archival frame. These ruptures are intentional.&#x20;
 
 <p align="center"></p>
 
