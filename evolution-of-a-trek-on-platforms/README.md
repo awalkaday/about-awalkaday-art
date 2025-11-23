@@ -1,8 +1,7 @@
 ---
 description: >-
-  Five digital territories map out nomadism from one computing platform to
-  another in search of visibility, transparency, presentation, discourse, or
-  permanence
+  Five territories map out nomadism from one computing platform to another in
+  search of visibility, transparency, presentation, discourse, or permanence
 layout:
   width: default
   title:

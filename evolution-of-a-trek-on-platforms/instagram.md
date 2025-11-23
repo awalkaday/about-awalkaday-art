@@ -8,9 +8,9 @@ description: Since July 2017
 
 {% embed url="https://www.instagram.com/walk.day/" %}
 
-The monochrome photographs were originally posted on Instagram by [@walk.day](https://www.instagram.com/walk.day/) (managed by [@iamdaqhris](https://www.instagram.com/iamdaqhris/)), on an almost daily basis, continuously for years, with city location and platform timestamp appended.\
+The monochrome photographs were originally posted on Instagram by [@walk.day](https://www.instagram.com/walk.day/) (managed by [@iamdaqhris](https://www.instagram.com/iamdaqhris/)), on an almost daily basis, continuously for years. Each photograph is accompanied by its city location and a timestamp.\
 \
-In total, 454 photographs can be seen on Instagram. They all carry the hashtag [#awalkaday](https://www.instagram.com/explore/tags/awalkaday/), as envisioned in the summer of 2017, all the way back to the first social media post.
+In total, 454 photographs have been showcased on Instagram. They all carry the hashtag [**#awalkaday**](https://www.instagram.com/explore/tags/awalkaday/), as envisioned in the summer of 2017. This has been consistent all the way back to the first social media post.
 
 {% embed url="https://arweave.net/L2CRb0ySUeg9xmZDRDQBI2zzHd4Cm9608AioFTSMrhc" %}
 **awalkaday 167-2021**
