@@ -1,6 +1,6 @@
 ---
 description: >-
-  Lists accounting for the number of all tokenized photographs, spilt into three
+  Lists accounting for the number of all tokenized photographs, split into three
   categories, and arranged by location, year and season
 layout:
   width: default
@@ -25,5 +25,7 @@ layout:
 <table data-full-width="false"><thead><tr><th align="center">YEAR</th><th align="center">Number of Photos</th></tr></thead><tbody><tr><td align="center">2017</td><td align="center"><code>30</code></td></tr><tr><td align="center">2018</td><td align="center"><code>13</code></td></tr><tr><td align="center">2021</td><td align="center"><code>107</code></td></tr><tr><td align="center">2022</td><td align="center"><code>113</code></td></tr></tbody></table>
 
 <table data-full-width="false"><thead><tr><th align="center">SEASON</th><th align="center">Number of Photos</th></tr></thead><tbody><tr><td align="center">Autumn</td><td align="center"><code>29</code></td></tr><tr><td align="center">Winter</td><td align="center"><code>93</code></td></tr><tr><td align="center">Spring</td><td align="center"><code>39</code></td></tr><tr><td align="center">Summer</td><td align="center"><code>102</code></td></tr></tbody></table>
+
+<p align="center"></p>
 
 <p align="center"><strong><code>ANNEX-2</code></strong></p>

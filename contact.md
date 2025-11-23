@@ -1,6 +1,6 @@
 # Contact
 
-Convenient methods of contacting the walking photographer were actively ran, over an extended window of time, through worldwide optical cables.
+Convenient methods of contacting the walking photographer were actively run, over an extended window of time, through worldwide optical cables.
 
 #### **Electronic Mail**
 

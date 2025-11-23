@@ -6,7 +6,7 @@ An open source ethos which embodies principles such as transparency, collaborati
 **awalkaday 79-2022**
 {% endembed %}
 
-To gain exposure to software-powered innovation, `daqhris` was an active contributor to the [Free and Open Source Software Developer Conference](https://fosdem.org/) in Brussels every year since 2020. The annual conference enabled him to stay connected with the European software developer community, despite lacking the right to attend university or work professionally in the field.
+To gain exposure to software-powered innovation, `daqhris` was an active contributor to the [Free and Open Source Software Developer Conference](https://fosdem.org/) in Brussels every year since 2020. The annual conference enabled him to stay connected with the European software developer community, despite being legally barred from university enrollment and professional employment.
 
 {% embed url="https://fosdem.org/" %}
 
@@ -16,7 +16,7 @@ As a volunteer, one of his most memorable acts was standing onstage, in front of
 
 {% embed url="https://archive.fosdem.org/2023/schedule/event/nasa/" %}
 
-In the second half of the 2024, `daqhris` began to ingeniously craft an online art book, [`book.awalkaday.art`](../), which spotlights various aspects of his `git`-dependent artistic practice, and meets the public eye from a technical documentation platform, [GitBook](https://www.gitbook.com/).
+In the second half of 2024, `daqhris` began to ingeniously craft an online art book, [`book.awalkaday.art`](../), which spotlights various aspects of his `git`-dependent artistic practice, and meets the public eye from a technical documentation platform, [GitBook](https://www.gitbook.com/).
 
 {% embed url="https://arweave.net/EGWfqt41-x4swizPynVwltLBmd-68PCM8q6CX3EmwG4" %}
 **awalkaday 91-2022**
