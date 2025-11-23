@@ -30,10 +30,10 @@ description: >-
   * Public GIT Commits                                      → [`18`](artists-proofs-and-ethos/public-git-commits.md)&#x20;
   * Open Source Software                                    → [`19`](artists-proofs-and-ethos/open-source-software.md)&#x20;
   * GIT Usage History                                       → [`20`](artists-proofs-and-ethos/git-usage-history.md)&#x20;
-* Artist Profiling                                          → [`21`](artist-profile/)&#x20;
-  * Human Identity                                          → [`22`](artist-profile/human-identity.md)&#x20;
-  * Training Ground                                         → [`23`](artist-profile/training-ground.md)&#x20;
-  * Project Inception                                       → [`24`](artist-profile/project-inception.md)&#x20;
+* Artist Profiling                                          → [`21`](artist-profiling/)&#x20;
+  * Human Identity                                          → [`22`](artist-profiling/human-identity.md)&#x20;
+  * Training Ground                                         → [`23`](artist-profiling/training-ground.md)&#x20;
+  * Project Inception                                       → [`24`](artist-profiling/project-inception.md)&#x20;
 * Contact                                                 → [`25`](contact.md)&#x20;
 * IMPRINT                                                 → [`ANNEX-1`](imprint.md)&#x20;
   * Public Licensing
