@@ -63,7 +63,7 @@ Below is the original FAQ from November 2017, preserved exactly as written. Note
 ```
 {% endcode %}
 
-### Technical Boost (2021)
+### Technical Start-up (2021)
 
 The page listing answers to _'WHEN?, WHY?, HOW?, WHERE?, WHO?'_, titled `FAQ | A WALK≡A DAY`, was eventually migrated away from my personal site at `daqhris.com/awalkaday` to an independent open-source project. The art project is structured like an organization on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter.
 
@@ -89,7 +89,7 @@ For an accurate time-stamped record of the book's drafts, or an analysis of my p
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commits/book/" %}
 
-### On Writing Oneself In Third Person
+### On Writing Oneself In Third Person (2025)
 
 Most of this book is written in the third person, referring to me as _Chris-Armel_, _daqhris, &#x6F;_&#x72; _he_—somehow no trace of my family name _Iradukunda._ It is not stylistic affectation, but rather a necessary method in ways decoded below.
 
