@@ -8,17 +8,17 @@ At the kick-off of summer 2017, Chris had been residing in a Red Cross camp shel
 
 Using rudimentary photographic equipment and online public platforms, coupled with an open-source digital toolbox, he has visually documented a years-long journey that artfully depicts his time-bound walks in exile, and publicly logs his footprints around a non-native land.
 
-Accompanied by his mother who thereafter flew back, he had landed in Brussels in the winter of 2016, at a terminus preceded by a summertime stopover, next to all parents and siblings in the vicinity of Egyptian pyramids neighboring Cairo.&#x20;
+Accompanied by his mother, who flew back shortly after, he had landed in Brussels in the winter of 2016.  The family separation was preceded by a summer-and-autumn stopover in Cairo, next to parents and siblings established in a prestigious district known as المهندسين or as '_The Engineers'_ in Arabic, plus touristic journeys to the Egyptian pyramids.&#x20;
 
-His aimful European dream, aside from wishful dreaming of chasing again a university trophy, was seeking a safe haven away from persecution by his motherland's diplomats and their Chinese counterparts, while studying abroad in China two seasons earlier.
+His aims in Europe—beyond pursuing university education again—included seeking safe haven away from persecution by his motherland's diplomats and their Chinese counterparts while studying abroad two seasons earlier.
 
 {% embed url="https://arweave.net/PzcrZqCeMDwty56zrlbyngXjTYxpPCEKKo6MevHVf-Q" %}
 **awalkaday 185-2022**
 {% endembed %}
 
-His original sin, worthy of exile from the capitals of China and Burundi for many years, was unofficially blamed on a one-week cocktail of irrational factors during springtime of 2016. The cocktail's ingredients were deposited on a cross-country tabletop, covertly sent over electronic communication rails, and unaccompanied by any legal counsel in human form.&#x20;
+His original sin, that led to his exile from China and Burundi for many years, was unofficially blamed by Communist federal authorities on a one-week confluence of arbitrary factors during springtime of 2016. The confidential ingredients were deposited on a cross-country tabletop, covertly sent over electronic communication rails, and unaccompanied by any legal counsel.&#x20;
 
-On the torturous path to confining the multilingual man for five, then stretched into twenty-one, nights and days of brainwashed captivity, not all decisionmakers were aware that key ingredients were :&#x20;
+On the torturous path to confining the multilingual man for five, then stretched into twenty-one, nights and days of brainwashed captivity, all decisionmakers were not aware that the ingredients were :&#x20;
 
 1. the photographic portrayal of human faces at a foreign students' cultural celebration&#x20;
 2. activism on campus as a tuition-free, government-sponsored, foreign student&#x20;
@@ -38,9 +38,9 @@ On the torturous path to confining the multilingual man for five, then stretched
 
 <figure><img src="https://sd55vpc7xirkafqt6l42hrsiafn5kqkvdbliclrpomelxemu5opa.arweave.net/kPvavF-6IqAWE_L5o8ZIAVvVQVUYVoEuL3MIu5GU654" alt="awalkaday 59-2022"><figcaption><p><strong>awalkaday 59-2022</strong></p></figcaption></figure>
 
-_In absentia_ of photographic evidence of the surreal story — made in and imported from China — a portion of those ingredients ended up being recycled against him in Belgian legal asylum proceedings (2017-2018).&#x20;
+In the absence of photographic evidence of the surreal story — made in and imported from China — a portion of those ingredients ended up being recycled against him in Belgian legal asylum proceedings (2017-2018).&#x20;
 
-Until when his blurry mind and on alert body voiced an untrue African geolocation of his father in response to a male judge's oral inquiry. Then, little did the lonely and poor boy imagine how fast life could spiral, from hearing aloud _«_[_Il est où ton papa?_](https://genius.com/1828413)_»_ in a court roo&#x6D;_,_ to tumbling around like a [_toupie_](https://en.wiktionary.org/wiki/toupie)_._
+Until his blurry mind and body on alert voiced an untrue African geolocation of his father in response to a male judge's oral inquiry. Then, little did the lonely and poor boy imagine how fast life could spiral, from hearing aloud _«_[_Il est où ton papa?_](https://genius.com/1828413)_»_ in a court roo&#x6D;_,_ to tumbling around like a [_toupie_](https://en.wiktionary.org/wiki/toupie) _('spinning top')._
 
 <figure><img src="https://rodfztakuygtmhqfbszvgxfobnojd47isei6lmuh52ngxpcs72ca.arweave.net/i4ZczAqmDTYeBQyzU1yuC1yR8-iREeWyh-6aa7xS_oQ" alt="awalkaday 47-2022"><figcaption><p><strong>awalkaday 47-2022</strong></p></figcaption></figure>
 
