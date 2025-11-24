@@ -103,12 +103,12 @@ Most of this book is written in the third person, referring to me as _Chris-Arme
 
 **Literary, Cultural, and Political Precedents:**
 
-* _Julius Caesar_ wrote _"Commentarii"_ about his military campaigns in third person (both self-documentation and self-mythologizing)
-* _Henry Adams_ wrote _"The Education of Henry Adams"_ in third person to examine himself as case study, objectified for analysis
-* _W.G. Sebald_'s narrators observe themselves observing, creating dreamlike distance
-* _Gertrude Stein_ ventriloquized herself through _Alice B. Toklas_
-* _W.E.B. Du Bois_**'**&#x73; "double consciousness": the necessity of seeing oneself through the gaze of systems that mark you as other. As an African exile in Europe, I exist in this dual consciousness—my lived experience and the bureaucratic third-person that defines my (non-)status.
-* Afrofuturism's archival urgency (_Sun Ra, Octavia Butler, Samuel R. Delany_): the practice of creating permanent records when dominant systems erase or distort Black existence.&#x20;
+* Julius Caesar wrote _"Commentarii"_ about his military campaigns in third person (both self-documentation and self-mythologizing)
+* Henry Adams wrote _"The Education of Henry Adams"_ in third person to examine himself as case study, objectified for analysis
+* W.G. Sebald's narrators observe themselves observing, creating dreamlike distance
+* Gertrude Stein ventriloquized herself through _Alice B. Toklas_
+* W.E.B. Du Boi&#x73;**'**&#x73; "double consciousness": the necessity of seeing oneself through the gaze of systems that mark you as other. As an African exile in Europe, I exist in this dual consciousness—my lived experience and the bureaucratic third-person that defines my (non-)status.
+* Afrofuturism's archival urgency: the practice of creating permanent records when dominant systems erase or distort Black existence.&#x20;
 
 The omniscient narrator is not neutral. They speak as a system that tracked my existence, but compiled and narrated on my terms. Where the first person appears, it marks moments of direct address, of breaking the archival frame. These ruptures are intentional.&#x20;
 
