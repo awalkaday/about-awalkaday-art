@@ -1,6 +1,6 @@
 # Project Inception
 
-#### _Crossing Waters_
+### _Crossing Waters_
 
 Accompanied by his mother, who flew back shortly after, he landed in Brussels in winter 2016. The separation followed a summer-autumn stopover in Cairo, where his parents and siblings had settled in the prestigious district of المهندسين—'The Engineers' in Arabic—before his European departure.&#x20;
 
@@ -10,7 +10,7 @@ His aims in Europe—beyond pursuing university education again—included seeki
 **awalkaday 185-2022**
 {% endembed %}
 
-#### _Beijing-Bujumbura Nightmares_
+### _Beijing-Bujumbura Nightmares_
 
 His original sin, which led to exile from China and Burundi, was attributed by Communist authorities to a one-week confluence of arbitrary factors in spring 2016. The confidential ingredients were deposited on a cross-country tabletop, covertly sent over electronic communication rails, and unaccompanied by any legal counsel.&#x20;
 
@@ -36,7 +36,7 @@ On the torturous path to confining the multilingual man for five, then stretched
 
 <figure><img src="https://sd55vpc7xirkafqt6l42hrsiafn5kqkvdbliclrpomelxemu5opa.arweave.net/kPvavF-6IqAWE_L5o8ZIAVvVQVUYVoEuL3MIu5GU654" alt="awalkaday 59-2022"><figcaption><p><strong>awalkaday 59-2022</strong></p></figcaption></figure>
 
-#### _Humanitarian Camp_
+### _Humanitarian Camp_
 
 Once upon the summer of 2017, Chris had been residing in a Red Cross camp in Namur, Belgium, for almost ten months—since his wintertime birthday as a newly arrived asylum seeker. To combat prolonged boredom and physical inactivity, an idea sparkled in his mind, urging him to combine his skills in black-and-white photography, visual design, and software coding in order to launch an artistic project.
 
@@ -46,7 +46,7 @@ Once upon the summer of 2017, Chris had been residing in a Red Cross camp in Nam
 
 Using rudimentary photographic equipment and online public platforms, coupled with an open-source digital toolbox, he has visually documented a years-long journey that artfully depicts his time-bound walks in exile, and publicly logs his footprints around a non-native land.
 
-#### _Belgian Questions, African Answers_
+### _Belgian Questions, African Answers_
 
 In the absence of photographic evidence of the surreal story — made in and imported from China — a portion of those ingredients ended up being recycled against him in Belgian legal asylum proceedings (2017-2018).&#x20;
 
@@ -54,7 +54,7 @@ Until his exhausted mind and hypervigilant body gave an incorrect location—his
 
 <figure><img src="https://rodfztakuygtmhqfbszvgxfobnojd47isei6lmuh52ngxpcs72ca.arweave.net/i4ZczAqmDTYeBQyzU1yuC1yR8-iREeWyh-6aa7xS_oQ" alt="awalkaday 47-2022"><figcaption><p><strong>awalkaday 47-2022</strong></p></figcaption></figure>
 
-#### _Loss. Silence. Rebirth._
+### _Loss, Silence, Rebirth_
 
 After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/instagram.md) and coding on [GitHub](../evolution-of-a-trek-on-platforms/github.md)—from Europe, the second continent he'd discovered in his lifetime—the mission was abruptly halted. His laptop crashed; his smartphone was stolen. Both losses occurred within the refugee camp enclosure in Francophone Belgium, at the start of 2018.
 
@@ -64,7 +64,7 @@ Three years later, in spring 2020, the photographic odyssey relaunched. Funded b
 **awalkaday 40-2022**
 {% endembed %}
 
-#### _The Long Endurance_
+### _The Long Endurance_
 
 Since day one, the photographer lacked medical care, health insurance, humanitarian aid, and banking services. His social status and life as an immigrant remained uncertain, hopeless, angst-inducing and precarious.&#x20;
 
@@ -74,11 +74,7 @@ He faced recurring unemployment despite numerous skills. He walked—burning org
 **awalkaday 184-2021**
 {% endembed %}
 
-One question strolled through his mind, circling the nervous pathways during every walk: “What if these walks, these photographs, these commits—what if none of it yields positive results or by-products? What if the state still says no?”&#x20;
-
-A question answered intuitively by Chronos, the Greco-Roman God of Time: “Fear not. Time will tell.” And then, quieter, the Catholic God whispered telepathically one word—a Hebrew loan naturalized through Greek to Latin—to his inner ear: “Amen.”&#x20;
-
-These walks became his penance, his pilgrimage, his proof. Not to courts—they had already judged—but to Time itself.
+One question strolled through his mind, circling the nervous pathways during every walk: “What if these walks, these photographs, these commits—what if none of it yields positive results or by-products? What if the state still says no?” A question answered intuitively by Chronos, the Greco-Roman God of Time: “Fear not. Time will tell.” And then, quieter, the Catholic God whispered telepathically one word—a Hebrew loan naturalized through Greek to Latin—to his inner ear: “Amen.” These walks became his penance, his pilgrimage, his proof. Not to courts—they had already judged—but to Time itself.
 
 
 
