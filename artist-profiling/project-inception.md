@@ -12,11 +12,11 @@ His aims in Europe—beyond pursuing university education again—included seeki
 
 ### _Beijing-Bujumbura Nightmares_
 
-His original sin, which led to exile from China and Burundi, was attributed by Communist authorities to a one-week confluence of arbitrary factors in spring 2016. The confidential ingredients were deposited on a cross-country tabletop, covertly sent over electronic communication rails, and unaccompanied by any legal counsel.&#x20;
+His original sin, which led to exile from China and Burundi, was attributed by Communist authorities to a one-week cocktail of arbitrary factors in spring 2016. The confidential cocktail's ingredients were deposited on a cross-country tabletop, covertly sent over electronic communication rails, and unaccompanied by any legal counsel.&#x20;
 
-#### _The Fifteen Toxic Ingredients_
+#### _The Fifteen Ingredients_
 
-On the torturous path to confining the multilingual man for five, then stretched into twenty-one, nights and days of brainwashed captivity, all decisionmakers were not aware that the ingredients were :&#x20;
+On the torturous path to confining the multilingual man for five, then stretched into twenty-one, nights and days of brainwashed captivity, not all decisionmakers were aware that the ingredients were:&#x20;
 
 1. the photographic portrayal of human faces at a foreign students' cultural celebration&#x20;
 2. activism on campus as a tuition-free, government-sponsored, foreign student&#x20;
@@ -31,8 +31,8 @@ On the torturous path to confining the multilingual man for five, then stretched
 11. an overdose of suspicion for bowing to Muslim religion, evidenced by logs of past travels to Egypt&#x20;
 12. a record of raising digital money relieving like-minded _Sindumuja_ protesters in Bujumbura's streets&#x20;
 13. the forceful mid-air rerouting to Uzbekistan of an [Egyptair airplane](https://www.theguardian.com/world/2016/jun/08/hoax-bomb-threat-egyptair-emergency-landing-uzbekistan) carrying his father to his rescue
-14. the shutdown of motorized traffic atop the powerful city of the second-in-line terrestrial nation-state&#x20;
-15. etc.&#x20;
+14. the shutdown of airplane traffic atop the powerful city of the second-in-line terrestrial nation-state&#x20;
+15. ...and other accusations, documented or imagined.
 
 <figure><img src="https://sd55vpc7xirkafqt6l42hrsiafn5kqkvdbliclrpomelxemu5opa.arweave.net/kPvavF-6IqAWE_L5o8ZIAVvVQVUYVoEuL3MIu5GU654" alt="awalkaday 59-2022"><figcaption><p><strong>awalkaday 59-2022</strong></p></figcaption></figure>
 
@@ -50,7 +50,7 @@ Using rudimentary photographic equipment and online public platforms, coupled wi
 
 In the absence of photographic evidence of the surreal story — made in and imported from China — a portion of those ingredients ended up being recycled against him in Belgian legal asylum proceedings (2017-2018).&#x20;
 
-Until his exhausted mind and hypervigilant body gave an incorrect location—his father was in Rwanda, he told the male judge, though this was untrue. Then life spiraled: from the courtroom question «[Il est où ton papa?](https://genius.com/1828413)» to spinning like a [toupie](https://en.wiktionary.org/wiki/toupie) ('spinning top'), out of control.
+Until his exhausted mind and hypervigilant body gave an incorrect location—his father was in Rwanda, he told the judge, though this was untrue. Then life spiraled: from the courtroom question «[Il est où ton papa?](https://genius.com/1828413)» to spinning like a [toupie](https://en.wiktionary.org/wiki/toupie) ('spinning top')—untethered, directionless, out of control.
 
 <figure><img src="https://rodfztakuygtmhqfbszvgxfobnojd47isei6lmuh52ngxpcs72ca.arweave.net/i4ZczAqmDTYeBQyzU1yuC1yR8-iREeWyh-6aa7xS_oQ" alt="awalkaday 47-2022"><figcaption><p><strong>awalkaday 47-2022</strong></p></figcaption></figure>
 
@@ -68,7 +68,7 @@ Three years later, in spring 2020, the photographic odyssey relaunched. Funded b
 
 Since day one, the photographer lacked medical care, health insurance, humanitarian aid, and banking services. His social status and life as an immigrant remained uncertain, hopeless, angst-inducing and precarious.&#x20;
 
-He faced recurring unemployment despite numerous skills. He walked—burning organic calories instead of emitting gas pollutants—because he had no other choice. In stark contrast with modern European cultural conventions, `awalkaday.art` is neither a state-sponsored artistic endeavor, nor a brick-and-mortar art gallery.
+He faced recurring unemployment despite numerous skills. He walked—burning organic calories instead of emitting gas pollutants— and killed two birds with one stone: environmental virtue and economic necessity. In stark contrast with modern European cultural conventions, `awalkaday.art` is neither a state-sponsored artistic endeavor, nor a brick-and-mortar art gallery.
 
 {% embed url="https://arweave.net/WB8akAD3XwwJ-5QCWgH9k-4eaDNRctqmTzBH4hwLwyo" %}
 **awalkaday 184-2021**
