@@ -42,8 +42,8 @@ description: >-
   * Acknowledgments
 * CATALOGUE                                               → [`ANNEX-2`](catalogue.md)&#x20;
 * APPENDIX                                                → [`BACK-1`](appendix.md)&#x20;
-  * Visual Fun Facts
-  * Ethereum Domain Names
+  * The Cover Photo's Secret
+  * Four Ethereal Domain Names
 * POSTSCRIPT                                              → [`BACK-2`](postscript.md)&#x20;
 
 {% embed url="https://7n5x6ki3xr2zlkzlhcpukbprymt3dhxl2kju2haif2y3xqajshpa.arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" %}
