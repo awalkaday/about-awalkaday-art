@@ -31,7 +31,7 @@ On the torturous path to confining the multilingual man for five, then stretched
 11. an overdose of suspicion for bowing to Muslim religion, evidenced by logs of past travels to Egypt&#x20;
 12. a record of raising digital money relieving like-minded _Sindumuja_ protesters in Bujumbura's streets&#x20;
 13. the forceful mid-air rerouting to Uzbekistan of an [Egyptair airplane](https://www.theguardian.com/world/2016/jun/08/hoax-bomb-threat-egyptair-emergency-landing-uzbekistan) carrying his father to his rescue
-14. the shutdown of airplane traffic atop the powerful city of the second-in-line terrestrial nation-state&#x20;
+14. the shutdown of airspace traffic atop the powerful city of the second-in-line terrestrial nation-state&#x20;
 15. ...and other accusations, documented or imagined.
 
 <figure><img src="https://sd55vpc7xirkafqt6l42hrsiafn5kqkvdbliclrpomelxemu5opa.arweave.net/kPvavF-6IqAWE_L5o8ZIAVvVQVUYVoEuL3MIu5GU654" alt="awalkaday 59-2022"><figcaption><p><strong>awalkaday 59-2022</strong></p></figcaption></figure>
