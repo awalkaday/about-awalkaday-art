@@ -1,6 +1,6 @@
 # Cameras and Photo Editing
 
-At the beginning of the travelogue on Western soil, between 2017 and 2018, a [Xiaomi](https://www.mi.com/global/about/) smartphone, acquired in Beijing around 2015, was the tool of choice for capturing, and editing still images.
+At the beginning of the travelogue on Western soil, between 2017 and 2018, a [**Xiaomi**](https://www.mi.com/global/about/) smartphone, acquired in Beijing around 2015, was the tool of choice for capturing, and editing still images.
 
 {% embed url="https://arweave.net/lt_hFp1beJB2ZMQBJa-r4c8R0kpEWgwmcX-lDePzUoE" %}
 **awalkaday 4-2018**
@@ -24,7 +24,7 @@ The **Android One**'s circuits were penetrated by an illogical force in the last
 **awalkaday 253-2022**
 {% endembed %}
 
-All photographs were edited by using Android software applications before being sent off to cyberspace, namely [**Snapseed**](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed) (uncolouring into greyscale), [White Border](https://play.google.com/store/apps/details?id=com.vector123.whiteborder) (wide white framing), and [Scrambled Exif](https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif) (removal of native metadata). All of them were manually processed, in a sequential manner, to attempt escaping from global mass surveillance and third-party sabotage of equipment.
+All photographs were edited by using Android software applications before being sent off to cyberspace, namely [**Snapseed**](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed) (uncolouring into greyscale), [**White Border**](https://play.google.com/store/apps/details?id=com.vector123.whiteborder) (wide white framing), and [**Scrambled Exif**](https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif) (removal of native metadata). All of them were manually processed, in a sequential manner, to attempt escaping from global mass surveillance and third-party sabotage of equipment.
 
 Overall, the two cameras had basic features to balance highlights and shadows in photographs, and produced decent details in well-lit conditions. They assisted with scene recognition and optimization, but all cameras were obviously unprivileged by their mediocre sensors.
 

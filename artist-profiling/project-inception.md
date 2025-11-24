@@ -66,7 +66,7 @@ Three years later, in spring 2020, the photographic odyssey relaunched. Funded b
 
 ### _The Long Endurance_
 
-Since day one, the photographer lacked medical care, health insurance, humanitarian aid, and banking services. His social status and life as an immigrant remained uncertain, hopeless, angst-inducing and precarious.&#x20;
+Since day one, the photographer lacked medical care, health insurance, humanitarian aid, and banking services. His social status and life as an immigrant, who eventually donated blood and plasma to save other lives in spring 2025, remained uncertain, hopeless, angst-inducing and precarious.&#x20;
 
 He faced recurring unemployment despite numerous skills. He walked—burning organic calories instead of emitting gas pollutants— and killed two birds with one stone: environmental virtue and economic necessity. In stark contrast with modern European cultural conventions, `awalkaday.art` is neither a state-sponsored artistic endeavor, nor a brick-and-mortar art gallery.
 

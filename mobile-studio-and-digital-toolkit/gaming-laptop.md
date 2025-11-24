@@ -1,6 +1,6 @@
 # Gaming Laptop
 
-A laptop computer, branded as [Hasee God of War](http://en.haseecomputer.com/About/about24.html) and acquired on the Asian continent, was very useful for coding sessions while building the online gallery on top of digital foundations.
+A laptop computer, branded as [**Hasee God of War**](http://en.haseecomputer.com/About/about24.html) and acquired on the Asian continent, was very useful for coding sessions while building the online gallery on top of digital foundations.
 
 The computing device was one of the few items, in addition to engineering textbooks, and personal belongings of emotional value, that he was able to stealthily keep or ship out to North Africa after being arbitrarily detained by Chinese authorities in June 2016.
 
@@ -14,9 +14,9 @@ Unfortunately, the gaming computer first mysteriously crashed in the winter of 2
 
 <figure><img src="https://r66m6blkscdslv4l3y5pfdfuxed2ddxqp3uqyiyvyliwemlaotpq.arweave.net/j7zPBWqQhyXXi9468oy0uQehjvB-6QwjFcLRYjFgdN8" alt="awalkaday 32-2022"><figcaption><p><strong>awalkaday 32-2022</strong></p></figcaption></figure>
 
-A second-hand lightweight laptop, made in USA, was bargained out of a gamer friend's hands, with hard-earned cash from a land-based construction job in the spring of 2023. The laptop helped the mobile photographer to finish off the mission of cloud-based construction from Brussels, post-tokenization of photos on [Ethereum](../evolution-of-a-trek-on-platforms/ethereum.md).&#x20;
+A second-hand lightweight laptop—made by an American company born during World War II from a one-car garage—was bargained out of a gamer friend's hands with cash from a land-based construction job in the spring of 2023. The HP laptop helped the mobile photographer to finish off the mission of cloud-based construction from Brussels, post-tokenization of photos on [Ethereum](../evolution-of-a-trek-on-platforms/ethereum.md).&#x20;
 
-The gamer friend of African origin had been hosting a first birthday party on Belgian soil, gathering `daqhris` and other fresh off the boat friends, when `A WALK≡A DAY` commits and intentions were initially made public, out of a corner of a party room, in the cold days of [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f#diff-4f167c64a65a03a4e373ec9069f3899d550708ddb9e77a3908246068cde7ac70).
+The gamer friend of African origin had been hosting a first birthday party on Belgian soil, gathering `daqhris` and other fresh off the boat friends, when `A WALK≡A DAY` commits and intentions were initially encoded on a public webpage, from a corner of a party room, in the cold days of [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f#diff-4f167c64a65a03a4e373ec9069f3899d550708ddb9e77a3908246068cde7ac70).
 
 {% embed url="https://arweave.net/8FU-mhjYjLfvf3eWMYiJIx60YeKUbtx7x8Qf2O4bRL0" %}
 **awalkaday 328-2017**

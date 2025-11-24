@@ -4,7 +4,7 @@ Say hello to [awalkaday.art](https://awalkaday.art/), a collection of 263 photog
 
 This is a series of black-and-white photographs depicting captivating sights observed in the landscapes of various Belgian regions during regular walks that began in the summer of 2017.
 
-Near the physical end of the digital odyssey, a select number of snapshots was assigned unique names and identification tokens on a public blockchain, guaranteeing that they are **authentic**, **traceable** and **collectible** for everlasting time.
+Near the physical endpoint of the digital odyssey, a select number of snapshots was assigned unique names and identification tokens on a public blockchain, guaranteeing that they are **authentic**, **traceable** and **collectible** for everlasting time.
 
 {% embed url="https://clbxzh7mtjfyeo56l7xzmuclv74yrjpdagus55v3labbyvnxfpgq.arweave.net/EsN8n-yaS4I7vl_vllBLr_mIpeMBqS72u1gCHFW3K80" %}
 **awalkaday 168.5-2021**
