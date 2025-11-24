@@ -36,7 +36,7 @@ Sculpted in bronze by Belgian artist [Nat Neujean](https://www.natneujean.com/),
 
 <div><figure><img src=".gitbook/assets/IMG_20240508_162733_3-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162755_1-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162716_4.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-The two artworks trace back their roots to a 19th century park named after the first Queen of the Belgians, Louise-Marie. Zoom in to notice art portraying a duo—humans or mythological beings in human form—in the shade of a slowly aging tree. The secret is the Tree of Life.&#x20;
+The two artworks share roots in a 19th century park named after the first Queen of the Belgians, Louise-Marie. Zoom in to notice a duo of beings—humans or nature deities—in the shade of a slowly aging tree. The secret is the Tree of Life.&#x20;
 
 ### Four Ethereal Domain Names
 
