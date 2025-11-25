@@ -1,6 +1,6 @@
 ---
 description: >-
-  A list of 18 chapters and 14 subchapters showing on which numbered page each
+  A list of 15 chapters and 17 subchapters showing on which numbered page each
   one appears
 ---
 
@@ -8,6 +8,7 @@ description: >-
 
 ## Contents
 
+* Walking Memories                                           → [`COVER`](./)
 * ARTIST STATEMENT                                           → [`FRONT-1`](artist-statement.md)
 * READING GUIDE                                           → [`FRONT-2`](reading-guide.md)
 * Introduction to the Photo Series                        → [`1`](introduction-to-the-photo-series.md)
