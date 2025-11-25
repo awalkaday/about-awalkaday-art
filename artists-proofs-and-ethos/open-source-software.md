@@ -16,7 +16,7 @@ As a volunteer, one of his most memorable acts was standing onstage, in front of
 
 {% embed url="https://archive.fosdem.org/2023/schedule/event/nasa/" %}
 
-In the second half of 2024, `daqhris` began to ingeniously craft an online art book, [`book.awalkaday.art`](../), which spotlights various aspects of his `git`-dependent artistic practice, and meets the public eye from a technical documentation platform, [GitBook](https://www.gitbook.com/).
+In the second half of 2024, `daqhris` began to ingeniously craft an online artist's book, `book.awalkaday.art`, which spotlights various aspects of his `git`-dependent artistic practice, and meets the public eye from a technical documentation platform, [GitBook](https://www.gitbook.com/).
 
 {% embed url="https://arweave.net/EGWfqt41-x4swizPynVwltLBmd-68PCM8q6CX3EmwG4" %}
 **awalkaday 91-2022**

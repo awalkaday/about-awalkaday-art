@@ -2,7 +2,7 @@
 description: >-
   A non-Burundian portrait assembled from fragments of darkened memories:
   Beijing to Brussels, war filming to refuge seeking, engineer-in-training to
-  undocumented human
+  undocumented
 layout:
   width: default
   title:
