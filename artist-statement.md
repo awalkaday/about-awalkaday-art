@@ -14,7 +14,7 @@ This project was born in my spare time, developed independently in the open, and
 
 The project's lines of code first appeared online in [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f), four months after the summer debut of walking and photographing. Since the beginning, the creative process was intuitively, leisurely, or swiftly, occurring from time to time, offline or online. Until it was terminated with an emphasis on narrative writing, visual storytelling retrospectively, artist's book formatting, and public timestamps.
 
-Below is the HTML code of a Frequently Asked Questions webpage, preserved exactly as written. Note the optimistic "5 year lifespan"—the `A Walk, A Day` art project  ultimately spanned eight years.
+Below is the HTML code of a Frequently Asked Questions webpage, preserved exactly as written. Note the optimistic "5 year lifespan"—the `A Walk, A Day` art project ultimately spanned eight years.
 
 {% embed url="https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f" %}
 
@@ -77,7 +77,7 @@ The `awalkaday` building blocks became once again the focus of my geeky attentio
 
 {% embed url="https://daqhris.com/fcc-cert/" %}
 
-This book displays a mix of texts copied and modified from [about.awalkaday.art](https://about.awalkaday.art) — an online page as old as the project's earliest footprints — with poetic writings narrating a _'crème de la crème'_ online artwork, which is illustrated by evocative `awalkaday` photographs.&#x20;
+This book displays a mix of texts copied and modified from [about.awalkaday.art](https://about.awalkaday.art)—an online page as old as the project's earliest footprints—with poetic writings narrating a _'crème de la crème'_ online artwork, which is illustrated by evocative `awalkaday` photographs.&#x20;
 
 Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass.&#x20;
 
@@ -113,7 +113,7 @@ Most of this book is written in the third person, referring to me as _Chris-Arme
 * Henry Adams wrote "The Education of Henry Adams" in third person to examine himself as case study, objectified for analysis
 * W.G. Sebald's narrators observe themselves observing, creating dreamlike distance
 * Gertrude Stein ventriloquized herself through 'Alice B. Toklas'
-* W.E.B. Du Boi&#x73;**'**&#x73; 'double consciousness': the necessity of seeing oneself through the gaze of systems that mark you as other. As an African exile in Europe, I exist in this dual consciousness—my lived experience and the bureaucratic third-person that defines my (non-)status.
+* W.E.B. Du Boi&#x73;**'**&#x73; _'double consciousness'_: the necessity of seeing oneself through the gaze of systems that mark you as other. As an African exile in Europe, I exist in this dual consciousness—my lived experience and the bureaucratic third-person that defines my (non-)status.
 * Afrofuturism's archival urgency: the practice of creating permanent records when dominant systems erase or distort Black existence.&#x20;
 
 The omniscient narrator is not neutral. They speak as a system that tracked my existence, but compiled and narrated on my terms. Where the first person appears, it marks moments of direct address, of breaking the archival frame. These ruptures are intentional.&#x20;
