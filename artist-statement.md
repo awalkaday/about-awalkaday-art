@@ -14,7 +14,7 @@ This project was born in my spare time, developed independently in the open, and
 
 The project's lines of code first appeared online in [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f), four months after the summer debut of walking and photographing. Since the beginning, the creative process was intuitively, leisurely, or swiftly, occurring from time to time, offline or online. Until it was terminated with an emphasis on narrative writing, visual storytelling retrospectively, artist's book formatting, and public timestamps.
 
-Below is the original FAQ from November 2017, preserved exactly as written. Note the optimistic "5 year lifespan"—the project, originally named  `A WALK≡A DAY` , ultimately spanned eight years.
+Below is the HTML code of a Frequently Asked Questions webpage, preserved exactly as written. Note the optimistic "5 year lifespan"—the `A Walk, A Day` art project  ultimately spanned eight years.
 
 {% embed url="https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f" %}
 
@@ -63,25 +63,31 @@ Below is the original FAQ from November 2017, preserved exactly as written. Note
 ```
 {% endcode %}
 
+The three-bar symbol [`≡`](https://en.wikipedia.org/wiki/Triple_bar) , synonymous with the two-way street sign ↔, piqued my interest as an indicator of logical equivalence and the monetary unit of a currency on the Ethereum blockchain.&#x20;
+
 ### Technical Start-up (2021)
 
-The page listing answers to _'WHEN?, WHY?, HOW?, WHERE?, WHO?'_, titled `FAQ | A WALK≡A DAY`, was eventually migrated away from my personal site at `daqhris.com/awalkaday` to an independent open-source project. The art project is structured like an organization on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter.
+The page listing answers to _'WHEN?, WHY?, HOW?, WHERE?, WHO?'_, titled `FAQ | A WALK≡A DAY`, was eventually migrated from my personal site at `daqhris.com/awalkaday` to an independent open-source project. The art project is structured like an organization on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter.
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/7660a21a32aa6c6b539beaf4b20c12c11fa4f148" %}
 
-The three-bar symbol [`≡`](https://en.wikipedia.org/wiki/Triple_bar) , which is synonymous with the two-way street sign ↔, piqued my interest as an indicator of logical equivalence and the monetary unit of a currency on the Ethereum blockchain. The `awalkaday` building blocks became once again the focus of my geeky attention and camera lenses from [May 2021](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4) onwards. That was right after receiving a developer certification from web coding classes, taught at [freeCodeCamp.org](https://www.freecodecamp.org/daqhris), elongated into the timeframes of Aug-Oct 2016 and Dec 2020-Feb 2021.
+The `awalkaday` building blocks became once again the focus of my geeky attention and camera lenses from [May 2021](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4) onwards. That was right after receiving a developer certification from web coding classes, taught at [freeCodeCamp.org](https://www.freecodecamp.org/daqhris), elongated into the timeframes of Aug-Oct 2016 and Dec 2020-Feb 2021.
 
 <div data-with-frame="true"><figure><img src="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/freeCodeCamp-ResponsiveWebDesign.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% embed url="https://daqhris.com/fcc-cert/" %}
 
-This book displays a mix of texts copied and modified from [about.awalkaday.art](https://about.awalkaday.art) — an online page as old as the project's earliest footprints — with poetic writings narrating a _'crème de la crème'_ online artwork, which is illustrated by evocative `awalkaday` photographs. Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass.&#x20;
+This book displays a mix of texts copied and modified from [about.awalkaday.art](https://about.awalkaday.art) — an online page as old as the project's earliest footprints — with poetic writings narrating a _'crème de la crème'_ online artwork, which is illustrated by evocative `awalkaday` photographs.&#x20;
+
+Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done and lived from an objective perspective, and also hint at what has come to pass.&#x20;
 
 <figure><img src="https://wsxgsr6e2fq4xoktdz3sqpudk7wusjy5lsip2zdramftcwphlkdq.arweave.net/tK5pR8TRYcu5Ux53KD6DV-1JJx1ckP1kcQMLMVnnWoc" alt=""><figcaption><p><strong>awalkaday 48-2022</strong></p></figcaption></figure>
 
 ### Memory Work (2024)
 
-Peering into photographs devoid of humans, combing through scattered data trails, cleansing away trauma by crying were a weekly occurrence when recalling shattered memories during a life review at the start of 2024. Traveling back in my mind's timeline, against my brain's resistance, was made a breeze by the patronage of [Ant Hampton](https://www.anthampton.com/) (British artist and theatre-maker) who provided rent-free housing on top of Mount Kemmel, in Brussels, at a flat overlooking the Park of Forest where rose up inspiration, for nearly a year and half (2023-2025).&#x20;
+Peering into photographs devoid of humans, combing through scattered data trails, cleansing away trauma by crying were a weekly occurrence when recalling shattered memories during a life review at the start of 2024.&#x20;
+
+Traveling back in my mind's timeline, against my brain's resistance, was made a breeze by the patronage of [Ant Hampton](https://www.anthampton.com/) (British artist and theatre-maker) who provided rent-free housing on top of Mount Kemmel, in Brussels, at a flat overlooking the Park of Forest where rose up inspiration, for nearly a year and half (2023-2025).&#x20;
 
 <figure><img src="https://7qcx5f3hkbvgk5mz33xc3cpbuxozanrxhfpl7qinekgqyptnkuea.arweave.net/_AV-l2dQamV1md7uLYnhpd2QNjc5Xr_BDSKNDD5tVQg" alt=""><figcaption><p><strong>awalkaday 172-2022</strong></p></figcaption></figure>
 
@@ -103,11 +109,11 @@ Most of this book is written in the third person, referring to me as _Chris-Arme
 
 **Literary, Cultural, and Political Precedents:**
 
-* Julius Caesar wrote _"Commentarii"_ about his military campaigns in third person (both self-documentation and self-mythologizing)
-* Henry Adams wrote _"The Education of Henry Adams"_ in third person to examine himself as case study, objectified for analysis
+* Julius Caesar wrote "Commentarii" about his military campaigns in third person (both self-documentation and self-mythologizing)
+* Henry Adams wrote "The Education of Henry Adams" in third person to examine himself as case study, objectified for analysis
 * W.G. Sebald's narrators observe themselves observing, creating dreamlike distance
-* Gertrude Stein ventriloquized herself through _Alice B. Toklas_
-* W.E.B. Du Boi&#x73;**'**&#x73; "double consciousness": the necessity of seeing oneself through the gaze of systems that mark you as other. As an African exile in Europe, I exist in this dual consciousness—my lived experience and the bureaucratic third-person that defines my (non-)status.
+* Gertrude Stein ventriloquized herself through 'Alice B. Toklas'
+* W.E.B. Du Boi&#x73;**'**&#x73; 'double consciousness': the necessity of seeing oneself through the gaze of systems that mark you as other. As an African exile in Europe, I exist in this dual consciousness—my lived experience and the bureaucratic third-person that defines my (non-)status.
 * Afrofuturism's archival urgency: the practice of creating permanent records when dominant systems erase or distort Black existence.&#x20;
 
 The omniscient narrator is not neutral. They speak as a system that tracked my existence, but compiled and narrated on my terms. Where the first person appears, it marks moments of direct address, of breaking the archival frame. These ruptures are intentional.&#x20;
