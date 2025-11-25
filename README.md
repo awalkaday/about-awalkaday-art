@@ -36,7 +36,7 @@ layout:
 
 <h3 align="center">Synopsis</h3>
 
-<p align="center"><strong>This artist's book documents the  <code>awalkaday</code> project from inception in 2017 to its conclusion in 2024.</strong> The book is bound with a toolkit used since day one and its pages narrate crucial keystrokes and steps. A blend of diverse media—photography, poetry, code, social posts, and blockchain tokens—weaves creative nonfiction into autobiographical insights told from a third-person omniscient viewpoint.</p>
+<p align="center"><strong>This artist's book documents the  <code>awalkaday</code> project from inception in 2017 to its conclusion in 2024.</strong> The online book is bound with a toolkit used since day one and its pages narrate crucial keystrokes and steps. A blend of diverse media—photography, poetry, code, social posts, and blockchain tokens—weaves creative nonfiction into autobiographical insights told from a third-person omniscient viewpoint.</p>
 
 <p align="center"><strong>Its illustrated pages tell the story of a terrestrial odyssey across public spaces and computing platforms.</strong> Acting as the companion to a series of 263 photographs shot during regular walks throughout Belgium, Europe, the book captures both visual and emotional landscapes. It's the online culmination of an eight-year project by an exiled artist, pioneering a digital artwork that integrates all timestamped drafts into one open-source and free edition.</p>
 
