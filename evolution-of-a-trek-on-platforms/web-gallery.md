@@ -10,7 +10,7 @@ Once the art project resumed in the [spring of 2021](https://github.com/awalkada
 Make a short trip to the online gallery and encounter in a random order the photos
 {% endembed %}
 
-<div data-with-frame="true"><figure><img src="https://raw.githubusercontent.com/awalkaday/awalkaday-art/master/assets/icons/awalkaday_art-web_overview.png" alt="Screenshot of the web gallery at awalkaday.art" width="563"><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/web-gallery-overview.PNG" alt="Screenshot of the web gallery: awalkaday.art" width="563"><figcaption><p>A screenshot of the custom-built web gallery</p></figcaption></figure>
 
 The web gallery prioritizes a smooth and random order of display for each visit, allowing for ease of navigation and discovery of photographs by surprising visitors with fresh-eye perspectives every load time. The gallery's code enforcing mathematical randomness in JavaScript dates from [February 2023](https://github.com/awalkaday/awalkaday-art/commits/master/assets/js/main.js).
 
