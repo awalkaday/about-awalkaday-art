@@ -4,6 +4,8 @@ description: Since May 2021
 
 # Web Gallery
 
+<figure><img src="https://ysqlt77jtllpkzuoskytbkqovjouubb34uuqmi6igo7wwzrx3toa.arweave.net/xKC5_-ma1vVmjpKxMKoOql1KBDvlKQYjyDO_a2Y33Nw" alt=""><figcaption><p><strong>awalkaday 42-2022</strong></p></figcaption></figure>
+
 Once the art project resumed in the [spring of 2021](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4), a limited number of the salvaged photos began to be steadily uploaded to a purpose-built web gallery, [`awalkaday.art`](https://awalkaday.art/), which ultimately hosts a catalog of 263 photographs from the collection in a custom-designed, interactive and responsive gallery.
 
 {% embed url="https://awalkaday.art" %}
