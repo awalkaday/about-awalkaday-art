@@ -114,7 +114,7 @@ Most of this book is written in the third person, referring to me as _Chris-Arme
 * W.G. Sebald's narrators observe themselves observing, creating dreamlike distance
 * Gertrude Stein ventriloquized herself through 'Alice B. Toklas'
 * W.E.B. Du Boi&#x73;**'**&#x73; _'double consciousness'_: the necessity of seeing oneself through the gaze of systems that mark you as other. As an African exile in Europe, I exist in this dual consciousness—my lived experience and the bureaucratic third-person that defines my (non-)status.
-* Afrofuturism's archival urgency: the practice of creating permanent records when dominant systems erase or distort Black existence.&#x20;
+* Afrofuturism's archival urgency: the practice of creating permanent records when dominant systems erase or distort one's existence.&#x20;
 
 The omniscient narrator is not neutral. They speak as a system that tracked my existence, but compiled and narrated on my terms. Where the first person appears, it marks moments of direct address, of breaking the archival frame. These ruptures are intentional.&#x20;
 
