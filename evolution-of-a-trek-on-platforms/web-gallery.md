@@ -10,9 +10,34 @@ Once the art project resumed in the [spring of 2021](https://github.com/awalkada
 Make a short trip to the online gallery and encounter in a random order the photos
 {% endembed %}
 
-The web gallery prioritizes a smooth and random order of display for each visit, allowing for ease of navigation and discovery of photographs, surprising visitors with fresh-eye perspectives every load time.
-
 <div data-with-frame="true"><figure><img src="https://raw.githubusercontent.com/awalkaday/awalkaday-art/master/assets/icons/awalkaday_art-web_overview.png" alt="Screenshot of the web gallery at awalkaday.art" width="563"><figcaption></figcaption></figure></div>
+
+The web gallery prioritizes a smooth and random order of display for each visit, allowing for ease of navigation and discovery of photographs by surprising visitors with fresh-eye perspectives every load time. The gallery's code enforcing mathematical randomness in JavaScript dates from [February 2023](https://github.com/awalkaday/awalkaday-art/commits/master/assets/js/main.js).
+
+{% embed url="https://github.com/awalkaday/awalkaday-art/commit/3043b3f1e58f05bfdefd7bdf9afcf9fddcf9ea96" %}
+
+{% code title="awalkaday-art/tree/master/assets/js/main.js‎" %}
+```js
+			// Main.
+			var $main = $('#main');
+
+			// Thumbs.
+			$main.children('.thumb').each(function() {
+			var $this = $(this),
+				$image = $this.find('.image'),
+				$image_img = $image.children('img'),
+				randomPos;
+
+			// Set random background position.
+			randomPos = Math.floor(Math.random() * 100);
+			$image.css('background-position', `${randomPos}%`);
+
+			// Shuffle the elements.
+			$main.children('.thumb').sort(function() {
+			return Math.random() - 0.5;
+			}).appendTo($main);
+```
+{% endcode %}
 
 A 3D exhibition hall, constructed since the springtime of 2023, welcomes all digital visitors at [oncyber.io/awalkaday.art](https://oncyber.io/awalkaday.art). The virtual exhibition, which caught the attention of silicon-based reality promoters at launch in the spring of 2024, remains open to this day.
 
