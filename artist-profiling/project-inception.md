@@ -74,7 +74,7 @@ He faced recurring unemployment despite numerous skills. He walked—burning org
 **awalkaday 184-2021**
 {% endembed %}
 
-One question strolled through his mind, circling the nervous pathways during every walk: “_What if these walks, these photographs, these commits... what if none of it yields positive results or by-products? What if the Belgian State still says no?_”&#x20;
+One question strolled through his mind, circling the nervous pathways during every walk: “_What if these walks, these photographs, these commits... what if none of it yields positive results or by-products? What if the State still says no?_”&#x20;
 
 A question answered intuitively by Chronos, the Greco-Roman God of Time: “_Fear not. Time will tell._” And then, quieter, the Catholic God whispered telepathically one word—a Hebrew loan naturalized through Greek to Latin—to his inner ear: “_Amen._” These walks became his penance, his pilgrimage, his proof. Not to courts—they had already judged—but to Time itself.
 

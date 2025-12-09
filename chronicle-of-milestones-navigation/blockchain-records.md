@@ -24,4 +24,8 @@ Since then, after honing his skills as an **Ethereum app developer** and overcom
 
 <p align="center"></p>
 
+<figure><img src="https://2tn42zs3accecv6wwa6ccommvlm4jjbeeyogidtrjjqr3tzid6sa.arweave.net/1NvNZlsAhEFX1rA8ITmMqtnEpCQmHGQOcUphHc8oH6Q" alt=""><figcaption><p><strong>awalkaday 173-2021</strong></p></figcaption></figure>
+
+<p align="center"></p>
+
 <p align="center"><strong><code>10</code></strong></p>
