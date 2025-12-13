@@ -80,7 +80,7 @@ A question answered intuitively by Chronos, the Greco-Roman God of Time: “_Fea
 \
 The photographic tool rung, as if it were imitating a Church bell, to notify of the State's lifechanging decision in the spring of 2024. His handheld computer sounded as ding-dong memories from past years of remote intrusion and unanswered calls.&#x20;
 
-Regardless, the pace of outdoor walks was not stalled towards donating his body's lifesaving liquids during the next year's spring. These walks became his penance, his pilgrimage, his enterprise for clinging to life. Not to courts—they had already judged—but to Time itself.
+Regardless, the pace of outdoor walks was not stalled towards donating his body's lifesaving liquids during the next year's spring. The English adage “_a walk a day keeps the doctor away_” ceased to be true for him eight years following the project inception. These walks became his penance, his pilgrimage, his enterprise for clinging to life. Not to courts—they had already judged—but to Time itself.
 
 
 
