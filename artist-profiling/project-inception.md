@@ -78,7 +78,9 @@ One question strolled through his mind, circling the nervous pathways during eve
 
 A question answered intuitively by Chronos, the Greco-Roman God of Time: “_Fear not. Time will tell._” And then, quieter, the Catholic God whispered telepathically one word—a Hebrew loan naturalized through Greek to Latin—to his inner ear: “_Amen._” \
 \
-A photographic tool rung, as if it were a Church bell, to covertly notify of the State's lifechanging decision in the spring of 2024, sounding as ding-dong memories from past years of computer intrusion. Regardless, the pace of outdoor walks was not stalled towards donating his body's lifesaving liquids during the next year's spring. These walks became his penance, his pilgrimage, his proof of exiled life. Not to courts—they had already judged—but to Time itself.
+The photographic tool rung, as if it were imitating a Church bell, to notify of the State's lifechanging decision in the spring of 2024. His handheld tool sounded as ding-dong memories from past years of remote intrusion and unanswered calls.&#x20;
+
+Regardless, the pace of outdoor walks was not stalled towards donating his body's lifesaving liquids during the next year's spring. These walks became his penance, his pilgrimage, his proof of exiled life. Not to courts—they had already judged—but to Time itself.
 
 
 

@@ -19,7 +19,7 @@ _Until the activation of its author's human ID._
 
 <p align="right">Author, <br>Photographer, <br> Designer, Producer, <br> Writer, Editor &#x26; Publisher: <br><strong>©</strong> <a href="https://daqhris.com/"><strong>Chris-Armel Iradukunda</strong></a> ↔ <a href="https://github.com/daqhris"><strong>daqhris</strong></a></p>
 
-<p align="right">Online publication of the first draft: <a href="https://github.com/awalkaday/about-awalkaday-art/compare/about...book">July <strong>2024</strong></a><br>Last modification of book content: <a href="https://github.com/awalkaday/about-awalkaday-art/commits/book/">November <strong>2025</strong></a><br>Open-sourced by <code>gitbook-bot</code> on behalf of <code>daqhris</code> </p>
+<p align="right">Online publication of the first draft: <a href="https://github.com/awalkaday/about-awalkaday-art/compare/about...book">July <strong>2024</strong></a><br>Last modification of book content: <a href="https://github.com/awalkaday/about-awalkaday-art/commits/book/">December <strong>2025</strong></a><br>Open-sourced by <code>gitbook-bot</code> on behalf of <code>daqhris</code> </p>
 
 {% hint style="warning" %}
 There is no print, e-book, PDF or tokenized version available yet. No part of this online book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any other information storage and retrieval system, for commercial purposes, without the prior permission and consent in writing of the publisher.
@@ -29,7 +29,7 @@ If you remix, transform or build upon the material, you may not distribute the m
 Its legal rights shall be governed by [Belgian law](https://www.wipo.int/wipolex/en/text/125254), as the licensor has no affiliation with another Member State of the European Union. The 'right of the soil' _(_&#x69;n latin, _jus soli)_ applies to this book, without prejudice to the ethical virtues of [#public-licensing](imprint.md#public-licensing "mention"). The moral right of the author has been asserted.
 {% endhint %}
 
-### Online Photo Store
+### Online Shop
 
 {% embed url="https://collect.awalkaday.art" %}
 
