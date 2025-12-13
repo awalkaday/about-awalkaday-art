@@ -66,7 +66,7 @@ Three years later, during the season of blooming lush gardens in 2020, the photo
 
 ### The Long Endurance
 
-Since day one, the photographer lacked rights to knock o doors of medical care and health insurance. Step by step, he grew accustomed to refusal of humanitarian aid and expulsion from banking services. His social status and life as an immigrant, who eventually donated blood and plasma to save other lives in the spring of 2025, remained uncertain, hopeless, angst-inducing and precarious.&#x20;
+Since day one, the photographer lacked rights to knock on doors of medical care and health insurance. Step by step, he grew accustomed to refusal of humanitarian aid and expulsion from banking services. His social status and life as an immigrant remained uncertain, hopeless, angst-inducing and precarious.&#x20;
 
 He faced recurring unemployment despite numerous skills. He walked—burning organic calories instead of emitting gas pollutants—and killed two birds with one stone: environmental virtue and economic necessity. In stark contrast with modern European cultural conventions, `awalkaday.art` is neither a state-sponsored artistic endeavor, nor a brick-and-mortar art gallery.
 
@@ -76,7 +76,9 @@ He faced recurring unemployment despite numerous skills. He walked—burning org
 
 One question strolled through his mind, circling the nervous pathways during every walk: “_What if these walks, these photographs, these commits... what if none of it yields positive results as by-products? What if the State still says no?_”&#x20;
 
-A question answered intuitively by Chronos, the Greco-Roman God of Time: “_Fear not. Time will tell._” And then, quieter, the Catholic God whispered telepathically one word—a Hebrew loan naturalized through Greek to Latin—to his inner ear: “_Amen._” These walks became his penance, his pilgrimage, his proof of exiled life. Not to courts—they had already judged—but to Time itself.
+A question answered intuitively by Chronos, the Greco-Roman God of Time: “_Fear not. Time will tell._” And then, quieter, the Catholic God whispered telepathically one word—a Hebrew loan naturalized through Greek to Latin—to his inner ear: “_Amen._” \
+\
+A photographic tool rung, as if it were a Church bell, to covertly notify of the State's lifechanging decision in the spring of 2024, sounding as ding-dong memories from past years of computer intrusion. Regardless, the pace of outdoor walks was not stalled towards donating his body's lifesaving liquids during the next year's spring. These walks became his penance, his pilgrimage, his proof of exiled life. Not to courts—they had already judged—but to Time itself.
 
 
 
