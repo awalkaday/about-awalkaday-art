@@ -12,7 +12,7 @@ His aims in Europe—beyond pursuing university education again—included seeki
 
 ### Beijing-Bujumbura Nightmares
 
-His original sin, which led to exile from China and Burundi, was attributed by Communist authorities to a one-week cocktail of arbitrary factors in spring 2016. The confidential cocktail's ingredients were deposited on a cross-country tabletop, covertly sent over electronic communication rails, and unaccompanied by any legal counsel.&#x20;
+His original sin, which led to exile from China and Burundi, was attributed by Communist authorities to a one-week cocktail of arbitrary factors in Spring 2016. The confidential cocktail's ingredients were deposited on a cross-country tabletop, covertly sent over electronic communication rails, and unaccompanied by any legal counsel.&#x20;
 
 #### The Fifteen Ingredients
 
@@ -48,7 +48,7 @@ Using rudimentary photographic equipment and online public platforms, coupled wi
 
 ### Belgian Questions, African Answers
 
-In the absence of photographic evidence of the surreal story—made in and imported from China—a portion of those ingredients ended up being recycled against him in Belgian legal asylum proceedings (2017-2018).&#x20;
+In the absence of photographic evidence of the surreal story—made in and imported from China—a portion of those ingredients ended up being recycled against him in Belgian legal asylum procedures (2017-2018).&#x20;
 
 Until the day his exhausted mind and hypervigilant body gave an incorrect location—his father was in Rwanda, he told the judge, though this was untrue. Then life spiraled: from the courtroom question «[Il est où ton papa?](https://genius.com/1828413)» to spinning like a [toupie](https://en.wiktionary.org/wiki/toupie) ('spinning top')—untethered, directionless, out of control.
 
