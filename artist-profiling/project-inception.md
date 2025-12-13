@@ -2,9 +2,9 @@
 
 ### Crossing Waters
 
-Accompanied by his mother, who flew back shortly after, he landed in Brussels in winter 2016. The separation followed a Summer-Autumn stopover in Cairo, where his parents and siblings had settled in the prestigious district of المهندسين—'The Engineers' in Arabic—a couple of years before his departure to the European continent.&#x20;
+Accompanied by his mother, who flew back shortly after, he landed in Brussels in the winter of 2016. The kindred separation followed a summer-autumn stopover in Cairo, where his parents and siblings had settled in the prestigious district of المهندسين—'The Engineers' in Arabic—before his departure, across the sea, seated on an Egyptian airline, to the executive capital of Europe.&#x20;
 
-His aims in Europe—beyond pursuing university education again—included seeking safe haven away from persecution by his motherland's diplomats and their Chinese counterparts while studying abroad two seasons earlier.
+His aims and dreams in Europe—beyond pursuing university education again—included seeking safe haven away from persecution by his motherland's diplomats and their Chinese counterparts while studying abroad two seasons earlier.
 
 {% embed url="https://arweave.net/PzcrZqCeMDwty56zrlbyngXjTYxpPCEKKo6MevHVf-Q" %}
 **awalkaday 185-2022**
@@ -12,7 +12,7 @@ His aims in Europe—beyond pursuing university education again—included seeki
 
 ### Beijing-Bujumbura Nightmares
 
-His original sin, which led to exile from China and Burundi, was attributed by Communist authorities to a one-week cocktail of arbitrary factors in Spring 2016. The confidential cocktail's ingredients were deposited on a cross-country tabletop, covertly sent over electronic communication rails, and unaccompanied by any legal counsel.&#x20;
+Leading to exile from China and Burundi, his original sin was attributed by Communism-preaching Chinese authorities to a one-week cocktail of arbitrary ingredients in Spring 2016. The confidential cocktail's ingredients were deposited on a cross-country tabletop, covertly sent over electronic communication rails, and unaccompanied by any legal counsel.&#x20;
 
 #### The Fifteen Ingredients
 
@@ -48,9 +48,9 @@ Using rudimentary photographic equipment and online public platforms, coupled wi
 
 ### Belgian Questions, African Answers
 
-In the absence of photographic evidence of the surreal story—made in and imported from China—a portion of those ingredients ended up being recycled against him in Belgian legal asylum procedures (2017-2018).&#x20;
+In the absence of photographic evidence of the surreal story—made in and imported from China—a portion of those ingredients ended up being recycled against his appetite during the first course of Belgian legal asylum procedures (2016-2018) served to his volunteering female lawyer.&#x20;
 
-Until the day his exhausted mind and hypervigilant body gave an incorrect location—his father was in Rwanda, he told the judge, though this was untrue. Then life spiraled: from the courtroom question «[Il est où ton papa?](https://genius.com/1828413)» to spinning like a [toupie](https://en.wiktionary.org/wiki/toupie) ('spinning top')—untethered, directionless, out of control.
+Until the day his exhausted mind and hypervigilant body gave an incorrect location—his father was in Rwanda, he told the male judge, though this was untrue. Then life spiraled: from the courtroom question «[Il est où ton papa?](https://genius.com/1828413)» to spinning like a [toupie](https://en.wiktionary.org/wiki/toupie) ('spinning top')—untethered, directionless, out of control.
 
 <figure><img src="https://rodfztakuygtmhqfbszvgxfobnojd47isei6lmuh52ngxpcs72ca.arweave.net/i4ZczAqmDTYeBQyzU1yuC1yR8-iREeWyh-6aa7xS_oQ" alt="awalkaday 47-2022"><figcaption><p><strong>awalkaday 47-2022</strong></p></figcaption></figure>
 
@@ -58,7 +58,7 @@ Until the day his exhausted mind and hypervigilant body gave an incorrect locati
 
 After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/instagram.md) and coding on [GitHub](../evolution-of-a-trek-on-platforms/github.md)—from Europe, the second continent he'd discovered in his lifetime—the mission was abruptly halted. His laptop crashed; his smartphone was stolen. Both losses occurred within the refugee camp enclosure in Francophone Belgium, at the start of 2018.
 
-Three years later, during the season of blooming and lush gardens in 2020, the photographic odyssey relaunched. Funded by earnings from a painting job, the lonely photo walks were ran from an attic room in Bastogne—near the Belgian-Luxembourg border—until the season of dry skin and shivering in 2022.&#x20;
+Three years later, during the season of blooming lush gardens in 2020, the photographic odyssey relaunched. Funded by earnings from a painting job, the lonely photo walks were ran from an attic room in Bastogne—near the Belgian-Luxembourg border—until the season of dry skin shivering in 2022.&#x20;
 
 {% embed url="https://arweave.net/HZUJofLsOWTGYRYAOMzbtKN7Ad0jMmtDlg4HDgT5Vp8" %}
 **awalkaday 40-2022**
@@ -66,7 +66,7 @@ Three years later, during the season of blooming and lush gardens in 2020, the p
 
 ### The Long Endurance
 
-Since day one, the photographer lacked medical care, health insurance, humanitarian aid, and banking services. His social status and life as an immigrant, who eventually donated blood and plasma to save other lives in spring 2025, remained uncertain, hopeless, angst-inducing and precarious.&#x20;
+Since day one, the photographer lacked rights to knock o doors of medical care and health insurance. Step by step, he grew accustomed to refusal of humanitarian aid and expulsion from banking services. His social status and life as an immigrant, who eventually donated blood and plasma to save other lives in the spring of 2025, remained uncertain, hopeless, angst-inducing and precarious.&#x20;
 
 He faced recurring unemployment despite numerous skills. He walked—burning organic calories instead of emitting gas pollutants—and killed two birds with one stone: environmental virtue and economic necessity. In stark contrast with modern European cultural conventions, `awalkaday.art` is neither a state-sponsored artistic endeavor, nor a brick-and-mortar art gallery.
 
