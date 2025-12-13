@@ -58,7 +58,7 @@ Until the day his exhausted mind and hypervigilant body gave an incorrect locati
 
 After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/instagram.md) and coding on [GitHub](../evolution-of-a-trek-on-platforms/github.md)—from Europe, the second continent he'd discovered in his lifetime—the mission was abruptly halted. His laptop crashed; his smartphone was stolen. Both losses occurred within the refugee camp enclosure in Francophone Belgium, at the start of 2018.
 
-Three years later, in spring 2020, the photographic odyssey relaunched. Funded by earnings from a painting job, it ran from an attic room in Bastogne—near the Belgian-Luxembourg border—until winter 2022.&#x20;
+Three years later, during the season of blooming and lush gardens in 2020, the photographic odyssey relaunched. Funded by earnings from a painting job, the lonely photo walks were ran from an attic room in Bastogne—near the Belgian-Luxembourg border—until the season of dry skin and shivering in 2022.&#x20;
 
 {% embed url="https://arweave.net/HZUJofLsOWTGYRYAOMzbtKN7Ad0jMmtDlg4HDgT5Vp8" %}
 **awalkaday 40-2022**
@@ -74,9 +74,9 @@ He faced recurring unemployment despite numerous skills. He walked—burning org
 **awalkaday 184-2021**
 {% endembed %}
 
-One question strolled through his mind, circling the nervous pathways during every walk: “_What if these walks, these photographs, these commits... what if none of it yields positive results or by-products? What if the State still says no?_”&#x20;
+One question strolled through his mind, circling the nervous pathways during every walk: “_What if these walks, these photographs, these commits... what if none of it yields positive results as by-products? What if the State still says no?_”&#x20;
 
-A question answered intuitively by Chronos, the Greco-Roman God of Time: “_Fear not. Time will tell._” And then, quieter, the Catholic God whispered telepathically one word—a Hebrew loan naturalized through Greek to Latin—to his inner ear: “_Amen._” These walks became his penance, his pilgrimage, his proof. Not to courts—they had already judged—but to Time itself.
+A question answered intuitively by Chronos, the Greco-Roman God of Time: “_Fear not. Time will tell._” And then, quieter, the Catholic God whispered telepathically one word—a Hebrew loan naturalized through Greek to Latin—to his inner ear: “_Amen._” These walks became his penance, his pilgrimage, his proof of exiled life. Not to courts—they had already judged—but to Time itself.
 
 
 
