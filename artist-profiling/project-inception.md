@@ -12,7 +12,7 @@ His aims and dreams in Europe—beyond pursuing university education again—inc
 
 ### Beijing-Bujumbura Nightmares
 
-Leading to exile from China and Burundi, his original sin was attributed by Communism-preaching Chinese authorities to a one-week cocktail of arbitrary ingredients in Spring 2016. The confidential cocktail's ingredients were deposited on a cross-country tabletop, covertly sent over electronic communication rails, and unaccompanied by any legal counsel.&#x20;
+Leading up to exile from China and Burundi, his original sin was attributed by Communism-preaching Chinese authorities to a one-week cocktail of arbitrary ingredients in Spring 2016. The confidential cocktail's ingredients were deposited on a cross-country tabletop, covertly sent over electronic communication rails, and unaccompanied by any legal counsel.&#x20;
 
 #### The Fifteen Ingredients
 
@@ -78,9 +78,9 @@ One question strolled through his mind, circling the nervous pathways during eve
 
 A question answered intuitively by Chronos, the Greco-Roman God of Time: “_Fear not. Time will tell._” And then, quieter, the Catholic God whispered telepathically one word—a Hebrew loan naturalized through Greek to Latin—to his inner ear: “_Amen._” \
 \
-The photographic tool rung, as if it were imitating a Church bell, to notify of the State's lifechanging decision in the spring of 2024. His handheld tool sounded as ding-dong memories from past years of remote intrusion and unanswered calls.&#x20;
+The photographic tool rung, as if it were imitating a Church bell, to notify of the State's lifechanging decision in the spring of 2024. His handheld computer sounded as ding-dong memories from past years of remote intrusion and unanswered calls.&#x20;
 
-Regardless, the pace of outdoor walks was not stalled towards donating his body's lifesaving liquids during the next year's spring. These walks became his penance, his pilgrimage, his proof of exiled life. Not to courts—they had already judged—but to Time itself.
+Regardless, the pace of outdoor walks was not stalled towards donating his body's lifesaving liquids during the next year's spring. These walks became his penance, his pilgrimage, his enterprise for clinging to life. Not to courts—they had already judged—but to Time itself.
 
 
 
