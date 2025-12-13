@@ -2,7 +2,7 @@
 
 ### Crossing Waters
 
-Accompanied by his mother, who flew back shortly after, he landed in Brussels in winter 2016. The separation followed a summer-autumn stopover in Cairo, where his parents and siblings had settled in the prestigious district of المهندسين—'The Engineers' in Arabic—before his European departure.&#x20;
+Accompanied by his mother, who flew back shortly after, he landed in Brussels in winter 2016. The separation followed a Summer-Autumn stopover in Cairo, where his parents and siblings had settled in the prestigious district of المهندسين—'The Engineers' in Arabic—a couple of years before his departure to the European continent.&#x20;
 
 His aims in Europe—beyond pursuing university education again—included seeking safe haven away from persecution by his motherland's diplomats and their Chinese counterparts while studying abroad two seasons earlier.
 
