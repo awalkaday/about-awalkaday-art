@@ -50,7 +50,7 @@ Using rudimentary photographic equipment and online public platforms, coupled wi
 
 In the absence of photographic evidence of the surreal story—made in and imported from China—a portion of those ingredients ended up being recycled against his appetite during the first course of Belgian legal asylum procedures (2016-2018) served to his volunteering female lawyer.&#x20;
 
-Until the day his exhausted mind and hypervigilant body gave an incorrect location—his father was in Rwanda, he told the male judge, though this was untrue. Then life spiraled: from the courtroom question «[Il est où ton papa?](https://genius.com/1828413)» to spinning like a [toupie](https://en.wiktionary.org/wiki/toupie) ('spinning top')—untethered, directionless, out of control.
+Until the day his exhausted mind and hypervigilant body gave an incorrect location—his father was in Rwanda, he told the male judge, though this was untrue. Then life spiraled: from the courtroom question «[Il est où ton papa?](https://genius.com/1828413)» ('Where is your father?') to spinning like a «[toupie](https://en.wiktionary.org/wiki/toupie)» ('spinning top')—untethered, directionless, out of control.
 
 <figure><img src="https://rodfztakuygtmhqfbszvgxfobnojd47isei6lmuh52ngxpcs72ca.arweave.net/i4ZczAqmDTYeBQyzU1yuC1yR8-iREeWyh-6aa7xS_oQ" alt="awalkaday 47-2022"><figcaption><p><strong>awalkaday 47-2022</strong></p></figcaption></figure>
 
@@ -78,9 +78,11 @@ One question strolled through his mind, circling the nervous pathways during eve
 
 A question answered intuitively by Chronos, the Greco-Roman God of Time: “_Fear not. Time will tell._” And then, quieter, the Catholic God whispered telepathically one word—a Hebrew loan naturalized through Greek to Latin—to his inner ear: “_Amen._” \
 \
-The photographic tool rung, as if it were imitating a Church bell, to notify of the State's lifechanging decision in the spring of 2024. His handheld computer sounded as ding-dong memories from past years of remote intrusion and unanswered calls. Regardless, the pace of outdoor walks was not stalled towards donating his body's lifesaving liquids during the next year's spring.&#x20;
+The photographic tool rung, as if it were imitating a Church bell, to notify of the State's lifechanging decision in the spring of 2024. His handheld computer sounded as ding-dong memories from past years of remote intrusions and unanswered calls.&#x20;
 
-The Englishmen's adage “_a walk a day keeps the doctor away_” ceased to be true for him, eight years following the project inception, thanks to a Belgian network of women: a doctor, an ex-girlfriend, an anthropologist, and feminist artists. These walks became his penance, his pilgrimage, his enterprise for clinging to life. Not to courts—they had already judged—but to Time itself.
+Regardless, the pace of outdoor walks was not stalled towards donating his body's lifesaving liquids during the next year's spring. The Englishmen's adage “_a walk a day keeps the doctor away_” ceased to be true for him, eight years following inception of the project, thanks to a Belgian network of women: a doctor, an ex-girlfriend, an anthropologist, a retiree, a public agent, scientists, artists, etc.&#x20;
+
+These walks became his penance, his pilgrimage, his enterprise for clinging to life. Not winking at courts—they had already judged—but to Time itself.
 
 
 
