@@ -117,7 +117,7 @@ Most of this book is written in the third person, referring to me as _Chris-Arme
 
 **Objectivity Under Scrutiny:** As an immigrant deprived of basic rights, my subjective testimony is often suspect, silenced or surveilled. Immigration _'interviews'_ were tainted by a hostile assumption of faking suffering for sympathy gain. Third person borrows the authority of the technological archive spread around third-party networks that don't ask to be believed; they simply are. &#x20;
 
-**Archival Consciousness:** This work is designed to outlive me across long-lasting and neutral systems, such as decentralized storage. Though forced to interrupt studies in computer engineering, I built an infrastructure for my artworks to reach the rest of the cybernetic universe on digital rails. These computing systems speak in third person. I match their voice.&#x20;
+**Archival Consciousness:** This work is designed to outlive me across long-lasting and neutral systems, such as decentralized storage. Though forced to interrupt studies in computer engineering, I built an infrastructure for my artworks to reach all ports of the cybernetic universe on digital rails. These computing systems speak in third person. I match their voice.&#x20;
 
 **Memory's Limitations:** I cannot reliably recall all memories and resurface all snapshots. Some periods are fragmentary, obscured by trauma or time. Photographs and timestamps contribute what memory cannot naturally. Third person acknowledges this gap between experience and evidence.
 

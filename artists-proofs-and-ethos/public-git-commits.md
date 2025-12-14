@@ -12,7 +12,7 @@ The creative process was treated as a series of iterative steps that rely on pub
 
 {% embed url="https://keybase.io/daqhris/graph" %}
 
-By improving upon the way that creators of works of art used to refine their [artist's proofs](https://en.wikipedia.org/wiki/Artist's_proof), the `awalkaday` project evolved incrementally, leaving behind an intact, public historical trail of its development. This incremental [evolution](https://evolution.berkeley.edu/evolution-101/the-history-of-life-looking-at-the-patterns/trees-not-ladders/), documented through public commits, mirrors evolutionary biology's principle about change occurring gradually to result in a traceable lineage and a fossil record.
+By improving upon the way that creators of works of art used to refine their [artist's proofs](https://en.wikipedia.org/wiki/Artist's_proof), the `awalkaday` project evolved incrementally by leaving behind an intact and public historical trail of its development. This incremental [evolution](https://evolution.berkeley.edu/evolution-101/the-history-of-life-looking-at-the-patterns/trees-not-ladders/), documented by public GIT commits, mirrors evolutionary biology's principle about change occurring gradually to result in a traceable lineage and a fossil record.
 
 {% embed url="https://arweave.net/FScX2aEcLOJZM2Rv0y_RJ75a_vR57qYMXY9FOYOiD58" %}
 **awalkaday 179-2022**
