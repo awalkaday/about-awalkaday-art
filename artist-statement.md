@@ -1,5 +1,19 @@
 ---
 description: Disclosures and essential information written in the first person.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # ARTIST STATEMENT
