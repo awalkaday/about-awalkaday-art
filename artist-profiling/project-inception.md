@@ -83,7 +83,7 @@ Three years later, during the season of blooming lush gardens in 2020, the photo
 
 ### The Long Endurance
 
-Since day one, the photographer lacked rights to knock on doors of medical care and health insurance. Step by step, he grew accustomed to refusal of humanitarian aid and expulsion from banking services. His social status and life as an immigrant remained uncertain, hopeless, angst-inducing and precarious.&#x20;
+Since day one, the photographer lacked rights to knock on doors of medical care and health insurance buildings. Step by step, he grew accustomed to refusal of humanitarian aid and expulsion from banking services. His social status and life as an immigrant remained uncertain, hopeless, angst-inducing and precarious.&#x20;
 
 He faced recurring unemployment despite numerous skills. He walked—burning organic calories instead of emitting gas pollutants—and killed two birds with one stone: environmental virtue and economic necessity. In stark contrast with modern European cultural conventions, `awalkaday.art` is neither a state-sponsored artistic endeavor, nor a brick-and-mortar art gallery.
 
