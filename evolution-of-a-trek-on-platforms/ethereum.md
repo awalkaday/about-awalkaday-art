@@ -16,7 +16,7 @@ Blessed by the angelic support of a cryptocurrency wallet, activated in [2017](h
 
 [Ethereum](https://ethereum.org/) is a decentralized blockchain platform that allows developers to deploy self-executing code in the form of smart contracts and applications. The artworks were wrapped in the `awalkaday.art` smart contract and self-published so that they can be preserved, collected and exchanged. The smart contract address is [`0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1`](https://etherscan.io/address/0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1).<br>
 
-{% code title="Contract Source Code — File 1 of 5 : WALK.sol" %}
+{% code title="Contract Source Code — File 1 of 5 : WALK.sol" lineNumbers="true" expandable="true" %}
 ```solidity
 // SPDX-License-Identifier: MIT
 
