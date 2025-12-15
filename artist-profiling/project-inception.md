@@ -53,7 +53,7 @@ On the torturous path to confining the multilingual man for five, then stretched
 
 <figure><img src="https://sd55vpc7xirkafqt6l42hrsiafn5kqkvdbliclrpomelxemu5opa.arweave.net/kPvavF-6IqAWE_L5o8ZIAVvVQVUYVoEuL3MIu5GU654" alt="awalkaday 59-2022"><figcaption><p><strong>awalkaday 59-2022</strong></p></figcaption></figure>
 
-### Humanitarian Camp
+### Humanitarian Camp 'Belgrade'
 
 Once upon the summer of 2017, Chris had been residing in a Red Cross camp in Namur, Belgium, for almost ten months—since his wintertime birthday as a newly arrived asylum seeker. To combat prolonged boredom and physical inactivity, an idea sparkled in his mind, urging him to combine his skills in black-and-white photography, visual design, and software coding in order to launch an artistic project.
 
