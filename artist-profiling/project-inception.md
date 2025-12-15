@@ -95,9 +95,9 @@ One question strolled through his mind, circling the nervous pathways during eve
 
 A question answered intuitively by Chronos, the Greco-Roman God of Time: “_Fear not. Time will tell._” And then, quieter, the Catholic God whispered telepathically one word—a Hebrew loan naturalized through Greek to Latin—to his inner ear: “_Amen._” \
 \
-The photographic tool rung, as if it were imitating a Church bell, to notify of the State's lifechanging decision in the spring of 2024. His handheld computer sounded as ding-dong memories from past years of remote intrusions and unanswered calls.&#x20;
+The photographic tool rung, as if it were imitating a Church bell, to notify of the State's lifechanging decision in the spring of 2024. His handheld computer sounded as ding-dong memories from past years of remote intrusions and unanswered calls. Regardless, the pace of outdoor walks was not stalled towards donating his body's lifesaving liquids during the next year's spring.&#x20;
 
-Regardless, the pace of outdoor walks was not stalled towards donating his body's lifesaving liquids during the next year's spring. The Englishmen's adage “_a walk a day keeps the doctor away_” ceased to be true for him, eight years following inception of the project, thanks to a Belgian network of women: a doctor, an ex-girlfriend, an anthropologist, a retiree, a public agent, scientists, artists, etc.&#x20;
+The Englishmen's adage “_a walk a day keeps the doctor away_” ceased to be true for the photographer, eight years postconception of the project, by the grace of a Belgian network of caring women: a doctor, an ex-girlfriend, an anthropologist, a retired nurse, a public agent, a filmmaker, scientists, artists, etc.&#x20;
 
 These walks became his penance, his pilgrimage, his enterprise for clinging to life. Not winking at courts—they had already judged—but to Time itself.
 
