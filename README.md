@@ -26,13 +26,9 @@ layout:
 **awalkaday 251-2022**
 {% endembed %}
 
-<p align="center"></p>
 
-<p align="center"></p>
 
 ***
-
-<p align="center"></p>
 
 <h3 align="center">Synopsis</h3>
 
@@ -45,6 +41,8 @@ layout:
 <p align="center">◈</p>
 
 <h4 align="center"><mark style="color:$info;">book.</mark>awalkaday.art</h4>
+
+<p align="center"><strong>Made in the Kingdom of Belgium</strong><br><em>An Undocumented Artistic Product Of Afro-Surrealism,</em><br><em>By An Undocumented Artist On The Land of Surrealism.</em></p>
 
 <p align="center"><strong><code>32 Pages</code> — ENGLISH — Black &#x26; White Digital Photography</strong></p>
 
