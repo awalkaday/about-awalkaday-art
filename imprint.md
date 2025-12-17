@@ -27,6 +27,8 @@ Its legal rights shall be governed by [Belgian law](https://www.wipo.int/wipolex
 
 ### Online Shop
 
+If this book has moved you, the photographs that sparked it are available as collectible tokens. Each token preserves a visual proof that someone walked, observed, and documented a human life that did not vanish in our collective memory. Your collection supports the artist and keeps his artworks alive.
+
 {% embed url="https://collect.awalkaday.art" %}
 
 {% embed url="https://xjp7hza4gi5jdcag2jq3jmtdysje24arqrq2mxdxxqenaxadq7yq.arweave.net/ul_z5BwyOpGIBtJhtLJjxJJNcBGEYaZcd7wI0FwDh_E" fullWidth="false" %}
