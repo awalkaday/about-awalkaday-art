@@ -55,7 +55,9 @@ On the torturous path to confining the multilingual man for five, then stretched
 
 ### Humanitarian Camp 'Belgrade'
 
-Once upon the summer of 2017, Chris had been residing in a Red Cross camp in Namur, Belgium, for almost ten months—since his wintertime birthday as a newly arrived asylum seeker. To combat prolonged boredom and physical inactivity, an idea sparkled in his mind, urging him to combine his skills in black-and-white photography, visual design, and software coding in order to launch an artistic project.
+Once upon the summer of 2017, Chris had been residing in a Red Cross camp in Belgrade on the outskirts of Namur, Belgium, for almost ten months—since his wintertime birthday—as a newly arrived asylum seeker.&#x20;
+
+To combat prolonged boredom and physical inactivity, an idea sparkled in his mind, urging him to combine his skills in black-and-white photography, visual design, and software coding in order to launch an artistic project.
 
 {% embed url="https://aqdko2gvdb5swcvmv5fefjh2nvqay2jo25zaraa4e7gzvtmhqvra.arweave.net/BAanaNUYeysKrK9KQqT6bWAMaS7XcgiAHCfNms2HhWI" %}
 **awalkaday 344-2017**
@@ -73,7 +75,7 @@ Until the day his exhausted mind and hypervigilant body gave an incorrect locati
 
 ### Loss, Silence, Rebirth
 
-After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/instagram.md) and coding on [GitHub](../evolution-of-a-trek-on-platforms/github.md)—from Europe, the second continent he'd discovered in his lifetime—the mission was abruptly halted. His laptop crashed; his smartphone was stolen. Both losses occurred within the refugee camp enclosure in Francophone Belgium, at the start of 2018.
+After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/instagram.md) and coding on [GitHub](../evolution-of-a-trek-on-platforms/github.md)—from the second continent he had discovered in his lifetime—the mission was abruptly halted. His laptop crashed; his smartphone was stolen. Both losses occurred within the refugee camp enclosure in Francophone Belgium, at the start of 2018.
 
 Three years later, during the season of blooming lush gardens in 2020, the photographic odyssey relaunched. Funded by earnings from a painting job, the lonely photo walks were ran from an attic room in Bastogne—near the Belgian-Luxembourg border—until the season of dry skin shivering in 2022.&#x20;
 
@@ -85,7 +87,7 @@ Three years later, during the season of blooming lush gardens in 2020, the photo
 
 Since day one, the photographer lacked rights to knock on doors of medical care and health insurance buildings. Step by step, he grew accustomed to refusal of humanitarian aid and expulsion from banking services. His social status and life as an immigrant remained uncertain, hopeless, angst-inducing and precarious.&#x20;
 
-He faced recurring unemployment despite numerous skills. He walked—burning organic calories instead of emitting gas pollutants—and killed two birds with one stone: environmental virtue and economic necessity. In stark contrast with modern European cultural conventions, `awalkaday.art` is neither a state-sponsored artistic endeavor, nor a brick-and-mortar art gallery.
+He faced recurring unemployment despite numerous skills. He walked—burning organic calories instead of emitting gas pollutants—and killed two birds with one stone: environmental virtue and economic necessity. In stark contrast with modern European cultural conventions, `awalkaday.art` stuck around neither as a state-sponsored artistic endeavor, nor as a brick-and-mortar art gallery.
 
 {% embed url="https://arweave.net/WB8akAD3XwwJ-5QCWgH9k-4eaDNRctqmTzBH4hwLwyo" %}
 **awalkaday 184-2021**
@@ -95,7 +97,7 @@ One question strolled through his mind, circling the nervous pathways during eve
 
 A question answered intuitively by Chronos, the Greco-Roman God of Time: “_Fear not. Time will tell._” And then, quieter, the Catholic God whispered telepathically one word—a Hebrew loan naturalized through Greek to Latin—to his inner ear: “_Amen._” \
 \
-The photographic tool rung, as if it were imitating a Church bell, to notify of the State's unfavorable decision in the spring of 2024, like some years ago. His handheld computer sounded as ding-dong memories from past years of remote intrusions or unanswered calls. Regardless, the pace of outdoor walks was not stalled towards donating his body's lifesaving liquids during the next year's spring.&#x20;
+The photographic tool rung, as if it were imitating a Church bell, to notify of the State's unfavorable decision in the spring of 2024, like some years ago. His handheld computer sounded as ding-dong memories from past years of remote intrusions or unanswered calls. Regardless, the pace of outdoor walks was not stalled towards donating to the Red Cross his body's lifesaving liquids during the next year's spring.&#x20;
 
 The Englishmen's adage “_a walk a day keeps the doctor away_” ceased to be true for the photographer, eight years postconception of the project, by the grace of a Belgian network of caring women: a doctor, an ex-girlfriend, an anthropologist, a retired nurse, a public agent, a filmmaker, scientists, artists, etc.&#x20;
 
