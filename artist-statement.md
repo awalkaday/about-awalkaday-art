@@ -109,13 +109,13 @@ For an accurate time-stamped record of the book's drafts, or an analysis of my p
 
 {% embed url="https://github.com/awalkaday/about-awalkaday-art/commits/book/" %}
 
-### On Writing Oneself In Third Person (2025)
+### Writing Oneself In Third Person (2025)
 
 Most of this book is written in the third person, referring to me as _Chris-Armel_, _daqhris, &#x6F;_&#x72; _he_—somehow no trace of my family name _Iradukunda._ It is not stylistic affectation, but rather a necessary method in ways decoded below.
 
-**Self-Protection:** Eight years of walks encompass years of financial precarity, rejection letters, awareness of being the _'alien'_ in public space, threat attack mitigation, social isolation of exile, zero employment contract, denial of healthcare access, retribution from power-abusers, homelessness, hypervigilance, and uncertain future. First person requires reliving. Third person allows recording.
+**i-Protection:** Eight years of walks encompass years of financial precarity, rejection letters, awareness of being the _'other'_ in public space, threat attack mitigation, social isolation of exile, zero employment contract, denial of healthcare access, retribution from power-abusers, homelessness, hypervigilance, and uncertain future. First person requires reliving. Third person allows recording.
 
-**Objectivity Under Scrutiny:** As an immigrant deprived of basic rights, my subjective testimony is often suspect, silenced or surveilled. Immigration _'interviews'_ were tainted by a hostile assumption of faking suffering for sympathy gain. Third person borrows the authority of the technological archive spread around third-party networks that don't ask to be believed; they simply are. &#x20;
+**Objectivity Under Scrutiny:** As an immigrant deprived of belonging rights, my subjective testimony is often suspect, silenced or surveilled. Immigration _'interviews'_ were tainted by a hostile assumption of faking suffering for sympathy gain. Third person borrows the authority of the technological archive spread around third-party networks that don't ask to be believed; they simply are. &#x20;
 
 **Archival Consciousness:** This work is designed to outlive me across long-lasting and neutral systems, such as decentralized storage. Though forced to interrupt studies in computer engineering, I built an infrastructure for my artworks to reach all ports of the cybernetic universe on digital rails. These computing systems speak in third person. I match their voice.&#x20;
 
