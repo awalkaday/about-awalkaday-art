@@ -37,7 +37,7 @@ On the torturous path to confining the multilingual man for five, then stretched
 
 1. the photographic portrayal of human faces at a foreign students' cultural celebration&#x20;
 2. activism on campus as a tuition-free, government-sponsored, foreign student&#x20;
-3. his inherited ethnicity associated to his father's four-star ranking military career&#x20;
+3. his inherited _Tutsi_ ethnicity associated to his father's four-star ranking military career&#x20;
 4. a snitch call voiced by a friendly countrymate from the dormitory to higher-ups&#x20;
 5. a _crime de lèse-majesté_ due to the embassy's presidential portrait, photographed on the floor&#x20;
 6. chemical traces of an organic drug, found in his pee by the secret police of the tech hub district&#x20;
