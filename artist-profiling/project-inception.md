@@ -55,7 +55,7 @@ On the torturous path to confining the multilingual man for five, then stretched
 
 ### Humanitarian Camp 'Belgrade'
 
-Once upon the summer of 2017, Chris had been residing in a Red Cross camp in Belgrade on the outskirts of Namur, Belgium, for almost ten months—since his wintertime birthday—as a newly arrived asylum seeker.&#x20;
+Once upon the summer of 2017, Chris had been residing in the Red Cross camp of Belgrade on the outskirts of Namur, Belgium, for almost ten months—since the day of his 24th wintertime birthday—as a newly arrived asylum seeker.&#x20;
 
 To combat prolonged boredom and physical inactivity, an idea sparkled in his mind, urging him to combine his skills in black-and-white photography, visual design, and software coding in order to launch an artistic project.
 
