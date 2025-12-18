@@ -9,8 +9,8 @@ description: >-
 ## Contents
 
 * Walking Memories                                           → [`COVER`](./)
-* READING GUIDE                                           → [`FRONT-1`](reading-guide.md)
-* ARTIST STATEMENT                                           → [`FRONT-2`](artist-statement.md)
+* ARTIST STATEMENT                                           → [`FRONT-1`](artist-statement.md)
+* READING GUIDE                                           → [`FRONT-2`](reading-guide.md)
 * Introduction to the Photo Series                        → [`1`](introduction-to-the-photo-series.md)
 * Beyond Pixels: A Stroll into Nature                     → [`2`](beyond-pixels-a-stroll-into-nature.md)
 * Mobile Studio and Digital Toolkit                       → [`3`](mobile-studio-and-digital-toolkit/) &#x20;
@@ -53,4 +53,4 @@ description: >-
 
 <p align="center"></p>
 
-<p align="center"><strong><code>FRONT-1</code></strong></p>
+<p align="center"><strong><code>FRONT-2</code></strong></p>
