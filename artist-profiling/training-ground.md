@@ -18,11 +18,11 @@ Few bits of details about myself, don't bother reading, pass it on to your kids!
 ```
 {% endcode %}
 
-{% code title="hello-world/README" overflow="wrap" %}
+{% code title="hello-world/README.md" overflow="wrap" %}
 ```md
 # hello-world
 
-Amahoro!
+## Amahoro!
 
 This is my Hello World project. It is a made of results of my first GitHub tutorial. I am officially taking my baby steps into a new community. Followed instructions can be found here https://guides.github.com/activities/hello-world/
 
