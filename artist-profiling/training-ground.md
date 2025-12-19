@@ -14,20 +14,19 @@ On the holiday marking the end of the Chinese New Year celebrations, he did not 
 
 {% code overflow="wrap" %}
 ```
-Few bits of details about myself, don't bother reading, pass it on to your kids! Cheers to restraining your ego. 😄
+Few bits of details about myself, don't bother reading, pass it on to your kids! Cheers to restraining your ego. 😄 
 ```
 {% endcode %}
 
-{% code title="hello-world/README.md" overflow="wrap" %}
-```md
-# hello-world
+{% code title="hello-world/README.md" overflow="wrap" lineNumbers="true" %}
+```markdown
+## hello-world
 
-## Amahoro!
+### Amahoro!  
 
 This is my Hello World project. It is a made of results of my first GitHub tutorial. I am officially taking my baby steps into a new community. Followed instructions can be found here https://guides.github.com/activities/hello-world/
 
 This winter is wrecking my bones and brains. Therefore, I am cheerfully answering a hotline bling call to pick up on the fingers and nerves break dance! (just don't wanna miss my college grad bus :D) 
-
 ```
 {% endcode %}
 
