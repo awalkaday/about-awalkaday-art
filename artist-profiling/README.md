@@ -1,6 +1,6 @@
 ---
 description: >-
-  A non-Burundian portrait assembled from fragments of darkened memories:
+  A portrait of a Burundian assembled from fragments of darkened memories:
   Beijing to Brussels, war filming to refuge seeking, engineer-in-training to
   undocumented
 layout:
