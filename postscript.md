@@ -1,7 +1,7 @@
 ---
 description: >-
-  An exhaustive table listing the 263 photographs with names, timestamps and
-  their token IDs
+  An exhaustive table listing the 263 digital photographs with names, public
+  timestamps and WALK token identifiers
 layout:
   width: default
   title:
