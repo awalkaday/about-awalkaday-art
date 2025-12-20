@@ -12,7 +12,7 @@ The first and last photographs, preserved in the collection on the blockchain, a
 The oldest photo in the blockchain series was posted on Instagram during his birthday in Nov 2017. Its original version was lost; but a copy was recovered, named and minted in the first quarter of 2023. Same recovery story for all tokenized photos of the first two years.
 {% endembed %}
 
-The Internet domain **`awalkaday.art`** was officially registered in [May 2021](https://whois.gandi.net/en/results?search=awalkaday.art).
+The Internet domain **awalkaday.art** was officially registered in [May 2021](https://whois.gandi.net/en/results?search=awalkaday.art).
 
 One year later, a meaningful milestone was reached when selected photographs graced the virtual walls of the [MONOLITH Gallery](https://monolith.gallery/archives) inside Sellen Hall in [July 2022](https://monolith.gallery/hall/sellen/g56L1RdA9DXtqQR3aALG).
 
