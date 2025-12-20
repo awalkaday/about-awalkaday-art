@@ -20,7 +20,7 @@ layout:
 
 # CATALOGUE
 
-## Photographic Tables: Place, Time, Air
+## Photographic Tables
 
 ### Geographic Location&#x20;
 
