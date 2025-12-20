@@ -85,7 +85,7 @@ _A token of gratitude goes to:_&#x20;
 
 <div align="left"><figure><img src="https://soundimageculture.org/wp-content/uploads/2023/05/sic_logo_white_circle_text_vec.svg" alt="https://soundimageculture.org/" width="188"><figcaption><p>Observer: <a href="https://soundimageculture.org/laboratory/#sic-regular-text-block_cd5d0fa1e38b295170f402ac3a73b7d6">SIC Collective Sessions</a> <em>('23-'24)</em></p></figcaption></figure></div>
 
-<h4 align="right">Political Asylum O<strong>verseers</strong></h4>
+<h4 align="right">Political Asylum Overseers</h4>
 
 <div align="right"><figure><img src="https://www.cgra.be/sites/default/files/logo_cgvs-cgra.png" alt="" width="188"><figcaption><p>Queries by <a href="https://www.cgrs.be/en">Belgian Federal Agents</a> <em>('17/'18/'19)</em></p></figcaption></figure></div>
 
