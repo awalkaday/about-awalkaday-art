@@ -52,8 +52,6 @@ layout:
 
 <p align="center">◈</p>
 
-<div data-with-frame="true"><figure><img src="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/awalkaday-logo-2x1.png" alt="Official Logo of &#x27;A Walk A Day&#x27;" width="375"><figcaption></figcaption></figure></div>
-
 {% hint style="info" %}
 Ceci ■ est ■ un Livre d'Artiste Sans Papier.
 {% endhint %}
