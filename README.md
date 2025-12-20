@@ -56,10 +56,6 @@ layout:
 Ceci ■ est ■ un Livre d'Artiste Sans Papier.
 {% endhint %}
 
-{% hint style="warning" %}
-_**Drafting Stage** : The book's content keeps advancing day after day, nearing its final **PDF** destination._
-{% endhint %}
-
 <p align="center"></p>
 
 <p align="center"><strong><code>COVER</code></strong></p>
