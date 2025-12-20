@@ -36,7 +36,7 @@ layout:
 
 <p align="center"><strong>Its illustrated pages tell the story of a terrestrial odyssey across public spaces and computing platforms.</strong> Acting as the annotated companion to a series of 263 photographs shot during regular walks throughout Belgium, Europe, the book captures both visual and emotional landscapes. It's the online culmination of an eight-year project by an exiled artist, pioneering a digital artwork that integrates all timestamped drafts into one open-source and free edition.</p>
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><a href="artist-statement.md">ARTIST STATEMENT</a></td></tr><tr><td align="center"><a href="reading-guide.md">READING GUIDE</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>ARTIST STATEMENT</strong></td><td><a href="artist-statement.md">artist-statement.md</a></td></tr><tr><td align="center"><strong>READING GUIDE</strong></td><td><a href="reading-guide.md">reading-guide.md</a></td></tr></tbody></table>
 
 <p align="center">◈</p>
 
@@ -48,7 +48,7 @@ layout:
 
 <p align="center"><a href="https://github.com/awalkaday/about-awalkaday-art/tree/book">github.com/awalkaday/about-awalkaday-art/tree/book</a></p>
 
-<table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>IMPRINT</strong></td><td><a href="imprint.md">imprint.md</a></td></tr><tr><td align="center">APPENDIX</td><td><a href="appendix.md">appendix.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>IMPRINT</strong></td><td><a href="imprint.md">imprint.md</a></td></tr><tr><td align="center"><strong>APPENDIX</strong></td><td><a href="appendix.md">appendix.md</a></td></tr></tbody></table>
 
 <p align="center">◈</p>
 
