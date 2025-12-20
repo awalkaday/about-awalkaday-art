@@ -53,7 +53,7 @@ layout:
 <p align="center">◈</p>
 
 {% hint style="info" %}
-Ceci ■ est ■ un Livre d'Artiste Sans Papier.
+_Ceci ■ est ■ un Livre d'Artiste Sans Papier._
 {% endhint %}
 
 <p align="center"></p>
