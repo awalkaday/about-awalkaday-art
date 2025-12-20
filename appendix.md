@@ -32,11 +32,11 @@ This black-and-white photo captured a fleeting moment. It preserves for ages a r
 Check out the onchain photo on The Hug.
 {% endembed %}
 
-Sculpted in bronze by Belgian artist [Nat Neujean](https://www.natneujean.com/), [**The Daughters of Water**](https://statues.vanderkrogt.net/object.php?webpage=ST\&record=bena030) **(1951)** depicts two intertwined nymphs, symbolizing two European rivers: [Meuse](https://en.wikipedia.org/wiki/Meuse) and [Sambre](https://en.wikipedia.org/wiki/Sambre). The colorful photographs of the sculpture were taken on the 8th day of May in 2024, a day that commemorates the Second World War-ending victory of democracy over fascist ideologies across Europe in the mid-20th century.
+Sculpted in bronze by Belgian artist [Nat Neujean](https://www.natneujean.com/), [**The Daughters of Water**](https://statues.vanderkrogt.net/object.php?webpage=ST\&record=bena030) **(1951)** depicts two intertwined nymphs, symbolizing two European rivers: [Meuse](https://en.wikipedia.org/wiki/Meuse) and [Sambre](https://en.wikipedia.org/wiki/Sambre). The colorful photographs of the sculpture were taken on the **8th day of May 2024**, a day that commemorates the Second World War-ending victory of democracy over fascist ideologies across Europe in the mid-20th century.
 
 <div><figure><img src=".gitbook/assets/IMG_20240508_162733_3-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162755_1-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162716_4.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-The two artworks share roots in a 19th century park named after the first Queen of the Belgians, Louise-Marie. Zoom in to notice a duo of beings—humans or nature deities—in the shade of a slowly aging tree. The secret is the Tree of Life.&#x20;
+The two artworks share roots in a **19th century park** named after the first Queen of the Belgians, Louise-Marie. Zoom in to notice a pair of beings, humans or deities, photographed in the shade of one slowly aging tree, observed on the linear timeline of Mother Nature. The secret is: **Tree of Life**.&#x20;
 
 ### Four Ethereal Domain Names
 
