@@ -1,10 +1,8 @@
 # Contact
 
-<figure><img src="https://www.instagram.com/p/BXlkT6igTqq/" alt="" width="375"><figcaption></figcaption></figure>
+{% embed url="https://www.instagram.com/p/BXlkT6igTqq/?utm_source=ig_web_button_share_sheet" %}
 
-
-
-Convenient methods of contacting the walking photographer were actively run, over an extended window of time, through worldwide optical cables.
+Convenient methods of contacting the walking photographer were actively run, over an extended window of time, through worldwide optical cables. Due to lack of an outdoor box that receives letters delivered by Belgian postal services, portable inboxes became the go-to solution for in-and-out exchange of messages relayed by Internet platforms for free or by rented computing storage.
 
 #### **Electronic Mail**
 
