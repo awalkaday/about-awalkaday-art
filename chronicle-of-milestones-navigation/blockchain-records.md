@@ -1,5 +1,13 @@
 # Blockchain Records
 
+The photo odyssey was revived in the Francophone city of Bastogne. The small town without a train station had on its main street a unique electronics shop that facilitates human access, without an electronic identity card, to an automatic banking machine for digital currencies.&#x20;
+
+After verification of such blockchain-friendly operations at the end of 2020, what the photographer dreamt of was earning banknotes in cash form. His greedy dreams used to take place in a bed adjacent to a smoking chimney below the wooden roof of a Belgian family of Burundian origin.&#x20;
+
+Months after months, inspired by the unrelenting spirit of a town known for an American-led victorious offensive during the Second World war, `daqhris` turned into a local handyman who can do-it-all. One job here, one call from there, on call all four seasons, until landing a job offer from a  local computer boutique in the spring of 2022.&#x20;
+
+The promise of employment came with benefits: a signed letter to support the regularization of the geek's legal status. To the shock of his social network in the provincial town, the delayed response from a federal office smashed down the financial offer for community integration through computer repair. Then, despair showed up again in a fog of dark emotions, uncolored more digital snapshots, screamed out loud for bank-free miracles, and longed for on foot retreats into Ardennes forests.
+
 The blockchain publication of the photo collection was achieved with the creation of an eponymous [smart contract](https://ethereum.org/en/developers/docs/smart-contracts/) in [August 2022](https://etherscan.io/tx/0x3cce44b92db9e6eb887fcbe90d59f5951e9928dea4540afbfe9fd3c2e9662f1f). The contract creation was followed by the registration of [`awalkaday.art`](https://app.ens.domains/awalkaday.art) as an **Ethereum domain name** in [September 2022](https://etherscan.io/tx/0x353f1900e073e6d97f8230021c3fce153b4b930269e5c8bd4f47c9c3950b9337).
 
 {% embed url="https://app.ens.domains/awalkaday.art" %}
