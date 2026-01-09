@@ -1,8 +1,8 @@
 # Blockchain Records
 
-From differing sources of footprints found in public records, the photo odyssey was revived in the Francophone city of Bastogne. The small town without a train station had on its main street a unique electronics shop that facilitates human access, without an electronic identity card, to an automatic banking machine for digital currencies.&#x20;
+According to traces of footprints found in public records, the photo odyssey was revived in the Francophone city of Bastogne. The small town without a train station had on its main street a unique electronics shop that facilitated human access, without asking for governmental proofs of human identity, to an automatic banking machine for digital currencies.&#x20;
 
-After verification at the end of 2020 of such cash-coins conversion operations nearby a tax heaven kingdom of Luxembourg, what the photographer dreamt of was earning banknotes in cash form. His greedy dreams used to take place in a bed adjacent to a smoking chimney below the wooden roof of a six-person Burundian family naturalized as Belgians by laws of the 20th century.&#x20;
+After verification at the end of 2020 of cash-coins conversion operations nearby a tax heaven kingdom, what the photographer dreamt of was earning banknotes in cash form. His greedy dreams used to take place in a bed adjacent to a smoking chimney below the wooden roof of a six-person Burundian family naturalized as Belgians by laws of the 20th century.&#x20;
 
 Months after months of unemployment, no spare time was wasted away from wandering, coding or exploring walkways layered on kilometers of former railway tracks, nicknamed _RAVeL_. As soon as the Sun rose up on his birthdate of November 2021, romantic ties got severed by a Belgian love interest who battled an autoimmune disease hindering her walks in the city of Verviers. The last surprise of the day unwrapped a present: a stack of ENS cryptocurrencies parachuted into his public wallet.&#x20;
 
