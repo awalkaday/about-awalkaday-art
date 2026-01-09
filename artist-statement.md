@@ -101,7 +101,7 @@ Its pages tell the tale of a human wanderer, portray traces of what was seen, fe
 
 Peering into photographs devoid of humans, combing through scattered data trails, cleansing away trauma by crying were a weekly occurrence when recalling shattered memories during a life review at the start of 2024.&#x20;
 
-Traveling back in my mind's timeline, against my brain's resistance, was made a breeze by the patronage of a British artist and theatre-maker who provided rent-free housing on top of Mount Kemmel, in Brussels, at a flat overlooking the Park of Forest where rose up inspiration, for nearly a year and half (2023-2025).&#x20;
+Traveling back in my mind's timeline, against my brain's resistance, was made a breeze by the patronage of a British artist and theatre-maker who provided rent-free housing on the hilltop of an avenue honoring Mount Kemmel in Brussels, at a flat overlooking the Park of Forest where rose up inspiration, for nearly a year and half (2023-2025).&#x20;
 
 <figure><img src="https://7qcx5f3hkbvgk5mz33xc3cpbuxozanrxhfpl7qinekgqyptnkuea.arweave.net/_AV-l2dQamV1md7uLYnhpd2QNjc5Xr_BDSKNDD5tVQg" alt=""><figcaption><p><strong>awalkaday 172-2022</strong></p></figcaption></figure>
 
