@@ -1,10 +1,10 @@
 # Blockchain Records
 
-According to traces of footprints found in public records, the photo odyssey was revived in the Francophone city of Bastogne. The small town without a train station had on its main street a unique electronics shop that facilitated human access, without asking for governmental proofs of human identity, to an automatic banking machine for blockchain currencies.&#x20;
+According to traces of footprints found in public records, the photo odyssey was revived in the Francophone city of Bastogne. The small town deprived of a train station had on its main street an electronics shop that facilitated human access, without recording governmental proofs of human identity, to an automatic banking machine functioning with blockchain currencies.&#x20;
 
-After verification at the end of 2020 of cash-coins conversion operations nearby a tax heaven kingdom, what the photographer dreamt of was earning banknotes in cash form. His greedy dreams used to take place on a king-size bed, adjacent to a smoking chimney, below the wooden roof of a six-person Burundian family naturalized as Belgians by laws of the 20th century.&#x20;
+After verification at the end of 2020 of token conversion operations nearby a tax heaven kingdom, what the photographer dreamt of was earning banknotes in cash form. His greedy dreams used to take place on a king-size bed, adjacent to a smoking chimney, below the wooden roof of a six-person Burundian family naturalized as Belgians by laws of the 20th century.&#x20;
 
-Months after months of unemployment, little to no free time was wasted away exploring kilometers of walkways layered on dismantled railway tracks known as _RAVeL_ or executing entrepreneurial moves across public networks of cyberspace. As soon as the Sun rose up on his November birthdate in  2021, romantic ties woven in French got severed by a Belgian love interest who battled everyday an autoimmune disease hindering her walks in the city of Verviers. The last surprise of that day unwrapped a present: a digital stack of ENS governance tokens parachuted into his public wallet.&#x20;
+Throughout months of unemployment, little to no free time was wasted away from executing entrepreneurial moves across public networks of cyberspace or wandering kilometers of walkways built on dismantled railway tracks, _RAVeL_. As soon as the Sun rose up on his November birthdate in 2021, romantic ties woven in French were severed by a Belgian girlfriend who battled everyday an autoimmune hindrance to her walks in the city of Verviers. The last surprise _du jour_ unwrapped a present: a digital stack of ENS governance tokens parachuted into his public wallet.&#x20;
 
 <figure><img src="https://2tn42zs3accecv6wwa6ccommvlm4jjbeeyogidtrjjqr3tzid6sa.arweave.net/1NvNZlsAhEFX1rA8ITmMqtnEpCQmHGQOcUphHc8oH6Q" alt=""><figcaption><p><strong>awalkaday 173-2021</strong></p></figcaption></figure>
 
@@ -20,7 +20,7 @@ Later, the blockchain publication of the photo collection was achieved in subseq
 
 About half a year onward, during his desperate migration to a nomadic lifestyle sheltered by refugees in Brussels, **263** [**WALK tokens**](https://etherscan.io/token/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1) were minted on Ethereum in [February 2023](https://etherscan.io/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b), marking a significant moment in the history of the photo serie&#x73;_._ A month prior, the artist's wallet had left behind its digital fingerprint at a [cryptographic ceremony](https://ceremony.ethereum.org/) when contributing **a random number to secure the future** of Ethereum's upgrades.
 
-<figure><img src="https://assets.poap.xyz/kzg-ceremony-contributor-2023-logo-1697634378053.png" alt="KZG Ceremony Contributor" width="188"><figcaption><p><a href="https://app.zerion.io/nfts/xdai/0x22c1f6050e56d2876009903609a2cc3fef83b415:6853025">KZG Ceremony Contributor</a></p></figcaption></figure>
+<figure><img src="https://assets.poap.xyz/kzg-ceremony-contributor-2023-logo-1697634378053.png" alt="KZG Ceremony Contributor" width="375"><figcaption><p><a href="https://app.zerion.io/nfts/xdai/0x22c1f6050e56d2876009903609a2cc3fef83b415:6853025">KZG Ceremony Contributor</a></p></figcaption></figure>
 
 {% embed url="https://deca.art/collection/awalkaday-art" %}
 
@@ -28,7 +28,13 @@ In the virtual realm of blockchain-based art platforms, the artist created a pro
 
 {% embed url="https://foundation.app/collection/awalkaday-art" %}
 
-As an artist, coder and hacker with published work on a blockchain, he participated in a 3-day international hackathon and gathering of Ethereum software developers organized by [ETHGlobal](https://ethglobal.com/events/brussels) and held for one time only in Brussels, Belgium (July 2024).
+As an artist, coder and hacker with published work on a blockchain, he participated in a 3-day international hackathon and gathering of Ethereum software developers organized by [ETHGlobal](https://ethglobal.com/events/brussels) and held for one time only in Brussels, Belgium (July 2024).&#x20;
+
+It's uncertain if unpredictable fate and good luck had to intervene for an undocumented person tethered to one country, gifting his timeline with three last-minute acts of fortune. Firstly, the relocation of large-scale events out of Paris due to reasons linked to concurrent Olympic Games.&#x20;
+
+Secondly, the recovery of a biometric passport requested for event attendance, which was discovered by the ex-girlfriend in a discarded bag under her queen-size bed. The passport was kept at all costs from being withheld by agents working for advanced nations on his exile path from _East_ to _West_, and was the keeper of years-old records about entry into the _Schengen_ area.&#x20;
+
+Thirdly, weeks before ending on a colorful note the visual art project, a tri-colored jacket made for cyclists attracted his shopping eyes at a second-hand clothing store in _Les Marolles_, the artistic heart of the capital city. With _Bastogne_ printed at the back of the sportswear worn during the last day, different kinds of eyes could notice the hilarious exporter of Belgian pixels walking around swarms of hackers.
 
 {% embed url="https://www.instagram.com/walk.day/p/C9sw6ZeNs7x/" %}
 
