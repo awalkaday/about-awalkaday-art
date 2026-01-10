@@ -8,7 +8,7 @@ Throughout months of unemployment, little to no free time was wasted away from e
 
 <figure><img src="https://2tn42zs3accecv6wwa6ccommvlm4jjbeeyogidtrjjqr3tzid6sa.arweave.net/1NvNZlsAhEFX1rA8ITmMqtnEpCQmHGQOcUphHc8oH6Q" alt=""><figcaption><p><strong>awalkaday 173-2021</strong></p></figcaption></figure>
 
-As a reward for pioneering use of an Ethereum protocol to name his account's numerical identifier as  `daqhris.eth`, the equivalent of a European engineer's four-months salary was granted all of a sudden with no strings attached. Out of his freelancing pocket, end-of-year donations followed suit within the Bitcoin network and a crypto-assets growth fund established to further the next milestones inside the Ethereum realm.
+As a reward for earlier transactions using of an Ethereum protocol to name his account's numerical identifier as  `daqhris.eth`, the equivalent of a European engineer's four-months salary was granted all of a sudden with no strings attached. Out of his freelancing pocket, end-of-year donations followed suit within the Bitcoin network and a crypto-assets growth fund established to further the next milestones inside the Ethereum realm.
 
 By keeping in mind the unrelenting spirit of a town associated with a USA-led victorious offensive during the Second World War, Chris expanded the range of skills to be hired as a local handyman who can do-it-all. One job here, one call there, on call all four seasons, until landing an offer from the city's first computer boutique in the spring of 2022. The promise of employment carried benefits: a business owner's letter to support the regularization of the geek's legal status.&#x20;
 
@@ -30,7 +30,7 @@ In the virtual realm of blockchain-based art platforms, the artist created a pro
 
 As an artist, coder and hacker with published work on a blockchain, he participated in a 3-day international hackathon and gathering of Ethereum software developers organized by [ETHGlobal](https://ethglobal.com/events/brussels) and held for one time only in Brussels, Belgium (July 2024).&#x20;
 
-It's uncertain if unpredictable fate and good luck had to intervene for an undocumented person tethered to one country, gifting his timeline with three last-minute acts of fortune. Firstly, the relocation of large-scale events out of Paris due to reasons linked to concurrent Olympic Games.&#x20;
+It's uncertain if the Goddess of unpredictable fate and good luck had to intervene for an undocumented person tethered to one country, in order to gift his timeline with three last-minute acts of fortune. Firstly, the relocation of large-scale events out of Paris due to lodging reasons linked to concurrent Olympic Games.&#x20;
 
 Secondly, the recovery of a biometric passport requested for event attendance, which was discovered by the ex-girlfriend in a discarded bag under her queen-size bed. The passport was kept at all costs from being withheld by agents working for advanced nations on his exile path from _East_ to _West_, and was the keeper of years-old records about entry into the _Schengen_ area.&#x20;
 
@@ -38,7 +38,7 @@ Thirdly, weeks before ending on a colorful note the visual art project, a tri-co
 
 {% embed url="https://www.instagram.com/walk.day/p/C9sw6ZeNs7x/" %}
 
-Since then, after honing his skills as an **Ethereum app developer** and overcoming the learning curve of hackathons, his next blockchain-based artistic projects began: [Zinneke Rescue Mission](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf), to be preceded by [Mission Enrollment](https://mission-enrollment.daqhris.com/).&#x20;
+Since then, after honing his skillsets as an **Ethereum app developer** and overcoming the learning curve of hackathons, his next blockchain-based artistic projects began: [Zinneke Rescue Mission](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf), to be preceded by [Mission Enrollment](https://mission-enrollment.daqhris.com/).&#x20;
 
 <div><figure><img src="https://assets.poap.xyz/ba72648e-b534-4630-80bf-caf648ee9ba9.png" alt="ETHGlobal Brussels 2024 Hacker (certified in Brussels)" width="375"><figcaption><p><a href="https://gnosis.blockscout.com/token/0x22c1f6050e56d2876009903609a2cc3fef83b415/instance/7187414">ETHGlobal Brussels 2024</a></p></figcaption></figure> <figure><img src="https://assets.poap.xyz/a1aed95e-3455-435f-8e8e-a13c1c4e7d29.png" alt="Superhack 2024 Hacker (certified by ETHGlobal)" width="375"><figcaption><p><a href="https://gnosis.blockscout.com/token/0x22c1f6050e56d2876009903609a2cc3fef83b415/instance/7187414">Superhack 2024</a></p></figcaption></figure></div>
 
