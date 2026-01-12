@@ -14,7 +14,7 @@ News and viewpoints related to the photo collection have been broadcast on X, wh
 **awalkaday 220-2022**
 {% endembed %}
 
-When his body no longer laid down on a soft mattress in the snowy year-end of 2022, his Twitter account became a speakerphone broadcasting a near-bankruptcy effort to sell valuable assets amassed in the ethereal world of a blockchain. Back then, the [live-tweeted](https://x.com/awalkadayart/status/1621189034201567233) photo of a popular newspaper played the role of a spokesperson relaying his inhumane misfortune on February 2, 2023.&#x20;
+When his body no longer laid down on a soft bed in the snowy year-end of 2022, his Twitter account became a speakerphone broadcasting a near-bankruptcy effort to sell valuable assets amassed in the ethereal world of a blockchain. Back then, the [live-tweeted](https://x.com/awalkadayart/status/1621189034201567233) photo of a popular newspaper played the role of a spokesperson relaying his inhumane misfortune on February 2, 2023.&#x20;
 
 Going forward, in synchronized motion with his teary eyes, his smartphone camera turned a blind eye to interior tearings and exterior walkways in favor of preserving only a digital façade connected to peers through networking.  &#x20;
 

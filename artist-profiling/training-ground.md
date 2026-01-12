@@ -10,7 +10,7 @@ Beginning in 2013 with accelerated dual immersion — in Chinese urban culture a
 **awalkaday 4-2022**
 {% endembed %}
 
-On the holiday marking the end of the Chinese New Year celebrations, he did not skip holding a brand-new computer on his lap. Instead of lighting lanterns on a festival day, 乔里斯 _'Qiao Li Si'_ used his coder name `daqhris` to release  `git` commits inside a cloud environment of foreign computer servers. The commits of February 22, 2016 were effective at merging a [#1 request for code changes](https://github.com/daqhris/hello-world/pull/1) into his _hello-world_ repository on GitHub. A plain-text [comment](https://github.com/daqhris/hello-world/pull/1/commits/f3e3d7497d7ac6163e6d94d01e313ce2e5591567) was hooked to the commit [Finish README](https://github.com/daqhris/hello-world/pull/1/)_,_ scribbled down in Markdown language during school vacation to say what's next.
+On the holiday marking the end of the Chinese New Year celebrations, he did not skip holding a brand-new computer on his lap. Instead of lighting lanterns on a festival day, 乔里斯 _'Qiao Li Si'_ used his coder name `daqhris` to release GIT commits inside a cloud environment of foreign computer servers. The commits of February 22, 2016 were effective at merging a [#1 request for code changes](https://github.com/daqhris/hello-world/pull/1) into his _hello-world_ repository on GitHub. A plain-text [comment](https://github.com/daqhris/hello-world/pull/1/commits/f3e3d7497d7ac6163e6d94d01e313ce2e5591567) was hooked to the commit [Finish README](https://github.com/daqhris/hello-world/pull/1/)_,_ scribbled down in Markdown language during school vacation to say what's next.
 
 {% code overflow="wrap" %}
 ```

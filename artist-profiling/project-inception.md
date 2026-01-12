@@ -19,7 +19,7 @@ layout:
 
 ### Crossing Waters
 
-Accompanied by his mother, who flew back shortly after, he landed in Brussels in the winter of 2016. The kindred separation followed a summer-autumn stopover in Cairo, where his parents and siblings had settled in the prestigious district of المهندسين—'The Engineers' in Arabic—before his departure, across the sea, seated on an Egyptian airline, to the executive capital of Europe.&#x20;
+Accompanied by his mother, who flew back shortly after, he landed in Brussels in the winter of 2016. The kindred separated in the follow-up to a summer-autumn stopover in Cairo, where his parents and siblings had settled in the prestigious district of المهندسين—'The Engineers' in Arabic—before his departure, across the sea, seated on an Egyptian airline, to the executive capital of Europe.&#x20;
 
 His aims and dreams in Europe—beyond pursuing university education again—included seeking safe haven away from persecution by his motherland's diplomats and their Chinese counterparts while studying abroad two seasons earlier.
 

@@ -4,7 +4,7 @@
 * [ARTIST STATEMENT](artist-statement.md)
 * [READING GUIDE](reading-guide.md)
 * [Introduction to the Photo Series](introduction-to-the-photo-series.md)
-* [Beyond Pixels: A Stroll into Nature](beyond-pixels-a-stroll-into-nature.md)
+* [Beyond Pixels: A Stroll Into Nature](beyond-pixels-a-stroll-into-nature.md)
 * [Mobile Studio and Digital Toolkit](mobile-studio-and-digital-toolkit/README.md)
   * [On-the-go Photography](mobile-studio-and-digital-toolkit/on-the-go-photography.md)
   * [Cameras and Photo Editing](mobile-studio-and-digital-toolkit/cameras-and-photo-editing.md)

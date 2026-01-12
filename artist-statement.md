@@ -111,7 +111,7 @@ For an accurate time-stamped record of the book's drafts, or an analysis of my p
 
 ### Writing Oneself In Third Person (2025)
 
-Most of this book is written in the third person, referring to me as _Chris-Armel_, _daqhris, &#x6F;_&#x72; _he_—somehow no trace of my family name _Iradukunda._ It is not stylistic affectation, but rather a necessary method in ways decoded below.
+Most of this book is written in the third person, referring to me as _Chris-Armel_, _daqhris,_ or _he_ —somehow no trace of my family name _Iradukunda._ It is not stylistic affectation, but rather a necessary method in ways decoded below.
 
 **i-Protection:** Eight years of walks encompass years of financial precarity, rejection letters, awareness of being the _'other'_ in public space, threat attack mitigation, social isolation of exile, zero employment contract, denial of healthcare access, retribution from power-abusers, homelessness, hypervigilance, and uncertain future. First person requires reliving. Third person allows recording.
 
@@ -127,10 +127,10 @@ Most of this book is written in the third person, referring to me as _Chris-Arme
 * Henry Adams wrote "The Education of Henry Adams" in third person to examine himself as case study, objectified for analysis
 * W.G. Sebald's narrators observe themselves observing, creating dreamlike distance
 * Gertrude Stein ventriloquized herself through 'Alice B. Toklas'
-* W.E.B. Du Boi&#x73;**'**&#x73; _'double consciousness'_: the necessity of seeing oneself through the gaze of systems that mark you as other. As an African exile in Europe, I exist in this dual consciousness—my lived experience and the bureaucratic third-person that defines my (non-)status.
+* W.E.B. Du Boi&#x73;**'**&#x73; _'double consciousness'_: the necessity of seeing oneself through the gaze of systems that mark you as other. As an African exiled in Europe, I exist in this dual consciousness—my lived experience and the bureaucratic third-person that defines my (non-)status.
 * Afrofuturism's archival urgency: the practice of creating permanent records when dominant systems erase or distort one's existence.&#x20;
 
-The omniscient narrator is not neutral. They speak as a system that tracked my existence, but compiled and narrated on my terms. Where the first person appears, it marks moments of direct address, of breaking the archival frame. These ruptures are intentional.&#x20;
+The all-seeing narrator is not neutral. They speak as a system that tracked my existence, but compiled and narrated on my terms. Where the first person appears, it marks moments of direct address, of breaking the archival frame. These ruptures are intentional.&#x20;
 
 <p align="center"></p>
 

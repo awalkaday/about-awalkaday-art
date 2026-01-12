@@ -14,7 +14,7 @@ Blessed by the angelic support of a cryptocurrency wallet, activated in [2017](h
 **awalkaday 78-2022**
 {% endembed %}
 
-[Ethereum](https://ethereum.org/) is a decentralized blockchain platform that allows developers to deploy self-executing code in the form of smart contracts and applications. The artworks were wrapped in a smart contract, recorded in the public ledger as  [**awalkaday.art**](https://eth.blockscout.com/name-services/domains/awalkaday.art), and self-published so that they can be preserved, collected and exchanged. The smart contract address is [`0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1`](https://etherscan.io/address/0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1) and its source code has a file on-display below. Its ASCII art depicts the `awalkaday` logo encoded in the contract itself.<br>
+[Ethereum](https://ethereum.org/) is a decentralized blockchain platform that allows developers to deploy self-executing code in the form of smart contracts and applications. The artworks were wrapped in a smart contract, recorded in the public ledger as [**awalkaday.art**](https://eth.blockscout.com/name-services/domains/awalkaday.art), and self-published so that they can be preserved, collected and exchanged. The smart contract address is [`0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1`](https://etherscan.io/address/0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1) and its source code has a file on-display below. Its ASCII art depicts the `awalkaday` logo encoded in the contract itself.<br>
 
 {% code title="Contract Source Code — File 1 of 5 : WALK.sol" lineNumbers="true" fullWidth="false" %}
 ```solidity
@@ -81,7 +81,7 @@ Once released into a sovereign financial ecosystem, the fear of losing the `awal
 
 After landing on a blockchain terrain in a batch series, each photo began to carry a name, similar to the title of a page in a logbook, for example: [`awalkaday 185-2022`](https://app.zerion.io/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82/nfts?collections=85657215).
 
-The name is a string of words and numbers that begins with the artistic theme `awalkaday`, then ends with a computer-calculated [day of the year](https://asd.gsfc.nasa.gov/Craig.Markwardt/doy2025.html), linked by a hyphen to the year of when the photo was first dropped online without a parachute, and crossed the radar of [cyberwarfare forces](https://en.m.wikipedia.org/wiki/List_of_cyber_warfare_forces) without a travel visa.
+Each name is a string of words and numbers that begins with the artistic theme `awalkaday`, then ends with a computer-calculated [day of the year](https://asd.gsfc.nasa.gov/Craig.Markwardt/doy2025.html), linked by a hyphen to the year of when the photo was first dropped online without a parachute, and crossed the radar of [cyberwarfare forces](https://en.m.wikipedia.org/wiki/List_of_cyber_warfare_forces) without a travel visa.
 
 {% embed url="https://arweave.net/QuZy3p6WDONJOwwHuqP9VyMCgTqMOJjm-m6fDVE-86Q" %}
 **awalkaday 3-2022**
