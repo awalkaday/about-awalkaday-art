@@ -4,7 +4,7 @@
 
 {% embed url="https://git-scm.com/book/en/v2" %}
 
-[GIT commits](https://github.com/git-guides/git-commit#git-commit) are snapshots of code changes in such a version control system at a particular point in time. Each commit captures modifications made by the developer(s), cryptographically signed for verification.
+[GIT commits](https://github.com/git-guides/git-commit#git-commit) are snapshots of code changes in such a version control system at a particular point in time. Each commit captures modifications made by the developer(s), cryptographically signed for verification. They are like notarized timestamps — each edit is witnessed by a global network of servers, making the archive tamper-proof.
 
 <figure><img src="https://uaq4apnrcbacim7wato7u43kfqsdva3uaa53awrpda66gvy7jpsq.arweave.net/oCHAPbEQQCQz9gTd-nNqLCQ6g3QAO7BaLxg941cfS-U" alt="awalkaday 328.5-2017"><figcaption><p><strong>awalkaday 328.5-2017</strong></p></figcaption></figure>
 

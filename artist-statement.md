@@ -28,7 +28,7 @@ This project was born in my spare time, developed independently in the open, and
 
 The project's lines of code first appeared online in [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f), four months after the summer debut of walking and photographing. Since the beginning, the creative process was intuitively, leisurely, or swiftly, occurring from time to time, offline or online. Until it was terminated with an emphasis on narrative writing, visual storytelling retrospectively, artist's book formatting, and public timestamps.
 
-Below is the HTML code of a Frequently Asked Questions webpage, preserved exactly as written. Note the optimistic "5 year lifespan"—the `A Walk, A Day` art project ultimately spanned eight years.
+Below is the HTML code of a Frequently Asked Questions webpage, preserved exactly as written. Note the optimistic "5 year lifespan" — the `A Walk, A Day` art project ultimately spanned eight years. The project outlived its intended lifespan because survival itself kept being deferred — each asylum appeal extending the legal limbo that sustained the walking practice.
 
 {% embed url="https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f" %}
 
