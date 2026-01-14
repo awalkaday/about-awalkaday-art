@@ -26,6 +26,6 @@ layout:
 **awalkaday 251-2022**
 {% endembed %}
 
-
+<h3 align="center"></h3>
 
 <p align="center"><strong><code>COVER</code></strong></p>
