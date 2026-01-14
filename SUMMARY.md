@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Walking Memories](README.md)
-* [Step One](step-one.md)
+* [One Step Forward](one-step-forward.md)
 * [ARTIST STATEMENT](artist-statement.md)
 * [READING GUIDE](reading-guide.md)
 * [Introduction to the Photo Series](introduction-to-the-photo-series.md)

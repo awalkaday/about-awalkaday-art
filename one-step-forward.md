@@ -8,16 +8,22 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: true
+    visible: false
   pagination:
-    visible: true
+    visible: false
   metadata:
     visible: true
 ---
 
-# Step One
+# One Step Forward
 
-<h3 align="center">Synopsis</h3>
+<h3 align="center">An open-source artist's book tracing the digital footprints of an exiled wanderer and his Belgian pixels during an eight-year odyssey</h3>
+
+<p align="center"></p>
+
+<p align="center">◈</p>
+
+<p align="center"></p>
 
 <p align="center"><strong>This artist's book documents the  <code>awalkaday</code> project from inception in 2017 to its conclusion in 2024.</strong> The online book is bound with a toolkit used since day one and its pages narrate crucial keystrokes and steps. A blend of diverse media—photography, poetry, code, social posts, and blockchain tokens—weaves creative nonfiction into autobiographical insights told from a third-person omniscient viewpoint.</p>
 
@@ -27,18 +33,14 @@ layout:
 
 <p align="center">◈</p>
 
-<h4 align="center"><mark style="color:$info;">book.</mark>awalkaday.art</h4>
+<h3 align="center"><mark style="color:$info;">book.</mark>awalkaday.art</h3>
 
 <p align="center"><strong>Made in the Kingdom of Belgium</strong><br><em>An Undocumented Artistic Product Of Afro-Surrealism,</em><br><em>By An Undocumented Artist On The Land of Surrealism.</em></p>
 
-<p align="center"><strong><code>32 Pages</code> — ENGLISH — Black &#x26; White Digital Photography</strong></p>
+<h4 align="center"><strong><code>32</code> Pages — ENGLISH — Black &#x26; White Digital Photography</strong></h4>
 
-<p align="center"><a href="https://github.com/awalkaday/about-awalkaday-art/tree/book">github.com/awalkaday/about-awalkaday-art/tree/book</a></p>
+<h4 align="center"><a href="https://github.com/awalkaday/about-awalkaday-art/tree/book">github.com/awalkaday/about-awalkaday-art/tree/book</a></h4>
 
 <table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>IMPRINT</strong></td><td><a href="imprint.md">imprint.md</a></td></tr><tr><td align="center"><strong>APPENDIX</strong></td><td><a href="appendix.md">appendix.md</a></td></tr></tbody></table>
 
-<p align="center">◈</p>
-
-{% hint style="info" %}
-_Ceci&#x20;_~~_n'_~~_&#x20;est&#x20;_~~_pas_~~_&#x20;un Livre d'Artiste **Sans Papier**._
-{% endhint %}
+<p align="center"><strong><code>OUTLINE</code></strong></p>

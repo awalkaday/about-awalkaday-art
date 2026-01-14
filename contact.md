@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # Contact
 
 {% embed url="https://www.instagram.com/p/BXlkT6igTqq/?utm_source=ig_web_button_share_sheet" %}

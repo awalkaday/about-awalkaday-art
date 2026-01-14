@@ -28,7 +28,7 @@ layout:
 
 ### Calendar Year
 
-<table data-full-width="false"><thead><tr><th align="center">YEAR</th><th align="center">Number of Photos</th></tr></thead><tbody><tr><td align="center">2017</td><td align="center"><code>30</code></td></tr><tr><td align="center">2018</td><td align="center"><code>13</code></td></tr><tr><td align="center">2021</td><td align="center"><code>107</code></td></tr><tr><td align="center">2022</td><td align="center"><code>113</code></td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th align="center">YEAR</th><th align="center">Number of Photos</th></tr></thead><tbody><tr><td align="center">2017</td><td align="center"><code>30</code></td></tr><tr><td align="center">2018</td><td align="center"><code>13</code></td></tr><tr><td align="center">2019</td><td align="center">—</td></tr><tr><td align="center">2020</td><td align="center">—</td></tr><tr><td align="center">2021</td><td align="center"><code>107</code></td></tr><tr><td align="center">2022</td><td align="center"><code>113</code></td></tr></tbody></table>
 
 ### Weather Season
 

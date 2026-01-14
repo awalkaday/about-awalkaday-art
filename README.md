@@ -7,7 +7,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -27,5 +27,9 @@ layout:
 {% endembed %}
 
 
+
+{% hint style="info" %}
+_Ceci&#x20;_~~_n'_~~_&#x20;est&#x20;_~~_pas_~~_&#x20;un Livre d'Artiste **Sans Papier**._
+{% endhint %}
 
 <p align="center"><strong><code>COVER</code></strong></p>
