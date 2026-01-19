@@ -10,7 +10,7 @@ The underlying codebase supporting at least three pillars of the `awalkaday` ser
 
 <figure><img src="https://g45uizvtj4rxqie5bobsz5pzcimp7je3gdnj6tz7634zyi6oubzq.arweave.net/NztEZrNPI3ggnQuDLPX5Ehj_pJsw2p9PP_b5nCPOoHM" alt="awalkaday 353.5-2017"><figcaption><p><strong>awalkaday 353.5-2017</strong></p></figcaption></figure>
 
-In the winter of 2017, when free attendance to French-spoken lectures was just starting inside the computer department of a Jesuits-affiliated and Namur-based public university, their testing phase began at [github.com/daqhris/awalkaday](https://github.com/daqhris/awalkaday) by use of a computer-readable language.
+In the winter of 2017, when free attendance to French-spoken lectures was just starting inside the Namur-based computer department of a Jesuits-affiliated public university, their testing phase began at [github.com/daqhris/awalkaday](https://github.com/daqhris/awalkaday) by use of a computer-readable language.
 
 {% embed url="https://github.com/daqhris/awalkaday" %}
 Source Code for the Gallery's Beta Testing

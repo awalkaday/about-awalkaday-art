@@ -8,7 +8,7 @@ description: Since November 2021
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/twitter-profile-summer2025.PNG" alt="Screenshot of the art project&#x27;s X profile"><figcaption><p>Header section on the profile page of the X user account</p></figcaption></figure></div>
 
-News and viewpoints related to the photo collection have been broadcast on X, where the artist posts via [@awalkadayart](https://twitter.com/awalkadayart), connects with a diverse audience, announces key milestones, and builds relationships with artists, researchers, supporters, and collectors.
+News and viewpoints related to the photo collection have been broadcast on X, where the artist posting via [@awalkadayart](https://twitter.com/awalkadayart), connects with a diverse audience, announces key milestones, and builds relationships with artists, researchers, supporters, and collectors.
 
 {% embed url="https://arweave.net/Xe2BxPvNy1dKj92ZOtfLH1NWynZ1w8uudpZJbxvnNdk" %}
 **awalkaday 220-2022**
@@ -30,7 +30,7 @@ Since December 2022, I'm stuck trying to be productive and creative while living
 ```
 {% endcode %}
 
-<div data-with-frame="true"><figure><img src="https://pbs.twimg.com/media/Fn-e1ZGWAAQHvnA?format=jpg&#x26;name=4096x4096" alt="" width="563"><figcaption><p> Photo of a BRUZZ newspaper, Edition of 18 January 2023, Pages 10-11</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="https://pbs.twimg.com/media/Fn-e1ZGWAAQHvnA?format=jpg&#x26;name=4096x4096" alt="" width="563"><figcaption><p> Photo of the BRUZZ weekly newspaper, Edition of 18 January 2023, Pages 10-11</p></figcaption></figure></div>
 
 <p align="center"></p>
 
