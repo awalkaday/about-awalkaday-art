@@ -19,7 +19,7 @@ layout:
 
 ### Crossing Waters
 
-Accompanied by his mother, who flew back shortly after, he landed in Brussels in the winter of 2016. The kindred separated in the follow-up to a summer-autumn stopover in Cairo, where his parents and siblings had settled in the prestigious district of المهندسين — 'The Engineers' in Arabic — before his departure, across the sea, seated on an Egyptian airline, to the executive capital of Europe.&#x20;
+Accompanied by his mother, who flew back shortly after, he landed in Brussels in the winter of 2016. The kindred separated following a summer-autumn stopover in Cairo, where his parents and siblings had settled in the prestigious district of المهندسين — 'The Engineers' in Arabic — before his departure, across the sea, seated on an Egyptian airline, to the executive capital of Europe.&#x20;
 
 His aims and dreams in Europe — beyond pursuing university education again — included seeking safe haven away from persecution by his motherland's diplomats and their Chinese counterparts while studying abroad two seasons earlier.
 
@@ -57,15 +57,15 @@ On the torturous path to confining the multilingual man for five, then stretched
 
 Once upon the summer of 2017, Chris had been residing in the Red Cross camp of Belgrade on the outskirts of Namur, Belgium, for almost ten months — since the day of his 24th wintertime birthday — as a newly arrived asylum seeker.&#x20;
 
-To combat prolonged boredom and physical inactivity, an idea sparkled in his mind, urging him to combine his skills in black-and-white photography, visual design, and software coding in order to launch an artistic project.
+To combat prolonged boredom and physical inactivity, an idea sparkled in his mind, urging him to combine all of his his skills — black-and-white photography, visual design, and software coding — to launch an artistic project.
 
 {% embed url="https://aqdko2gvdb5swcvmv5fefjh2nvqay2jo25zaraa4e7gzvtmhqvra.arweave.net/BAanaNUYeysKrK9KQqT6bWAMaS7XcgiAHCfNms2HhWI" %}
 **awalkaday 344-2017**
 {% endembed %}
 
-Using rudimentary photographic equipment and online public platforms, coupled with an open-source digital toolbox, he has visually documented a years-long journey that artfully depicts his time-bound walks in exile, and publicly logs his footprints around a non-native land.
+Using rudimentary photographic equipment and online public platforms, coupled with an open-source digital toolbox, he has visually documented a years-long journey that artfully depicts outdoor walks in exile, and logs publicly footprints around a non-native land.
 
-### Belgian Questions, African Answers
+### A Belgian Questions, An African Answers
 
 In the absence of photographic evidence of the surreal story — made in and imported from China — a portion of those ingredients ended up being recycled against his appetite during the first course of Belgian legal asylum procedures (2016-2018) served to his volunteering female lawyer.&#x20;
 
@@ -97,7 +97,7 @@ One question strolled through his mind, circling the nervous pathways during eve
 
 A question answered intuitively by Chronos, the Greco-Roman God of Time: “_Fear not. Time will tell._” And then, quieter, the Catholic God whispered telepathically one word — a Hebrew loanword naturalized through Greek to Latin — to his inner ear: “_Amen._” \
 \
-The photographic tool rung, as if it were imitating a Church bell, to notify of the State's unfavorable decision in the spring of 2024, like some years ago. His handheld computer sounded as ding-dong memories from past years of remote intrusions or unanswered calls. Regardless, the pace of outdoor walks was not stalled towards donating to the Red Cross his body's lifesaving liquids during the next year's spring.&#x20;
+In the spring of 2024, the photographic tool rung like some years ago, as if it were imitating a Church bell, to notify of the State's final, unappealable, and unfavorable decision. His handheld computer sounded as ding-dong memories from past years of remote intrusions. Days later, phone calls rushed in, then were unanswered intuitively. However, the pace of outdoor walks was increased towards donating to the Red Cross his body's lifesaving liquids during a year later in the spring of 2025.&#x20;
 
 The Englishmen's adage “_a walk a day keeps the doctor away_” ceased to be true for the photographer, eight years postconception of the project, by the grace of a Belgian network of caring women: a doctor, an ex-girlfriend, an anthropologist, a retired nurse, a public agent, a filmmaker, scientists, artists, etc.&#x20;
 
