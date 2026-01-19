@@ -1,6 +1,6 @@
 # Blockchain Records
 
-According to traces of footprints found in public records, the photo odyssey was revived in the Francophone city of Bastogne. The small town deprived of a train station had on its main street an electronics shop that facilitated human access, without recording governmental proofs of human identity, to an automatic banking machine functioning with blockchain currencies.&#x20;
+According to traces of footprints found in public records, the photo odyssey was revived in the Francophone city of Bastogne. The small town, deprived of a train station, had on its main street an electronics shop. A shopkeeper facilitated human access, without asking for proofs of human identity, to an automated banking machine exchanging paper bills with blockchain currencies.&#x20;
 
 After verification at the end of 2020 of token conversion operations nearby a tax heaven kingdom, what the photographer dreamt of was earning banknotes in cash form. His greedy dreams used to take place on a king-size bed, adjacent to a smoking chimney, below the wooden roof of a six-person Burundian family that was naturalized as Belgian by laws of the 20th century.&#x20;
 
