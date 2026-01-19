@@ -1,6 +1,6 @@
 # Internet Footprints
 
-The visual art practice, reinforced by web surfing, began in [July 2017](https://www.instagram.com/p/BWvILEmAPcy/), when a photo was posted on Instagram with the following caption: '<mark style="color:blue;">**Don't watch the clock. Do what it does. Keep going**</mark>'.
+The visual art practice, reinforced by web surfing, began in [July 2017](https://www.instagram.com/p/BWvILEmAPcy/), when a photo was posted on Instagram with the following caption: '<mark style="color:$primary;">**Don't watch the clock. Do what it does. Keep going**</mark>'.
 
 {% embed url="https://www.instagram.com/p/BWvILEmAPcy/" %}
 The 1st photo on Instagram. Its original file as well as others shared on Instagram between July and November of 2017 were lost and not preserved on the Ethereum blockchain.
