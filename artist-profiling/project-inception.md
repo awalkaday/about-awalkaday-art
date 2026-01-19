@@ -57,7 +57,7 @@ On the torturous path to confining the multilingual man for five, then stretched
 
 Once upon the summer of 2017, Chris had been residing in the Red Cross camp of Belgrade on the outskirts of Namur, Belgium, for almost ten months — since the day of his 24th wintertime birthday — as a newly arrived asylum seeker.&#x20;
 
-To combat prolonged boredom and physical inactivity, an idea sparkled in his mind, urging him to combine all of his his skills — black-and-white photography, visual design, and software coding — to launch an artistic project.
+To combat prolonged boredom and physical inactivity, an idea sparkled in his mind, urging him to combine all of his skills — black-and-white photography, visual design, and software coding — to launch an artistic project.
 
 {% embed url="https://aqdko2gvdb5swcvmv5fefjh2nvqay2jo25zaraa4e7gzvtmhqvra.arweave.net/BAanaNUYeysKrK9KQqT6bWAMaS7XcgiAHCfNms2HhWI" %}
 **awalkaday 344-2017**
