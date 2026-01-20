@@ -7,7 +7,7 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -26,6 +26,8 @@ layout:
 **awalkaday 251-2022**
 {% endembed %}
 
-<h3 align="center"></h3>
+<h4 align="right">Chris-Armel <em>Iradukunda</em> | <strong>daqhris</strong></h4>
+
+
 
 <p align="center"><strong><code>COVER</code></strong></p>
