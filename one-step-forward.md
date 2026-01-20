@@ -43,10 +43,6 @@ layout:
 
 <table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>IMPRINT</strong></td><td><a href="imprint.md">imprint.md</a></td></tr><tr><td align="center"><strong>APPENDIX</strong></td><td><a href="appendix.md">appendix.md</a></td></tr></tbody></table>
 
-{% hint style="info" %}
-_Ceci&#x20;_~~_n'_~~_&#x20;est&#x20;_~~_pas_~~_&#x20;un Livre d'Artiste_ _Sans Papier._
-{% endhint %}
-
 <p align="center"></p>
 
 <p align="center"><strong><code>OUTLINE</code></strong></p>
