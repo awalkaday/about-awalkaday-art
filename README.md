@@ -26,10 +26,10 @@ layout:
 **awalkaday 251-2022**
 {% endembed %}
 
-<h4 align="right"><strong>Chris-Armel </strong><em><strong>Iradukunda</strong></em> | <strong>daqhris</strong></h4>
+<h3 align="right">Chris-Armel <em>Iradukunda</em> | <strong>daqhris</strong></h3>
 
 {% hint style="info" %}
-_**Ceci**&#x20;_~~_n'_~~_**est**&#x20;_~~_pas_~~_&#x20;**un Livre d'Artiste Sans Papier.**_
+_Ceci&#x20;_~~_n'_~~_est&#x20;_~~_pas_~~_&#x20;un Livre d'Artiste Sans Papier._
 {% endhint %}
 
 <p align="center"><strong><code>COVER</code></strong></p>
