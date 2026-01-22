@@ -38,7 +38,7 @@ Sculpted in bronze by Belgian artist [Nat Neujean](https://www.natneujean.com/),
 
 The two artworks share roots in a **19th century park** named after the first Queen of the Belgians, Louise-Marie. Zoom in to notice a pair of beings, humans or deities, photographed in the shade of one slowly aging tree, observed on the linear timeline of Mother Nature. The secret is: **Tree of Life**.&#x20;
 
-### Four Ethereal Domain Names
+### Four Ethereal Domains
 
 Beyond physical locations, digital naming also celebrated Belgian places. Four [ENS domains](https://ens.domains/) owned by [`daqhris.eth`](https://app.ens.domains/daqhris.eth) since the summer of 2022, named after **towns and rivers**, have been decorated with [`awalkaday`](https://app.zerion.io/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82/nfts?collections=85657215) photographs. The local landscape was mapped and displayed on an **Ethereum blockchain naming protocol** to celebrate a rare week of international conferences: [EthCC \[7\]](https://ethcc.io/archive?page=1\&event=EthCC%5B7%5D) & [ETHGlobal Brussels](https://ethglobal.com/events/brussels) in the summer of 2024.
 
