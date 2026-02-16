@@ -2,20 +2,6 @@
 description: >-
   An open-source artist's book tracing the digital footprints of an exiled
   wanderer and his Belgian pixels during an eight-year odyssey
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Walking Memories
@@ -28,7 +14,7 @@ layout:
 
 <h4 align="right"></h4>
 
-<h3 align="right">Chris-Armel <em>Iradukunda</em> 🞗 <code>daqhris</code></h3>
+<h3 align="right">Chris-Armel <strong>Iradukunda</strong> 🞗 <a href="https://daqhris.com/"><code>daqhris</code></a></h3>
 
 <h4 align="center"> </h4>
 

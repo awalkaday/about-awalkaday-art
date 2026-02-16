@@ -1,25 +1,8 @@
----
-layout:
-  width: default
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # One Step Forward
 
 <h2 align="center"><strong>Synopsis</strong></h2>
 
-<p align="center"><strong>This artist's book documents the  <code>awalkaday</code> project from inception in 2017 to its conclusion in 2024.</strong> The online book is bound with a toolkit used since day one and its pages narrate crucial keystrokes and steps. A blend of diverse media—photography, poetry, code, social posts, and blockchain tokens—weaves creative nonfiction into autobiographical insights told from a third-person omniscient viewpoint.</p>
+<p align="center"><strong>This artist's book documents the  <code>awalkaday</code> project from inception in 2017 to its conclusion in 2024.</strong> The online book is bound with a toolkit used since day one and its pages narrate crucial keystrokes and steps. A blend of diverse media — photography, poetry, code, social posts, and blockchain tokens — weaves creative nonfiction into autobiographical insights told from a third-person omniscient viewpoint.</p>
 
 <p align="center"></p>
 
@@ -37,7 +20,7 @@ layout:
 
 <h4 align="center"><code>32</code> Pages — ENGLISH — Black &#x26; White Digital Photography</h4>
 
-<h4 align="center"><a href="https://github.com/awalkaday/about-awalkaday-art/tree/book">github.com/awalkaday/about-awalkaday-art/tree/book</a></h4>
+<h4 align="center">Source Code: <a href="https://github.com/awalkaday/about-awalkaday-art/tree/book">github.com/awalkaday/about-awalkaday-art/tree/book</a></h4>
 
 <h4 align="center"></h4>
 
