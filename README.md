@@ -14,10 +14,10 @@ description: >-
 
 <h4 align="right"></h4>
 
-<h3 align="right">Chris-Armel <strong>Iradukunda</strong> 🞗 <a href="https://daqhris.com/"><code>daqhris</code></a></h3>
+<h3 align="right">Chris-Armel <strong>Iradukunda</strong> <a href="https://daqhris.com/"><code>daqhris</code></a></h3>
 
 <h4 align="center"> </h4>
 
 {% hint style="info" %}
-_Ceci&#x20;_~~_n'_~~_est&#x20;_~~_pas_~~_&#x20;un Livre d'Artiste Sans Papier._
+_`Ceci`&#x20;_&#x20;~~_n'_~~ _`est`_ ~~_pas_~~ _`un Livre d'Artiste Sans Papier.`_
 {% endhint %}
