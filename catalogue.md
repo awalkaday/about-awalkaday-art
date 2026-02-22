@@ -20,7 +20,7 @@ description: >-
 
 <table data-full-width="false"><thead><tr><th align="center">SEASON</th><th align="center">Number of Photos</th></tr></thead><tbody><tr><td align="center">Autumn</td><td align="center"><code>29</code></td></tr><tr><td align="center">Winter</td><td align="center"><code>93</code></td></tr><tr><td align="center">Spring</td><td align="center"><code>39</code></td></tr><tr><td align="center">Summer</td><td align="center"><code>102</code></td></tr></tbody></table>
 
-The total of `263` is a prime number that is irreducible by any number other than itself and one. Like the person who, unconsciously or by coincidence, chose their indivisible limit, the collection resists administrative subdivision.&#x20;
+<p align="center"><em>The total of <code>263</code> is a prime number that is irreducible by any number other than itself and one. Like the person who, unconsciously or by coincidence, chose their indivisible limit, the collection resists administrative subdivision.</em> </p>
 
 <p align="center"></p>
 

@@ -4,7 +4,7 @@
 **awalkaday 71-2022**
 {% endembed %}
 
-_`awalkaday 71-2022` — two paved roads diverge from a single point somewhere in Belgium. The photograph did not intend an allegory. It became one._
+<p align="center"><em><code>awalkaday 71-2022</code> — two paved roads diverge from a single point somewhere in Belgium. The photograph did not intend an allegory. It became one.</em></p>
 
 The `awalkaday` photo collection evolved since its launch along two pathways that the photographer rarely named as such, because naming them would have required seeing them both at once — and survival, as a daily practice, does not permit that kind of distance.
 
