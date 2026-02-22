@@ -2,20 +2,6 @@
 description: >-
   Lists accounting for the number of all tokenized photographs, split into three
   categories, and arranged by location, year and season
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # CATALOGUE
@@ -33,6 +19,8 @@ layout:
 ### Weather Season
 
 <table data-full-width="false"><thead><tr><th align="center">SEASON</th><th align="center">Number of Photos</th></tr></thead><tbody><tr><td align="center">Autumn</td><td align="center"><code>29</code></td></tr><tr><td align="center">Winter</td><td align="center"><code>93</code></td></tr><tr><td align="center">Spring</td><td align="center"><code>39</code></td></tr><tr><td align="center">Summer</td><td align="center"><code>102</code></td></tr></tbody></table>
+
+The total of `263` is a prime number that is irreducible by any number other than itself and one. Like the person who, unconsciously or by coincidence, chose their indivisible limit, the collection resists administrative subdivision.&#x20;
 
 <p align="center"></p>
 
