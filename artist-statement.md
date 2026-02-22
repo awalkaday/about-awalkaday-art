@@ -12,7 +12,7 @@ This project was born in my spare time, developed independently in the open, and
 **awalkaday 219-2022**
 {% endembed %}
 
-The project's lines of code first appeared online in [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f), four months after the summer debut of walking and photographing. Since the beginning, the creative process was intuitively, leisurely, or swiftly, occurring from time to time, offline or online. Until it was terminated with an emphasis on narrative writing, visual storytelling retrospectively, artist's book formatting, and public timestamps.
+The project's lines of code first appeared online in [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f), four months after the summer debut of walking and photographing. Since the beginning, the creative process was intuitively, leisurely, or swiftly, from time to time, offline or online. Until it was terminated with an emphasis on narrative writing, visual storytelling retrospectively, artist's book formatting, and public timestamps.
 
 Below is the HTML code of a Frequently Asked Questions webpage, preserved exactly as written. Note the optimistic "5 year lifespan" — the `A Walk, A Day` art project ultimately spanned eight years. The project outlived its intended lifespan because survival itself kept being deferred — each asylum appeal extending the legal limbo that sustained the walking practice.
 
@@ -43,7 +43,7 @@ Below is the HTML code of a Frequently Asked Questions webpage, preserved exactl
 <br>A single motivating quote essentially inspired the creation of the project : "The Sun is up and running, everyday, for you."
 <br>In a global trend of fast-paced urbanization, generations of kids are growing without a sense of curiosity of their surroundings and adventurous drive in the unfamiliar landscapes.
 <br>Instagram, with 400 million daily active users, was selected as the most compelling internet platform to host such a street photography gallery that would target millenials and inspire them to creatively join a well-being movement. 
-<br>Taking long walks and snapping lots of pictures along the way both became complimentary in my regular young adult life and I can't refrain from recommending this kind of endeavor to other fellow youngsters.
+<br>Taking long walks and snapping lots of pictures along the way both became complementary in my regular young adult life and I can't refrain from recommending this kind of endeavor to other fellow youngsters.
 </p>
 <p><strong>HOW?</strong>
 <br>Images are shared in black and white format with a white wide frame.
@@ -63,7 +63,7 @@ Below is the HTML code of a Frequently Asked Questions webpage, preserved exactl
 ```
 {% endcode %}
 
-The three-bar symbol [`≡`](https://en.wikipedia.org/wiki/Triple_bar) , synonymous with the two-way street sign ↔, piqued my interest as an indicator of logical equivalence and the monetary unit of a currency on the Ethereum blockchain.&#x20;
+The three-bar symbol [`≡`](https://en.wikipedia.org/wiki/Triple_bar), synonymous with the two-way street sign ↔, piqued my interest as an indicator of logical equivalence and the monetary unit of a currency on the Ethereum blockchain.&#x20;
 
 ### Technical Start-up (2021)
 
