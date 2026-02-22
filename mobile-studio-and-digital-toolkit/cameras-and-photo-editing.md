@@ -32,6 +32,8 @@ Overall, the two cameras had basic features to balance highlights and shadows in
 **awalkaday 28-2022**
 {% endembed %}
 
+_`awalkaday 28-2022` — a church on an island where the Moselle splits in two, Metz, France. Its metadata was stripped before reaching this page. The photo knows where it was taken. The file no longer does._
+
 <p align="center"></p>
 
 <p align="center"><strong><code>5</code></strong></p>

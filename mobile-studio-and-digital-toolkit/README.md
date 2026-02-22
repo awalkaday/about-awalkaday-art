@@ -2,20 +2,6 @@
 description: >-
   The wanderer's burden lightened by rudimentary equipment: Nokia as Air Force
   One, laptop as command center, and libre software as darkroom
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Mobile Studio and Digital Toolkit
@@ -35,6 +21,8 @@ layout:
 {% embed url="https://xkvvewkoca4dqnjxmcm43heqtbd7l3dppc66mj2cbq7bev52m47q.arweave.net/uqtSWU4QODg1N2CZzZyQmEf17G94veYnQgw-Ele6Zz8" %}
 **awalkaday 23-2022**
 {% endembed %}
+
+_`awalkaday 23-2022` — railway tracks converge toward the horizon; a highway bridge crosses above them. The image was made through a window — its reflections still visible, a layer between lens and landscape. All the tools described here traveled this way._
 
 <p align="center"></p>
 
