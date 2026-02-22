@@ -8,6 +8,8 @@ Throughout months of unemployment, little to no free time was wasted away from e
 
 <figure><img src="https://2tn42zs3accecv6wwa6ccommvlm4jjbeeyogidtrjjqr3tzid6sa.arweave.net/1NvNZlsAhEFX1rA8ITmMqtnEpCQmHGQOcUphHc8oH6Q" alt=""><figcaption><p><strong>awalkaday 173-2021</strong></p></figcaption></figure>
 
+_`awalkaday 173-2021` — an old cobbled road in Bastogne, shot from near ground level looking up toward sunlight breaking through clouds. The angle refuses to survey the territory. From down here, the road and the light are the same thing._
+
 As a reward for earlier transactions using an Ethereum protocol to name his account's numerical identifier as  `daqhris.eth`, the equivalent of a European engineer's four-months salary was granted all of a sudden with no strings attached. Out of his freelancing pocket, end-of-year donations followed suit within the Bitcoin network and a crypto-assets growth fund established to further the next milestones inside the Ethereum realm.
 
 By keeping in mind the unrelenting spirit of a town associated with a USA-led victorious offensive during the Second World War, Chris expanded the range of skills to be hired as a local handyman who can do-it-all. One job here, one call there, on call all four seasons, until landing an offer from the city's computer boutique in the spring of 2022. The promise of employment carried benefits: a business owner's letter to support the regularization of the geek's legal status.&#x20;

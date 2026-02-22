@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # Project Inception
 
 ### Crossing Waters
@@ -52,6 +35,8 @@ On the torturous path to confining the multilingual man for five, then stretched
 15. ...and other accusations, documented or imagined.
 
 <figure><img src="https://sd55vpc7xirkafqt6l42hrsiafn5kqkvdbliclrpomelxemu5opa.arweave.net/kPvavF-6IqAWE_L5o8ZIAVvVQVUYVoEuL3MIu5GU654" alt="awalkaday 59-2022"><figcaption><p><strong>awalkaday 59-2022</strong></p></figcaption></figure>
+
+_`awalkaday 59-2022` — from inside a tunnel, a pedestrian underpass in Namur, everything points toward the opening at the far end. One figure near the light, barely visible. The list above has just ended. The geometry here has only one direction._
 
 ### Humanitarian Camp 'Belgrade'
 

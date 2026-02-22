@@ -2,20 +2,6 @@
 description: >-
   Two extra spatial stories about the impact of the Belgian-made pixels on Earth
   and Ethereum
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # APPENDIX
@@ -37,6 +23,8 @@ Sculpted in bronze by Belgian artist [Nat Neujean](https://www.natneujean.com/),
 <div><figure><img src=".gitbook/assets/IMG_20240508_162733_3-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162755_1-01.jpeg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20240508_162716_4.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 The two artworks share roots in a **19th century park** named after the first Queen of the Belgians, Louise-Marie. Zoom in to notice a pair of beings, humans or deities, photographed in the shade of one slowly aging tree, observed on the linear timeline of Mother Nature. The secret is: **Tree of Life**.&#x20;
+
+_`awalkaday 251-2022` — the tree fills two-thirds of the frame, its foliage nearly white in monochrome. The couple in its shade are small enough to miss on first look. The sculpture installed here later shares the same grammar of scale: figures beneath something much larger than themselves._
 
 ### Four Ethereal Domains
 
