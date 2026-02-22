@@ -22,7 +22,9 @@ description: >-
 **awalkaday 23-2022**
 {% endembed %}
 
-<p align="center"><em><code>awalkaday 23-2022</code> — railway tracks converge toward the horizon; a highway bridge crosses above them. The image was made through a window — its reflections still visible, a layer between lens and landscape. All the tools described here traveled this way.</em></p>
+{% hint style="info" %}
+<p align="center"><em><code>awalkaday 23-2022</code> — Railway tracks converge toward the horizon; a highway bridge crosses above them. The image was made through a window — its reflections still visible, a layer between lens and landscape. All the tools described here traveled this way.</em></p>
+{% endhint %}
 
 <p align="center"></p>
 
