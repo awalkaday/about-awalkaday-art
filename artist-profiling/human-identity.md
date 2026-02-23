@@ -7,7 +7,7 @@
 {% endembed %}
 
 {% hint style="info" icon="image-stack" %}
-<p align="center"><em><code>awalkaday 202-2021</code> — a first-person view: legs on a bench, dappled grass, white-barked trees receding into the distance. The page asks who he is. The photograph answers from the perspective of someone who has, for a moment, stopped walking.</em></p>
+<p align="center"><em><code>awalkaday 202-2021</code> : A first-person view: legs on a bench, dappled grass, white-barked trees receding into the distance. The page asks who he is. The photograph answers from the perspective of someone who has, for a moment, stopped walking.</em></p>
 {% endhint %}
 
 Born in 1992, raised with a spoon feeding his mouth on East African soil, Chris was educated in his teenage years at a state-funded public school, and another one backed by a Jesuit institution on the territory of Bujumbura, Burundi. The two public schools were named in a religious manner after the Morning Star in Latin as _Stella Matutina_, and the Holy Spirit in French as _Saint-Esprit_.
