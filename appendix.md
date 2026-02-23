@@ -25,7 +25,7 @@ Sculpted in bronze by Belgian artist [Nat Neujean](https://www.natneujean.com/),
 The two artworks share roots in a **19th century park** named after the first Queen of the Belgians, Louise-Marie. Zoom in to notice a pair of beings, humans or deities, photographed in the shade of one slowly aging tree, observed on the linear timeline of Mother Nature. The secret is: **Tree of Life**.&#x20;
 
 {% hint style="info" %}
-<p align="center"><em><code>awalkaday 251-2022</code> — the tree fills two-thirds of the frame, its foliage nearly white in monochrome. The couple in its shade are small enough to miss on first look. The sculpture installed here later shares the same grammar of scale: figures beneath something much larger than themselves.</em></p>
+<p align="center"><em><code>awalkaday 251-2022</code> : The tree fills two-thirds of the frame, its foliage nearly white in monochrome. The couple in its shade are small enough to miss on first look. The sculpture installed here later shares the same grammar of scale: figures beneath something much larger than themselves.</em></p>
 {% endhint %}
 
 ### Four Ethereal Domains
