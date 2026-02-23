@@ -19,5 +19,5 @@ description: >-
 <h4 align="center"> </h4>
 
 {% hint style="info" %}
-_**`Ceci`**_ ~~_n'_~~ _**`est`**_ ~~_pas_~~ _**`un Livre d'Artiste Sans Papier.`**_
+_Ceci&#x20;_~~_`n'`_~~_&#x20;est&#x20;_~~_`pas`_~~_&#x20;un Livre d'Artiste Sans Papier._
 {% endhint %}
