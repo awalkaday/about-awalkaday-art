@@ -97,26 +97,23 @@ For an accurate time-stamped record of the book's drafts, or an analysis of my p
 
 ### Writing Oneself In Third Person (2025)
 
-Most of this book is written in the third person, referring to _Chris-Armel_, _daqhris,_ or _he_ —somehow no trace of my family name _Iradukunda._ It is not stylistic affectation, rather a necessary method in ways decoded below.
+Most of this book is written in the third person, referring to _Chris-Armel_, _daqhris,_ or _he_ — somehow no trace of the family name _Iradukunda._ It is not stylistic affectation, rather a necessary writing method decoded in four ways below:
 
-**i-Protection:** Eight years of walks encompass years of financial precarity, rejection letters, awareness of being the _'other'_ in public space, threat attack mitigation, social isolation of exile, zero employment contract, denial of healthcare access, retribution from power-abusers, homelessness, hypervigilance, and uncertain future. First person requires reliving. Third person allows recording.
+* **i-Protection:** Eight years of walks compress years of financial precarity, rejection letters, awareness of being the _'other'_ in public space, threat attack mitigation, exile's social isolation, zero employment contract, healthcare access denial, power-abusers retribution, homelessness, hypervigilance, uncertain future, etc. First person requires reliving. Third person allows recording.
+* **Objectivity Under Scrutiny:** As an immigrant whose belonging rights are a subject of recurring debates, my subjective testimony is often suspect, silenced or surveilled. Immigration _'interviews'_ were tainted by a hostile assumption of faking suffering for sympathy gain. Third person borrows the authority of the binary archive spread around third-party networks that don't ask to be believed; they simply are. &#x20;
+* **Archival Consciousness:** Though forced to interrupt studies in computer engineering, I built an infrastructure for my artworks to reach all ports of the cybernetic universe on digital rails. This work is designed to outlive me across long-lasting and neutral systems, such as decentralized storage. These computing systems speak in third person. I match their voice.&#x20;
+* **Memory's Limitations:** I cannot reliably recall all memories or resurface all snapshots. Some periods are fragmentary, obscured by trauma or time. Photographs and timestamps contribute what memory cannot naturally. Third person acknowledges this gap between experience and evidence.
 
-**Objectivity Under Scrutiny:** As an immigrant deprived of belonging rights, my subjective testimony is often suspect, silenced or surveilled. Immigration _'interviews'_ were tainted by a hostile assumption of faking suffering for sympathy gain. Third person borrows the authority of the technological archive spread around third-party networks that don't ask to be believed; they simply are. &#x20;
+The artist book's literary, cultural, political precedents colored by resembling stylistic traits are:&#x20;
 
-**Archival Consciousness:** This work is designed to outlive me across long-lasting and neutral systems, such as decentralized storage. Though forced to interrupt studies in computer engineering, I built an infrastructure for my artworks to reach all ports of the cybernetic universe on digital rails. These computing systems speak in third person. I match their voice.&#x20;
-
-**Memory's Limitations:** I cannot reliably recall all memories and resurface all snapshots. Some periods are fragmentary, obscured by trauma or time. Photographs and timestamps contribute what memory cannot naturally. Third person acknowledges this gap between experience and evidence.
-
-**Literary, Cultural, and Political Precedents:**
-
-* Julius Caesar wrote "Commentarii" about his military campaigns in third person (both self-documentation and self-mythologizing)
-* Henry Adams wrote "The Education of Henry Adams" in third person to examine himself as case study, objectified for analysis
-* W.G. Sebald's narrators observe themselves observing, creating dreamlike distance
-* Gertrude Stein ventriloquized herself through 'Alice B. Toklas'
+* Julius Caesar wrote "Commentarii" about his military campaigns in third person (self-documentation and self-mythologizing). Centuries later, Charles de Gaulle followed suit, "Mémoires de guerre".
+* Henry Adams wrote "The Education of Henry Adams" in third person to examine himself as case study, objectified for analysis.
+* W.G. Sebald's narrators observe themselves observing, creating dreamlike distance.
+* Gertrude Stein ventriloquized herself through 'Alice B. Toklas'.
 * W.E.B. Du Boi&#x73;**'**&#x73; _'double consciousness'_: the necessity of seeing oneself through the gaze of systems that mark you as _other_. As an African exiled in Europe, I exist in this dual consciousness — my lived experience and the bureaucratic third-person that defines my (non-)status.
 * Afrofuturism's archival urgency: the practice of creating permanent records when dominant systems erase or distort one's existence.&#x20;
 
-The all-seeing narrator is not neutral. They speak as a system that tracked my existence, but compiled and narrated on my terms. Where the first person appears, it marks moments of direct address. These ruptures, of breaking the archival frame, are intentional.&#x20;
+The all-seeing narrator is not neutral. They speak as a system that tracked my existence, then compiled to narrate on my terms. Where the first person appears, it marks moments of direct address. These ruptures, of breaking the archival frame, are intentional.&#x20;
 
 <p align="center"></p>
 
