@@ -18,14 +18,18 @@ description: >-
 [gaming-laptop.md](gaming-laptop.md)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-<p align="center"><em><code>awalkaday 23-2022</code> : Railway tracks converge toward the horizon; a highway bridge crosses above them. The image was made through a window — its reflections still visible, a layer between lens and landscape. All the tools described here traveled this way.</em></p>
-{% endhint %}
+<p align="center"></p>
 
 {% embed url="https://xkvvewkoca4dqnjxmcm43heqtbd7l3dppc66mj2cbq7bev52m47q.arweave.net/uqtSWU4QODg1N2CZzZyQmEf17G94veYnQgw-Ele6Zz8" %}
 **awalkaday 23-2022**
 {% endembed %}
 
 <p align="center"></p>
+
+{% hint style="info" icon="image-stack" %}
+<p align="center"><em><code>awalkaday 23-2022</code> : Railway tracks converge toward the horizon; a highway bridge crosses above them. The image was made through a window — its reflections still visible, a layer between lens and landscape. All the tools described here traveled this way.</em></p>
+{% endhint %}
+
+<p align="center"> </p>
 
 <p align="center"><strong><code>3</code></strong></p>
