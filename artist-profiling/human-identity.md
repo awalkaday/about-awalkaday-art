@@ -6,7 +6,7 @@
 **awalkaday 202-2021**
 {% endembed %}
 
-{% hint style="info" %}
+{% hint style="info" icon="image-stack" %}
 <p align="center"><em><code>awalkaday 202-2021</code> — a first-person view: legs on a bench, dappled grass, white-barked trees receding into the distance. The page asks who he is. The photograph answers from the perspective of someone who has, for a moment, stopped walking.</em></p>
 {% endhint %}
 

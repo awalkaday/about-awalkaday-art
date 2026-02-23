@@ -8,7 +8,7 @@ Throughout months of unemployment, little to no free time was wasted away from e
 
 <figure><img src="https://2tn42zs3accecv6wwa6ccommvlm4jjbeeyogidtrjjqr3tzid6sa.arweave.net/1NvNZlsAhEFX1rA8ITmMqtnEpCQmHGQOcUphHc8oH6Q" alt=""><figcaption><p><strong>awalkaday 173-2021</strong></p></figcaption></figure>
 
-{% hint style="info" %}
+{% hint style="info" icon="image-stack" %}
 <p align="center"><em><code>awalkaday 173-2021</code> : An old cobbled road in Bastogne, shot from near ground level looking up toward sunlight breaking through clouds. The angle refuses to survey the territory. From down here, the road and the light are the same thing.</em></p>
 {% endhint %}
 

@@ -4,7 +4,7 @@
 **awalkaday 71-2022**
 {% endembed %}
 
-{% hint style="info" %}
+{% hint style="info" icon="image-stack" %}
 <p align="center"><em><code>awalkaday 71-2022</code> : Two paved roads diverge from a single point somewhere in Belgium. The photograph did not intend an allegory. It became one.</em></p>
 {% endhint %}
 
