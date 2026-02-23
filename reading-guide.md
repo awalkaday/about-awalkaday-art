@@ -11,6 +11,10 @@ description: >-
 * Walking Memories                                      → [`COVER`](./)
 * One Step Forward                                      → [`OUTLINE`](one-step-forward.md)
 * ARTIST STATEMENT                                      → [`FRONT-1`](artist-statement.md)
+  * First Steps
+  * Technical Start-up
+  * Memory Work
+  * Writing Oneself, Third Person
 * READING GUIDE                                      → [`FRONT-2`](reading-guide.md)
 * Introduction to the Photo Series                   → [`1`](introduction-to-the-photo-series.md)
 * Beyond Pixels: A Stroll into Nature                → [`2`](beyond-pixels-a-stroll-into-nature.md)
