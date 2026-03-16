@@ -1,7 +1,7 @@
 ---
 description: >-
-  Two extra spatial stories about the impact of the Belgian-made pixels on Earth
-  and Ethereum
+  Three extra spatial stories about the impact of the Belgian-made pixels on
+  Earth and Ethereum
 ---
 
 # APPENDIX
@@ -35,6 +35,72 @@ Beyond physical locations, digital naming also celebrated Belgian places. Four [
 <div><figure><img src=".gitbook/assets/meuse.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85:97365202193083432748976546813491271006919194810609036242907411146017330782368?address=0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82"><strong>meuse</strong>.eth</a></p></figcaption></figure> <figure><img src=".gitbook/assets/sambre.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85:98656978081170204584090953328403136752112004695015963955947111110569277154361"><strong>sambre</strong>.eth</a></p></figcaption></figure></div>
 
 <div><figure><img src=".gitbook/assets/bastogne.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85:47981481869610083995936073997732283750222809913612277762499411613608388596160"><strong>bastogne</strong>.eth</a></p></figcaption></figure> <figure><img src=".gitbook/assets/schaerbeek.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0xd4416b13d2b3a9abae7acd5d6c2bbdbe25686401:22609889999588536487736404583550363407381519385506395789547348851782388298946?address=0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82"><strong>schaerbeek</strong>.eth</a></p></figcaption></figure></div>
+
+### The Fund That Fed the Walk
+
+Created in July 2021, this PGP-signed text serves as the founding story of `daqhris.eth` **Cryptoassets Growth Fund.** The fund document's formal and financial-document structure (table of contents, definitions, disclaimers) lives online at [daqhris.com/cryptoassets-growth-fund](https://daqhris.com/cryptoassets-growth-fund/).&#x20;
+
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+The inability to settle and remain steadily in a physical location 
+has taught me recently that any physical asset may be seized, stolen, 
+damaged or devalued by an individual, 
+a group of persons or a larger entity like a government.
+
+Since the summer of 2015 until now, 
+I live more or less with few personal belongings.
+I have experienced events that forced me to stay on the move 
+due to safety, poverty, or weather reasons.
+
+At least once a year, an event has occurred that led me to lose access 
+to banking services or university facilities, or health care systems.
+I have given up on owning large or heavy items after life-altering experiences
+in detention centers, refugee camps, homelessness, seasonal lodging,
+couch-surfing, and lately as an undocumented immigrant.
+
+After repeatedly going through the loss of personal properties, reputation, 
+material possessions, human connections, and at the end, 
+stumbling into a slow but steady recovery, 
+I have only been able to regain a few valuable assets.
+Chief among them are some digital assets, 
+namely Bitcoin and Ether purchased in the Autumn of 2017.
+I managed to recover the BTC holdings in the Summer of 2019 and ETH in the Summer of 2021.
+How? Well, by regaining access to digital wallet backups!
+
+Although I was not actively managing the crypto wallets, 
+they remained intact and gained much value afterward.
+For a long time, I thought of them as lost property. 
+But later on, after the recovery of their secret keys, 
+I understood the high value of global decentralized blockchains 
+and the related digital currencies.
+
+Thus, I decided to entirely play the long game 
+and set up a personal crypto growth fund 
+with the intent of holding long-term investments in digital assets.
+In case I earn or receive more paper money than the amount 
+that is necessary for basic needs (i.e: food, transport, accommodation), 
+then I will purchase some cryptocurrencies and add them to 
+the self-custodial wallets of the fund.
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEhxUjsxFFwjNUNY2UEcav5WsnH4gFAmENOhIACgkQEcav5Wsn
+H4i92xAAt3Mcwp8TbDGYGiPSaNvca/muh4GwtwGs36Eu0Vut3NAUKrUrxYkgHSvl
+ymnVp8mTTgJujnlsKdFcx39tuwu0FS9941j4KF1FMA0//XSkdsnjmT2AJlYdYbGO
+gyD1aIUdKgZJKRE7cFnSfgYnucE41HhJguk0FdN70AWGGf/2KEOjA51VjfgIM/VW
+oRoejVrg41nC+H2w6bTFqjxWl1ouE3HOiUbfDUOl7M/1yAUbqjn4jOqBboIQlDWx
+u9HpY2g+0jskMs+JVe1XZu94OrSpcXcU8U3BD1AR7hYjsvESyoJHWaE5+UYg/YYP
+vhRqzO12dQv88Xo33lz7h4ICQCzat4dZ56mpwtgd21QMsPCHiDm82yPdgyN79GV+
+W+g+dqpH9Io4L/4aSyrbbgxGODFWmSn5wEzkC+1/KBefh3bDu4gINuFIJC2QZUq1
+VlXbgbAZBcOu3AwqyKmfZDBhpi1qBhbBHQ5XYtM80rUt/9XKN8kLFPI3qZpIDTh9
+S2juASj/TE/Yu7cBe977Gz+XhN6Nfa2qza6Hs9SB5ilXzBRjw3SPAxk/j935kVQ6
+PGKKOL0CEsdhsfgJx55SZabYNaPN9nC75upa1WF+mdZxnMk31zue41Vpf/kpEx8y
+LwOBA8voYVOfUXAI7bHuxEcuP2SOgMQBAXz0OHeUQVKMnUkDaqo=
+=BUBH
+-----END PGP SIGNATURE-----
+```
 
 <p align="center"></p>
 
