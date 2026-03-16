@@ -38,7 +38,7 @@ Beyond physical locations, digital naming also celebrated Belgian places. Four [
 
 ### The Fund That Fed the Walk
 
-Created in July 2021, this PGP-signed text serves as the founding story of `daqhris.eth` **Cryptoassets Growth Fund.** The fund document's formal and financial-document structure (table of contents, definitions, disclaimers) lives online at [daqhris.com/cryptoassets-growth-fund](https://daqhris.com/cryptoassets-growth-fund/).&#x20;
+Established in July 2021, and signed with a cryptographic algorithm, a personal story inspired the founding of `daqhris.eth` **Cryptoassets Growth Fund** which later enabled all financial step&#x73;**.** The sovereign fund's formal and financial structure (table of contents, definitions, disclaimers) was documented and lives online at [daqhris.com/cryptoassets-growth-fund](https://daqhris.com/cryptoassets-growth-fund/).&#x20;
 
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
