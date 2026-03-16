@@ -36,9 +36,9 @@ Beyond physical locations, digital naming also celebrated Belgian places. Four [
 
 <div><figure><img src=".gitbook/assets/bastogne.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85:47981481869610083995936073997732283750222809913612277762499411613608388596160"><strong>bastogne</strong>.eth</a></p></figcaption></figure> <figure><img src=".gitbook/assets/schaerbeek.eth.png" alt="" width="256"><figcaption><p><a href="https://app.zerion.io/nfts/ethereum/0xd4416b13d2b3a9abae7acd5d6c2bbdbe25686401:22609889999588536487736404583550363407381519385506395789547348851782388298946?address=0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82"><strong>schaerbeek</strong>.eth</a></p></figcaption></figure></div>
 
-### The Fund That Fed the Walk
+### Unbanked Ether Underfoot
 
-Established in July 2021, and signed with a cryptographic algorithm, a personal story inspired the founding of `daqhris.eth` **Cryptoassets Growth Fund** which later enabled all financial step&#x73;**.** The sovereign fund's formal and financial structure (table of contents, definitions, disclaimers) was documented and lives online at [daqhris.com/cryptoassets-growth-fund](https://daqhris.com/cryptoassets-growth-fund/).&#x20;
+Established in July 2021, and signed with a cryptographic algorithm, a personal story inspired the founding of `daqhris.eth` **Cryptoassets Growth Fund,** which later enabled all financial steps. The fund's formal and financial structure (table of contents, definitions, disclaimers) was documented and lives online at [daqhris.com/cryptoassets-growth-fund](https://daqhris.com/cryptoassets-growth-fund/).&#x20;
 
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
