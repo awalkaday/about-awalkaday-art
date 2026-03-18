@@ -1,3 +1,5 @@
+---
+---
 # Blockchain Records
 
 According to traces of footprints found in public records, the photo odyssey was revived in the Francophone city of Bastogne. The small town, deprived of a train station, had on its main street an electronics shop. A shopkeeper facilitated human access, without asking for proofs of human identity, to an automated banking machine exchanging paper bills with blockchain currencies.&#x20;

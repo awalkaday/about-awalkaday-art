@@ -1,3 +1,5 @@
+---
+---
 # Training Ground
 
 Around the global debut of Instagram's cyber conquest, Chris decided to learn photography without knocking on any teacher's door. To kill time in Beijing's streets, he began clicking on the shutter button of a Canon camera that was bought with his student's savings, circa 2012.&#x20;
@@ -8,8 +10,8 @@ Beginning in 2013 with accelerated dual immersion — in a Chinese urban culture
 
 
 <figure class="embed-media">
-  <img src="https://arweave.net/2s8V7COfuK32VaXHDAyInocahSsGR4FRdhxICHufdis" alt="" loading="lazy">
-  <figcaption><a href="https://arweave.net/2s8V7COfuK32VaXHDAyInocahSsGR4FRdhxICHufdis" rel="noopener">https://arweave.net/2s8V7COfuK32VaXHDAyInocahSsGR4FRdhx...</a></figcaption>
+  <img src="https://arweave.net/2s8V7COfuK32VaXHDAyInocahSsGR4FRdhxICHufdis" alt="awalkaday 4-2022" loading="lazy">
+  <figcaption>awalkaday 4-2022</figcaption>
 </figure>
 
 

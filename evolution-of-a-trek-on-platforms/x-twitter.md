@@ -1,5 +1,4 @@
 ---
-description: Since November 2021
 ---
 
 # X (Twitter)
@@ -12,8 +11,8 @@ News and viewpoints related to the photo collection have been broadcast on X, wh
 
 
 <figure class="embed-media">
-  <img src="https://arweave.net/Xe2BxPvNy1dKj92ZOtfLH1NWynZ1w8uudpZJbxvnNdk" alt="" loading="lazy">
-  <figcaption><a href="https://arweave.net/Xe2BxPvNy1dKj92ZOtfLH1NWynZ1w8uudpZJbxvnNdk" rel="noopener">https://arweave.net/Xe2BxPvNy1dKj92ZOtfLH1NWynZ1w8uudpZ...</a></figcaption>
+  <img src="https://arweave.net/Xe2BxPvNy1dKj92ZOtfLH1NWynZ1w8uudpZJbxvnNdk" alt="awalkaday 220-2022" loading="lazy">
+  <figcaption>awalkaday 220-2022</figcaption>
 </figure>
 
 

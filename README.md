@@ -1,5 +1,5 @@
 ---
-description: wanderer and his Belgian pixels during an eight-year odyssey
+description: "An open-source artist's book tracing the digital footprints of an exiled"
 ---
 
 # Walking Memories
@@ -8,8 +8,8 @@ description: wanderer and his Belgian pixels during an eight-year odyssey
 
 
 <figure class="embed-media">
-  <img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="" loading="lazy">
-  <figcaption><a href="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" rel="noopener">https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgo...</a></figcaption>
+  <img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="awalkaday 251-2022" loading="lazy">
+  <figcaption>awalkaday 251-2022</figcaption>
 </figure>
 
 

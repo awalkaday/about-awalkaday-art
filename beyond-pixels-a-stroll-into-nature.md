@@ -1,3 +1,5 @@
+---
+---
 # Beyond Pixels: A Stroll Into Nature
 
 What if we embarked from our individual spots in the wired world on a visual journey through which the solo mission goes beyond pixels to ignite a passion for the great outdoors?
@@ -6,8 +8,8 @@ Beyond a fine appearance, this collection is an invitation to embrace the rejuve
 
 
 <figure class="embed-media">
-  <img src="https://axvmx24llbmfiwg45ueou6fnfzw7ei37uirw7kf47ednojsd26dq.arweave.net/BerL64tYWFRY3O0I6nitLm3yI3-iI2-ovPkG1yZD14c" alt="" loading="lazy">
-  <figcaption><a href="https://axvmx24llbmfiwg45ueou6fnfzw7ei37uirw7kf47ednojsd26dq.arweave.net/BerL64tYWFRY3O0I6nitLm3yI3-iI2-ovPkG1yZD14c" rel="noopener">https://axvmx24llbmfiwg45ueou6fnfzw7ei37uirw7kf47ednojs...</a></figcaption>
+  <img src="https://axvmx24llbmfiwg45ueou6fnfzw7ei37uirw7kf47ednojsd26dq.arweave.net/BerL64tYWFRY3O0I6nitLm3yI3-iI2-ovPkG1yZD14c" alt="awalkaday 181-2021" loading="lazy">
+  <figcaption>awalkaday 181-2021</figcaption>
 </figure>
 
 
@@ -15,8 +17,8 @@ In an age of fast-paced urbanization, sedentarism and hyperconnectivity, many hu
 
 
 <figure class="embed-media">
-  <img src="https://arweave.net/D8wYnDQXKBSQmlMY7_oMFqMYHGa_eHPDQTxpSE9k1Po" alt="" loading="lazy">
-  <figcaption><a href="https://arweave.net/D8wYnDQXKBSQmlMY7_oMFqMYHGa_eHPDQTxpSE9k1Po" rel="noopener">https://arweave.net/D8wYnDQXKBSQmlMY7_oMFqMYHGa_eHPDQTx...</a></figcaption>
+  <img src="https://arweave.net/D8wYnDQXKBSQmlMY7_oMFqMYHGa_eHPDQTxpSE9k1Po" alt="awalkaday 168-2022" loading="lazy">
+  <figcaption>awalkaday 168-2022</figcaption>
 </figure>
 
 
@@ -26,8 +28,8 @@ Architected in computer code languages, a web gallery and a smart contract were 
 
 
 <figure class="embed-media">
-  <img src="https://arweave.net/84AC-vf_aJkER9F0cQ5iEXP-lJ1PocTY9IuOf7Bpsdc" alt="" loading="lazy">
-  <figcaption><a href="https://arweave.net/84AC-vf_aJkER9F0cQ5iEXP-lJ1PocTY9IuOf7Bpsdc" rel="noopener">https://arweave.net/84AC-vf_aJkER9F0cQ5iEXP-lJ1PocTY9Iu...</a></figcaption>
+  <img src="https://arweave.net/84AC-vf_aJkER9F0cQ5iEXP-lJ1PocTY9IuOf7Bpsdc" alt="awalkaday 186-2022" loading="lazy">
+  <figcaption>awalkaday 186-2022</figcaption>
 </figure>
 
 

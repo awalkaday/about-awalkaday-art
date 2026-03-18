@@ -1,9 +1,11 @@
+---
+---
 # Parallel Pathways
 
 
 <figure class="embed-media">
-  <img src="https://arweave.net/g_a3kCxXvhagS4B62-glUh3IsomrXyXujClsWZKP1rI" alt="" loading="lazy">
-  <figcaption><a href="https://arweave.net/g_a3kCxXvhagS4B62-glUh3IsomrXyXujClsWZKP1rI" rel="noopener">https://arweave.net/g_a3kCxXvhagS4B62-glUh3IsomrXyXujCl...</a></figcaption>
+  <img src="https://arweave.net/g_a3kCxXvhagS4B62-glUh3IsomrXyXujClsWZKP1rI" alt="awalkaday 71-2022" loading="lazy">
+  <figcaption>awalkaday 71-2022</figcaption>
 </figure>
 
 

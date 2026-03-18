@@ -1,5 +1,5 @@
 ---
-description: one appears
+description: "A list of 15 chapters and 17 subchapters showing on which numbered page each"
 ---
 
 # READING GUIDE
@@ -52,8 +52,8 @@ description: one appears
 
 
 <figure class="embed-media">
-  <img src="https://7n5x6ki3xr2zlkzlhcpukbprymt3dhxl2kju2haif2y3xqajshpa.arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" alt="" loading="lazy">
-  <figcaption><a href="https://7n5x6ki3xr2zlkzlhcpukbprymt3dhxl2kju2haif2y3xqajshpa.arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" rel="noopener">https://7n5x6ki3xr2zlkzlhcpukbprymt3dhxl2kju2haif2y3xqa...</a></figcaption>
+  <img src="https://7n5x6ki3xr2zlkzlhcpukbprymt3dhxl2kju2haif2y3xqajshpa.arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" alt="awalkaday 129-2022" loading="lazy">
+  <figcaption>awalkaday 129-2022</figcaption>
 </figure>
 
 

@@ -1,11 +1,13 @@
+---
+---
 # Cameras and Photo Editing
 
 At the beginning of the travelogue on Western soil, between 2017 and 2018, a [**Xiaomi**](https://www.mi.com/global/about/) smartphone, acquired in Beijing around 2015, was the tool of choice for capturing and editing still images.
 
 
 <figure class="embed-media">
-  <img src="https://arweave.net/lt_hFp1beJB2ZMQBJa-r4c8R0kpEWgwmcX-lDePzUoE" alt="" loading="lazy">
-  <figcaption><a href="https://arweave.net/lt_hFp1beJB2ZMQBJa-r4c8R0kpEWgwmcX-lDePzUoE" rel="noopener">https://arweave.net/lt_hFp1beJB2ZMQBJa-r4c8R0kpEWgwmcX-...</a></figcaption>
+  <img src="https://arweave.net/lt_hFp1beJB2ZMQBJa-r4c8R0kpEWgwmcX-lDePzUoE" alt="awalkaday 4-2018" loading="lazy">
+  <figcaption>awalkaday 4-2018</figcaption>
 </figure>
 
 
@@ -15,8 +17,8 @@ The low-cost computing machine, manufactured by a supply chain for a Finnish cor
 
 
 <figure class="embed-media">
-  <img src="https://arweave.net/3wrYeB0PvtdlrZ9dbL0rIeqWB5KDBn0sa33casdaJX0" alt="" loading="lazy">
-  <figcaption><a href="https://arweave.net/3wrYeB0PvtdlrZ9dbL0rIeqWB5KDBn0sa33casdaJX0" rel="noopener">https://arweave.net/3wrYeB0PvtdlrZ9dbL0rIeqWB5KDBn0sa33...</a></figcaption>
+  <img src="https://arweave.net/3wrYeB0PvtdlrZ9dbL0rIeqWB5KDBn0sa33casdaJX0" alt="awalkaday 73-2022" loading="lazy">
+  <figcaption>awalkaday 73-2022</figcaption>
 </figure>
 
 
@@ -28,8 +30,8 @@ The **Android One**'s circuits were penetrated by an illogical force in the last
 
 
 <figure class="embed-media">
-  <img src="https://arweave.net/i6PP4en92kXHtQLpdd0XBSBrQuY6a5cWgMt3A1gJBCI" alt="" loading="lazy">
-  <figcaption><a href="https://arweave.net/i6PP4en92kXHtQLpdd0XBSBrQuY6a5cWgMt3A1gJBCI" rel="noopener">https://arweave.net/i6PP4en92kXHtQLpdd0XBSBrQuY6a5cWgMt...</a></figcaption>
+  <img src="https://arweave.net/i6PP4en92kXHtQLpdd0XBSBrQuY6a5cWgMt3A1gJBCI" alt="awalkaday 253-2022" loading="lazy">
+  <figcaption>awalkaday 253-2022</figcaption>
 </figure>
 
 
@@ -39,8 +41,8 @@ Overall, the two cameras had basic features to balance highlights and shadows in
 
 
 <figure class="embed-media">
-  <img src="https://qvkqswypiambkjkycjmxs7vah6nml7rkl6gos6252pghv7f2mz5a.arweave.net/hVUJWw9AGBUlWBJZeX6gP5rF_ipfjOl7XdPMevy6Zno" alt="" loading="lazy">
-  <figcaption><a href="https://qvkqswypiambkjkycjmxs7vah6nml7rkl6gos6252pghv7f2mz5a.arweave.net/hVUJWw9AGBUlWBJZeX6gP5rF_ipfjOl7XdPMevy6Zno" rel="noopener">https://qvkqswypiambkjkycjmxs7vah6nml7rkl6gos6252pghv7f...</a></figcaption>
+  <img src="https://qvkqswypiambkjkycjmxs7vah6nml7rkl6gos6252pghv7f2mz5a.arweave.net/hVUJWw9AGBUlWBJZeX6gP5rF_ipfjOl7XdPMevy6Zno" alt="awalkaday 28-2022" loading="lazy">
+  <figcaption>awalkaday 28-2022</figcaption>
 </figure>
 
 

@@ -1,3 +1,5 @@
+---
+---
 # Gaming Laptop
 
 A laptop computer, branded as [**Hasee God of War**](http://en.haseecomputer.com/About/about24.html) and acquired on the Asian continent, was very useful for coding sessions while building the online gallery on top of digital foundations.
@@ -6,8 +8,8 @@ The computing device was one of the few items, in addition to engineering textbo
 
 
 <figure class="embed-media">
-  <img src="https://arweave.net/MiuCILoiAVXSGdWoiN4tM6XHZGSCCkLvCFyKMwWvzHg" alt="" loading="lazy">
-  <figcaption><a href="https://arweave.net/MiuCILoiAVXSGdWoiN4tM6XHZGSCCkLvCFyKMwWvzHg" rel="noopener">https://arweave.net/MiuCILoiAVXSGdWoiN4tM6XHZGSCCkLvCFy...</a></figcaption>
+  <img src="https://arweave.net/MiuCILoiAVXSGdWoiN4tM6XHZGSCCkLvCFyKMwWvzHg" alt="awalkaday 187-2021" loading="lazy">
+  <figcaption>awalkaday 187-2021</figcaption>
 </figure>
 
 
@@ -23,8 +25,8 @@ The gamer friend of African origin had been hosting a first birthday party on Be
 
 
 <figure class="embed-media">
-  <img src="https://arweave.net/8FU-mhjYjLfvf3eWMYiJIx60YeKUbtx7x8Qf2O4bRL0" alt="" loading="lazy">
-  <figcaption><a href="https://arweave.net/8FU-mhjYjLfvf3eWMYiJIx60YeKUbtx7x8Qf2O4bRL0" rel="noopener">https://arweave.net/8FU-mhjYjLfvf3eWMYiJIx60YeKUbtx7x8Q...</a></figcaption>
+  <img src="https://arweave.net/8FU-mhjYjLfvf3eWMYiJIx60YeKUbtx7x8Qf2O4bRL0" alt="awalkaday 328-2017" loading="lazy">
+  <figcaption>awalkaday 328-2017</figcaption>
 </figure>
 
 

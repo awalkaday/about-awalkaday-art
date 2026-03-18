@@ -1,10 +1,12 @@
+---
+---
 # Internet Footprints
 
 The visual art practice, reinforced by web surfing, began in [July 2017](https://www.instagram.com/p/BWvILEmAPcy/), when a photo was posted on Instagram with the following caption: '**Don't watch the clock. Do what it does. Keep going**'.
 
 
 <div class="embed-link">
-  <a href="https://www.instagram.com/p/BWvILEmAPcy/" rel="noopener" target="_blank">www.instagram.com</a>
+  <a href="https://www.instagram.com/p/BWvILEmAPcy/" rel="noopener" target="_blank">The 1st photo on Instagram. Its original file as well as others shared on Instagram between July and November of 2017 were lost and not preserved on the Ethereum blockchain.</a>
 </div>
 
 
@@ -12,7 +14,7 @@ The first and last photographs, preserved in the collection on the blockchain, a
 
 
 <div class="embed-link">
-  <a href="https://www.instagram.com/p/BbXjDXsH22K/" rel="noopener" target="_blank">www.instagram.com</a>
+  <a href="https://www.instagram.com/p/BbXjDXsH22K/" rel="noopener" target="_blank">The oldest photo in the blockchain series was posted on Instagram during his birthday in Nov 2017. Its original version was lost; but a copy was recovered, named and minted in the first quarter of 2023. Same recovery story for all tokenized photos of the first two years.</a>
 </div>
 
 
@@ -22,7 +24,7 @@ One year later, a meaningful milestone was reached when selected photographs gra
 
 
 <div class="embed-link">
-  <a href="https://www.instagram.com/p/CidZs2BDRMz/" rel="noopener" target="_blank">www.instagram.com</a>
+  <a href="https://www.instagram.com/p/CidZs2BDRMz/" rel="noopener" target="_blank">The last photo in this series, posted on Instagram in Sept 2022, which was later preserved on the blockchain.</a>
 </div>
 
 
@@ -32,7 +34,7 @@ A congratulatory message citing the virtual exhibition hall of the photo series 
 
 
 <div class="embed-link">
-  <a href="https://www.instagram.com/walk.day/p/CkWOfX2DCPU/" rel="noopener" target="_blank">www.instagram.com</a>
+  <a href="https://www.instagram.com/walk.day/p/CkWOfX2DCPU/" rel="noopener" target="_blank">The final photo of Oct 2022 on Instagram. Its original file plus 4 others of that October were lost and not preserved on Ethereum.</a>
 </div>
 
 

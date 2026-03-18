@@ -1,3 +1,5 @@
+---
+---
 # Introduction to the Photo Series
 
 Say hello to [awalkaday.art](https://awalkaday.art/), a collection of 263 photographs created by `daqhris` and published on the [Ethereum](https://ethereum.org/en/what-is-ethereum) blockchain since springtime of 2023.
@@ -8,8 +10,8 @@ Near the physical endpoint of the digital odyssey, a select number of snapshots 
 
 
 <figure class="embed-media">
-  <img src="https://clbxzh7mtjfyeo56l7xzmuclv74yrjpdagus55v3labbyvnxfpgq.arweave.net/EsN8n-yaS4I7vl_vllBLr_mIpeMBqS72u1gCHFW3K80" alt="" loading="lazy">
-  <figcaption><a href="https://clbxzh7mtjfyeo56l7xzmuclv74yrjpdagus55v3labbyvnxfpgq.arweave.net/EsN8n-yaS4I7vl_vllBLr_mIpeMBqS72u1gCHFW3K80" rel="noopener">https://clbxzh7mtjfyeo56l7xzmuclv74yrjpdagus55v3labbyvn...</a></figcaption>
+  <img src="https://clbxzh7mtjfyeo56l7xzmuclv74yrjpdagus55v3labbyvnxfpgq.arweave.net/EsN8n-yaS4I7vl_vllBLr_mIpeMBqS72u1gCHFW3K80" alt="awalkaday 168.5-2021" loading="lazy">
+  <figcaption>awalkaday 168.5-2021</figcaption>
 </figure>
 
 

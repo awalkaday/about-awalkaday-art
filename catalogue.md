@@ -1,5 +1,5 @@
 ---
-description: categories, and arranged by location, year and season
+description: "Lists accounting for the number of all tokenized photographs, split into three"
 ---
 
 # CATALOGUE

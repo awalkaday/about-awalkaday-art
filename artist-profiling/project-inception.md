@@ -1,3 +1,5 @@
+---
+---
 # Project Inception
 
 ### Crossing Waters
@@ -8,8 +10,8 @@ His aims and dreams in Europe — beyond pursuing university education again —
 
 
 <figure class="embed-media">
-  <img src="https://arweave.net/PzcrZqCeMDwty56zrlbyngXjTYxpPCEKKo6MevHVf-Q" alt="" loading="lazy">
-  <figcaption><a href="https://arweave.net/PzcrZqCeMDwty56zrlbyngXjTYxpPCEKKo6MevHVf-Q" rel="noopener">https://arweave.net/PzcrZqCeMDwty56zrlbyngXjTYxpPCEKKo6...</a></figcaption>
+  <img src="https://arweave.net/PzcrZqCeMDwty56zrlbyngXjTYxpPCEKKo6MevHVf-Q" alt="awalkaday 185-2022" loading="lazy">
+  <figcaption>awalkaday 185-2022</figcaption>
 </figure>
 
 
@@ -53,8 +55,8 @@ To combat prolonged boredom and physical inactivity, an idea sparkled in his min
 
 
 <figure class="embed-media">
-  <img src="https://aqdko2gvdb5swcvmv5fefjh2nvqay2jo25zaraa4e7gzvtmhqvra.arweave.net/BAanaNUYeysKrK9KQqT6bWAMaS7XcgiAHCfNms2HhWI" alt="" loading="lazy">
-  <figcaption><a href="https://aqdko2gvdb5swcvmv5fefjh2nvqay2jo25zaraa4e7gzvtmhqvra.arweave.net/BAanaNUYeysKrK9KQqT6bWAMaS7XcgiAHCfNms2HhWI" rel="noopener">https://aqdko2gvdb5swcvmv5fefjh2nvqay2jo25zaraa4e7gzvtm...</a></figcaption>
+  <img src="https://aqdko2gvdb5swcvmv5fefjh2nvqay2jo25zaraa4e7gzvtmhqvra.arweave.net/BAanaNUYeysKrK9KQqT6bWAMaS7XcgiAHCfNms2HhWI" alt="awalkaday 344-2017" loading="lazy">
+  <figcaption>awalkaday 344-2017</figcaption>
 </figure>
 
 
@@ -76,8 +78,8 @@ Three years later, during the season of blooming lush gardens in 2020, the photo
 
 
 <figure class="embed-media">
-  <img src="https://arweave.net/HZUJofLsOWTGYRYAOMzbtKN7Ad0jMmtDlg4HDgT5Vp8" alt="" loading="lazy">
-  <figcaption><a href="https://arweave.net/HZUJofLsOWTGYRYAOMzbtKN7Ad0jMmtDlg4HDgT5Vp8" rel="noopener">https://arweave.net/HZUJofLsOWTGYRYAOMzbtKN7Ad0jMmtDlg4...</a></figcaption>
+  <img src="https://arweave.net/HZUJofLsOWTGYRYAOMzbtKN7Ad0jMmtDlg4HDgT5Vp8" alt="awalkaday 40-2022" loading="lazy">
+  <figcaption>awalkaday 40-2022</figcaption>
 </figure>
 
 
@@ -89,8 +91,8 @@ He faced recurring unemployment despite numerous skills. He walked — burning o
 
 
 <figure class="embed-media">
-  <img src="https://arweave.net/WB8akAD3XwwJ-5QCWgH9k-4eaDNRctqmTzBH4hwLwyo" alt="" loading="lazy">
-  <figcaption><a href="https://arweave.net/WB8akAD3XwwJ-5QCWgH9k-4eaDNRctqmTzBH4hwLwyo" rel="noopener">https://arweave.net/WB8akAD3XwwJ-5QCWgH9k-4eaDNRctqmTzB...</a></figcaption>
+  <img src="https://arweave.net/WB8akAD3XwwJ-5QCWgH9k-4eaDNRctqmTzBH4hwLwyo" alt="awalkaday 184-2021" loading="lazy">
+  <figcaption>awalkaday 184-2021</figcaption>
 </figure>
 
 

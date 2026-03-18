@@ -1,3 +1,5 @@
+---
+---
 # GIT Usage History
 
 <figure><img src="https://6cf5hdon57o2agn5k3jmvu2w72kl3cleh6uh6auvqukeva6zlc4q.arweave.net/8IvTjc3v3aAZvVbSytNW_pS9iWQ_qH8ClYUUSoPZWLk" alt="awalkaday 212-2021"><figcaption><p><strong>awalkaday 212-2021</strong></p></figcaption></figure>
@@ -10,8 +12,8 @@ Much earlier fragments of his public code contributions were likely archived ins
 
 
 <figure class="embed-media">
-  <img src="https://arweave.net/0Hh0hrWgJk3je9KmLqkRwIrg7UcE-Kazytm2HdUjEGc" alt="" loading="lazy">
-  <figcaption><a href="https://arweave.net/0Hh0hrWgJk3je9KmLqkRwIrg7UcE-Kazytm2HdUjEGc" rel="noopener">https://arweave.net/0Hh0hrWgJk3je9KmLqkRwIrg7UcE-Kazytm...</a></figcaption>
+  <img src="https://arweave.net/0Hh0hrWgJk3je9KmLqkRwIrg7UcE-Kazytm2HdUjEGc" alt="awalkaday 356-2017" loading="lazy">
+  <figcaption>awalkaday 356-2017</figcaption>
 </figure>
 
 

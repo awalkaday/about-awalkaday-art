@@ -1,5 +1,4 @@
 ---
-description: Disclosures and essential information written in the first person.
 ---
 
 # ARTIST STATEMENT
@@ -10,8 +9,8 @@ This project was born in my spare time, developed independently in the open, and
 
 
 <figure class="embed-media">
-  <img src="https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-gdEnlGmI" alt="" loading="lazy">
-  <figcaption><a href="https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-gdEnlGmI" rel="noopener">https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-...</a></figcaption>
+  <img src="https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-gdEnlGmI" alt="awalkaday 219-2022" loading="lazy">
+  <figcaption>awalkaday 219-2022</figcaption>
 </figure>
 
 

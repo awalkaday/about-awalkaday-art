@@ -1,5 +1,5 @@
 ---
-description: Earth and Ethereum
+description: "Three extra spatial stories about the impact of the Belgian-made pixels on"
 ---
 
 # APPENDIX
@@ -14,7 +14,7 @@ This black-and-white photo captured a fleeting moment. It preserves for ages a r
 
 
 <div class="embed-link">
-  <a href="https://thehug.xyz/artists/daqhris/portfolio/item/6e2d07d3-3f4a-438c-b0e7-1224f7dcecfa" rel="noopener" target="_blank">thehug.xyz</a>
+  <a href="https://thehug.xyz/artists/daqhris/portfolio/item/6e2d07d3-3f4a-438c-b0e7-1224f7dcecfa" rel="noopener" target="_blank">Check out the onchain photo on The Hug.</a>
 </div>
 
 

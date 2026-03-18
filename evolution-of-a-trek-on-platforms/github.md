@@ -1,5 +1,4 @@
 ---
-description: Since November 2017
 ---
 
 # GitHub
@@ -14,7 +13,7 @@ In the winter of 2017, when free attendance to French-spoken lectures was just s
 
 
 <div class="embed-link">
-  <a href="https://github.com/daqhris/awalkaday" rel="noopener" target="_blank">github.com</a>
+  <a href="https://github.com/daqhris/awalkaday" rel="noopener" target="_blank">Source Code for the Gallery's Beta Testing</a>
 </div>
 
 
@@ -22,7 +21,7 @@ One month later, a series of French-written law-abiding decisions knocked down r
 
 
 <div class="embed-link">
-  <a href="https://www.instagram.com/walk.day/p/C8casQwtnMP/" rel="noopener" target="_blank">www.instagram.com</a>
+  <a href="https://www.instagram.com/walk.day/p/C8casQwtnMP/" rel="noopener" target="_blank">A graph visualizing years-long coding process, representing the duration of work for the public code repositories.</a>
 </div>
 
 

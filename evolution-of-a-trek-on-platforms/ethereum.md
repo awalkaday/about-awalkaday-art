@@ -1,5 +1,4 @@
 ---
-description: Since August 2022
 ---
 
 # Ethereum
@@ -10,7 +9,12 @@ Blessed by the angelic support of a cryptocurrency wallet, that had been activat
 
 
 <div class="embed-link">
-  <a href="https://eth.blockscout.com/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b" rel="noopener" target="_blank">eth.blockscout.com</a>
+  <a href="https://eth.blockscout.com/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b" rel="noopener" target="_blank">
+<figure class="embed-media">
+  <img src="https://arweave.net/YUAAmDamuHChXj-NssLZxiYHsesYNUlQjazoh3I-4ZQ" alt="" loading="lazy">
+</figure>
+
+awalkaday 78-2022</a>
 </div>
 
 
@@ -80,8 +84,8 @@ Once released into a sovereign financial ecosystem, the fear of losing the `awal
 
 
 <figure class="embed-media">
-  <img src="https://arweave.net/0-_c04sCcDNe-rkCZvTETL1TkmxsLroCqoXVsaWSpOU" alt="" loading="lazy">
-  <figcaption><a href="https://arweave.net/0-_c04sCcDNe-rkCZvTETL1TkmxsLroCqoXVsaWSpOU" rel="noopener">https://arweave.net/0-_c04sCcDNe-rkCZvTETL1TkmxsLroCqoX...</a></figcaption>
+  <img src="https://arweave.net/0-_c04sCcDNe-rkCZvTETL1TkmxsLroCqoXVsaWSpOU" alt="awalkaday 174-2022" loading="lazy">
+  <figcaption>awalkaday 174-2022</figcaption>
 </figure>
 
 
@@ -91,8 +95,8 @@ Each name is a string of words and numbers that begins with the artistic theme `
 
 
 <figure class="embed-media">
-  <img src="https://arweave.net/QuZy3p6WDONJOwwHuqP9VyMCgTqMOJjm-m6fDVE-86Q" alt="" loading="lazy">
-  <figcaption><a href="https://arweave.net/QuZy3p6WDONJOwwHuqP9VyMCgTqMOJjm-m6fDVE-86Q" rel="noopener">https://arweave.net/QuZy3p6WDONJOwwHuqP9VyMCgTqMOJjm-m6...</a></figcaption>
+  <img src="https://arweave.net/QuZy3p6WDONJOwwHuqP9VyMCgTqMOJjm-m6fDVE-86Q" alt="awalkaday 3-2022" loading="lazy">
+  <figcaption>awalkaday 3-2022</figcaption>
 </figure>
 
 
