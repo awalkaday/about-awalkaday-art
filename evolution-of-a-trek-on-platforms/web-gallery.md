@@ -1,4 +1,5 @@
 ---
+description: Since May 2021
 ---
 
 # Web Gallery
@@ -52,8 +53,7 @@ A 3D exhibition hall, constructed since the springtime of 2023, welcomes all dig
   <a href="https://oncyber.io/awalkaday.art" rel="noopener" target="_blank">oncyber.io</a>
 </div>
 
-Enter the virtual exhibition space inside an environment that simulates a lifelike display of 24 photographs</a>
-</div>
+Enter the virtual exhibition space inside an environment that simulates a lifelike display of 24 photographs.
 
 
 

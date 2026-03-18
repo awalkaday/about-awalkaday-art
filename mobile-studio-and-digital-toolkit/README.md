@@ -1,5 +1,5 @@
 ---
-description: "The wanderer's burden lightened by rudimentary equipment: Nokia as Air Force"
+description: "The wanderer's burden lightened by rudimentary equipment: Nokia as Air Force One, laptop as command center, and libre software as darkroom"
 ---
 
 # Mobile Studio and Digital Toolkit

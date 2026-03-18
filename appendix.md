@@ -1,5 +1,5 @@
 ---
-description: "Three extra spatial stories about the impact of the Belgian-made pixels on"
+description: "Three extra spatial stories about the impact of the Belgian-made pixels on Earth and Ethereum"
 ---
 
 # APPENDIX
