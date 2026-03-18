@@ -23,14 +23,20 @@ kramdown:
 # Permalinks — mirrors GitBook's flat URL style
 permalink: /:title/
 
-# Exclude from build
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - SUMMARY.md        # processed separately into _data/toc.yml
+  - README-lab.md
+  - SUMMARY.md
   - node_modules/
+  - vendor/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
   - .github/
+  - scripts/
   - "*.sh"
 
 # Collections (optional — enable if you add image series as a collection)
