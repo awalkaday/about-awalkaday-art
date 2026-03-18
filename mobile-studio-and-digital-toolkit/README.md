@@ -1,16 +1,14 @@
 ---
-description: >-
-  The wanderer's burden lightened by rudimentary equipment: Nokia as Air Force
-  One, laptop as command center, and libre software as darkroom
+One, laptop as command center, and libre software as darkroom
 ---
 
 # Mobile Studio and Digital Toolkit
 
-[[on-the-go-photography.md](on-the-go-photography.md)](on-the-go-photography.md)
+[on-the-go-photography.md](on-the-go-photography.md)
 
-[[cameras-and-photo-editing.md](cameras-and-photo-editing.md)](cameras-and-photo-editing.md)
+[cameras-and-photo-editing.md](cameras-and-photo-editing.md)
 
-[[gaming-laptop.md](gaming-laptop.md)](gaming-laptop.md)
+[gaming-laptop.md](gaming-laptop.md)
 
 <p align="center"></p>
 

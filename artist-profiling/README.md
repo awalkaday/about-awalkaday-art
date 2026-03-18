@@ -1,31 +1,14 @@
 ---
-description: >-
-  A portrait of a Burundian assembled from fragments of darkened memories:
-  Beijing to Brussels, war filming to refuge seeking, engineer-in-training to
-  undocumented
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
+
 ---
 
 # Artist Profiling
 
-[[human-identity.md](human-identity.md)](human-identity.md)
+[human-identity.md](human-identity.md)
 
-[[training-ground.md](training-ground.md)](training-ground.md)
+[training-ground.md](training-ground.md)
 
-[[project-inception.md](project-inception.md)](project-inception.md)
+[project-inception.md](project-inception.md)
 
 
 <figure class="embed-media">

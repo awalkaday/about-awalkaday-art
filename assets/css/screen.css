@@ -271,3 +271,88 @@ th { background: var(--color-border); font-family: var(--font-ui); }
 @media print {
   .site-header, .sidebar, .page-footer, .site-footer { display: none; }
 }
+
+/* ── Hint / callout blocks ────────────────────────────────────── */
+.hint {
+  margin: 1.5rem 0;
+  padding: 0.85rem 1.1rem;
+  border-left: 3px solid var(--color-border);
+  border-radius: 0 4px 4px 0;
+  font-size: 0.93rem;
+  line-height: 1.6;
+}
+.hint p:last-child { margin-bottom: 0; }
+
+.hint-info    { border-left-color: var(--color-accent);  background: var(--color-nav-active-bg); }
+.hint-warning { border-left-color: #b07d00; background: #fdf8e8; }
+.hint-danger  { border-left-color: #b03000; background: #fdf0ee; }
+.hint-success { border-left-color: #2a7a2a; background: #f0faf0; }
+
+@media (prefers-color-scheme: dark) {
+  .hint-warning { background: #2a2400; }
+  .hint-danger  { background: #2a1400; }
+  .hint-success { background: #0a2200; }
+}
+
+/* ── Arweave / media embeds ───────────────────────────────────── */
+.embed-media {
+  margin: 1.75rem 0;
+  text-align: center;
+}
+.embed-media img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  display: block;
+  margin: 0 auto 0.5rem;
+}
+.embed-media figcaption {
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+  word-break: break-all;
+}
+.embed-media figcaption a {
+  color: var(--color-text-muted);
+  text-decoration: none;
+}
+.embed-media figcaption a:hover { color: var(--color-accent); }
+
+/* ── External link cards ──────────────────────────────────────── */
+.embed-link {
+  margin: 1rem 0;
+  padding: 0.65rem 1rem;
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  background: var(--color-surface);
+}
+.embed-link a {
+  color: var(--color-accent);
+  word-break: break-all;
+}
+
+/* ── Titled code blocks ───────────────────────────────────────── */
+/* The title comment sits directly above the fenced block.        */
+/* No extra styling needed — inherits pre/code rules.             */
+
+/* ── Tab blocks ───────────────────────────────────────────────── */
+.tab {
+  margin: 0.5rem 0 1rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+}
+.tab::before {
+  display: block;
+  content: attr(data-title);
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+  margin-bottom: 0.5rem;
+}
+

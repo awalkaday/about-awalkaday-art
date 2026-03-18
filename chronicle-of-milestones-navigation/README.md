@@ -1,30 +1,14 @@
 ---
-description: >-
-  A timeline lining up bits and pieces of the scaffolding and the milestones
-  marking progressive moves of data flows on a cyber terrain
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
+
 ---
 
 # Chronicle of Milestones Navigation
 
-[[parallel-pathways.md](parallel-pathways.md)](parallel-pathways.md)
+[parallel-pathways.md](parallel-pathways.md)
 
-[[internet-footprints.md](internet-footprints.md)](internet-footprints.md)
+[internet-footprints.md](internet-footprints.md)
 
-[[blockchain-records.md](blockchain-records.md)](blockchain-records.md)
+[blockchain-records.md](blockchain-records.md)
 
 
 <figure class="embed-media">

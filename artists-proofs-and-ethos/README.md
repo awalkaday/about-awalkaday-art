@@ -1,30 +1,14 @@
 ---
-description: >-
-  Reframing version control philosophy as artistic methodology through
-  transparent iteration, public refinement, and trails of GIT commits
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
+
 ---
 
 # Artist's Proofs and Ethos
 
-[[public-git-commits.md](public-git-commits.md)](public-git-commits.md)
+[public-git-commits.md](public-git-commits.md)
 
-[[git-usage-history.md](git-usage-history.md)](git-usage-history.md)
+[git-usage-history.md](git-usage-history.md)
 
-[[open-source-software.md](open-source-software.md)](open-source-software.md)
+[open-source-software.md](open-source-software.md)
 
 
 <figure class="embed-media">

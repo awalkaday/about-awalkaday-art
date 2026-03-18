@@ -1,21 +1,5 @@
 ---
-description: >-
-  An exhaustive table listing the 263 digital photographs with names, public
-  timestamps and WALK token identifiers
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
-  metadata:
-    visible: true
+
 ---
 
 # POSTSCRIPT

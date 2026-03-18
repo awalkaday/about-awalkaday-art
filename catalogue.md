@@ -1,7 +1,5 @@
 ---
-description: >-
-  Lists accounting for the number of all tokenized photographs, split into three
-  categories, and arranged by location, year and season
+categories, and arranged by location, year and season
 ---
 
 # CATALOGUE
