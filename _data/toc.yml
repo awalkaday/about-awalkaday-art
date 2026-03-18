@@ -1,69 +1,86 @@
-# _data/toc.yml
-# -------------------------------------------------------
-# Mirror of SUMMARY.md — edit this when you add chapters.
-# Each entry: title, url (relative, no leading slash needed),
-# and optional children list for sub-sections.
-# -------------------------------------------------------
+- title: Walking Memories
+  url: /
 
-- title: "Walking Memories"
-  url: "/"
+- title: One Step Forward
+  url: one-step-forward
 
-- title: "One Step Forward"
-  url: "one-step-forward"
+- title: Artist Statement
+  url: artist-statement
 
-- title: "Artist Statement"
-  url: "artist-statement"
+- title: Reading Guide
+  url: reading-guide
 
-- title: "Reading Guide"
-  url: "reading-guide"
+- title: Introduction to the Photo Series
+  url: introduction-to-the-photo-series
 
-- title: "Introduction to the Photo Series"
-  url: "introduction-to-the-photo-series"
+- title: Beyond Pixels A Stroll Into Nature
+  url: beyond-pixels-a-stroll-into-nature
 
-- title: "Beyond Pixels: A Stroll Into Nature"
-  url: "beyond-pixels-a-stroll-into-nature"
-
-- title: "Mobile Studio and Digital Toolkit"
-  url: "mobile-studio-and-digital-toolkit"
+- title: Mobile Studio and Digital Toolkit
+  url: mobile-studio-and-digital-toolkit
   children:
-    - title: "Overview"
-      url: "mobile-studio-and-digital-toolkit/overview"
+    - title: On-the-go Photography
+      url: mobile-studio-and-digital-toolkit/on-the-go-photography
+    - title: Cameras and Photo Editing
+      url: mobile-studio-and-digital-toolkit/cameras-and-photo-editing
+    - title: Gaming Laptop
+      url: mobile-studio-and-digital-toolkit/gaming-laptop
 
-- title: "Chronicle of Milestones Navigation"
-  url: "chronicle-of-milestones-navigation"
+- title: Chronicle of Milestones Navigation
+  url: chronicle-of-milestones-navigation
   children:
-    - title: "Overview"
-      url: "chronicle-of-milestones-navigation/overview"
+    - title: Parallel Pathways
+      url: chronicle-of-milestones-navigation/parallel-pathways
+    - title: Internet Footprints
+      url: chronicle-of-milestones-navigation/internet-footprints
+    - title: Blockchain Records
+      url: chronicle-of-milestones-navigation/blockchain-records
 
-- title: "Evolution of a Trek on Platforms"
-  url: "evolution-of-a-trek-on-platforms"
+- title: Evolution of a Trek on Platforms
+  url: evolution-of-a-trek-on-platforms
   children:
-    - title: "Overview"
-      url: "evolution-of-a-trek-on-platforms/overview"
+    - title: Instagram
+      url: evolution-of-a-trek-on-platforms/instagram
+    - title: X Twitter
+      url: evolution-of-a-trek-on-platforms/x-twitter
+    - title: GitHub
+      url: evolution-of-a-trek-on-platforms/github
+    - title: Ethereum
+      url: evolution-of-a-trek-on-platforms/ethereum
+    - title: Web Gallery
+      url: evolution-of-a-trek-on-platforms/web-gallery
 
-- title: "Artist's Proofs and Ethos"
-  url: "artists-proofs-and-ethos"
+- title: Artists Proofs and Ethos
+  url: artists-proofs-and-ethos
   children:
-    - title: "Overview"
-      url: "artists-proofs-and-ethos/overview"
+    - title: Public Git Commits
+      url: artists-proofs-and-ethos/public-git-commits
+    - title: Open Source Software
+      url: artists-proofs-and-ethos/open-source-software
+    - title: Git Usage History
+      url: artists-proofs-and-ethos/git-usage-history
 
-- title: "Artist Profiling"
-  url: "artist-profiling"
+- title: Artist Profiling
+  url: artist-profiling
   children:
-    - title: "Overview"
-      url: "artist-profiling/overview"
+    - title: Project Inception
+      url: artist-profiling/project-inception
+    - title: Human Identity
+      url: artist-profiling/human-identity
+    - title: Training Ground
+      url: artist-profiling/training-ground
 
-- title: "Contact"
-  url: "contact"
+- title: Contact
+  url: contact
 
-- title: "Imprint"
-  url: "imprint"
+- title: Imprint
+  url: imprint
 
-- title: "Catalogue"
-  url: "catalogue"
+- title: Catalogue
+  url: catalogue
 
-- title: "Appendix"
-  url: "appendix"
+- title: Appendix
+  url: appendix
 
-- title: "Postscript"
-  url: "postscript"
+- title: Postscript
+  url: postscript
