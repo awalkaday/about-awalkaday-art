@@ -1,8 +1,7 @@
 ---
+title: "X (Twitter)"
 description: Since November 2021
 ---
-
-# X (Twitter)
 
 [X](https://x.com/) allows users to share short-form media works while fostering real-time engagement in public conversations. Over time, it became a habit to navigate the digital sea of information, and to flock around inspiring figures twittering about a myriad of topics.
 

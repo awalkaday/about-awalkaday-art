@@ -1,8 +1,7 @@
 ---
+title: "APPENDIX"
 description: "Three extra spatial stories about the impact of the Belgian-made pixels on Earth and Ethereum"
 ---
-
-# APPENDIX
 
 ### The Cover Photo's Secret
 

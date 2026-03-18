@@ -1,8 +1,7 @@
 ---
+title: "Instagram"
 description: Since July 2017
 ---
-
-# Instagram
 
 [Instagram](https://instagram.com/) enables users to showcase their creativity and to connect by affinity to imagery and visual storytelling.
 

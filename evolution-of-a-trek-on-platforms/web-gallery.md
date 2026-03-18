@@ -1,8 +1,7 @@
 ---
+title: "Web Gallery"
 description: Since May 2021
 ---
-
-# Web Gallery
 
 <figure><img src="https://ysqlt77jtllpkzuoskytbkqovjouubb34uuqmi6igo7wwzrx3toa.arweave.net/xKC5_-ma1vVmjpKxMKoOql1KBDvlKQYjyDO_a2Y33Nw" alt=""><figcaption><p><strong>awalkaday 42-2022</strong></p></figcaption></figure>
 
