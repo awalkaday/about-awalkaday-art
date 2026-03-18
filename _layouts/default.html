@@ -38,25 +38,44 @@
 
       <footer class="page-footer">
         <nav class="page-pagination" aria-label="Page navigation">
-          {% assign pages_list = site.pages | sort: 'url' %}
-          {% for pg in pages_list %}
-            {% if pg.url == page.url %}
-              {% unless forloop.first %}
-                {% assign prev_index = forloop.index0 | minus: 1 %}
-                {% assign prev_page = pages_list[prev_index] %}
-                <a href="{{ prev_page.url | relative_url }}" class="pagination-prev" rel="prev">
-                  ← {{ prev_page.title }}
-                </a>
+          {% assign flat_toc = "" | split: "" %}
+            {% for item in site.data.toc %}
+              {% assign flat_toc = flat_toc | push: item %}
+              {% if item.children %}
+                {% for child in item.children %}
+                  {% assign flat_toc = flat_toc | push: child %}
+                {% endfor %}
+              {% endif %}
+            {% endfor %}
+
+            {% assign current_slug = page.url | remove: '/' %}
+            {% assign prev_item = nil %}
+            {% assign next_item = nil %}
+            {% assign found = false %}
+
+            {% for item in flat_toc %}
+              {% if found and next_item == nil %}
+                {% assign next_item = item %}
+              {% endif %}
+              {% assign item_slug = item.url | remove: '/' %}
+              {% if item_slug == current_slug %}
+                {% assign found = true %}
+              {% endif %}
+              {% unless found %}
+                {% assign prev_item = item %}
               {% endunless %}
-              {% unless forloop.last %}
-                {% assign next_index = forloop.index0 | plus: 1 %}
-                {% assign next_page = pages_list[next_index] %}
-                <a href="{{ next_page.url | relative_url }}" class="pagination-next" rel="next">
-                  {{ next_page.title }} →
-                </a>
-              {% endunless %}
+            {% endfor %}
+
+            {% if prev_item %}
+              <a href="{{ prev_item.url | relative_url }}" class="pagination-prev" rel="prev">
+                ← {{ prev_item.title }}
+              </a>
             {% endif %}
-          {% endfor %}
+            {% if next_item %}
+              <a href="{{ next_item.url | relative_url }}" class="pagination-next" rel="next">
+                {{ next_item.title }} →
+              </a>
+            {% endif %}
         </nav>
       </footer>
     </main>
