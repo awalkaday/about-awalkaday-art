@@ -1,6 +1,7 @@
 ---
 title: "Mobile Studio and Digital Toolkit"
 description: "The wanderer's burden lightened by rudimentary equipment: Nokia as Air Force"
+permalink: /mobile-studio-and-digital-toolkit/
 ---
 
 
