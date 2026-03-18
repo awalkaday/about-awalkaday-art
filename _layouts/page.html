@@ -2,5 +2,9 @@
 layout: default
 ---
 <article class="page-content" aria-labelledby="page-title">
+    {% if page.description %}
+    <p class="page-description">{{ page.description }}</p>
+  {% endif %}
+  
   {{ content }}
 </article>

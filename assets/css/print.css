@@ -410,3 +410,9 @@ pre code { background: none; padding: 0; }
   display: block;
   margin-bottom: 1.5mm;
 }
+.page-description {
+  font-size: 10pt;
+  color: var(--color-muted);
+  font-style: italic;
+  margin-bottom: 6mm;
+}

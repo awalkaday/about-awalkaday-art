@@ -355,4 +355,11 @@ th { background: var(--color-border); font-family: var(--font-ui); }
   color: var(--color-text-muted);
   margin-bottom: 0.5rem;
 }
+.page-description {
+  font-size: 1.05rem;
+  color: var(--color-text-muted);
+  line-height: 1.6;
+  margin: -1rem 0 2rem;
+  font-style: italic;
+}
 
