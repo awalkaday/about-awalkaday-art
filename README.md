@@ -1,5 +1,5 @@
 ---
-wanderer and his Belgian pixels during an eight-year odyssey
+description: wanderer and his Belgian pixels during an eight-year odyssey
 ---
 
 # Walking Memories

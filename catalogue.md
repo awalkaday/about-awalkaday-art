@@ -1,5 +1,5 @@
 ---
-categories, and arranged by location, year and season
+description: categories, and arranged by location, year and season
 ---
 
 # CATALOGUE

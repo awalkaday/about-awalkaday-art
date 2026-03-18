@@ -1,5 +1,5 @@
 ---
-Earth and Ethereum
+description: Earth and Ethereum
 ---
 
 # APPENDIX
