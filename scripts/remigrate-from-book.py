@@ -59,7 +59,20 @@ def extract_title_from_body(body):
     cleaned = before + re.sub(r'^\n+', '\n', after)
     return title, cleaned
 
+def get_printlab_fields(f):
+    """Preserve printlab-specific frontmatter fields that book branch lacks."""
+    preserve = {}
+    if not f.exists():
+        return preserve
+    text = f.read_text(encoding='utf-8').replace('\r\n', '\n')
+    for field in ('permalink',):
+        m = re.search(rf'^{field}:\s*(.+)$', text, re.MULTILINE)
+        if m:
+            preserve[field] = m.group(1).strip()
+    return preserve
+
 def remigrate_file(f):
+    preserved = get_printlab_fields(f)
     result = subprocess.run(
         ['git', 'show', f'book:{f.as_posix()}'],
         capture_output=True, text=True, encoding='utf-8'
@@ -75,15 +88,17 @@ def remigrate_file(f):
     # Step 2: extract h1 title from body → move to frontmatter
     title, body = extract_title_from_body(body)
 
-    # Step 3: rebuild frontmatter with title first, then description
+    # Step 3: rebuild frontmatter with title first, then description, then preserved fields
     inner_fm = ''
     if title:
         inner_fm += f'title: "{title}"\n'
-    # Preserve description from fm_block if present
     desc_match = re.search(r'description: "(.+)"', fm_block)
     if desc_match:
         inner_fm += f'description: "{desc_match.group(1)}"\n'
-    fm_block = f'---\n{inner_fm}---\n'
+    for field, value in preserved.items():
+        if field not in inner_fm:
+            inner_fm += f'{field}: {value}\n'
+    fm_block = f'---\n{inner_fm}---\n' 
 
     # Step 4: convert embed blocks preserving captions
     def replace_embed(m):

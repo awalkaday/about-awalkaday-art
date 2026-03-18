@@ -1,0 +1,15 @@
+﻿# Add this function to remigrate-from-book.py
+# Insert it just before the remigrate_file function definition
+
+def get_printlab_fields(f):
+    """Read fields from current printlab file that book branch does not have.
+    These must be preserved across every remigration run."""
+    preserve = {}
+    if not f.exists():
+        return preserve
+    text = f.read_text(encoding='utf-8').replace('\r\n', '\n')
+    for field in ('permalink',):
+        m = re.search(rf'^{field}:\s*(.+)$', text, re.MULTILINE)
+        if m:
+            preserve[field] = m.group(1).strip()
+    return preserve

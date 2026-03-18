@@ -1,6 +1,7 @@
 ---
 title: "Chronicle of Milestones Navigation"
 description: "A timeline lining up bits and pieces of the scaffolding and the milestones marking progressive moves of data flows on a cyber terrain"
+permalink: /chronicle-of-milestones-navigation/
 ---
 
 
