@@ -1,6 +1,6 @@
 ---
+title: "Training Ground"
 ---
-# Training Ground
 
 Around the global debut of Instagram's cyber conquest, Chris decided to learn photography without knocking on any teacher's door. To kill time in Beijing's streets, he began clicking on the shutter button of a Canon camera that was bought with his student's savings, circa 2012.&#x20;
 

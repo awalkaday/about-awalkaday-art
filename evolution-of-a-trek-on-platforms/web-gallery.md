@@ -1,7 +1,7 @@
 ---
 title: "Web Gallery"
-description: Since May 2021
 ---
+
 
 <figure><img src="https://ysqlt77jtllpkzuoskytbkqovjouubb34uuqmi6igo7wwzrx3toa.arweave.net/xKC5_-ma1vVmjpKxMKoOql1KBDvlKQYjyDO_a2Y33Nw" alt=""><figcaption><p><strong>awalkaday 42-2022</strong></p></figcaption></figure>
 
@@ -52,7 +52,8 @@ A 3D exhibition hall, constructed since the springtime of 2023, welcomes all dig
   <a href="https://oncyber.io/awalkaday.art" rel="noopener" target="_blank">oncyber.io</a>
 </div>
 
-Enter the virtual exhibition space inside an environment that simulates a lifelike display of 24 photographs.
+Enter the virtual exhibition space inside an environment that simulates a lifelike display of 24 photographs</a>
+</div>
 
 
 

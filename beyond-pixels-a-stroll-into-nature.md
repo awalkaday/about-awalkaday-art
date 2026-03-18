@@ -1,6 +1,6 @@
 ---
+title: "Beyond Pixels: A Stroll Into Nature"
 ---
-# Beyond Pixels: A Stroll Into Nature
 
 What if we embarked from our individual spots in the wired world on a visual journey through which the solo mission goes beyond pixels to ignite a passion for the great outdoors?
 

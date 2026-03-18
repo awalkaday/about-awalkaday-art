@@ -1,7 +1,7 @@
 ---
 title: "Ethereum"
-description: Since August 2022
 ---
+
 
 For the final leg of a trek on digital platforms, [daqhris](https://app.ens.domains/daqhris.eth) publicly minted the set of 263 photographs, which he had miraculously recovered after another chaotic winter.
 
@@ -9,12 +9,13 @@ Blessed by the angelic support of a cryptocurrency wallet, that had been activat
 
 
 <div class="embed-link">
-  <a href="https://eth.blockscout.com/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b" rel="noopener" target="_blank"></a>
-</div>
+  <a href="https://eth.blockscout.com/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b" rel="noopener" target="_blank">
 <figure class="embed-media">
   <img src="https://arweave.net/YUAAmDamuHChXj-NssLZxiYHsesYNUlQjazoh3I-4ZQ" alt="" loading="lazy">
+</figure>
 
-<figcaption>awalkaday 78-2022</figcaption></figure>
+awalkaday 78-2022</a>
+</div>
 
 
 [Ethereum](https://ethereum.org/) is a decentralized blockchain platform that allows developers to deploy self-executing code in the form of smart contracts and applications. The artworks were wrapped in a smart contract, recorded in the public ledger as [**awalkaday.art**](https://eth.blockscout.com/name-services/domains/awalkaday.art), and self-published so that they can be preserved, collected and exchanged. The smart contract address is [`0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1`](https://etherscan.io/address/0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1) and its source code has a file on-display below. Its ASCII art depicts the `awalkaday` logo encoded in the contract itself.<br>

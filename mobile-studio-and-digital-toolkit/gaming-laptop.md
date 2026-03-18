@@ -1,6 +1,6 @@
 ---
+title: "Gaming Laptop"
 ---
-# Gaming Laptop
 
 A laptop computer, branded as [**Hasee God of War**](http://en.haseecomputer.com/About/about24.html) and acquired on the Asian continent, was very useful for coding sessions while building the online gallery on top of digital foundations.
 

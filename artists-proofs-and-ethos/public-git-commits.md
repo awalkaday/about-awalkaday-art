@@ -1,6 +1,6 @@
 ---
+title: "Public GIT Commits"
 ---
-# Public GIT Commits
 
 [`git`](https://github.com/git-guides#what-is-git) is a version control system that tracks changes to computer source code with speed and efficiency in a distributed way. Version control is a technique that helps maintain a record of all changes throughout the development process.
 

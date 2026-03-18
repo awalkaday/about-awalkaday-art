@@ -1,6 +1,6 @@
 ---
+title: "Table of contents"
 ---
-# Table of contents
 
 * [Walking Memories](README.md)
 * [One Step Forward](one-step-forward.md)

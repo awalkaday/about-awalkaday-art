@@ -1,6 +1,6 @@
 ---
+title: "Parallel Pathways"
 ---
-# Parallel Pathways
 
 
 <figure class="embed-media">

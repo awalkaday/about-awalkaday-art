@@ -1,6 +1,6 @@
 ---
+title: "Introduction to the Photo Series"
 ---
-# Introduction to the Photo Series
 
 Say hello to [awalkaday.art](https://awalkaday.art/), a collection of 263 photographs created by `daqhris` and published on the [Ethereum](https://ethereum.org/en/what-is-ethereum) blockchain since springtime of 2023.
 

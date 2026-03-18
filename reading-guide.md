@@ -1,7 +1,8 @@
 ---
 title: "READING GUIDE"
-description: "A list of 15 chapters and 17 subchapters showing on which numbered page each one appears"
+description: "A list of 15 chapters and 17 subchapters showing on which numbered page each"
 ---
+
 
 ## Contents
 
