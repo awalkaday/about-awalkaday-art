@@ -1,0 +1,62 @@
+# -------------------------------------------------------
+# book.awalkaday.art — Jekyll configuration
+# Experimental subdomain: printlab.awalkaday.art
+# Rename url + baseurl to match your chosen subdomain
+# -------------------------------------------------------
+
+title: "Walking Memories"
+description: "An open-source artist's book — daqhris / awalkaday"
+author: "Chris-Armel Iradukunda (daqhris)"
+lang: "en"
+
+url: "https://printlab.awalkaday.art"   # ← change to your chosen subdomain
+baseurl: ""                         # leave empty for apex subdomain
+
+# Build
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Permalinks — mirrors GitBook's flat URL style
+permalink: /:title/
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - SUMMARY.md        # processed separately into _data/toc.yml
+  - node_modules/
+  - .github/
+  - "*.sh"
+
+# Collections (optional — enable if you add image series as a collection)
+# collections:
+#   series:
+#     output: true
+#     permalink: /series/:name/
+
+# Defaults: every page uses the "page" layout unless overridden
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Navigation data file (see _data/toc.yml)
+# Mirrors your SUMMARY.md structure
+
+# Sass (if you split CSS into partials later)
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+# Plugins (all supported by GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap

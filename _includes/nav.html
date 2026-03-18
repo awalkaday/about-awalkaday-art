@@ -1,0 +1,25 @@
+{% comment %}
+  _includes/nav.html
+  Recursive navigation from _data/toc.yml.
+  Supports one level of children (mirrors SUMMARY.md depth).
+  Call with: {% include nav.html items=site.data.toc %}
+{% endcomment %}
+
+{% assign items = include.items %}
+<ul class="nav-list">
+  {% for item in items %}
+    {% assign item_url = item.url | prepend: '/' | append: '/' | replace: '//', '/' %}
+    {% assign current_url = page.url | replace: 'index.html', '' %}
+    {% assign is_active = false %}
+    {% if current_url == item_url %}{% assign is_active = true %}{% endif %}
+
+    <li class="nav-item{% if item.children %} has-children{% endif %}{% if is_active %} active{% endif %}">
+      <a href="{{ item.url | relative_url }}" class="nav-link{% if is_active %} nav-link--active{% endif %}">
+        {{ item.title }}
+      </a>
+      {% if item.children %}
+        {% include nav.html items=item.children %}
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>

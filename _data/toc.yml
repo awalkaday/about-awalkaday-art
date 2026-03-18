@@ -1,0 +1,69 @@
+# _data/toc.yml
+# -------------------------------------------------------
+# Mirror of SUMMARY.md — edit this when you add chapters.
+# Each entry: title, url (relative, no leading slash needed),
+# and optional children list for sub-sections.
+# -------------------------------------------------------
+
+- title: "Walking Memories"
+  url: "/"
+
+- title: "One Step Forward"
+  url: "one-step-forward"
+
+- title: "Artist Statement"
+  url: "artist-statement"
+
+- title: "Reading Guide"
+  url: "reading-guide"
+
+- title: "Introduction to the Photo Series"
+  url: "introduction-to-the-photo-series"
+
+- title: "Beyond Pixels: A Stroll Into Nature"
+  url: "beyond-pixels-a-stroll-into-nature"
+
+- title: "Mobile Studio and Digital Toolkit"
+  url: "mobile-studio-and-digital-toolkit"
+  children:
+    - title: "Overview"
+      url: "mobile-studio-and-digital-toolkit/overview"
+
+- title: "Chronicle of Milestones Navigation"
+  url: "chronicle-of-milestones-navigation"
+  children:
+    - title: "Overview"
+      url: "chronicle-of-milestones-navigation/overview"
+
+- title: "Evolution of a Trek on Platforms"
+  url: "evolution-of-a-trek-on-platforms"
+  children:
+    - title: "Overview"
+      url: "evolution-of-a-trek-on-platforms/overview"
+
+- title: "Artist's Proofs and Ethos"
+  url: "artists-proofs-and-ethos"
+  children:
+    - title: "Overview"
+      url: "artists-proofs-and-ethos/overview"
+
+- title: "Artist Profiling"
+  url: "artist-profiling"
+  children:
+    - title: "Overview"
+      url: "artist-profiling/overview"
+
+- title: "Contact"
+  url: "contact"
+
+- title: "Imprint"
+  url: "imprint"
+
+- title: "Catalogue"
+  url: "catalogue"
+
+- title: "Appendix"
+  url: "appendix"
+
+- title: "Postscript"
+  url: "postscript"

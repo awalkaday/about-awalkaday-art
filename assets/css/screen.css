@@ -1,0 +1,273 @@
+/* ================================================================
+   screen.css — web layout for lab.awalkaday.art
+   Loaded on all pages EXCEPT /impression/
+   Inspired by the Chiragan catalogue layout (Julie Blanc, 2020)
+   ================================================================ */
+
+/* ── Custom properties ────────────────────────────────────────── */
+:root {
+  --font-body:    "Georgia", "Times New Roman", serif;
+  --font-ui:      system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono:    "Courier New", monospace;
+
+  --color-bg:         #faf9f7;
+  --color-surface:    #ffffff;
+  --color-text:       #1a1a18;
+  --color-text-muted: #6b6b65;
+  --color-accent:     #2d5a8e;
+  --color-accent-hover: #1e3f65;
+  --color-border:     #e0ddd5;
+  --color-nav-active: #2d5a8e;
+  --color-nav-active-bg: #eef3fa;
+
+  --sidebar-width: 260px;
+  --content-max:   720px;
+  --header-h:      52px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg:         #18181a;
+    --color-surface:    #222224;
+    --color-text:       #e8e6e1;
+    --color-text-muted: #8c8b85;
+    --color-accent:     #7aaddf;
+    --color-accent-hover: #a0c4eb;
+    --color-border:     #333330;
+    --color-nav-active: #7aaddf;
+    --color-nav-active-bg: #1e2b38;
+  }
+}
+
+/* ── Reset ────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { font-size: 16px; scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font-body);
+  background: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Site header ──────────────────────────────────────────────── */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  height: var(--header-h);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1.5rem;
+  background: var(--color-surface);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.site-title {
+  font-family: var(--font-ui);
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  color: var(--color-text);
+  text-decoration: none;
+}
+.site-title:hover { color: var(--color-accent); }
+
+.nav-print-link {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  text-decoration: none;
+  border: 1px solid var(--color-border);
+  padding: 0.25rem 0.6rem;
+  border-radius: 4px;
+  transition: color 0.15s, border-color 0.15s;
+}
+.nav-print-link:hover {
+  color: var(--color-accent);
+  border-color: var(--color-accent);
+}
+
+/* ── Body layout ──────────────────────────────────────────────── */
+.layout-body {
+  display: flex;
+  min-height: calc(100vh - var(--header-h));
+}
+
+/* ── Sidebar ──────────────────────────────────────────────────── */
+.sidebar {
+  width: var(--sidebar-width);
+  flex-shrink: 0;
+  position: sticky;
+  top: var(--header-h);
+  height: calc(100vh - var(--header-h));
+  overflow-y: auto;
+  padding: 1.5rem 0;
+  border-right: 1px solid var(--color-border);
+  background: var(--color-surface);
+}
+
+.nav-list {
+  list-style: none;
+}
+.nav-list .nav-list {
+  margin-left: 0.75rem;
+}
+
+.nav-item { }
+
+.nav-link {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: 0.82rem;
+  color: var(--color-text-muted);
+  text-decoration: none;
+  padding: 0.35rem 1.25rem;
+  border-left: 2px solid transparent;
+  transition: color 0.1s, background 0.1s, border-color 0.1s;
+}
+.nav-link:hover {
+  color: var(--color-text);
+  background: var(--color-nav-active-bg);
+}
+.nav-link--active {
+  color: var(--color-nav-active);
+  border-left-color: var(--color-nav-active);
+  background: var(--color-nav-active-bg);
+  font-weight: 600;
+}
+
+/* ── Main content ─────────────────────────────────────────────── */
+.content {
+  flex: 1;
+  min-width: 0;
+  padding: 3rem 2rem 4rem;
+}
+
+.page-content {
+  max-width: var(--content-max);
+  margin: 0 auto;
+}
+
+/* ── Typography ───────────────────────────────────────────────── */
+.page-title {
+  font-family: var(--font-ui);
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 2rem;
+  color: var(--color-text);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-ui);
+  font-weight: 600;
+  line-height: 1.3;
+  margin: 2rem 0 0.75rem;
+  color: var(--color-text);
+}
+h1 { font-size: 1.75rem; }
+h2 { font-size: 1.35rem; border-bottom: 1px solid var(--color-border); padding-bottom: 0.4rem; }
+h3 { font-size: 1.1rem; }
+
+p { margin-bottom: 1.25rem; }
+
+a { color: var(--color-accent); text-decoration: underline; text-decoration-thickness: 1px; }
+a:hover { color: var(--color-accent-hover); }
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem 0;
+  border-radius: 4px;
+}
+
+blockquote {
+  margin: 1.5rem 0;
+  padding: 0.75rem 1.25rem;
+  border-left: 3px solid var(--color-accent);
+  color: var(--color-text-muted);
+  font-style: italic;
+}
+
+code {
+  font-family: var(--font-mono);
+  font-size: 0.85em;
+  background: var(--color-border);
+  padding: 0.1em 0.35em;
+  border-radius: 3px;
+}
+pre {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+}
+pre code { background: none; padding: 0; }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+}
+th, td {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--color-border);
+  text-align: left;
+}
+th { background: var(--color-border); font-family: var(--font-ui); }
+
+/* ── Page footer (pagination) ─────────────────────────────────── */
+.page-footer {
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-border);
+}
+.page-pagination {
+  display: flex;
+  justify-content: space-between;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+}
+.pagination-prev, .pagination-next {
+  color: var(--color-accent);
+  text-decoration: none;
+  padding: 0.4rem 0.75rem;
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  transition: border-color 0.15s, background 0.15s;
+}
+.pagination-prev:hover, .pagination-next:hover {
+  background: var(--color-nav-active-bg);
+  border-color: var(--color-accent);
+}
+
+/* ── Site footer ──────────────────────────────────────────────── */
+.site-footer {
+  padding: 1.5rem 2rem;
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  color: var(--color-text-muted);
+  border-top: 1px solid var(--color-border);
+  text-align: center;
+}
+.site-footer a { color: var(--color-text-muted); }
+.site-footer a:hover { color: var(--color-accent); }
+
+/* ── Responsive ───────────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .sidebar { display: none; }
+  .content { padding: 1.5rem 1rem 3rem; }
+  .page-title { font-size: 1.5rem; }
+}
+
+/* ── Do not render when printing — print.css handles that ─────── */
+@media print {
+  .site-header, .sidebar, .page-footer, .site-footer { display: none; }
+}

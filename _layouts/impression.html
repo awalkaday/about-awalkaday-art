@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }} — Print / PDF</title>
+  <meta name="robots" content="noindex">
+
+  <!--
+    PRINT LAYOUT — Paged.js polyfill
+    This page is the single-source print view.
+    Open in Chrome, then File → Print → Save as PDF.
+    Paged.js intercepts the browser's CSS paged-media rules and renders
+    a proper paginated layout before you print.
+  -->
+
+  <!-- Print stylesheet (no screen styles here) -->
+  <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}">
+
+  <!--
+    Paged.js — vendored locally for full offline/State B independence.
+    Source: assets/js/paged.polyfill.js (committed to git).
+    To update: change PAGEDJS_VERSION in scripts/vendor-pagedjs.sh and re-run it.
+    Paged.js auto-runs when the DOM is ready.
+  -->
+  <script src="{{ '/assets/js/paged.polyfill.js' | relative_url }}"></script>
+</head>
+<body class="layout-impression">
+
+  <!--
+    The entire book is concatenated here in toc order.
+    Jekyll includes each page's content via the impression page (see impression/index.md).
+    Paged.js will paginate this single HTML stream.
+  -->
+
+  {{ content }}
+
+</body>
+</html>

@@ -1,0 +1,347 @@
+/* ================================================================
+   print.css — paginated layout for /impression/ (PDF output)
+   Loaded ONLY on the impression page alongside Paged.js.
+
+   Paged.js implements CSS Paged Media Module Level 3 and
+   CSS Generated Content for Paged Media as browser polyfills.
+   Spec reference: https://www.w3.org/TR/css-page-3/
+
+   GENERATING THE PDF:
+     Open /impression/ in Chromium → File → Print → Save as PDF
+     Or headlessly: npx @pagedjs/cli impression/index.html -o book.pdf
+
+   PAGE SIZE: A5 portrait (148mm × 210mm) — close to a small art book.
+   Change @page size to A4, Letter, or custom dimensions as needed.
+   ================================================================ */
+
+
+/* ── Page setup ───────────────────────────────────────────────── */
+:root {
+  --font-body:   "Georgia", "Times New Roman", serif;
+  --font-ui:     system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono:   "Courier New", monospace;
+  --color-text:  #1a1a18;
+  --color-muted: #5a5a55;
+  --color-rule:  #c8c5bd;
+}
+
+@page {
+  size: A5 portrait;
+  margin: 20mm 18mm 25mm 22mm;  /* top right bottom left — generous gutter */
+
+  /* Running header: book title on left pages, chapter title on right */
+  @top-left {
+    content: string(book-title);
+    font-family: var(--font-ui);
+    font-size: 8pt;
+    color: var(--color-muted);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  @top-right {
+    content: string(chapter-title);
+    font-family: var(--font-ui);
+    font-size: 8pt;
+    color: var(--color-muted);
+  }
+
+  /* Page number centered at the bottom */
+  @bottom-center {
+    content: counter(page);
+    font-family: var(--font-ui);
+    font-size: 8pt;
+    color: var(--color-muted);
+  }
+}
+
+/* Blank verso pages (even pages) — no running header */
+@page :left {
+  margin-left: 22mm;
+  margin-right: 18mm;
+}
+/* Recto pages (odd pages) */
+@page :right {
+  margin-left: 18mm;
+  margin-right: 22mm;
+}
+
+/* Cover page: no header/footer, no page number */
+@page cover {
+  margin: 0;
+  @top-left   { content: none; }
+  @top-right  { content: none; }
+  @bottom-center { content: none; }
+}
+
+/* Chapter opener pages: no running header, page number still shows */
+@page chapter-start {
+  @top-left  { content: none; }
+  @top-right { content: none; }
+}
+
+
+/* ── Reset ────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  font-family: var(--font-body);
+  font-size: 10pt;
+  line-height: 1.6;
+  color: var(--color-text);
+  background: white;
+}
+
+
+/* ── String sets for running headers ──────────────────────────── */
+
+/* The book title is set once on the cover */
+.book-title {
+  string-set: book-title content();
+}
+
+/* Each chapter heading updates the running chapter title */
+.chapter h1, .chapter h2:first-of-type {
+  string-set: chapter-title content();
+}
+
+
+/* ── Cover page ───────────────────────────────────────────────── */
+.book-cover {
+  page: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;   /* Paged.js fills the cover page */
+  padding: 25mm 22mm;
+  page-break-after: always;
+}
+
+.book-title {
+  font-family: var(--font-ui);
+  font-size: 28pt;
+  font-weight: 700;
+  line-height: 1.1;
+  margin-bottom: 12mm;
+}
+
+.book-subtitle {
+  font-size: 11pt;
+  color: var(--color-muted);
+  line-height: 1.5;
+  margin-bottom: 20mm;
+  max-width: 90mm;
+}
+
+.book-author {
+  font-family: var(--font-ui);
+  font-size: 10pt;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  margin-bottom: 3mm;
+}
+
+.book-meta {
+  font-size: 8pt;
+  color: var(--color-muted);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+
+/* ── Chapters ─────────────────────────────────────────────────── */
+.chapter {
+  page-break-before: always;  /* each chapter starts on a new page */
+  page: chapter-start;        /* first page of chapter: no running header */
+}
+
+/* After the first page of a chapter, return to default @page rules */
+.chapter > * + * {
+  page: auto;
+}
+
+
+/* ── Typography ───────────────────────────────────────────────── */
+h1 {
+  font-family: var(--font-ui);
+  font-size: 20pt;
+  font-weight: 700;
+  line-height: 1.15;
+  margin-top: 0;
+  margin-bottom: 8mm;
+  page-break-after: avoid;
+}
+
+h2 {
+  font-family: var(--font-ui);
+  font-size: 13pt;
+  font-weight: 600;
+  margin-top: 10mm;
+  margin-bottom: 4mm;
+  page-break-after: avoid;
+  border-bottom: 0.25pt solid var(--color-rule);
+  padding-bottom: 1.5mm;
+}
+
+h3 {
+  font-family: var(--font-ui);
+  font-size: 10.5pt;
+  font-weight: 600;
+  margin-top: 7mm;
+  margin-bottom: 2mm;
+  page-break-after: avoid;
+}
+
+h4, h5, h6 {
+  font-family: var(--font-ui);
+  font-size: 9.5pt;
+  font-weight: 600;
+  margin-top: 5mm;
+  margin-bottom: 1.5mm;
+  page-break-after: avoid;
+}
+
+p {
+  margin-bottom: 4mm;
+  text-align: justify;
+  hyphens: auto;
+  orphans: 3;   /* minimum lines at bottom of page */
+  widows: 3;    /* minimum lines at top of page */
+}
+
+/* First paragraph after heading: no indent */
+h1 + p, h2 + p, h3 + p { text-indent: 0; }
+
+/* Subsequent paragraphs: classic book indent instead of margin */
+p + p {
+  text-indent: 5mm;
+  margin-top: 0;
+}
+
+a {
+  color: var(--color-text);
+  text-decoration: none;
+}
+/* Show URLs in footnote-style after link text */
+a[href^="http"]::after {
+  content: " <" attr(href) ">";
+  font-size: 7.5pt;
+  color: var(--color-muted);
+  font-family: var(--font-mono);
+  word-break: break-all;
+}
+
+blockquote {
+  margin: 5mm 8mm;
+  padding: 0 5mm;
+  border-left: 1.5pt solid var(--color-rule);
+  color: var(--color-muted);
+  font-size: 9.5pt;
+}
+
+ul, ol {
+  margin: 3mm 0 4mm 6mm;
+  padding: 0;
+}
+li { margin-bottom: 1.5mm; }
+
+/* Avoid lists breaking mid-item across pages */
+li { page-break-inside: avoid; }
+
+
+/* ── Images ───────────────────────────────────────────────────── */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 5mm auto;
+  page-break-inside: avoid;
+}
+
+figure {
+  page-break-inside: avoid;
+  margin: 5mm 0;
+}
+figcaption {
+  font-size: 8pt;
+  color: var(--color-muted);
+  text-align: center;
+  margin-top: 2mm;
+  font-style: italic;
+}
+
+
+/* ── Tables ───────────────────────────────────────────────────── */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 9pt;
+  margin: 4mm 0;
+  page-break-inside: avoid;
+}
+th, td {
+  border: 0.5pt solid var(--color-rule);
+  padding: 1.5mm 2.5mm;
+  text-align: left;
+}
+th {
+  font-family: var(--font-ui);
+  font-weight: 600;
+  background: #f0ede7;
+}
+
+
+/* ── Code ─────────────────────────────────────────────────────── */
+code {
+  font-family: var(--font-mono);
+  font-size: 8pt;
+  background: #f5f4f0;
+  padding: 0.5mm 1mm;
+  border-radius: 1pt;
+}
+pre {
+  font-family: var(--font-mono);
+  font-size: 7.5pt;
+  background: #f5f4f0;
+  border: 0.5pt solid var(--color-rule);
+  padding: 3mm;
+  overflow-wrap: break-word;
+  white-space: pre-wrap;
+  page-break-inside: avoid;
+  margin: 4mm 0;
+}
+pre code { background: none; padding: 0; }
+
+
+/* ── Footnotes (Paged.js built-in) ───────────────────────────── */
+/*
+  To create a footnote in Markdown:
+    Some text.<span class="footnote">This becomes a footnote.</span>
+
+  Paged.js moves .footnote spans to the page footer automatically.
+*/
+.footnote {
+  float: footnote;
+  font-size: 8pt;
+  color: var(--color-muted);
+  counter-increment: footnote;
+}
+.footnote::footnote-call {
+  vertical-align: super;
+  font-size: 7pt;
+  content: counter(footnote);
+}
+.footnote::footnote-marker {
+  content: counter(footnote) ". ";
+}
+::footnote-area {
+  border-top: 0.5pt solid var(--color-rule);
+  padding-top: 2mm;
+  margin-top: 3mm;
+}
+
+
+/* ── Hide UI chrome in print ──────────────────────────────────── */
+.site-header, .sidebar, .page-footer,
+.site-footer, .nav-print-link,
+.pagedjs_page_content > nav { display: none !important; }

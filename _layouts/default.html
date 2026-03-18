@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+
+  <!-- Canonical & SEO -->
+  {% seo %}
+
+  <!-- Screen stylesheet (no Paged.js here) -->
+  <link rel="stylesheet" href="{{ '/assets/css/screen.css' | relative_url }}">
+
+  <!-- Preload: hint the browser about the print stylesheet, but do NOT load it on screen pages -->
+  <link rel="prefetch" href="{{ '/assets/css/print.css' | relative_url }}">
+</head>
+<body class="layout-default">
+
+  <header class="site-header" role="banner">
+    <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="{{ '/impression/' | relative_url }}" class="nav-print-link" title="Open print / PDF view">
+        &#x1F5B6; PDF version
+      </a>
+    </nav>
+  </header>
+
+  <div class="layout-body">
+    <aside class="sidebar" aria-label="Book navigation">
+      <nav aria-label="Chapters">
+        {% include nav.html items=site.data.toc %}
+      </nav>
+    </aside>
+
+    <main class="content" id="main-content" role="main">
+      {{ content }}
+
+      <footer class="page-footer">
+        <nav class="page-pagination" aria-label="Page navigation">
+          {% assign pages_list = site.pages | sort: 'url' %}
+          {% for pg in pages_list %}
+            {% if pg.url == page.url %}
+              {% unless forloop.first %}
+                {% assign prev_index = forloop.index0 | minus: 1 %}
+                {% assign prev_page = pages_list[prev_index] %}
+                <a href="{{ prev_page.url | relative_url }}" class="pagination-prev" rel="prev">
+                  ← {{ prev_page.title }}
+                </a>
+              {% endunless %}
+              {% unless forloop.last %}
+                {% assign next_index = forloop.index0 | plus: 1 %}
+                {% assign next_page = pages_list[next_index] %}
+                <a href="{{ next_page.url | relative_url }}" class="pagination-next" rel="next">
+                  {{ next_page.title }} →
+                </a>
+              {% endunless %}
+            {% endif %}
+          {% endfor %}
+        </nav>
+      </footer>
+    </main>
+  </div>
+
+  <footer class="site-footer" role="contentinfo">
+    <p>© {{ site.time | date: '%Y' }} {{ site.author }} ·
+       <a href="https://github.com/awalkaday/about-awalkaday-art/tree/book" rel="noopener">Source on GitHub</a> ·
+       <a href="{{ '/impression/' | relative_url }}">Print / PDF</a>
+    </p>
+  </footer>
+
+</body>
+</html>
