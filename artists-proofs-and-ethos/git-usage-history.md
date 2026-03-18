@@ -8,9 +8,12 @@ The oldest `git` commits pushed up and signed by `daqhris` date back to [Februar
 
 Much earlier fragments of his public code contributions were likely archived inside the GitHub-sponsored [Arctic Code Vault](https://arcticworldarchive.org/collection/arctic-code-vault/) in [February 2020](https://archiveprogram.github.com/arctic-vault/), among notable human-crafted software artifacts, for over a thousand years.
 
-{% embed url="https://arweave.net/0Hh0hrWgJk3je9KmLqkRwIrg7UcE-Kazytm2HdUjEGc" %}
-**awalkaday 356-2017**
-{% endembed %}
+
+<figure class="embed-media">
+  <img src="https://arweave.net/0Hh0hrWgJk3je9KmLqkRwIrg7UcE-Kazytm2HdUjEGc" alt="" loading="lazy">
+  <figcaption><a href="https://arweave.net/0Hh0hrWgJk3je9KmLqkRwIrg7UcE-Kazytm2HdUjEGc" rel="noopener">https://arweave.net/0Hh0hrWgJk3je9KmLqkRwIrg7UcE-Kazytm...</a></figcaption>
+</figure>
+
 
 Looking way back, an initial foray into a central hub of GIT repositories in May 2011, at the [age of nineteen](https://github.com/daqhris?tab=overview\&from=2011-05-01\&to=2011-06-01) in Bujumbura, Burundi, seems comparable to planting a seed of innovation in the fertile soil of a burgeoning digital platform.&#x20;
 

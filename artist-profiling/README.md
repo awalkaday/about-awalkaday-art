@@ -21,21 +21,18 @@ layout:
 
 # Artist Profiling
 
-{% content-ref url="human-identity.md" %}
-[human-identity.md](human-identity.md)
-{% endcontent-ref %}
+[[human-identity.md](human-identity.md)](human-identity.md)
 
-{% content-ref url="training-ground.md" %}
-[training-ground.md](training-ground.md)
-{% endcontent-ref %}
+[[training-ground.md](training-ground.md)](training-ground.md)
 
-{% content-ref url="project-inception.md" %}
-[project-inception.md](project-inception.md)
-{% endcontent-ref %}
+[[project-inception.md](project-inception.md)](project-inception.md)
 
-{% embed url="https://dibgu6jbyfev7qwgpqg6sqj47phfzuul5wajfucqqfkvxwl3in4a.arweave.net/GgJqeSHBSV_CxnwN6UE8-85c0ovtgJLQUIFVW9l7Q3g" %}
-**awalkaday 8-2018**
-{% endembed %}
+
+<figure class="embed-media">
+  <img src="https://dibgu6jbyfev7qwgpqg6sqj47phfzuul5wajfucqqfkvxwl3in4a.arweave.net/GgJqeSHBSV_CxnwN6UE8-85c0ovtgJLQUIFVW9l7Q3g" alt="" loading="lazy">
+  <figcaption><a href="https://dibgu6jbyfev7qwgpqg6sqj47phfzuul5wajfucqqfkvxwl3in4a.arweave.net/GgJqeSHBSV_CxnwN6UE8-85c0ovtgJLQUIFVW9l7Q3g" rel="noopener">https://dibgu6jbyfev7qwgpqg6sqj47phfzuul5wajfucqqfkvxwl...</a></figcaption>
+</figure>
+
 
 <p align="center"></p>
 

@@ -6,9 +6,12 @@ Accompanied by his mother, who flew back shortly after, he landed in Brussels in
 
 His aims and dreams in Europe — beyond pursuing university education again — included seeking safe haven away from persecution by his motherland's diplomats and their Chinese counterparts while studying abroad two seasons earlier.
 
-{% embed url="https://arweave.net/PzcrZqCeMDwty56zrlbyngXjTYxpPCEKKo6MevHVf-Q" %}
-**awalkaday 185-2022**
-{% endembed %}
+
+<figure class="embed-media">
+  <img src="https://arweave.net/PzcrZqCeMDwty56zrlbyngXjTYxpPCEKKo6MevHVf-Q" alt="" loading="lazy">
+  <figcaption><a href="https://arweave.net/PzcrZqCeMDwty56zrlbyngXjTYxpPCEKKo6MevHVf-Q" rel="noopener">https://arweave.net/PzcrZqCeMDwty56zrlbyngXjTYxpPCEKKo6...</a></figcaption>
+</figure>
+
 
 ### Beijing-Bujumbura Nightmares
 
@@ -36,9 +39,11 @@ On the torturous path to confining the multilingual man for five, then stretched
 
 <figure><img src="https://sd55vpc7xirkafqt6l42hrsiafn5kqkvdbliclrpomelxemu5opa.arweave.net/kPvavF-6IqAWE_L5o8ZIAVvVQVUYVoEuL3MIu5GU654" alt="awalkaday 59-2022"><figcaption><p><strong>awalkaday 59-2022</strong></p></figcaption></figure>
 
-{% hint style="info" icon="image-stack" %}
+<div class="hint hint-info">
+
 <p align="center"><em><code>awalkaday 59-2022</code></em> → <em>From inside a tunnel, a pedestrian underpass in Namur, everything points toward the opening at the far end. One figure near the light, barely visible. The list above has just ended. The geometry here has only one direction.</em></p>
-{% endhint %}
+
+</div>
 
 ### Humanitarian Camp 'Belgrade'
 
@@ -46,9 +51,12 @@ Once upon the summer of 2017, Chris had been residing in the Red Cross camp of B
 
 To combat prolonged boredom and physical inactivity, an idea sparkled in his mind, urging him to combine all of his skills — black-and-white photography, visual design, and software coding — to launch an artistic project.
 
-{% embed url="https://aqdko2gvdb5swcvmv5fefjh2nvqay2jo25zaraa4e7gzvtmhqvra.arweave.net/BAanaNUYeysKrK9KQqT6bWAMaS7XcgiAHCfNms2HhWI" %}
-**awalkaday 344-2017**
-{% endembed %}
+
+<figure class="embed-media">
+  <img src="https://aqdko2gvdb5swcvmv5fefjh2nvqay2jo25zaraa4e7gzvtmhqvra.arweave.net/BAanaNUYeysKrK9KQqT6bWAMaS7XcgiAHCfNms2HhWI" alt="" loading="lazy">
+  <figcaption><a href="https://aqdko2gvdb5swcvmv5fefjh2nvqay2jo25zaraa4e7gzvtmhqvra.arweave.net/BAanaNUYeysKrK9KQqT6bWAMaS7XcgiAHCfNms2HhWI" rel="noopener">https://aqdko2gvdb5swcvmv5fefjh2nvqay2jo25zaraa4e7gzvtm...</a></figcaption>
+</figure>
+
 
 Using rudimentary photographic equipment and online public platforms, coupled with an open-source digital toolbox, he has visually documented a years-long journey that artfully depicts outdoor walks in exile, and logs publicly footprints around a non-native land.
 
@@ -66,9 +74,12 @@ After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/
 
 Three years later, during the season of blooming lush gardens in 2020, the photographic odyssey relaunched. Funded by earnings from a painting job, the lonely photo walks were ran from an attic room in Bastogne — near the Belgian-Luxembourg border — until the season of dry skin shivering in 2022.&#x20;
 
-{% embed url="https://arweave.net/HZUJofLsOWTGYRYAOMzbtKN7Ad0jMmtDlg4HDgT5Vp8" %}
-**awalkaday 40-2022**
-{% endembed %}
+
+<figure class="embed-media">
+  <img src="https://arweave.net/HZUJofLsOWTGYRYAOMzbtKN7Ad0jMmtDlg4HDgT5Vp8" alt="" loading="lazy">
+  <figcaption><a href="https://arweave.net/HZUJofLsOWTGYRYAOMzbtKN7Ad0jMmtDlg4HDgT5Vp8" rel="noopener">https://arweave.net/HZUJofLsOWTGYRYAOMzbtKN7Ad0jMmtDlg4...</a></figcaption>
+</figure>
+
 
 ### The Long Endurance
 
@@ -76,9 +87,12 @@ Since day one, the photographer lacked rights to knock on doors of medical care 
 
 He faced recurring unemployment despite numerous skills. He walked — burning organic calories instead of emitting gas pollutants — and killed two birds with one stone: environmental virtue and economic necessity. In stark contrast with modern European cultural conventions, `awalkaday.art` stuck around neither as a state-sponsored artistic endeavor, nor as a brick-and-mortar art gallery.
 
-{% embed url="https://arweave.net/WB8akAD3XwwJ-5QCWgH9k-4eaDNRctqmTzBH4hwLwyo" %}
-**awalkaday 184-2021**
-{% endembed %}
+
+<figure class="embed-media">
+  <img src="https://arweave.net/WB8akAD3XwwJ-5QCWgH9k-4eaDNRctqmTzBH4hwLwyo" alt="" loading="lazy">
+  <figcaption><a href="https://arweave.net/WB8akAD3XwwJ-5QCWgH9k-4eaDNRctqmTzBH4hwLwyo" rel="noopener">https://arweave.net/WB8akAD3XwwJ-5QCWgH9k-4eaDNRctqmTzB...</a></figcaption>
+</figure>
+
 
 One question strolled through his mind, circling the nervous pathways during every walk: “_What if these walks, these photographs, these commits... what if none of it yields positive results as by-products? What if the State still says no?_”&#x20;
 

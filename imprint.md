@@ -18,23 +18,25 @@ _Until the activation of its author's human ID._
 
 <p align="right">Online publication of the first draft: <a href="https://github.com/awalkaday/about-awalkaday-art/compare/about...book">July <strong>2024</strong></a><br>Last modification of book content: <a href="https://github.com/awalkaday/about-awalkaday-art/commits/book/">March <strong>2026</strong></a><br>Open-sourced by <code>gitbook-bot</code> on behalf of <code>daqhris</code> </p>
 
-{% hint style="info" icon="scale-balanced" %}
+<div class="hint hint-info">
+
 There is no print, e-book, PDF or tokenized version available yet. No part of this online book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any other information storage and retrieval system, for commercial purposes, without the prior permission and consent in writing of the publisher.
 
 If you remix, transform or build upon the material, you may not distribute the modified material. You must give appropriate credit to the author, provide copies of the CC BY-NC-ND 4.0 and EUPL-1.2 licenses, and indicate whether any modifications have been made. You are free to share, copy, download and redistribute the material in its original medium or format.
 
 Its legal rights shall be governed by [Belgian law](https://www.wipo.int/wipolex/en/text/125254), as the licensor has no affiliation with another Member State of the European Union. The 'right of the soil' _(_&#x69;n latin, _jus soli)_ applies to this book, without prejudice to the ethical virtues of [#public-licensing](imprint.md#public-licensing "mention"). The moral right of the author has been asserted.
-{% endhint %}
+
+</div>
 
 ### Online Shop
 
 If this book has moved you, the photographs that sparked it are available as collectible tokens. Each token preserves a visual proof that someone walked, observed, and documented a human life that did not vanish in our collective memory. Your collection supports the artist and keeps his artworks alive.
 
-{% embed url="https://collect.awalkaday.art" %}
 
-{% embed url="https://xjp7hza4gi5jdcag2jq3jmtdysje24arqrq2mxdxxqenaxadq7yq.arweave.net/ul_z5BwyOpGIBtJhtLJjxJJNcBGEYaZcd7wI0FwDh_E" fullWidth="false" %}
-**awalkaday 91-2022**
-{% endembed %}
+<div class="embed-link">
+  <a href="https://collect.awalkaday.art" rel="noopener" target="_blank">collect.awalkaday.art</a>
+</div>
+
 
 ### Acknowledgments
 

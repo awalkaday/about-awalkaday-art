@@ -20,21 +20,18 @@ layout:
 
 # Artist's Proofs and Ethos
 
-{% content-ref url="public-git-commits.md" %}
-[public-git-commits.md](public-git-commits.md)
-{% endcontent-ref %}
+[[public-git-commits.md](public-git-commits.md)](public-git-commits.md)
 
-{% content-ref url="git-usage-history.md" %}
-[git-usage-history.md](git-usage-history.md)
-{% endcontent-ref %}
+[[git-usage-history.md](git-usage-history.md)](git-usage-history.md)
 
-{% content-ref url="open-source-software.md" %}
-[open-source-software.md](open-source-software.md)
-{% endcontent-ref %}
+[[open-source-software.md](open-source-software.md)](open-source-software.md)
 
-{% embed url="https://zuz66mvkvsc3w6pc6jg5qlmrjgbyctr4ndyi2elmgo3fuke5nnkq.arweave.net/zTPvMqqshbt54vJN2C2RSYOBTjxo8I0RbDO2Wiida1U" %}
-**awalkaday 178-2021**
-{% endembed %}
+
+<figure class="embed-media">
+  <img src="https://zuz66mvkvsc3w6pc6jg5qlmrjgbyctr4ndyi2elmgo3fuke5nnkq.arweave.net/zTPvMqqshbt54vJN2C2RSYOBTjxo8I0RbDO2Wiida1U" alt="" loading="lazy">
+  <figcaption><a href="https://zuz66mvkvsc3w6pc6jg5qlmrjgbyctr4ndyi2elmgo3fuke5nnkq.arweave.net/zTPvMqqshbt54vJN2C2RSYOBTjxo8I0RbDO2Wiida1U" rel="noopener">https://zuz66mvkvsc3w6pc6jg5qlmrjgbyctr4ndyi2elmgo3fuke...</a></figcaption>
+</figure>
+
 
 <p align="center"></p>
 

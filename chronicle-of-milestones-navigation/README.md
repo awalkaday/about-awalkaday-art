@@ -20,21 +20,18 @@ layout:
 
 # Chronicle of Milestones Navigation
 
-{% content-ref url="parallel-pathways.md" %}
-[parallel-pathways.md](parallel-pathways.md)
-{% endcontent-ref %}
+[[parallel-pathways.md](parallel-pathways.md)](parallel-pathways.md)
 
-{% content-ref url="internet-footprints.md" %}
-[internet-footprints.md](internet-footprints.md)
-{% endcontent-ref %}
+[[internet-footprints.md](internet-footprints.md)](internet-footprints.md)
 
-{% content-ref url="blockchain-records.md" %}
-[blockchain-records.md](blockchain-records.md)
-{% endcontent-ref %}
+[[blockchain-records.md](blockchain-records.md)](blockchain-records.md)
 
-{% embed url="https://cc6eptmtmherdp7jt46ananrjsvjbscvbsxwhev3t3hoqgw37nqq.arweave.net/ELxHzZNhyRG_6Z88BoGxTKqQyFUMr2OSu57O6Brb-2E" %}
-**awalkaday 198-2021**
-{% endembed %}
+
+<figure class="embed-media">
+  <img src="https://cc6eptmtmherdp7jt46ananrjsvjbscvbsxwhev3t3hoqgw37nqq.arweave.net/ELxHzZNhyRG_6Z88BoGxTKqQyFUMr2OSu57O6Brb-2E" alt="" loading="lazy">
+  <figcaption><a href="https://cc6eptmtmherdp7jt46ananrjsvjbscvbsxwhev3t3hoqgw37nqq.arweave.net/ELxHzZNhyRG_6Z88BoGxTKqQyFUMr2OSu57O6Brb-2E" rel="noopener">https://cc6eptmtmherdp7jt46ananrjsvjbscvbsxwhev3t3hoqgw...</a></figcaption>
+</figure>
+
 
 <p align="center"></p>
 

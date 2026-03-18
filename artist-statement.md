@@ -8,17 +8,26 @@ description: Disclosures and essential information written in the first person.
 
 This project was born in my spare time, developed independently in the open, and evolved at the pace of a [turtle](https://en.m.wikipedia.org/wiki/Cultural_depictions_of_turtles). Countless public drafts and serene long walks have shaped it into its present state, akin to a therapeutic exercise.
 
-{% embed url="https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-gdEnlGmI" %}
-**awalkaday 219-2022**
-{% endembed %}
+
+<figure class="embed-media">
+  <img src="https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-gdEnlGmI" alt="" loading="lazy">
+  <figcaption><a href="https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-gdEnlGmI" rel="noopener">https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-...</a></figcaption>
+</figure>
+
 
 The project's lines of code first appeared online in [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f), four months after the summer debut of walking and photographing. Since the beginning, the creative process was intuitively, leisurely, or swiftly, from time to time, offline or online. Until it was terminated with an emphasis on narrative writing, visual storytelling retrospectively, artist's book formatting, and public timestamps.
 
 Below is the HTML code of a Frequently Asked Questions webpage, preserved exactly as written. Note the optimistic "5 year lifespan" — the `A Walk, A Day` art project ultimately spanned eight years. The project outlived its intended lifespan because survival itself kept being deferred — each asylum appeal extending the legal limbo that sustained the walking practice.
 
-{% embed url="https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f" %}
 
-{% code title="a-walk_a-day.html" overflow="wrap" lineNumbers="true" %}
+<div class="embed-link">
+  <a href="https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f" rel="noopener" target="_blank">github.com</a>
+</div>
+
+
+
+<!-- a-walk_a-day.html -->
+```
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -61,7 +70,8 @@ Below is the HTML code of a Frequently Asked Questions webpage, preserved exactl
 </body>
 </html>
 ```
-{% endcode %}
+```
+
 
 The three-bar symbol [`≡`](https://en.wikipedia.org/wiki/Triple_bar), synonymous with the two-way street sign ↔, piqued my interest as an indicator of logical equivalence and the monetary unit of a currency on the Ethereum blockchain.&#x20;
 
@@ -69,13 +79,21 @@ The three-bar symbol [`≡`](https://en.wikipedia.org/wiki/Triple_bar), synonymo
 
 The page listing answers to _'WHEN, WHY, HOW, WHERE, WHO'_, titled `FAQ | A WALK≡A DAY`, was eventually migrated from my personal site at `daqhris.com/awalkaday` to an independent open-source project. The art project is structured like an organization on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter.
 
-{% embed url="https://github.com/awalkaday/about-awalkaday-art/commit/7660a21a32aa6c6b539beaf4b20c12c11fa4f148" %}
+
+<div class="embed-link">
+  <a href="https://github.com/awalkaday/about-awalkaday-art/commit/7660a21a32aa6c6b539beaf4b20c12c11fa4f148" rel="noopener" target="_blank">github.com</a>
+</div>
+
 
 The `awalkaday` building blocks became once again the focus of my geeky attention and camera lenses from [May 2021](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4) onwards. That was right after receiving a developer certification from web coding classes, taught at [freeCodeCamp.org](https://www.freecodecamp.org/daqhris), elongated into the timeframes of Aug-Oct 2016 and Dec 2020-Feb 2021.
 
 <div data-with-frame="true"><figure><img src="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/freeCodeCamp-ResponsiveWebDesign.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-{% embed url="https://daqhris.com/fcc-cert/" %}
+
+<div class="embed-link">
+  <a href="https://daqhris.com/fcc-cert/" rel="noopener" target="_blank">daqhris.com</a>
+</div>
+
 
 This book displays a mix of texts copied and modified from [about.awalkaday.art](https://about.awalkaday.art) — an online page as old as the project's earliest footprints — with poetic writings narrating a _'crème de la crème'_ artwork, which is illustrated by evocative `awalkaday` photographs.&#x20;
 
@@ -93,22 +111,30 @@ Traveling back in my mind's timeline, against my brain's resistance, was made a 
 
 For an accurate time-stamped record of the book's drafts, or an analysis of my public edits scribbled down in `git` commits, please visit the source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis and over a long time window, is available [here](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency).&#x20;
 
-{% embed url="https://github.com/awalkaday/about-awalkaday-art/commits/book/" %}
+
+<div class="embed-link">
+  <a href="https://github.com/awalkaday/about-awalkaday-art/commits/book/" rel="noopener" target="_blank">github.com</a>
+</div>
+
 
 ### Writing Oneself, Third Person (2025)
 
-{% hint style="info" icon="pencil" %}
+<div class="hint hint-info">
+
 #### Most of this book is written in the third person, referring to _**Chris-Armel**_, _**daqhris**, **he**_ or _**his roles**_ — somehow no trace of the family name _**Iradukunda**._ It is not stylistic affectation, rather a necessary writing method decoded in four ways below:
-{% endhint %}
+
+</div>
 
 * <mark style="color:$info;">**i-Protection:**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">Eight years of walks compress years of financial precarity, rejection letters, awareness of being the</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">'other'</mark>_ <mark style="color:$info;"></mark><mark style="color:$info;">in public space, threat attack mitigation, exile's social isolation, zero employment contract, healthcare access denial, power-abusers retribution, homelessness, hypervigilance, uncertain future, etc. First person requires reliving. Third person allows recording.</mark>
 * <mark style="color:$info;">**Objectivity Under Scrutiny:**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">As an immigrant whose belonging rights are a subject of recurring debates, my subjective testimony is often suspect, silenced or surveilled. Immigration</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">'interviews'</mark>_ <mark style="color:$info;"></mark><mark style="color:$info;">were tainted by a hostile assumption of faking suffering for sympathy gain. Third person borrows the authority of the binary archive spread around third-party networks that don't ask to be believed; they simply are.</mark> &#x20;
 * <mark style="color:$info;">**Archival Consciousness:**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">Though forced to interrupt studies in computer engineering, I built an infrastructure for my artworks to reach all ports of the cybernetic universe on digital rails. This work is designed to outlive me across long-lasting and neutral systems, such as decentralized storage. These computing systems speak in third person. I match their voice.</mark>&#x20;
 * <mark style="color:$info;">**Memory's Limitations:**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">I cannot reliably recall all memories or resurface all snapshots. Some periods are fragmentary, obscured by trauma or time. Photographs and timestamps contribute what memory cannot naturally. Third person acknowledges this gap between experience and evidence.</mark>
 
-{% hint style="info" icon="books" %}
+<div class="hint hint-info">
+
 #### The artist book's **literary**, **cultural**, **political** precedents which are colored by resembling stylistic traits are:&#x20;
-{% endhint %}
+
+</div>
 
 * <mark style="color:$info;">**Julius Caesar**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">wrote</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">**"Commentarii"**</mark>_ <mark style="color:$info;"></mark><mark style="color:$info;">about his military campaigns in third person (self-documentation and self-mythologizing). Centuries later,</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**Charles de Gaulle**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">followed suit,</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">**"Mémoires de guerre"**</mark>_<mark style="color:$info;">.</mark>
 * <mark style="color:$info;">**Henry Adams**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">wrote</mark> _<mark style="color:$info;">**"The Education of Henry Adams"**</mark>_ <mark style="color:$info;"></mark><mark style="color:$info;">in third person to examine himself as case study, objectified for analysis.</mark>
@@ -117,9 +143,11 @@ For an accurate time-stamped record of the book's drafts, or an analysis of my p
 * <mark style="color:$info;">**W.E.B. Du Bois's**</mark><mark style="color:$info;">**&#x20;**</mark>_<mark style="color:$info;">**'double consciousness'**</mark>_<mark style="color:$info;">: the necessity of seeing oneself through the gaze of systems that mark you as</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">other</mark>_<mark style="color:$info;">. As an African exiled in Europe, I exist in this dual consciousness — my lived experience and the bureaucratic third-person that defines my (non-)status.</mark>
 * <mark style="color:$info;">**Afrofuturism's archival urgency**</mark><mark style="color:$info;">: the practice of creating permanent records when dominant systems erase or distort one's existence.</mark>&#x20;
 
-{% hint style="info" icon="head-side-speak" %}
+<div class="hint hint-info">
+
 #### The **omniscient narrator** is not neutral. They speak as a system that tracked my existence, then compiled to narrate on my terms. Where the first person appears, it marks moments of direct address. These ruptures, of breaking the archival frame, are intentional.&#x20;
-{% endhint %}
+
+</div>
 
 <p align="center"></p>
 

@@ -8,9 +8,11 @@ Throughout months of unemployment, little to no free time was wasted away from e
 
 <figure><img src="https://2tn42zs3accecv6wwa6ccommvlm4jjbeeyogidtrjjqr3tzid6sa.arweave.net/1NvNZlsAhEFX1rA8ITmMqtnEpCQmHGQOcUphHc8oH6Q" alt=""><figcaption><p><strong>awalkaday 173-2021</strong></p></figcaption></figure>
 
-{% hint style="info" icon="image-stack" %}
+<div class="hint hint-info">
+
 <p align="center"><em><code>awalkaday 173-2021</code></em> → <em>An old cobbled road in Bastogne, shot from near ground level looking up toward sunlight breaking through clouds. The angle refuses to survey the territory. From down here, the road and the light are the same thing.</em></p>
-{% endhint %}
+
+</div>
 
 As a reward for earlier transactions using an Ethereum protocol to name his account's numerical identifier as  `daqhris.eth`, the equivalent of a European engineer's four-months salary was granted all of a sudden with no strings attached. Out of his freelancing pocket, end-of-year donations followed suit within the Bitcoin network and a crypto-assets growth fund established to further the next milestones inside the Ethereum realm.
 
@@ -20,17 +22,29 @@ To the astonishment of his social network in the provincial town, the delayed re
 
 Later, the blockchain publication of the photo collection was achieved in subsequent steps. First off, the creation of an eponymous [smart contract](https://ethereum.org/en/developers/docs/smart-contracts/) occurred in [August 2022](https://etherscan.io/tx/0x3cce44b92db9e6eb887fcbe90d59f5951e9928dea4540afbfe9fd3c2e9662f1f). The contract creation was followed by the registration of [`awalkaday.art`](https://app.ens.domains/awalkaday.art) as an **Ethereum domain name** in [September 2022](https://etherscan.io/tx/0x353f1900e073e6d97f8230021c3fce153b4b930269e5c8bd4f47c9c3950b9337).
 
-{% embed url="https://app.ens.domains/awalkaday.art" %}
+
+<div class="embed-link">
+  <a href="https://app.ens.domains/awalkaday.art" rel="noopener" target="_blank">app.ens.domains</a>
+</div>
+
 
 About half a year onward, in the midst of his desperate migration to a nomadic lifestyle sheltered by refugees in Brussels, **263** [**WALK tokens**](https://etherscan.io/token/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1) were minted on Ethereum in [February 2023](https://etherscan.io/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b), marking a significant moment in the history of the photo serie&#x73;_._ A month prior, the artist's wallet had left behind its digital fingerprint at a [cryptographic ceremony](https://ceremony.ethereum.org/) when contributing **a random number to secure the future** of Ethereum's upgrades.
 
 <figure><img src="https://assets.poap.xyz/kzg-ceremony-contributor-2023-logo-1697634378053.png" alt="KZG Ceremony Contributor" width="375"><figcaption><p><a href="https://app.zerion.io/nfts/xdai/0x22c1f6050e56d2876009903609a2cc3fef83b415:6853025">KZG Ceremony Contributor</a></p></figcaption></figure>
 
-{% embed url="https://deca.art/collection/awalkaday-art" %}
+
+<div class="embed-link">
+  <a href="https://deca.art/collection/awalkaday-art" rel="noopener" target="_blank">deca.art</a>
+</div>
+
 
 In the virtual realm of blockchain-based art platforms, the artist created a profile on behalf of his work, then listed artworks on [Coinbase](https://wallet.coinbase.com/assets/nft/collection/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1?chainId=1), [Foundation](https://foundation.app/collection/awalkaday-art), [Rightclick](https://rc.xyz/daqhris/collections/awalkaday.art), [The Hug](https://thehug.xyz/artists/daqhris/portfolio/gallery/86a4f0a8-5609-4885-a9e2-ca0b625082e9), [Zora](https://zora.co/collect/eth:0xe31801c2e58b151c3ded2cb29da56147b7f27eb1), [SuperRare](https://superrare.com/daqhris?artwork=ONLY_SERIES), [Manifold](https://manifold.gallery/eth:0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1), [Highlight](https://highlight.xyz/mint/ethereum:0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1) and [OpenSea](https://opensea.io/collection/awalkaday-art) starting from the second half of 2023.
 
-{% embed url="https://foundation.app/collection/awalkaday-art" %}
+
+<div class="embed-link">
+  <a href="https://foundation.app/collection/awalkaday-art" rel="noopener" target="_blank">foundation.app</a>
+</div>
+
 
 As an artist, coder and hacker with published work on a blockchain, he participated in a 3-day international hackathon and gathering of Ethereum software developers organized by [ETHGlobal](https://ethglobal.com/events/brussels) and held for one time only in Brussels, Belgium (July 2024).&#x20;
 
@@ -40,7 +54,11 @@ Secondly, the recovery of a biometric passport requested for event attendance, w
 
 Thirdly, weeks before ending on a colorful note the visual art project, a tri-colored jacket made for cyclists attracted his shopping eyes at a second-hand clothing store in _Les Marolles_, the artistic heart of the capital city. With _Bastogne_ printed at the back of the sportswear worn during the last day, different kinds of eyes could notice the hilarious exporter of Belgian pixels walking around swarms of hackers.
 
-{% embed url="https://www.instagram.com/walk.day/p/C9sw6ZeNs7x/" %}
+
+<div class="embed-link">
+  <a href="https://www.instagram.com/walk.day/p/C9sw6ZeNs7x/" rel="noopener" target="_blank">www.instagram.com</a>
+</div>
+
 
 Since then, after honing his skillsets as an **Ethereum app developer** and overcoming the learning curve of hackathons, his next blockchain-based artistic projects began: [Zinneke Rescue Mission](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf), to be preceded by [Mission Enrollment](https://mission-enrollment.daqhris.com/).&#x20;
 

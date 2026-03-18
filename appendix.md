@@ -14,9 +14,11 @@ The photograph on the [cover](./), **`awalkaday 251-2022`**, was shot, edited an
 
 This black-and-white photo captured a fleeting moment. It preserves for ages a romantic outdoor scene: a couple of people sitting in the open air on the grass under a glowing tree.
 
-{% embed url="https://thehug.xyz/artists/daqhris/portfolio/item/6e2d07d3-3f4a-438c-b0e7-1224f7dcecfa" %}
-Check out the onchain photo on The Hug.
-{% endembed %}
+
+<div class="embed-link">
+  <a href="https://thehug.xyz/artists/daqhris/portfolio/item/6e2d07d3-3f4a-438c-b0e7-1224f7dcecfa" rel="noopener" target="_blank">thehug.xyz</a>
+</div>
+
 
 Sculpted in bronze by Belgian artist [Nat Neujean](https://www.natneujean.com/), [**The Daughters of Water**](https://statues.vanderkrogt.net/object.php?webpage=ST\&record=bena030) **(1951)** depicts two intertwined nymphs, symbolizing two European rivers: [Meuse](https://en.wikipedia.org/wiki/Meuse) and [Sambre](https://en.wikipedia.org/wiki/Sambre). The colorful photographs of the sculpture were taken on the **8th day of May 2024**, a day that commemorates the Second World War-ending victory of democracy over fascist ideologies across Europe in the mid-20th century.
 
@@ -24,9 +26,11 @@ Sculpted in bronze by Belgian artist [Nat Neujean](https://www.natneujean.com/),
 
 The two artworks share roots in a **19th century park** named after the first Queen of the Belgians, Louise-Marie. Zoom in to notice a pair of beings, humans or deities, photographed in the shade of one slowly aging tree, observed on the linear timeline of Mother Nature. The secret is: **Tree of Life**.&#x20;
 
-{% hint style="info" icon="image-stack" %}
+<div class="hint hint-info">
+
 <p align="center"><em><code>awalkaday 251-2022</code></em> → <em>The tree fills two-thirds of the frame, its foliage nearly white in monochrome. The couple in its shade are small enough to miss on first look. The sculpture installed here later shares the same grammar of scale: figures beneath something much larger than themselves.</em></p>
-{% endhint %}
+
+</div>
 
 ### Four Ethereal Domains
 

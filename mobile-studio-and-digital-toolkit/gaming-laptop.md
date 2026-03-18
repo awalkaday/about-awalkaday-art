@@ -4,9 +4,12 @@ A laptop computer, branded as [**Hasee God of War**](http://en.haseecomputer.com
 
 The computing device was one of the few items, in addition to engineering textbooks, and personal belongings of emotional value, that he was able to stealthily keep or ship out to North Africa after being arbitrarily detained by Chinese authorities in June 2016.
 
-{% embed url="https://arweave.net/MiuCILoiAVXSGdWoiN4tM6XHZGSCCkLvCFyKMwWvzHg" %}
-**awalkaday 187-2021**
-{% endembed %}
+
+<figure class="embed-media">
+  <img src="https://arweave.net/MiuCILoiAVXSGdWoiN4tM6XHZGSCCkLvCFyKMwWvzHg" alt="" loading="lazy">
+  <figcaption><a href="https://arweave.net/MiuCILoiAVXSGdWoiN4tM6XHZGSCCkLvCFyKMwWvzHg" rel="noopener">https://arweave.net/MiuCILoiAVXSGdWoiN4tM6XHZGSCCkLvCFy...</a></figcaption>
+</figure>
+
 
 Once upon a snowy day of 2015, enriched by acting in the background of state-produced war movies in the Far East, he allocated a handful of electronic money, pocketed via a social network's wallet, for a [Singles' Day](https://en.wikipedia.org/wiki/Singles'_Day) online sale in celebration of his birthday. The online deal's golden feature was the hardware's visual computing horsepower, which is graphically attuned to workloads handling imagery as well as machine-built inside factories tasked with [**Nvidia**](https://www.nvidia.com/en-us/about-nvidia/corporate-timeline/)'s outsourcing.
 
@@ -18,9 +21,12 @@ A second-hand lightweight laptop — made by an American enterprise esteemed for
 
 The gamer friend of African origin had been hosting a first birthday party on Belgian soil, gathering `daqhris` and other fresh off the boat friends, when `A WALK≡A DAY` commits and intentions were initially encoded on a public webpage, from a corner of a dorm room party, in the cold days of [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f#diff-4f167c64a65a03a4e373ec9069f3899d550708ddb9e77a3908246068cde7ac70).
 
-{% embed url="https://arweave.net/8FU-mhjYjLfvf3eWMYiJIx60YeKUbtx7x8Qf2O4bRL0" %}
-**awalkaday 328-2017**
-{% endembed %}
+
+<figure class="embed-media">
+  <img src="https://arweave.net/8FU-mhjYjLfvf3eWMYiJIx60YeKUbtx7x8Qf2O4bRL0" alt="" loading="lazy">
+  <figcaption><a href="https://arweave.net/8FU-mhjYjLfvf3eWMYiJIx60YeKUbtx7x8Qf2O4bRL0" rel="noopener">https://arweave.net/8FU-mhjYjLfvf3eWMYiJIx60YeKUbtx7x8Q...</a></figcaption>
+</figure>
+
 
 It's worth pointing out that most of the creative tools and works were more than once rescued, recovered or revived thanks to pieces of computer software, **`linux`** & **`git`**, brought to life by a Finnish-born American [inventor](https://github.com/torvalds) who walks when working.
 

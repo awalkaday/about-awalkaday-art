@@ -12,19 +12,27 @@ The underlying codebase supporting at least three pillars of the `awalkaday` ser
 
 In the winter of 2017, when free attendance to French-spoken lectures was just starting inside the Namur-based computer department of a Jesuits-affiliated public university, their testing phase began at [github.com/daqhris/awalkaday](https://github.com/daqhris/awalkaday) by use of a computer-readable language.
 
-{% embed url="https://github.com/daqhris/awalkaday" %}
-Source Code for the Gallery's Beta Testing
-{% endembed %}
+
+<div class="embed-link">
+  <a href="https://github.com/daqhris/awalkaday" rel="noopener" target="_blank">github.com</a>
+</div>
+
 
 One month later, a series of French-written law-abiding decisions knocked down rights to attend a ground-based university, like a domino toppling. Thus, `daqhris` was rewarded, with a two-times university drop-out trophy on two of Earth's continents, without a drum roll announcement, during the early chilling days of 2018.
 
-{% embed url="https://www.instagram.com/walk.day/p/C8casQwtnMP/" %}
-A graph visualizing years-long coding process, representing the duration of work for the public code repositories.
-{% endembed %}
+
+<div class="embed-link">
+  <a href="https://www.instagram.com/walk.day/p/C8casQwtnMP/" rel="noopener" target="_blank">www.instagram.com</a>
+</div>
+
 
 The public code repositories in `git` format contain all commits attached to a digital signature and code changes from the beginning at [github.com/awalkaday](https://github.com/awalkaday).&#x20;
 
-{% embed url="https://github.com/awalkaday" %}
+
+<div class="embed-link">
+  <a href="https://github.com/awalkaday" rel="noopener" target="_blank">github.com</a>
+</div>
+
 
 <p align="center"></p>
 

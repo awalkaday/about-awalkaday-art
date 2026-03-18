@@ -52,9 +52,12 @@ description: >-
   * Four Ethereal Domains
 * POSTSCRIPT                                         → [`BACK-2`](postscript.md)&#x20;
 
-{% embed url="https://7n5x6ki3xr2zlkzlhcpukbprymt3dhxl2kju2haif2y3xqajshpa.arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" %}
-**awalkaday 129-2022**
-{% endembed %}
+
+<figure class="embed-media">
+  <img src="https://7n5x6ki3xr2zlkzlhcpukbprymt3dhxl2kju2haif2y3xqajshpa.arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" alt="" loading="lazy">
+  <figcaption><a href="https://7n5x6ki3xr2zlkzlhcpukbprymt3dhxl2kju2haif2y3xqajshpa.arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" rel="noopener">https://7n5x6ki3xr2zlkzlhcpukbprymt3dhxl2kju2haif2y3xqa...</a></figcaption>
+</figure>
+
 
 <p align="center"></p>
 

@@ -6,19 +6,26 @@ Around the global debut of Instagram's cyber conquest, Chris decided to learn ph
 
 Beginning in 2013 with accelerated dual immersion — in a Chinese urban culture and an American online network — until the season of his sunrise portrait on top of the sacred [Mount Tai](https://en.wikipedia.org/wiki/Mount_Tai) (Spring 2016), he was scientifically studying [computer engineering](https://en.wikipedia.org/wiki/Computer_science_and_engineering) at an elite technical university. The institution for higher learning was located on a road that is memorable as 学院, a two-letter Mandarin translation of a school within a university, and a homophone of _xué yuán_, meaning 'officer cadet' in the People's Liberation Army.&#x20;
 
-{% embed url="https://arweave.net/2s8V7COfuK32VaXHDAyInocahSsGR4FRdhxICHufdis" %}
-**awalkaday 4-2022**
-{% endembed %}
+
+<figure class="embed-media">
+  <img src="https://arweave.net/2s8V7COfuK32VaXHDAyInocahSsGR4FRdhxICHufdis" alt="" loading="lazy">
+  <figcaption><a href="https://arweave.net/2s8V7COfuK32VaXHDAyInocahSsGR4FRdhxICHufdis" rel="noopener">https://arweave.net/2s8V7COfuK32VaXHDAyInocahSsGR4FRdhx...</a></figcaption>
+</figure>
+
 
 On the holiday marking the end of the Chinese New Year celebrations, he did not skip holding a brand-new computer on his lap. Instead of lighting lanterns on a festival day, 乔里斯 _'Qiao Li Si'_ used his coder name `daqhris` to release GIT commits inside a cloud environment of foreign computer servers. The commits of February 22, 2016 were effective at merging a [#1 request for code changes](https://github.com/daqhris/hello-world/pull/1) into his _hello-world_ repository on GitHub. A plain-text [comment](https://github.com/daqhris/hello-world/pull/1/commits/f3e3d7497d7ac6163e6d94d01e313ce2e5591567) was hooked to the commit [Finish README](https://github.com/daqhris/hello-world/pull/1/)_,_ scribbled down in Markdown language during school vacation to say what's next.
 
-{% code overflow="wrap" %}
+
+```
 ```
 Few bits of details about myself, don't bother reading, pass it on to your kids! Cheers to restraining your ego. 😄 
 ```
-{% endcode %}
+```
 
-{% code title="hello-world/README.md" overflow="wrap" lineNumbers="true" %}
+
+
+<!-- hello-world/README.md -->
+```
 ```markdown
 # hello-world
 
@@ -29,7 +36,8 @@ This is my Hello World project. It is a made of results of my first GitHub tutor
 This winter is wrecking my bones and brains. Therefore, I am cheerfully answering a hotline bling call to pick up on the fingers and nerves break dance! (just don't wanna miss my college grad bus :D)
  
 ```
-{% endcode %}
+```
+
 
 Later on, his artistic style cheaply improved upon digital photography techniques, aided by open-source computing software, playgrounds in public spaces, and dormant engineering knowhow. The `awalkaday` photographs are monochrome with a 1:1 aspect ratio, and capture fleeting memories recorded during walks geofenced to Belgian and, in part, broader European landscapes.
 

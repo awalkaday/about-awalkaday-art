@@ -1,12 +1,17 @@
 # Parallel Pathways
 
-{% embed url="https://arweave.net/g_a3kCxXvhagS4B62-glUh3IsomrXyXujClsWZKP1rI" %}
-**awalkaday 71-2022**
-{% endembed %}
 
-{% hint style="info" icon="image-stack" %}
+<figure class="embed-media">
+  <img src="https://arweave.net/g_a3kCxXvhagS4B62-glUh3IsomrXyXujClsWZKP1rI" alt="" loading="lazy">
+  <figcaption><a href="https://arweave.net/g_a3kCxXvhagS4B62-glUh3IsomrXyXujClsWZKP1rI" rel="noopener">https://arweave.net/g_a3kCxXvhagS4B62-glUh3IsomrXyXujCl...</a></figcaption>
+</figure>
+
+
+<div class="hint hint-info">
+
 <p align="center"><em><code>awalkaday 71-2022</code></em> → <em>Two paved roads diverge from a single point somewhere in Belgium. The photograph did not intend an allegory. It became one.</em></p>
-{% endhint %}
+
+</div>
 
 The `awalkaday` photo collection evolved since its launch along two pathways that the photographer rarely named as such, because naming them would have required seeing them both at once — and survival, as a daily practice, does not permit that kind of distance.
 
