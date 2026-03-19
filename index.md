@@ -5,7 +5,6 @@ permalink: /
 description: "An open-source artist's book tracing the digital footprints of an exiled wanderer and his Belgian pixels during an eight-year odyssey"
 ---
 
-
 <h4 align="center"></h4>
 
 <figure class="embed-media">

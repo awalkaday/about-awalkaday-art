@@ -4,10 +4,10 @@
 - title: One Step Forward
   url: one-step-forward
 
-- title: Artist Statement
+- title: ARTIST STATEMENT
   url: artist-statement
 
-- title: Reading Guide
+- title: READING GUIDE
   url: reading-guide
 
 - title: Introduction to the Photo Series
@@ -53,11 +53,11 @@
 - title: Artists Proofs and Ethos
   url: artists-proofs-and-ethos
   children:
-    - title: Public Git Commits
+    - title: Public GIT Commits
       url: artists-proofs-and-ethos/public-git-commits
     - title: Open Source Software
       url: artists-proofs-and-ethos/open-source-software
-    - title: Git Usage History
+    - title: GIT Usage History
       url: artists-proofs-and-ethos/git-usage-history
 
 - title: Artist Profiling
@@ -73,14 +73,14 @@
 - title: Contact
   url: contact
 
-- title: Imprint
+- title: IMPRINT
   url: imprint
 
-- title: Catalogue
+- title: CATALOGUE
   url: catalogue
 
-- title: Appendix
+- title: APPENDIX
   url: appendix
 
-- title: Postscript
+- title: POSTSCRIPT
   url: postscript
