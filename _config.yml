@@ -37,6 +37,7 @@ exclude:
   - vendor/ruby/
   - .github/
   - scripts/
+  - _chapters/
   - "*.sh"
 
 # Collections (optional — enable if you add image series as a collection)
