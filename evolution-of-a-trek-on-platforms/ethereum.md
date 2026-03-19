@@ -1,5 +1,6 @@
 ---
 title: "Ethereum"
+description: Since August 2022
 ---
 
 

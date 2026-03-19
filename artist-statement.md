@@ -1,5 +1,6 @@
 ---
 title: "ARTIST STATEMENT"
+description: "Disclosures and essential information written in the first person"
 ---
 
 

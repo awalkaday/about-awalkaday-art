@@ -37,13 +37,12 @@ If this book has moved you, the photographs that sparked it are available as col
 
 <div class="embed-link">
   <a href="https://collect.awalkaday.art" rel="noopener" target="_blank">
-<figure class="embed-media">
-  <img src="https://xjp7hza4gi5jdcag2jq3jmtdysje24arqrq2mxdxxqenaxadq7yq.arweave.net/ul_z5BwyOpGIBtJhtLJjxJJNcBGEYaZcd7wI0FwDh_E" alt="" loading="lazy">
-</figure>
-
-awalkaday 91-2022</a>
+  </a>
 </div>
-
+<figure class="embed-media">
+  <img src="https://xjp7hza4gi5jdcag2jq3jmtdysje24arqrq2mxdxxqenaxadq7yq.arweave.net/ul_z5BwyOpGIBtJhtLJjxJJNcBGEYaZcd7wI0FwDh_E" alt="awalkaday 91-2022" loading="lazy">
+<figcaption>awalkaday 91-2022</figcaption>
+</figure>
 
 ### Acknowledgments
 

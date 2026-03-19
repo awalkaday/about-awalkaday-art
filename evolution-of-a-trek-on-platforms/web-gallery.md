@@ -1,5 +1,6 @@
 ---
 title: "Web Gallery"
+description: Since May 2021
 ---
 
 
@@ -44,23 +45,15 @@ The web gallery prioritizes a smooth and random order of display for each visit,
 ```
 ```
 
-
 A 3D exhibition hall, constructed since the springtime of 2023, welcomes all digital visitors at [oncyber.io/awalkaday.art](https://oncyber.io/awalkaday.art). The virtual exhibition, which caught the attention of silicon-based reality promoters at launch in the spring of 2024, remains open to this day.
 
-
 <div class="embed-link">
-  <a href="https://oncyber.io/awalkaday.art" rel="noopener" target="_blank">oncyber.io</a>
+  <a href="https://oncyber.io/awalkaday.art" rel="noopener" target="_blank">Enter the virtual exhibition space inside an environment that simulates a lifelike display of 24 photographs</a>
 </div>
-
-Enter the virtual exhibition space inside an environment that simulates a lifelike display of 24 photographs</a>
-</div>
-
-
 
 <div class="embed-link">
   <a href="https://www.instagram.com/walk.day/reel/C4lci5_r0a8/" rel="noopener" target="_blank">A web browser-based tour of the virtual exhibition hall dedicated to `awalkaday.art`</a>
 </div>
-
 
 <p align="center"></p>
 
