@@ -5,7 +5,7 @@ title: "Public GIT Commits"
 [`git`](https://github.com/git-guides#what-is-git) is a version control system that tracks changes to computer source code with speed and efficiency in a distributed way. Version control is a technique that helps maintain a record of all changes throughout the development process.
 
 <div class="embed-link">
-  <a href="https://git-scm.com/book/en/v2" rel="noopener" target="_blank"></a></div>
+  <a href="https://git-scm.com/book/en/v2" rel="noopener" target="_blank">Pro Git Book</a></div>
   
 [`git` commits](https://github.com/git-guides/git-commit#git-commit) are snapshots of code changes in such a version control system at a particular point in time. Each commit captures modifications made by the developer(s), cryptographically signed for verification. They are like notarized timestamps — each edit is witnessed by a global network of servers, making the archive tamper-proof.
 

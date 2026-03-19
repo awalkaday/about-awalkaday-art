@@ -99,7 +99,7 @@ Peering into photographs devoid of humans, combing through scattered data trails
 
 Traveling back in my mind's timeline, against my brain's resistance, was made a breeze by the patronage of a British artist and theatre-maker who provided rent-free housing on the hilltop of an avenue honoring Mount Kemmel in Brussels, at a flat overlooking the Park of Forest where rose up inspiration, for nearly a year and a half (2023-2025).&#x20;
 
-<figure><img src="https://7qcx5f3hkbvgk5mz33xc3cpbuxozanrxhfpl7qinekgqyptnkuea.arweave.net/_AV-l2dQamV1md7uLYnhpd2QNjc5Xr_BDSKNDD5tVQg" alt=""><figcaption>awalkaday 172-2022</figcaption></figure>
+<figure class="embed-media"><img src="https://7qcx5f3hkbvgk5mz33xc3cpbuxozanrxhfpl7qinekgqyptnkuea.arweave.net/_AV-l2dQamV1md7uLYnhpd2QNjc5Xr_BDSKNDD5tVQg" alt="awalkaday 172-2022" loading="lazy"><figcaption>awalkaday 172-2022</figcaption></figure>
 
 For an accurate time-stamped record of the book's drafts, or an analysis of my public edits scribbled down in `git` commits, please visit the source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis and over a long time window, is available [here](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency).&#x20;
 
@@ -111,7 +111,7 @@ For an accurate time-stamped record of the book's drafts, or an analysis of my p
 
 <div class="hint hint-info">
 
-*Most of this book is written in the third person, referring to __Chris-Armel__, __daqhris__, __he__ or __his roles__ — somehow no trace of the family name __Iradukunda__. It is not stylistic affectation, rather a necessary writing method decoded in four ways below:*
+Most of this book is written in the third person, referring to __Chris-Armel__, __daqhris__, __he__ or __his roles__ — somehow no trace of the family name __Iradukunda__. It is not stylistic affectation, rather a necessary writing method decoded in four ways below:
 
 </div>
 
@@ -122,7 +122,7 @@ For an accurate time-stamped record of the book's drafts, or an analysis of my p
 
 <div class="hint hint-info">
 
-_The artist book's **literary**, **cultural**, **political** precedents which are colored by resembling stylistic traits are:_&#x20;
+The artist book's **literary**, **cultural**, **political** precedents which are colored by resembling stylistic traits are:&#x20;
 
 </div>
 
@@ -134,7 +134,7 @@ _The artist book's **literary**, **cultural**, **political** precedents which ar
 
 <div class="hint hint-info">
 
-_The **omniscient narrator** is not neutral. They speak as a system that tracked my existence, then compiled to narrate on my terms. Where the first person appears, it marks moments of direct address. These ruptures, of breaking the archival frame, are intentional._&#x20;
+The **omniscient narrator** is not neutral. They speak as a system that tracked my existence, then compiled to narrate on my terms. Where the first person appears, it marks moments of direct address. These ruptures, of breaking the archival frame, are intentional.&#x20;
 
 </div>
 
