@@ -16,30 +16,29 @@ Once the art project was resumed in the [spring of 2021](https://github.com/awal
 The web gallery prioritizes a smooth and random order of display for each visit, allowing for ease of navigation and discovery of photographs by surprising visitors with fresh-eye perspectives every load time. The gallery's code enforcing mathematical randomness in JavaScript dates from [February 2023](https://github.com/awalkaday/awalkaday-art/commits/master/assets/js/main.js).
 
 <div class="embed-link">
-  <a href="https://github.com/awalkaday/awalkaday-art/commit/3043b3f1e58f05bfdefd7bdf9afcf9fddcf9ea96" rel="noopener" target="_blank"></a></div>
+  <a href="https://github.com/awalkaday/awalkaday-art/commit/3043b3f1e58f05bfdefd7bdf9afcf9fddcf9ea96" rel="noopener" target="_blank">Git Commit: Randomize the display order of artworks</a></div>
 
 ```
+awalkaday-art/tree/master/assets/js/main.js  
 
-	awalkaday-art/tree/master/assets/js/main.js  
+// Main.
+	var $main = $('#main');
 
-			// Main.
-			var $main = $('#main');
+// Thumbs.
+$main.children('.thumb').each(function() {
+var $this = $(this),
+	$image = $this.find('.image'),
+	$image_img = $image.children('img'),
+	randomPos;
 
-			// Thumbs.
-			$main.children('.thumb').each(function() {
-			var $this = $(this),
-				$image = $this.find('.image'),
-				$image_img = $image.children('img'),
-				randomPos;
+// Set random background position.
+randomPos = Math.floor(Math.random()  100);
+$image.css('background-position', `${randomPos}%`);
 
-			// Set random background position.
-			randomPos = Math.floor(Math.random()  100);
-			$image.css('background-position', `${randomPos}%`);
-
-			// Shuffle the elements.
-			$main.children('.thumb').sort(function() {
-			return Math.random() - 0.5;
-			}).appendTo($main);
+// Shuffle the elements.
+$main.children('.thumb').sort(function() {
+return Math.random() - 0.5;
+}).appendTo($main);
 
 ```
 

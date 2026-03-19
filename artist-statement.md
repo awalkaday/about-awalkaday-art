@@ -111,7 +111,7 @@ For an accurate time-stamped record of the book's drafts, or an analysis of my p
 
 <div class="hint hint-info">
 
-Most of this book is written in the third person, referring to __Chris-Armel__, __daqhris__, __he__ or __his roles__ — somehow no trace of the family name __Iradukunda__. It is not stylistic affectation, rather a necessary writing method decoded in four ways below:
+<em>Most of this book is written in the third person, referring to Chris-Armel, daqhris, he or his roles — somehow no trace of the family name Iradukunda. It is not stylistic affectation, rather a necessary writing method decoded in four ways below:</em>
 
 </div>
 
@@ -122,7 +122,7 @@ Most of this book is written in the third person, referring to __Chris-Armel__, 
 
 <div class="hint hint-info">
 
-The artist book's **literary**, **cultural**, **political** precedents which are colored by resembling stylistic traits are:&#x20;
+<em>The artist book's literary, cultural, political precedents which are colored by resembling stylistic traits are:</em>&#x20;
 
 </div>
 
@@ -134,7 +134,7 @@ The artist book's **literary**, **cultural**, **political** precedents which are
 
 <div class="hint hint-info">
 
-The **omniscient narrator** is not neutral. They speak as a system that tracked my existence, then compiled to narrate on my terms. Where the first person appears, it marks moments of direct address. These ruptures, of breaking the archival frame, are intentional.&#x20;
+<em>The omniscient narrator is not neutral. They speak as a system that tracked my existence, then compiled to narrate on my terms. Where the first person appears, it marks moments of direct address. These ruptures, of breaking the archival frame, are intentional.</em>&#x20;
 
 </div>
 
