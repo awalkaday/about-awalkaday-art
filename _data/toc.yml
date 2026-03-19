@@ -13,7 +13,7 @@
 - title: Introduction to the Photo Series
   url: introduction-to-the-photo-series
 
-- title: Beyond Pixels A Stroll Into Nature
+- title: Beyond Pixels: A Stroll Into Nature
   url: beyond-pixels-a-stroll-into-nature
 
 - title: Mobile Studio and Digital Toolkit
@@ -41,7 +41,7 @@
   children:
     - title: Instagram
       url: evolution-of-a-trek-on-platforms/instagram
-    - title: X Twitter
+    - title: X (Twitter)
       url: evolution-of-a-trek-on-platforms/x-twitter
     - title: GitHub
       url: evolution-of-a-trek-on-platforms/github
@@ -50,7 +50,7 @@
     - title: Web Gallery
       url: evolution-of-a-trek-on-platforms/web-gallery
 
-- title: Artists Proofs and Ethos
+- title: Artist's Proofs and Ethos
   url: artists-proofs-and-ethos
   children:
     - title: Public GIT Commits
