@@ -12,14 +12,14 @@ An open source ethos which embodies principles such as transparency, collaborati
 To gain exposure to software-powered innovation, `daqhris` was an active contributor to the [Free and Open Source Software Developer Conference](https://fosdem.org/) in Brussels every year since 2020. The annual conference enabled him to stay connected with the European software developer community, despite being legally barred from university enrollment and professional employment.
 
 <div class="embed-link">
-  <a href="https://fosdem.org/" rel="noopener" target="_blank"></a>
+  <a href="https://fosdem.org/" rel="noopener" target="_blank">fosdem.org</a>
 </div>
-  <figure><img src="https://cfj7jngyewbwzyx6sog6d7ybicbglpr3idftmqeapmrkrdfufyca.arweave.net/EVP0tNglg2zi_pON4f8BQIJlvjtAyzZAgHsiqIy0LgQ" alt="awalkaday 12-2018"><figcaption>awalkaday 12-2018</figcaption></figure>
+  <figure class="embed-media"><img src="https://cfj7jngyewbwzyx6sog6d7ybicbglpr3idftmqeapmrkrdfufyca.arweave.net/EVP0tNglg2zi_pON4f8BQIJlvjtAyzZAgHsiqIy0LgQ" alt="awalkaday 12-2018" loading="lazy"><figcaption>awalkaday 12-2018</figcaption></figure>
 
 As a volunteer, one of his most memorable acts was standing onstage, in front of a packed amphitheater in February 2023 while homeless in Brussels, to introduce a scientific talk on ['Open Source Software at NASA'](https://archive.fosdem.org/2023/schedule/event/nasa/), presented by an [American astronomer](https://crawfordsm.github.io/about/), when celebrating [25 years of open-source](https://archive.fosdem.org/2023/schedule/track/keynotes/) next to volunteering and attending peers.
 
 <div class="embed-link">
-  <a href="https://archive.fosdem.org/2023/schedule/event/nasa/" rel="noopener" target="_blank">archive.fosdem.org</a>
+  <a href="https://archive.fosdem.org/2023/schedule/event/nasa/" rel="noopener" target="_blank">archive.fosdem.org/2023</a>
 </div>
 
 In the second half of 2024, `daqhris` began to ingeniously craft an online artist's book, `book.awalkaday.art`, which spotlights various aspects of his `git`-dependent artistic practice, and meets the public eye from a technical documentation platform, [GitBook](https://www.gitbook.com/).

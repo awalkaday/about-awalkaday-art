@@ -8,12 +8,10 @@ Accompanied by his mother, who flew back shortly after, he landed in Brussels in
 
 His aims and dreams in Europe — beyond pursuing university education again — included seeking safe haven away from persecution by his motherland's diplomats and their Chinese counterparts while studying abroad two seasons earlier.
 
-
 <figure class="embed-media">
   <img src="https://arweave.net/PzcrZqCeMDwty56zrlbyngXjTYxpPCEKKo6MevHVf-Q" alt="awalkaday 185-2022" loading="lazy">
   <figcaption>awalkaday 185-2022</figcaption>
 </figure>
-
 
 ### Beijing-Bujumbura Nightmares
 
@@ -39,7 +37,7 @@ On the torturous path to confining the multilingual man for five, then stretched
 14. the shutdown of airspace traffic atop the powerful city of the second-in-line terrestrial nation-state&#x20;
 15. ...and other accusations, documented or imagined.
 
-<figure><img src="https://sd55vpc7xirkafqt6l42hrsiafn5kqkvdbliclrpomelxemu5opa.arweave.net/kPvavF-6IqAWE_L5o8ZIAVvVQVUYVoEuL3MIu5GU654" alt="awalkaday 59-2022"><figcaption><p><strong>awalkaday 59-2022</strong></p></figcaption></figure>
+<figure class="embed-media"><img src="https://sd55vpc7xirkafqt6l42hrsiafn5kqkvdbliclrpomelxemu5opa.arweave.net/kPvavF-6IqAWE_L5o8ZIAVvVQVUYVoEuL3MIu5GU654" alt="awalkaday 59-2022" loading="lazy"><figcaption>awalkaday 59-2022</figcaption></figure>
 
 <div class="hint hint-info">
 
@@ -53,12 +51,10 @@ Once upon the summer of 2017, Chris had been residing in the Red Cross camp of B
 
 To combat prolonged boredom and physical inactivity, an idea sparkled in his mind, urging him to combine all of his skills — black-and-white photography, visual design, and software coding — to launch an artistic project.
 
-
 <figure class="embed-media">
   <img src="https://aqdko2gvdb5swcvmv5fefjh2nvqay2jo25zaraa4e7gzvtmhqvra.arweave.net/BAanaNUYeysKrK9KQqT6bWAMaS7XcgiAHCfNms2HhWI" alt="awalkaday 344-2017" loading="lazy">
   <figcaption>awalkaday 344-2017</figcaption>
 </figure>
-
 
 Using rudimentary photographic equipment and online public platforms, coupled with an open-source digital toolbox, he has visually documented a years-long journey that artfully depicts outdoor walks in exile, and logs publicly footprints around a non-native land.
 
@@ -68,7 +64,7 @@ In the absence of photographic evidence of the surreal story — made in and imp
 
 Until the day his exhausted mind and hypervigilant body gave an incorrect location—his father was in Rwanda, he told the male judge, though this was untrue. Then life spiraled: from the courtroom question «[Il est où ton papa?](https://genius.com/1828413)» ('Where is your father?') to spinning like a «[toupie](https://en.wiktionary.org/wiki/toupie)» ('spinning top')—untethered, directionless, out of control.
 
-<figure><img src="https://rodfztakuygtmhqfbszvgxfobnojd47isei6lmuh52ngxpcs72ca.arweave.net/i4ZczAqmDTYeBQyzU1yuC1yR8-iREeWyh-6aa7xS_oQ" alt="awalkaday 47-2022"><figcaption><p><strong>awalkaday 47-2022</strong></p></figcaption></figure>
+<figure class="embed-media"><img src="https://rodfztakuygtmhqfbszvgxfobnojd47isei6lmuh52ngxpcs72ca.arweave.net/i4ZczAqmDTYeBQyzU1yuC1yR8-iREeWyh-6aa7xS_oQ" alt="awalkaday 47-2022" loading="lazy"><figcaption>awalkaday 47-2022</figcaption></figure>
 
 ### Loss, Silence, Rebirth
 
@@ -76,12 +72,10 @@ After half a year of posting on [Instagram](../evolution-of-a-trek-on-platforms/
 
 Three years later, during the season of blooming lush gardens in 2020, the photographic odyssey relaunched. Funded by earnings from a painting job, the lonely photo walks were ran from an attic room in Bastogne — near the Belgian-Luxembourg border — until the season of dry skin shivering in 2022.&#x20;
 
-
 <figure class="embed-media">
   <img src="https://arweave.net/HZUJofLsOWTGYRYAOMzbtKN7Ad0jMmtDlg4HDgT5Vp8" alt="awalkaday 40-2022" loading="lazy">
   <figcaption>awalkaday 40-2022</figcaption>
 </figure>
-
 
 ### The Long Endurance
 
@@ -89,12 +83,10 @@ Since day one, the photographer lacked rights to knock on doors of medical care 
 
 He faced recurring unemployment despite numerous skills. He walked — burning organic calories instead of emitting gas pollutants — and killed two birds with one stone: environmental virtue and economic necessity. In stark contrast with modern European cultural conventions, `awalkaday.art` stuck around neither as a state-sponsored artistic endeavor, nor as a brick-and-mortar art gallery.
 
-
 <figure class="embed-media">
   <img src="https://arweave.net/WB8akAD3XwwJ-5QCWgH9k-4eaDNRctqmTzBH4hwLwyo" alt="awalkaday 184-2021" loading="lazy">
   <figcaption>awalkaday 184-2021</figcaption>
 </figure>
-
 
 One question strolled through his mind, circling the nervous pathways during every walk: “_What if these walks, these photographs, these commits... what if none of it yields positive results as by-products? What if the State still says no?_”&#x20;
 
@@ -105,7 +97,5 @@ In the spring of 2024, the photographic tool rung like some years ago, as if it 
 The Englishmen's adage “_a walk a day keeps the doctor away_” ceased to be true for the photographer, eight years post-conception of the project, by the grace of a Belgian network of caring women: a doctor, an ex-girlfriend, an anthropologist, a retired nurse, a public agent, a filmmaker, scientists, artists, etc.&#x20;
 
 These walks became his penance, his pilgrimage, his enterprise for clinging to life. Not winking at courts — they had already judged — but to Time itself.
-
-
 
 <p align="center"><strong><code>24</code></strong></p>

@@ -3,29 +3,27 @@ title: "ARTIST STATEMENT"
 description: "Disclosures and essential information written in the first and third person"
 ---
 
-
 ### First Steps (2017)
 
 This project was born in my spare time, developed independently in the open, and evolved at the pace of a [turtle](https://en.m.wikipedia.org/wiki/Cultural_depictions_of_turtles). Countless public drafts and serene long walks have shaped it into its present state, akin to a therapeutic exercise.
-
 
 <figure class="embed-media">
   <img src="https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-gdEnlGmI" alt="awalkaday 219-2022" loading="lazy">
   <figcaption>awalkaday 219-2022</figcaption>
 </figure>
 
-
 The project's lines of code first appeared online in [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f), four months after the summer debut of walking and photographing. Since the beginning, the creative process was intuitively, leisurely, or swiftly, from time to time, offline or online. Until it was terminated with an emphasis on narrative writing, visual storytelling retrospectively, artist's book formatting, and public timestamps.
 
 Below is the HTML code of a Frequently Asked Questions webpage, preserved exactly as written. Note the optimistic "5 year lifespan" — the `A Walk, A Day` art project ultimately spanned eight years. The project outlived its intended lifespan because survival itself kept being deferred — each asylum appeal extending the legal limbo that sustained the walking practice.
-
 
 <div class="embed-link">
   <a href="https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f" rel="noopener" target="_blank">github.com</a>
 </div>
 
-<!-- a-walk_a-day.html -->
+
 ```
+a-walk_a-day.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -74,16 +72,13 @@ The three-bar symbol [`≡`](https://en.wikipedia.org/wiki/Triple_bar), synonymo
 
 The page listing answers to _'WHEN, WHY, HOW, WHERE, WHO'_, titled `FAQ | A WALK≡A DAY`, was eventually migrated from my personal site at `daqhris.com/awalkaday` to an independent open-source project. The art project is structured like an organization on GitHub where all the sites built under the umbrella of `awalkaday` found a safe shelter.
 
-
 <div class="embed-link">
   <a href="https://github.com/awalkaday/about-awalkaday-art/commit/7660a21a32aa6c6b539beaf4b20c12c11fa4f148" rel="noopener" target="_blank">github.com</a>
 </div>
 
-
 The `awalkaday` building blocks became once again the focus of my geeky attention and camera lenses from [May 2021](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4) onwards. That was right after receiving a developer certification from web coding classes, taught at [freeCodeCamp.org](https://www.freecodecamp.org/daqhris), elongated into the timeframes of Aug-Oct 2016 and Dec 2020-Feb 2021.
 
 <div data-with-frame="true"><figure><img src="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/freeCodeCamp-ResponsiveWebDesign.png" alt="" width="563"><figcaption></figcaption></figure></div>
-
 
 <div class="embed-link">
   <a href="https://daqhris.com/fcc-cert/" rel="noopener" target="_blank">daqhris.com</a>
@@ -93,7 +88,10 @@ This book displays a mix of texts copied and modified from [about.awalkaday.art]
 
 Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done, and lived from an objective perspective, and also hint at what has come to pass.&#x20;
 
-<figure><img src="https://wsxgsr6e2fq4xoktdz3sqpudk7wusjy5lsip2zdramftcwphlkdq.arweave.net/tK5pR8TRYcu5Ux53KD6DV-1JJx1ckP1kcQMLMVnnWoc" alt=""><figcaption>awalkaday 48-2022</figcaption></figure>
+<figure class="embed-media">
+<img src="https://wsxgsr6e2fq4xoktdz3sqpudk7wusjy5lsip2zdramftcwphlkdq.arweave.net/tK5pR8TRYcu5Ux53KD6DV-1JJx1ckP1kcQMLMVnnWoc" alt="awalkaday 48-2022" loading="lazy">
+<figcaption>awalkaday 48-2022</figcaption>
+</figure>
 
 ### Memory Work (2024)
 
@@ -105,17 +103,15 @@ Traveling back in my mind's timeline, against my brain's resistance, was made a 
 
 For an accurate time-stamped record of the book's drafts, or an analysis of my public edits scribbled down in `git` commits, please visit the source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis and over a long time window, is available [here](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency).&#x20;
 
-
 <div class="embed-link">
   <a href="https://github.com/awalkaday/about-awalkaday-art/commits/book/" rel="noopener" target="_blank">github.com</a>
 </div>
-
 
 ### Writing Oneself, Third Person (2025)
 
 <div class="hint hint-info">
 
-Most of this book is written in the third person, referring to _Chris-Armel_, _daqhris_, _he_ or _his roles_ — somehow no trace of the family name _Iradukunda_. It is not stylistic affectation, rather a necessary writing method decoded in four ways below:
+*Most of this book is written in the third person, referring to __Chris-Armel__, __daqhris__, __he__ or __his roles__ — somehow no trace of the family name __Iradukunda__. It is not stylistic affectation, rather a necessary writing method decoded in four ways below:*
 
 </div>
 
@@ -126,19 +122,19 @@ Most of this book is written in the third person, referring to _Chris-Armel_, _d
 
 <div class="hint hint-info">
 
-The artist book's **literary**, **cultural**, **political** precedents which are colored by resembling stylistic traits are:&#x20;
+_The artist book's **literary**, **cultural**, **political** precedents which are colored by resembling stylistic traits are:_&#x20;
 
 </div>
 
-* *Julius Caesar* wrote *"Commentarii"* about his military campaigns in third person (self-documentation and self-mythologizing). Centuries later, *Charles de Gaulle* followed suit, *"Mémoires de guerre"*. *Henry Adams* wrote *"The Education of Henry Adams"* in third person to examine himself as case study, objectified for analysis.&#x20;
-* *W.G. Sebald*'s narrators observe themselves observing, creating dreamlike distance.&#x20;
-* *Gertrude Stein* ventriloquized herself through *'Alice B. Toklas'*.&#x20;
-* *W.E.B. Du Bois's* 'double consciousness'*: the necessity of seeing oneself through the gaze of systems that mark you as _other_. As an African exiled in Europe, I exist in this dual consciousness — my lived experience and the bureaucratic third-person that defines my (non-)status.&#x20;
-* *Afrofuturism's archival urgency*: the practice of creating permanent records when dominant systems erase or distort one's existence.&#x20;
+* _**Julius Caesar** wrote **"Commentarii"** about his military campaigns in third person (self-documentation and self-mythologizing). Centuries later, *Charles de Gaulle* followed suit, **"Mémoires de guerre"**. **Henry Adams** wrote **"The Education of Henry Adams"** in third person to examine himself as case study, objectified for analysis._&#x20;
+* _**W.G. Sebald**'s narrators observe themselves observing, creating dreamlike distance._&#x20;
+* _**Gertrude Stein** ventriloquized herself through **'Alice B. Toklas'**._&#x20;
+* _**W.E.B. Du Bois**'s 'double consciousness'*: the necessity of seeing oneself through the gaze of systems that mark you as _other_. _As an African exiled in Europe, I exist in this dual consciousness — my lived experience and the bureaucratic third-person that defines my (non-)status._&#x20;
+* _**Afrofuturism**'s archival urgency*: the practice of creating permanent records when dominant systems erase or distort one's existence._&#x20;
 
 <div class="hint hint-info">
 
-The **omniscient narrator** is not neutral. They speak as a system that tracked my existence, then compiled to narrate on my terms. Where the first person appears, it marks moments of direct address. These ruptures, of breaking the archival frame, are intentional.&#x20;
+_The **omniscient narrator** is not neutral. They speak as a system that tracked my existence, then compiled to narrate on my terms. Where the first person appears, it marks moments of direct address. These ruptures, of breaking the archival frame, are intentional._&#x20;
 
 </div>
 

@@ -9,7 +9,7 @@ title: "Public GIT Commits"
   
 [`git` commits](https://github.com/git-guides/git-commit#git-commit) are snapshots of code changes in such a version control system at a particular point in time. Each commit captures modifications made by the developer(s), cryptographically signed for verification. They are like notarized timestamps — each edit is witnessed by a global network of servers, making the archive tamper-proof.
 
-<figure><img src="https://uaq4apnrcbacim7wato7u43kfqsdva3uaa53awrpda66gvy7jpsq.arweave.net/oCHAPbEQQCQz9gTd-nNqLCQ6g3QAO7BaLxg941cfS-U" alt="awalkaday 328.5-2017"><figcaption>awalkaday 328.5-2017</figcaption></figure>
+<figure class="embed-media"><img src="https://uaq4apnrcbacim7wato7u43kfqsdva3uaa53awrpda66gvy7jpsq.arweave.net/oCHAPbEQQCQz9gTd-nNqLCQ6g3QAO7BaLxg941cfS-U" alt="awalkaday 328.5-2017" loading="lazy"><figcaption>awalkaday 328.5-2017</figcaption></figure>
 
 The creative process was treated as a series of iterative steps that rely on public `git` commits. The `awalkaday` commits were produced openly, secured with [cryptographic signatures](https://keybase.io/daqhris/graph), and organized in a linear sequence within a lightweight file.
 

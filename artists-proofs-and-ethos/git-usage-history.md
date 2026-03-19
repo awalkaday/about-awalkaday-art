@@ -2,11 +2,11 @@
 title: "GIT Usage History"
 ---
 
-<figure><img src="https://6cf5hdon57o2agn5k3jmvu2w72kl3cleh6uh6auvqukeva6zlc4q.arweave.net/8IvTjc3v3aAZvVbSytNW_pS9iWQ_qH8ClYUUSoPZWLk" alt="awalkaday 212-2021"><figcaption>awalkaday 212-2021</figcaption></figure>
+<figure class="embed-media"><img src="https://6cf5hdon57o2agn5k3jmvu2w72kl3cleh6uh6auvqukeva6zlc4q.arweave.net/8IvTjc3v3aAZvVbSytNW_pS9iWQ_qH8ClYUUSoPZWLk" alt="awalkaday 212-2021" loading="lazy"><figcaption>awalkaday 212-2021</figcaption></figure>
 
 The oldest `git` commits pushed up and signed by `daqhris` date back to [February 2016](https://github.com/daqhris/hello-world/commits/master/?since=2016-02-22\&until=2016-06-15). They may be seen as the remnants of an extracurricular passion that infused an innovative spirit into a student's life in the East. A lifestyle sponsored by an undergraduate scholarship, split between on-campus or off-campus landmarks, spent crossing over the [Great Firewall of China](https://www.theguardian.com/news/2018/jun/29/the-great-firewall-of-china-xi-jinpings-internet-shutdown), and bypassing man-made virtual walls through private tunnels to wave [_hello_ to the _world_](https://github.com/daqhris/hello-world/commits/master/?since=2016-02-22\&until=2016-06-15).
 
-<figure><img src="https://dyihl3mxfz2mpkhq5qrv3jv7j6rom6gjwphg25km3mxg3daiaana.arweave.net/HhB17ZcudMeo8OwjXaa_T6LmeMmzzm11TNsubYwIABo" alt="awalkaday 211-2021"><figcaption>awalkaday 211-2021</figcaption></figure>
+<figure class="embed-media"><img src="https://dyihl3mxfz2mpkhq5qrv3jv7j6rom6gjwphg25km3mxg3daiaana.arweave.net/HhB17ZcudMeo8OwjXaa_T6LmeMmzzm11TNsubYwIABo" alt="awalkaday 211-2021" loading="lazy"><figcaption>awalkaday 211-2021</figcaption></figure>
 
 Much earlier fragments of his public code contributions were likely archived inside the GitHub-sponsored [Arctic Code Vault](https://arcticworldarchive.org/collection/arctic-code-vault/) in [February 2020](https://archiveprogram.github.com/arctic-vault/), among notable human-crafted software artifacts, for over a thousand years.
 
@@ -21,7 +21,7 @@ Looking way back, an initial foray into a central hub of GIT repositories in May
 
 That seed has since blossomed into a time-stamped nomadic odyssey — rooted in cyberspace, sustained by a wandering slender figure, and grounded on Belgian soil — `awalkaday.art`_._
 
-<figure><img src="https://z4vbv73owuna6ent52mzokvk5qzs6c66cxsky65my5grlv5vsj3a.arweave.net/zyoa_261Gg8Rs-6Zlyqq7DMvC94V5Kx7rMdNFde1knY" alt="awalkaday 66-2022"><figcaption>awalkaday 66-2022</figcaption></figure>
+<figure class="embed-media"><img src="https://z4vbv73owuna6ent52mzokvk5qzs6c66cxsky65my5grlv5vsj3a.arweave.net/zyoa_261Gg8Rs-6Zlyqq7DMvC94V5Kx7rMdNFde1knY" alt="awalkaday 66-2022" loading="lazy"><figcaption>awalkaday 66-2022</figcaption></figure>
 
 <p align="center"></p>
 

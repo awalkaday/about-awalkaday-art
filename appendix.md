@@ -7,7 +7,7 @@ description: "Three extra spatial stories about the impact of the Belgian-made p
 
 The photograph on the [cover](./), **`awalkaday 251-2022`**, was shot, edited and published online before a sculpture was later installed on the same site inside a public park in Namur (Wallonia, Belgium).
 
-<figure><img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="" width="188"><figcaption>awalkaday 251-2022</figcaption></figure>
+<figure class="embed-media"><img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="awalkaday 251-2022" width="188" loading="lazy"><figcaption>awalkaday 251-2022</figcaption></figure>
 
 This black-and-white photo captured a fleeting moment. It preserves for ages a romantic outdoor scene: a couple of people sitting in the open air on the grass under a glowing tree.
 
