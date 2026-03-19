@@ -17,12 +17,83 @@
 
 /* ── Page setup ───────────────────────────────────────────────── */
 :root {
-  --font-body:   "Georgia", "Times New Roman", serif;
-  --font-ui:     system-ui, -apple-system, "Segoe UI", sans-serif;
-  --font-mono:   "Courier New", monospace;
+  --font-body:   "Merriweather", "Georgia", serif;
+  --font-ui:     "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono:   "Fira Mono", "Courier New", monospace;
   --color-text:  #1a1a18;
   --color-muted: #5a5a55;
   --color-rule:  #c8c5bd;
+}
+
+@font-face {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('/assets/fonts/merriweather-light.woff2') format('woff2');
+}
+@font-face {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/merriweather-regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: "Merriweather";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/merriweather-italic.woff2') format('woff2');
+}
+@font-face {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/assets/fonts/merriweather-bold.woff2') format('woff2');
+}
+@font-face {
+  font-family: "Source Sans 3";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/sourcesans3-regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: "Source Sans 3";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/assets/fonts/sourcesans3-semibold.woff2') format('woff2');
+}
+@font-face {
+  font-family: "Source Sans 3";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/assets/fonts/sourcesans3-bold.woff2') format('woff2');
+}
+@font-face {
+  font-family: "Fira Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/firamono-regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: "Fira Mono";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/assets/fonts/firamono-medium.woff2') format('woff2');
+}
+@font-face {
+  font-family: "Fira Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/assets/fonts/firamono-bold.woff2') format('woff2');
 }
 
 @page {
