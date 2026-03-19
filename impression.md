@@ -18,129 +18,161 @@ title: "Walking Memories — Print / PDF"
 </div>
 
 <section class="chapter" id="one-step-forward">
-{% include_relative _chapters/one-step-forward.html %}
+{% capture chapter %}{% include_relative _chapters/one-step-forward.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="artist-statement">
-{% include_relative _chapters/artist-statement.html %}
+{% capture chapter %}{% include_relative _chapters/artist-statement.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="reading-guide">
-{% include_relative _chapters/reading-guide.html %}
+{% capture chapter %}{% include_relative _chapters/reading-guide.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="introduction-to-the-photo-series">
-{% include_relative _chapters/introduction-to-the-photo-series.html %}
+{% capture chapter %}{% include_relative _chapters/introduction-to-the-photo-series.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="beyond-pixels">
-{% include_relative _chapters/beyond-pixels.html %}
+{% capture chapter %}{% include_relative _chapters/beyond-pixels.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="mobile-studio">
-{% include_relative _chapters/mobile-studio.html %}
+{% capture chapter %}{% include_relative _chapters/mobile-studio.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="mobile-studio-on-the-go">
-{% include_relative _chapters/mobile-studio-on-the-go.html %}
+{% capture chapter %}{% include_relative _chapters/mobile-studio-on-the-go.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="mobile-studio-cameras">
-{% include_relative _chapters/mobile-studio-cameras.html %}
+{% capture chapter %}{% include_relative _chapters/mobile-studio-cameras.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="mobile-studio-gaming">
-{% include_relative _chapters/mobile-studio-gaming.html %}
+{% capture chapter %}{% include_relative _chapters/mobile-studio-gaming.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="chronicle">
-{% include_relative _chapters/chronicle.html %}
+{% capture chapter %}{% include_relative _chapters/chronicle.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="chronicle-parallel">
-{% include_relative _chapters/chronicle-parallel.html %}
+{% capture chapter %}{% include_relative _chapters/chronicle-parallel.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="chronicle-internet">
-{% include_relative _chapters/chronicle-internet.html %}
+{% capture chapter %}{% include_relative _chapters/chronicle-internet.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="chronicle-blockchain">
-{% include_relative _chapters/chronicle-blockchain.html %}
+{% capture chapter %}{% include_relative _chapters/chronicle-blockchain.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="evolution">
-{% include_relative _chapters/evolution.html %}
+{% capture chapter %}{% include_relative _chapters/evolution.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="evolution-instagram">
-{% include_relative _chapters/evolution-instagram.html %}
+{% capture chapter %}{% include_relative _chapters/evolution-instagram.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="evolution-twitter">
-{% include_relative _chapters/evolution-twitter.html %}
+{% capture chapter %}{% include_relative _chapters/evolution-twitter.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="evolution-github">
-{% include_relative _chapters/evolution-github.html %}
+{% capture chapter %}{% include_relative _chapters/evolution-github.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="evolution-ethereum">
-{% include_relative _chapters/evolution-ethereum.html %}
+{% capture chapter %}{% include_relative _chapters/evolution-ethereum.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="evolution-web">
-{% include_relative _chapters/evolution-web.html %}
+{% capture chapter %}{% include_relative _chapters/evolution-web.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="artists-proofs">
-{% include_relative _chapters/artists-proofs.html %}
+{% capture chapter %}{% include_relative _chapters/artists-proofs.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="artists-proofs-commits">
-{% include_relative _chapters/artists-proofs-commits.html %}
+{% capture chapter %}{% include_relative _chapters/artists-proofs-commits.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="artists-proofs-oss">
-{% include_relative _chapters/artists-proofs-oss.html %}
+{% capture chapter %}{% include_relative _chapters/artists-proofs-oss.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="artists-proofs-git">
-{% include_relative _chapters/artists-proofs-git.html %}
+{% capture chapter %}{% include_relative _chapters/artists-proofs-git.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="artist-profiling">
-{% include_relative _chapters/artist-profiling.html %}
+{% capture chapter %}{% include_relative _chapters/artist-profiling.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="artist-profiling-inception">
-{% include_relative _chapters/artist-profiling-inception.html %}
+{% capture chapter %}{% include_relative _chapters/artist-profiling-inception.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="artist-profiling-human">
-{% include_relative _chapters/artist-profiling-human.html %}
+{% capture chapter %}{% include_relative _chapters/artist-profiling-human.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="artist-profiling-training">
-{% include_relative _chapters/artist-profiling-training.html %}
+{% capture chapter %}{% include_relative _chapters/artist-profiling-training.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="contact">
-{% include_relative _chapters/contact.html %}
+{% capture chapter %}{% include_relative _chapters/contact.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="imprint">
-{% include_relative _chapters/imprint.html %}
+{% capture chapter %}{% include_relative _chapters/imprint.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="catalogue">
-{% include_relative _chapters/catalogue.html %}
+{% capture chapter %}{% include_relative _chapters/catalogue.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="appendix">
-{% include_relative _chapters/appendix.html %}
+{% capture chapter %}{% include_relative _chapters/appendix.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>
 
 <section class="chapter" id="postscript">
-{% include_relative _chapters/postscript.html %}
+{% capture chapter %}{% include_relative _chapters/postscript.md %}{% endcapture %}
+{{ chapter | markdownify }}
 </section>

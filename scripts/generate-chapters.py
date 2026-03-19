@@ -40,7 +40,6 @@ out_dir = Path("_chapters")
 out_dir.mkdir(exist_ok=True)
 
 def strip_frontmatter_and_get_meta(text):
-    """Strip YAML frontmatter, return (title, description, body)."""
     text = text.replace("\r\n", "\n")
     if not text.startswith("---\n"):
         return None, None, text
@@ -64,19 +63,18 @@ for slug, path in chapters:
     text = src.read_text(encoding="utf-8")
     title, desc, body = strip_frontmatter_and_get_meta(text)
 
-    # Build chapter HTML header from frontmatter fields
+    # Write as Markdown — title as h1, description as italic paragraph
+    # markdownify in the impression page will process this correctly
     header = ""
     if title:
-        header += f'<h1 class="chapter-title">{title}</h1>\n'
+        header += f"# {title}\n\n"
     if desc:
-        header += f'<p class="chapter-description">{desc}</p>\n'
+        header += f"*{desc}*\n\n"
 
-    # Write pre-processed snippet with no frontmatter
-    # Use .html extension so Jekyll does not add its own frontmatter processing
-    out_path = out_dir / f"{slug}.html"
+    # Write .md so markdownify processes it properly
+    out_path = out_dir / f"{slug}.md"
     out_path.write_text(header + body, encoding="utf-8")
     print(f"  ok: {slug}")
     written += 1
 
-print(f"\nWritten {written} chapter snippets to _chapters/")
-print("Next: update impression.md to use include_relative _chapters/SLUG.html")
+print(f"\nWritten {written} chapter snippets to _chapters/ as .md files")
