@@ -48,12 +48,6 @@
           {% endif %}
         {% endfor %}
 
-        {% if page.url == "/" %}
-          {% assign current_url = "/" %}
-        {% else %}
-          {% assign current_url = page.url | remove_last: "/" %}
-        {% endif %}
-
         {% assign prev_item = nil %}
         {% assign next_item = nil %}
         {% assign found = "" %}
@@ -66,10 +60,10 @@
           {% if item.url == "/" %}
             {% assign item_url = "/" %}
           {% else %}
-            {% assign item_url = "/" | append: item.url %}
+            {% assign item_url = "/" | append: item.url | append: "/" %}
           {% endif %}
 
-          {% if item_url == current_url %}
+          {% if item_url == page.url %}
             {% assign found = "yes" %}
           {% endif %}
 
