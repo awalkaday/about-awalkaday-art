@@ -8,7 +8,7 @@ After verification at the end of 2020 of token conversion operations nearby a ta
 
 Throughout months of unemployment, little to no free time was wasted away from executing entrepreneurial moves across public networks of cyberspace or wandering kilometers of walkways built on dismantled railway tracks, _RAVeL_. As soon as the Sun rose up on his November birthdate in 2021, romantic ties woven in French were severed by a Belgian girlfriend who battled everyday an autoimmune hindrance to her walks in the city of Verviers. The last surprise _du jour_ unwrapped a present: a digital stack of ENS governance tokens parachuted into his public wallet.&#x20;
 
-<figure><img src="https://2tn42zs3accecv6wwa6ccommvlm4jjbeeyogidtrjjqr3tzid6sa.arweave.net/1NvNZlsAhEFX1rA8ITmMqtnEpCQmHGQOcUphHc8oH6Q" alt=""><figcaption><p><strong>awalkaday 173-2021</strong></p></figcaption></figure>
+<figure><img src="https://2tn42zs3accecv6wwa6ccommvlm4jjbeeyogidtrjjqr3tzid6sa.arweave.net/1NvNZlsAhEFX1rA8ITmMqtnEpCQmHGQOcUphHc8oH6Q" alt="awalkaday 173-2021"><figcaption>awalkaday 173-2021</figcaption></figure>
 
 <div class="hint hint-info">
 
@@ -32,7 +32,7 @@ Later, the blockchain publication of the photo collection was achieved in subseq
 
 About half a year onward, in the midst of his desperate migration to a nomadic lifestyle sheltered by refugees in Brussels, **263** [**WALK tokens**](https://etherscan.io/token/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1) were minted on Ethereum in [February 2023](https://etherscan.io/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b), marking a significant moment in the history of the photo serie&#x73;_._ A month prior, the artist's wallet had left behind its digital fingerprint at a [cryptographic ceremony](https://ceremony.ethereum.org/) when contributing **a random number to secure the future** of Ethereum's upgrades.
 
-<figure><img src="https://assets.poap.xyz/kzg-ceremony-contributor-2023-logo-1697634378053.png" alt="KZG Ceremony Contributor" width="375"><figcaption><p><a href="https://app.zerion.io/nfts/xdai/0x22c1f6050e56d2876009903609a2cc3fef83b415:6853025">KZG Ceremony Contributor</a></p></figcaption></figure>
+<figure><img src="https://assets.poap.xyz/kzg-ceremony-contributor-2023-logo-1697634378053.png" alt="KZG Ceremony Contributor" width="375"><figcaption><a href="https://app.zerion.io/nfts/xdai/0x22c1f6050e56d2876009903609a2cc3fef83b415:6853025">KZG Ceremony Contributor</a></figcaption></figure>
 
 
 <div class="embed-link">
@@ -64,7 +64,7 @@ Thirdly, weeks before ending on a colorful note the visual art project, a tri-co
 
 Since then, after honing his skillsets as an **Ethereum app developer** and overcoming the learning curve of hackathons, his next blockchain-based artistic projects began: [Zinneke Rescue Mission](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf), to be preceded by [Mission Enrollment](https://mission-enrollment.daqhris.com/).&#x20;
 
-<div><figure><img src="https://assets.poap.xyz/ba72648e-b534-4630-80bf-caf648ee9ba9.png" alt="ETHGlobal Brussels 2024 Hacker (certified in Brussels)" width="375"><figcaption><p><a href="https://gnosis.blockscout.com/token/0x22c1f6050e56d2876009903609a2cc3fef83b415/instance/7187414">ETHGlobal Brussels 2024</a></p></figcaption></figure> <figure><img src="https://assets.poap.xyz/a1aed95e-3455-435f-8e8e-a13c1c4e7d29.png" alt="Superhack 2024 Hacker (certified by ETHGlobal)" width="375"><figcaption><p><a href="https://gnosis.blockscout.com/token/0x22c1f6050e56d2876009903609a2cc3fef83b415/instance/7187414">Superhack 2024</a></p></figcaption></figure></div>
+<div><figure><img src="https://assets.poap.xyz/ba72648e-b534-4630-80bf-caf648ee9ba9.png" alt="ETHGlobal Brussels 2024 Hacker (certified in Brussels)" width="375"><figcaption><a href="https://gnosis.blockscout.com/token/0x22c1f6050e56d2876009903609a2cc3fef83b415/instance/7187414">ETHGlobal Brussels 2024</a></figcaption></figure> <figure><img src="https://assets.poap.xyz/a1aed95e-3455-435f-8e8e-a13c1c4e7d29.png" alt="Superhack 2024 Hacker (certified by ETHGlobal)" width="375"><figcaption><a href="https://gnosis.blockscout.com/token/0x22c1f6050e56d2876009903609a2cc3fef83b415/instance/7187414">Superhack 2024</a></figcaption></figure></div>
 
 <p align="center"></p>
 

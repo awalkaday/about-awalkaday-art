@@ -25,7 +25,7 @@ permalink: /evolution-of-a-trek-on-platforms/
 [ethereum.md](ethereum.md)
 
 
-<figure><img src="https://i4ctj3fmalpaczcuwj2xhq7jx4kg7ktaxybmjkynlkbpcscz53jq.arweave.net/RwU07KwC3gFkVLJ1c8PpvxRvqmC-AsSrDVqC8UhZ7tM" alt="awalkaday 25-2022"><figcaption><p><strong>awalkaday 25-2022</strong></p></figcaption></figure>
+<figure><img src="https://i4ctj3fmalpaczcuwj2xhq7jx4kg7ktaxybmjkynlkbpcscz53jq.arweave.net/RwU07KwC3gFkVLJ1c8PpvxRvqmC-AsSrDVqC8UhZ7tM" alt="awalkaday 25-2022"><figcaption>awalkaday 25-2022</figcaption></figure>
 
 <p align="center"></p>
 

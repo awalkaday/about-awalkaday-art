@@ -1,6 +1,6 @@
 ---
 title: "ARTIST STATEMENT"
-description: "Disclosures and essential information written in the first person"
+description: "Disclosures and essential information written in the first and third person"
 ---
 
 
@@ -24,11 +24,8 @@ Below is the HTML code of a Frequently Asked Questions webpage, preserved exactl
   <a href="https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f" rel="noopener" target="_blank">github.com</a>
 </div>
 
-
-
 <!-- a-walk_a-day.html -->
 ```
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -70,8 +67,6 @@ Below is the HTML code of a Frequently Asked Questions webpage, preserved exactl
 </body>
 </html>
 ```
-```
-
 
 The three-bar symbol [`≡`](https://en.wikipedia.org/wiki/Triple_bar), synonymous with the two-way street sign ↔, piqued my interest as an indicator of logical equivalence and the monetary unit of a currency on the Ethereum blockchain.&#x20;
 
@@ -94,12 +89,11 @@ The `awalkaday` building blocks became once again the focus of my geeky attentio
   <a href="https://daqhris.com/fcc-cert/" rel="noopener" target="_blank">daqhris.com</a>
 </div>
 
-
 This book displays a mix of texts copied and modified from [about.awalkaday.art](https://about.awalkaday.art) — an online page as old as the project's earliest footprints — with poetic writings narrating a _'crème de la crème'_ artwork, which is illustrated by evocative `awalkaday` photographs.&#x20;
 
 Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done, and lived from an objective perspective, and also hint at what has come to pass.&#x20;
 
-<figure><img src="https://wsxgsr6e2fq4xoktdz3sqpudk7wusjy5lsip2zdramftcwphlkdq.arweave.net/tK5pR8TRYcu5Ux53KD6DV-1JJx1ckP1kcQMLMVnnWoc" alt=""><figcaption><p><strong>awalkaday 48-2022</strong></p></figcaption></figure>
+<figure><img src="https://wsxgsr6e2fq4xoktdz3sqpudk7wusjy5lsip2zdramftcwphlkdq.arweave.net/tK5pR8TRYcu5Ux53KD6DV-1JJx1ckP1kcQMLMVnnWoc" alt=""><figcaption>awalkaday 48-2022</figcaption></figure>
 
 ### Memory Work (2024)
 
@@ -107,7 +101,7 @@ Peering into photographs devoid of humans, combing through scattered data trails
 
 Traveling back in my mind's timeline, against my brain's resistance, was made a breeze by the patronage of a British artist and theatre-maker who provided rent-free housing on the hilltop of an avenue honoring Mount Kemmel in Brussels, at a flat overlooking the Park of Forest where rose up inspiration, for nearly a year and a half (2023-2025).&#x20;
 
-<figure><img src="https://7qcx5f3hkbvgk5mz33xc3cpbuxozanrxhfpl7qinekgqyptnkuea.arweave.net/_AV-l2dQamV1md7uLYnhpd2QNjc5Xr_BDSKNDD5tVQg" alt=""><figcaption><p><strong>awalkaday 172-2022</strong></p></figcaption></figure>
+<figure><img src="https://7qcx5f3hkbvgk5mz33xc3cpbuxozanrxhfpl7qinekgqyptnkuea.arweave.net/_AV-l2dQamV1md7uLYnhpd2QNjc5Xr_BDSKNDD5tVQg" alt=""><figcaption>awalkaday 172-2022</figcaption></figure>
 
 For an accurate time-stamped record of the book's drafts, or an analysis of my public edits scribbled down in `git` commits, please visit the source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis and over a long time window, is available [here](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency).&#x20;
 
@@ -121,31 +115,30 @@ For an accurate time-stamped record of the book's drafts, or an analysis of my p
 
 <div class="hint hint-info">
 
-#### Most of this book is written in the third person, referring to _**Chris-Armel**_, _**daqhris**, **he**_ or _**his roles**_ — somehow no trace of the family name _**Iradukunda**._ It is not stylistic affectation, rather a necessary writing method decoded in four ways below:
+Most of this book is written in the third person, referring to _Chris-Armel_, _daqhris_, _he_ or _his roles_ — somehow no trace of the family name _Iradukunda_. It is not stylistic affectation, rather a necessary writing method decoded in four ways below:
 
 </div>
 
-* <mark style="color:$info;">**i-Protection:**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">Eight years of walks compress years of financial precarity, rejection letters, awareness of being the</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">'other'</mark>_ <mark style="color:$info;"></mark><mark style="color:$info;">in public space, threat attack mitigation, exile's social isolation, zero employment contract, healthcare access denial, power-abusers retribution, homelessness, hypervigilance, uncertain future, etc. First person requires reliving. Third person allows recording.</mark>
-* <mark style="color:$info;">**Objectivity Under Scrutiny:**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">As an immigrant whose belonging rights are a subject of recurring debates, my subjective testimony is often suspect, silenced or surveilled. Immigration</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">'interviews'</mark>_ <mark style="color:$info;"></mark><mark style="color:$info;">were tainted by a hostile assumption of faking suffering for sympathy gain. Third person borrows the authority of the binary archive spread around third-party networks that don't ask to be believed; they simply are.</mark> &#x20;
-* <mark style="color:$info;">**Archival Consciousness:**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">Though forced to interrupt studies in computer engineering, I built an infrastructure for my artworks to reach all ports of the cybernetic universe on digital rails. This work is designed to outlive me across long-lasting and neutral systems, such as decentralized storage. These computing systems speak in third person. I match their voice.</mark>&#x20;
-* <mark style="color:$info;">**Memory's Limitations:**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">I cannot reliably recall all memories or resurface all snapshots. Some periods are fragmentary, obscured by trauma or time. Photographs and timestamps contribute what memory cannot naturally. Third person acknowledges this gap between experience and evidence.</mark>
+* *i-Protection: Eight years of walks compress years of financial precarity, rejection letters, awareness of being the 'other' in public space, threat attack mitigation, exile's social isolation, zero employment contract, healthcare access denial, power-abusers retribution, homelessness, hypervigilance, uncertain future, etc. First person requires reliving. Third person allows recording.*&#x20;
+* *Objectivity Under Scrutiny: As an immigrant whose belonging rights are a subject of recurring debates, my subjective testimony is often suspect, silenced or surveilled. Immigration 'interviews' were tainted by a hostile assumption of faking suffering for sympathy gain. Third person borrows the authority of the binary archive spread around third-party networks that don't ask to be believed; they simply are.* &#x20;
+* *Archival Consciousness: Though forced to interrupt studies in computer engineering, I built an infrastructure for my artworks to reach all ports of the cybernetic universe on digital rails. This work is designed to outlive me across long-lasting and neutral systems, such as decentralized storage. These computing systems speak in third person. I match their voice.* &#x20;
+* *Memory's Limitations: I cannot reliably recall all memories or resurface all snapshots. Some periods are fragmentary, obscured by trauma or time. Photographs and timestamps contribute what memory cannot naturally. Third person acknowledges this gap between experience and evidence.*
 
 <div class="hint hint-info">
 
-#### The artist book's **literary**, **cultural**, **political** precedents which are colored by resembling stylistic traits are:&#x20;
+The artist book's **literary**, **cultural**, **political** precedents which are colored by resembling stylistic traits are:&#x20;
 
 </div>
 
-* <mark style="color:$info;">**Julius Caesar**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">wrote</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">**"Commentarii"**</mark>_ <mark style="color:$info;"></mark><mark style="color:$info;">about his military campaigns in third person (self-documentation and self-mythologizing). Centuries later,</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**Charles de Gaulle**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">followed suit,</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">**"Mémoires de guerre"**</mark>_<mark style="color:$info;">.</mark>
-* <mark style="color:$info;">**Henry Adams**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">wrote</mark> _<mark style="color:$info;">**"The Education of Henry Adams"**</mark>_ <mark style="color:$info;"></mark><mark style="color:$info;">in third person to examine himself as case study, objectified for analysis.</mark>
-* <mark style="color:$info;">**W.G. Sebald**</mark><mark style="color:$info;">'s narrators observe themselves observing, creating dreamlike distance.</mark>
-* <mark style="color:$info;">**Gertrude Stein**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">ventriloquized herself through</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">**'Alice B. Toklas'**</mark>_<mark style="color:$info;">.</mark>
-* <mark style="color:$info;">**W.E.B. Du Bois's**</mark><mark style="color:$info;">**&#x20;**</mark>_<mark style="color:$info;">**'double consciousness'**</mark>_<mark style="color:$info;">: the necessity of seeing oneself through the gaze of systems that mark you as</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">other</mark>_<mark style="color:$info;">. As an African exiled in Europe, I exist in this dual consciousness — my lived experience and the bureaucratic third-person that defines my (non-)status.</mark>
-* <mark style="color:$info;">**Afrofuturism's archival urgency**</mark><mark style="color:$info;">: the practice of creating permanent records when dominant systems erase or distort one's existence.</mark>&#x20;
+* *Julius Caesar* wrote *"Commentarii"* about his military campaigns in third person (self-documentation and self-mythologizing). Centuries later, *Charles de Gaulle* followed suit, *"Mémoires de guerre"*. *Henry Adams* wrote *"The Education of Henry Adams"* in third person to examine himself as case study, objectified for analysis.&#x20;
+* *W.G. Sebald*'s narrators observe themselves observing, creating dreamlike distance.&#x20;
+* *Gertrude Stein* ventriloquized herself through *'Alice B. Toklas'*.&#x20;
+* *W.E.B. Du Bois's* 'double consciousness'*: the necessity of seeing oneself through the gaze of systems that mark you as _other_. As an African exiled in Europe, I exist in this dual consciousness — my lived experience and the bureaucratic third-person that defines my (non-)status.&#x20;
+* *Afrofuturism's archival urgency*: the practice of creating permanent records when dominant systems erase or distort one's existence.&#x20;
 
 <div class="hint hint-info">
 
-#### The **omniscient narrator** is not neutral. They speak as a system that tracked my existence, then compiled to narrate on my terms. Where the first person appears, it marks moments of direct address. These ruptures, of breaking the archival frame, are intentional.&#x20;
+The **omniscient narrator** is not neutral. They speak as a system that tracked my existence, then compiled to narrate on my terms. Where the first person appears, it marks moments of direct address. These ruptures, of breaking the archival frame, are intentional.&#x20;
 
 </div>
 

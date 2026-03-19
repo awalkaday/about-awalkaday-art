@@ -3,7 +3,6 @@ title: "Contact"
 ---
 
 
-
 <div class="embed-link">
   <a href="https://www.instagram.com/p/BXlkT6igTqq/?utm_source=ig_web_button_share_sheet" rel="noopener" target="_blank"></a>
 </div>

@@ -5,7 +5,7 @@ title: "IMPRINT"
 ### Public Licensing
 
 **ISBN**: [▬▬▬ ▬ ▬▬ ▬▬▬▬▬▬ ▬](https://en.wikipedia.org/wiki/ISBN) \
-&#xNAN;_&#x54;his book ID is absent from the_ [_Royal Library_](https://en.wikipedia.org/wiki/Royal_Library_of_Belgium)_,_\
+_&#x54;his book ID is absent from the_ [_Royal Library_](https://en.wikipedia.org/wiki/Royal_Library_of_Belgium)_,_\
 _Until the activation of its author's human ID._
 
 **Photos,** **Writings**: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)\
@@ -33,7 +33,6 @@ Its legal rights shall be governed by [Belgian law](https://www.wipo.int/wipolex
 ### Online Shop
 
 If this book has moved you, the photographs that sparked it are available as collectible tokens. Each token preserves a visual proof that someone walked, observed, and documented a human life that did not vanish in our collective memory. Your collection supports the artist and keeps his artworks alive.
-
 
 <div class="embed-link">
   <a href="https://collect.awalkaday.art" rel="noopener" target="_blank">

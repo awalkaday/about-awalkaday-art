@@ -10,21 +10,17 @@ Blessed by the angelic support of a cryptocurrency wallet, that had been activat
 
 
 <div class="embed-link">
-  <a href="https://eth.blockscout.com/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b" rel="noopener" target="_blank">
-<figure class="embed-media">
-  <img src="https://arweave.net/YUAAmDamuHChXj-NssLZxiYHsesYNUlQjazoh3I-4ZQ" alt="" loading="lazy">
-</figure>
-
-awalkaday 78-2022</a>
+  <a href="https://eth.blockscout.com/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b" rel="noopener" target="_blank"></a>
 </div>
-
+<figure class="embed-media">
+  <img src="https://arweave.net/YUAAmDamuHChXj-NssLZxiYHsesYNUlQjazoh3I-4ZQ" alt="awalkaday 78-2022" loading="lazy">
+<figcaption>awalkaday 78-2022</figcaption></figure>
 
 [Ethereum](https://ethereum.org/) is a decentralized blockchain platform that allows developers to deploy self-executing code in the form of smart contracts and applications. The artworks were wrapped in a smart contract, recorded in the public ledger as [**awalkaday.art**](https://eth.blockscout.com/name-services/domains/awalkaday.art), and self-published so that they can be preserved, collected and exchanged. The smart contract address is [`0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1`](https://etherscan.io/address/0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1) and its source code has a file on-display below. Its ASCII art depicts the `awalkaday` logo encoded in the contract itself.<br>
 
 
-<!-- Contract Source Code — File 1 of 5 : WALK.sol -->
 ```
-```solidity
+Contract Source Code — File 1 of 5 : WALK.sol
 
 // SPDX-License-Identifier: MIT
 
@@ -75,10 +71,7 @@ contract WALK is ERC721Creator {
 }
 
 ```
-```
 
-
-\
 The monochromatic snapshots were assembled, named, and minted during a wintertime stay as a homeless person. The location: the ironically-named [Palais des Droits](https://archive.is/2JkUB), a state-owned financial building which had been converted into a squalid squat. He publicly safeguarded them on a financial network of computers on [Valentine's Day](https://etherscan.io/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b) in 2023, fortunately one day before a [scheduled eviction](https://www.lalibre.be/belgique/societe/2023/02/09/schaerbeek-le-palais-des-droits-sera-vide-pour-le-15-fevrier-J4FJQRA6UBGYNA2I4KKPDM27LA/) from the infamous shelter in Schaerbeek.
 
 Once released into a sovereign financial ecosystem, the fear of losing the `awalkaday` photographs vanished into thin air, transcended the confines of his last encrypted device — the Android One — whose secure updates had been halted near the [end of 2022](https://source.android.com/docs/security/bulletin/2022-12-01).

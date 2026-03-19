@@ -3,20 +3,17 @@ title: "APPENDIX"
 description: "Three extra spatial stories about the impact of the Belgian-made pixels on Earth and Ethereum"
 ---
 
-
 ### The Cover Photo's Secret
 
 The photograph on the [cover](./), **`awalkaday 251-2022`**, was shot, edited and published online before a sculpture was later installed on the same site inside a public park in Namur (Wallonia, Belgium).
 
-<figure><img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="" width="188"><figcaption><p><strong>awalkaday 251-2022</strong></p></figcaption></figure>
+<figure><img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="" width="188"><figcaption>awalkaday 251-2022</figcaption></figure>
 
 This black-and-white photo captured a fleeting moment. It preserves for ages a romantic outdoor scene: a couple of people sitting in the open air on the grass under a glowing tree.
-
 
 <div class="embed-link">
   <a href="https://thehug.xyz/artists/daqhris/portfolio/item/6e2d07d3-3f4a-438c-b0e7-1224f7dcecfa" rel="noopener" target="_blank">Check out the onchain photo on The Hug.</a>
 </div>
-
 
 Sculpted in bronze by Belgian artist [Nat Neujean](https://www.natneujean.com/), [**The Daughters of Water**](https://statues.vanderkrogt.net/object.php?webpage=ST\&record=bena030) **(1951)** depicts two intertwined nymphs, symbolizing two European rivers: [Meuse](https://en.wikipedia.org/wiki/Meuse) and [Sambre](https://en.wikipedia.org/wiki/Sambre). The colorful photographs of the sculpture were taken on the **8th day of May 2024**, a day that commemorates the Second World War-ending victory of democracy over fascist ideologies across Europe in the mid-20th century.
 

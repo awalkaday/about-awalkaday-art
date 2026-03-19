@@ -16,7 +16,7 @@ title: "One Step Forward"
 
 <p align="center">◈</p>
 
-<h3 align="center"><mark style="color:$info;">book.</mark>awalkaday.art</h3>
+<h3 align="center">book.awalkaday.art</h3>
 
 <p align="center"><strong>Made in the Kingdom of Belgium</strong><br><em>An Undocumented Artistic Product Of Afro-Surrealism,</em><br><em>By An Undocumented Artist On The Land of Surrealism.</em></p>
 

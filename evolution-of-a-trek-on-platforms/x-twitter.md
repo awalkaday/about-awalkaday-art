@@ -16,15 +16,13 @@ News and viewpoints related to the photo collection have been broadcast on X, wh
   <figcaption>awalkaday 220-2022</figcaption>
 </figure>
 
-
 When his body no longer laid down on a soft bed in the snowy year-end of 2022, his Twitter account became a speakerphone broadcasting a near-bankruptcy effort to sell valuable assets amassed in the ethereal world of a blockchain. Back then, the [live-tweeted](https://x.com/awalkadayart/status/1621189034201567233) photo of a popular newspaper played the role of a spokesperson relaying his inhumane misfortune on February 2, 2023.&#x20;
 
 Going forward, in synchronized motion with his teary eyes, his smartphone camera turned a blind eye to interior tearings and exterior walkways in favor of preserving only a digital façade connected to peers through networking.  &#x20;
 
+```
+5:49 pm · 2 Feb 2023 
 
-<!-- 5:49 pm · 2 Feb 2023 -->
-```
-```
 I'm selling in order to be able to rent a convenient place to live. 
 
 At the moment, I'm living in a squat in Brussels ("Paleis"/"Palais des Droits").
@@ -33,10 +31,9 @@ Since December 2022, I'm stuck trying to be productive and creative while living
 
 (https://www.bruzz.be/tag/palais-des-droits)
 ```
-```
 
 
-<div data-with-frame="true"><figure><img src="https://pbs.twimg.com/media/Fn-e1ZGWAAQHvnA?format=jpg&#x26;name=4096x4096" alt="" width="563"><figcaption><p> Photo of the BRUZZ weekly newspaper, Edition of 18 January 2023, Pages 10-11</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="https://pbs.twimg.com/media/Fn-e1ZGWAAQHvnA?format=jpg&#x26;name=4096x4096" alt="" width="563"><figcaption>Photo of the BRUZZ weekly newspaper, Edition of 18 January 2023, Pages 10-11</figcaption></figure></div>
 
 <p align="center"></p>
 

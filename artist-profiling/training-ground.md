@@ -17,18 +17,12 @@ Beginning in 2013 with accelerated dual immersion — in a Chinese urban culture
 
 On the holiday marking the end of the Chinese New Year celebrations, he did not skip holding a brand-new computer on his lap. Instead of lighting lanterns on a festival day, 乔里斯 _'Qiao Li Si'_ used his coder name `daqhris` to release GIT commits inside a cloud environment of foreign computer servers. The commits of February 22, 2016 were effective at merging a [#1 request for code changes](https://github.com/daqhris/hello-world/pull/1) into his _hello-world_ repository on GitHub. A plain-text [comment](https://github.com/daqhris/hello-world/pull/1/commits/f3e3d7497d7ac6163e6d94d01e313ce2e5591567) was hooked to the commit [Finish README](https://github.com/daqhris/hello-world/pull/1/)_,_ scribbled down in Markdown language during school vacation to say what's next.
 
-
-```
 ```
 Few bits of details about myself, don't bother reading, pass it on to your kids! Cheers to restraining your ego. 😄 
 ```
+
 ```
-
-
-
-<!-- hello-world/README.md -->
-```
-```markdown
+hello-world/README.md  
 # hello-world
 
 Amahoro!  
@@ -38,12 +32,10 @@ This is my Hello World project. It is a made of results of my first GitHub tutor
 This winter is wrecking my bones and brains. Therefore, I am cheerfully answering a hotline bling call to pick up on the fingers and nerves break dance! (just don't wanna miss my college grad bus :D)
  
 ```
-```
-
 
 Later on, his artistic style cheaply improved upon digital photography techniques, aided by open-source computing software, playgrounds in public spaces, and dormant engineering knowhow. The `awalkaday` photographs are monochrome with a 1:1 aspect ratio, and capture fleeting memories recorded during walks geofenced to Belgian and, in part, broader European landscapes.
 
-<figure><img src="https://xfme3cnkqhrv2cypjwb56rxvm3xjp2vaoevjswevtnpewduvzewa.arweave.net/uVhNiaqB410LD02D30b1Zu6X6qBxKplYlZteSw6VySw" alt=""><figcaption><p><strong>awalkaday 89-2022</strong></p></figcaption></figure>
+<figure><img src="https://xfme3cnkqhrv2cypjwb56rxvm3xjp2vaoevjswevtnpewduvzewa.arweave.net/uVhNiaqB410LD02D30b1Zu6X6qBxKplYlZteSw6VySw" alt=""><figcaption>awalkaday 89-2022</figcaption></figure>
 
 
 

@@ -17,7 +17,7 @@ Once upon a snowy day of 2015, enriched by acting in the background of state-pro
 
 Unfortunately, the gaming computer first mysteriously crashed in the winter of 2017, but was resurrected the next year, and finally, relapsed four years later, during a malware analysis in the winter of 2022. The nearly decade-old computing device, still alive and undiagnosed in his care, eventually regained basic functionality under [Ubuntu](https://ubuntu.com/desktop)-flavored [`linux`](https://www.redhat.com/en/topics/linux/what-is-linux) software.
 
-<figure><img src="https://r66m6blkscdslv4l3y5pfdfuxed2ddxqp3uqyiyvyliwemlaotpq.arweave.net/j7zPBWqQhyXXi9468oy0uQehjvB-6QwjFcLRYjFgdN8" alt="awalkaday 32-2022"><figcaption><p><strong>awalkaday 32-2022</strong></p></figcaption></figure>
+<figure><img src="https://r66m6blkscdslv4l3y5pfdfuxed2ddxqp3uqyiyvyliwemlaotpq.arweave.net/j7zPBWqQhyXXi9468oy0uQehjvB-6QwjFcLRYjFgdN8" alt="awalkaday 32-2022"><figcaption>awalkaday 32-2022</figcaption></figure>
 
 A second-hand lightweight laptop — made by an American enterprise esteemed for Second World War efforts from a one-car garage — was bargained out of a gamer friend's hands in exchange of cash from a land-based construction job in the spring of 2023. The **HP Elitebook** laptop, a military grade computer, helped the mobile photographer to finish off the mission of cloud-based construction from Brussels, post-tokenization of photos on [Ethereum](../evolution-of-a-trek-on-platforms/ethereum.md).&#x20;
 
