@@ -41,14 +41,14 @@
   children:
     - title: "Instagram"
       url: evolution-of-a-trek-on-platforms/instagram
-    - title: "X (Twitter)"
-      url: evolution-of-a-trek-on-platforms/x-twitter
     - title: "GitHub"
       url: evolution-of-a-trek-on-platforms/github
-    - title: "Ethereum"
-      url: evolution-of-a-trek-on-platforms/ethereum
     - title: "Web Gallery"
       url: evolution-of-a-trek-on-platforms/web-gallery
+    - title: "X (Twitter)"
+      url: evolution-of-a-trek-on-platforms/x-twitter
+    - title: "Ethereum"
+      url: evolution-of-a-trek-on-platforms/ethereum
 
 - title: "Artist's Proofs and Ethos"
   url: artists-proofs-and-ethos
