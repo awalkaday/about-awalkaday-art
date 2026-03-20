@@ -163,7 +163,7 @@ html, body {
   justify-content: center;
   align-items: center;
   min-height: 130mm;
-  padding: 10mm 15mm;
+  padding: 0mm;
   page-break-after: always;
   page-break-inside: avoid;
 }
@@ -451,7 +451,7 @@ pre code { background: none; padding: 0; }
 .book-cover .embed-media img {
   max-height: 70mm;
   width: auto;
-  margin: 4mm auto;
+  margin: auto;
 }
 
 /* ── External link cards (print) ─────────────────────────────── */
