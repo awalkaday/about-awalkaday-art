@@ -63,12 +63,12 @@
 - title: "Artist Profiling"
   url: artist-profiling
   children:
-    - title: "Project Inception"
-      url: artist-profiling/project-inception
     - title: "Human Identity"
       url: artist-profiling/human-identity
     - title: "Training Ground"
       url: artist-profiling/training-ground
+    - title: "Project Inception"
+      url: artist-profiling/project-inception
 
 - title: "Contact"
   url: contact
