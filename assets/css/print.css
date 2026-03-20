@@ -99,9 +99,7 @@
 @page {
   size: 210mm 210mm;
   margin: 20mm 18mm 25mm 22mm;
-}
 
-  /* Running header: book title on left pages, chapter title on right */
   @top-left {
     content: string(book-title);
     font-family: var(--font-ui);
@@ -116,8 +114,6 @@
     font-size: 8pt;
     color: var(--color-muted);
   }
-
-  /* Page number centered at the bottom */
   @bottom-center {
     content: counter(page);
     font-family: var(--font-ui);
@@ -286,8 +282,8 @@ p {
   margin-bottom: 4mm;
   text-align: justify;
   hyphens: auto;
-  orphans: 3;   /* minimum lines at bottom of page */
-  widows: 3;    /* minimum lines at top of page */
+  orphans: 2;
+  widows: 2;
 }
 
 /* First paragraph after heading: no indent */
@@ -336,7 +332,6 @@ img {
   height: auto;
   display: block;
   margin: 5mm auto;
-  page-break-inside: avoid;
 }
 
 figure {
@@ -445,11 +440,11 @@ pre code { background: none; padding: 0; }
 .embed-media {
   margin: 5mm auto;
   text-align: center;
-  page-break-inside: avoid;
+  break-inside: avoid-page;
 }
 .embed-media img {
   max-width: 100%;
-  max-height: 110mm;
+  max-height: 95mm;
   height: auto;
 }
 .embed-media figcaption {
