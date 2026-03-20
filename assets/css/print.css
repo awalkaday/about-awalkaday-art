@@ -132,7 +132,7 @@
 
 /* Cover page: no header/footer, no page number */
 @page cover {
-  margin: 20mm 18mm 25mm 22mm;
+  margin: 0;
   @top-left   { content: none; }
   @top-right  { content: none; }
   @bottom-center { content: none; }
@@ -170,8 +170,8 @@ html, body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  min-height: 140mm;
-  padding: 10mm;
+  min-height: 130mm;
+  padding: 0;
   page-break-after: always;
 }
 
