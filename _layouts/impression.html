@@ -17,6 +17,23 @@
   <!-- Print stylesheet (no screen styles here) -->
   <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}">
 
+  <style>
+  @media screen and (max-width: 600px) {
+    .pagedjs_page {
+      transform-origin: top left;
+      transform: scale(0.45);
+      margin-bottom: calc((210mm * 0.45) - 210mm);
+    }
+  }
+  @media screen and (min-width: 601px) and (max-width: 900px) {
+    .pagedjs_page {
+      transform-origin: top left;
+      transform: scale(0.65);
+      margin-bottom: calc((210mm * 0.65) - 210mm);
+    }
+  }
+  </style>
+
   <!--
     Paged.js — vendored locally for full offline/State B independence.
     Source: assets/js/paged.polyfill.js (committed to git).
