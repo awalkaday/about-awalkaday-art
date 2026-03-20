@@ -231,6 +231,30 @@ html, body {
   page: auto;
 }
 
+/* Prevent title and description from standing alone on a page */
+.chapter h1 {
+  page-break-after: avoid;
+  page-break-before: avoid;
+}
+
+.chapter h1 + p,
+.chapter h1 + * {
+  page-break-before: avoid;
+}
+
+.chapter p.chapter-description,
+.chapter h1 + em,
+.chapter h1 + p em {
+  page-break-after: avoid;
+}
+
+.chapter h1 + p + * {
+  page-break-before: avoid;
+}
+
+.chapter > p:first-of-type {
+  page-break-after: avoid;
+}
 
 /* ── Typography ───────────────────────────────────────────────── */
 h1 {
@@ -241,6 +265,7 @@ h1 {
   margin-top: 0;
   margin-bottom: 8mm;
   page-break-after: avoid;
+  page-break-before: avoid;
 }
 
 h2 {
