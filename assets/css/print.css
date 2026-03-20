@@ -122,17 +122,9 @@
   }
 }
 
-@page :left {
-  margin: 20mm 20mm 25mm 20mm;
-}
-
-@page :right {
-  margin: 20mm 20mm 25mm 20mm;
-}
-
-/* Cover page: no header/footer, no page number */
+/* Cover page: same margins as all other pages, no headers or page number */
 @page cover {
-  margin: 0;
+  margin: 20mm 18mm 25mm 22mm;
   @top-left   { content: none; }
   @top-right  { content: none; }
   @bottom-center { content: none; }
