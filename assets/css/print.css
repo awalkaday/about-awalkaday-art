@@ -144,13 +144,6 @@
   @bottom-center { content: none; }
 }
 
-/* Chapter opener pages: no running header, page number still shows */
-@page chapter-start {
-  @top-left  { content: none; }
-  @top-right { content: none; }
-}
-
-
 /* ── Reset ────────────────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -223,12 +216,6 @@ html, body {
 /* ── Chapters ─────────────────────────────────────────────────── */
 .chapter {
   page-break-before: always;  /* each chapter starts on a new page */
-  page: chapter-start;        /* first page of chapter: no running header */
-}
-
-/* After the first page of a chapter, return to default @page rules */
-.chapter > * + * {
-  page: auto;
 }
 
 /* Prevent title and description from standing alone on a page */
