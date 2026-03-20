@@ -174,10 +174,10 @@ html, body {
   page: cover;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: flex-start;
-  min-height: 100vh;   /* Paged.js fills the cover page */
-  padding: 25mm 22mm;
+  min-height: 160mm;
+  padding: 20mm;
   page-break-after: always;
 }
 
