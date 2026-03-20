@@ -56,15 +56,15 @@ _A token of gratitude goes to:_&#x20;
 
 #### Online Book Publishing
 
-<div align="left"><figure><picture><source srcset=".gitbook/assets/GitBook - Light Logo.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/GitBook - Dark Logo.jpg" alt="" width="151"></picture><figcaption><a href="https://www.g2.com/products/gitbook/reviews/gitbook-review-9962377">Business Plan for Open-Source</a></figcaption></figure></div>
+<div align="left"><figure><picture><source srcset="/.gitbook/assets/GitBook - Light Logo.png" media="(prefers-color-scheme: dark)"><img src="/.gitbook/assets/GitBook - Dark Logo.jpg" alt="" width="151"></picture><figcaption><a href="https://www.g2.com/products/gitbook/reviews/gitbook-review-9962377">Business Plan for Open-Source</a></figcaption></figure></div>
 
 <h4 align="right">Source Code Hosting</h4>
 
-<div align="right"><figure><picture><source srcset=".gitbook/assets/GitHub_Lockup_Light.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/GitHub_Lockup_Dark.png" alt="" width="188"></picture><figcaption><a href="https://github.com/awalkaday">Open-Source Organization account</a></figcaption></figure></div>
+<div align="right"><figure><picture><source srcset="/.gitbook/assets/GitHub_Lockup_Light.png" media="(prefers-color-scheme: dark)"><img src="/.gitbook/assets/GitHub_Lockup_Dark.png" alt="" width="188"></picture><figcaption><a href="https://github.com/awalkaday">Open-Source Organization account</a></figcaption></figure></div>
 
 #### Coding School
 
-<div align="left"><figure><picture><source srcset=".gitbook/assets/freecodecamp_logo (1).png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/freecodecamp_alternative_logo.png" alt="" width="188"></picture><figcaption><a href="https://www.freecodecamp.org/certification/daqhris/responsive-web-design">Web Design &#x26; Development</a> <em>('16, '18, '20-'21)</em></figcaption></figure></div>
+<div align="left"><figure><picture><source srcset="/.gitbook/assets/freecodecamp_logo (1).png" media="(prefers-color-scheme: dark)"><img src="/.gitbook/assets/freecodecamp_alternative_logo.png" alt="" width="188"></picture><figcaption><a href="https://www.freecodecamp.org/certification/daqhris/responsive-web-design">Web Design &#x26; Development</a> <em>('16, '18, '20-'21)</em></figcaption></figure></div>
 
 <h4 align="right">Internet Registry</h4>
 
@@ -76,7 +76,7 @@ _A token of gratitude goes to:_&#x20;
 
 <h4 align="right">Data Preservation</h4>
 
-<div align="right"><figure><picture><source srcset=".gitbook/assets/dark@2x.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/light@2x.png" alt="" width="158"></picture><figcaption><a href="https://www.arweave.org/use/">Permanent storage of photos</a> <em>('23)</em></figcaption></figure></div>
+<div align="right"><figure><picture><source srcset="/.gitbook/assets/dark@2x.png" media="(prefers-color-scheme: dark)"><img src="/.gitbook/assets/light@2x.png" alt="" width="158"></picture><figcaption><a href="https://www.arweave.org/use/">Permanent storage of photos</a> <em>('23)</em></figcaption></figure></div>
 
 #### Blockchain Network
 
@@ -84,7 +84,7 @@ _A token of gratitude goes to:_&#x20;
 
 <h4 align="right">Brussels Public Library</h4>
 
-<div align="right"><figure><picture><source srcset=".gitbook/assets/MPS_Muntpunt_2022_White_RGB98.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/MPS_Muntpunt_2022_Black_RGB98.png" alt="https://muntpunt.be/" width="150"></picture><figcaption><a href="https://x.com/search?q=from%3A%40awalkadayart%20%40muntpunt&#x26;src=typed_query&#x26;f=top">Inspired by photo &#x26; art books</a> <em>('22-'24)</em></figcaption></figure></div>
+<div align="right"><figure><picture><source srcset="/.gitbook/assets/MPS_Muntpunt_2022_White_RGB98.png" media="(prefers-color-scheme: dark)"><img src="/.gitbook/assets/MPS_Muntpunt_2022_Black_RGB98.png" alt="https://muntpunt.be/" width="150"></picture><figcaption><a href="https://x.com/search?q=from%3A%40awalkadayart%20%40muntpunt&#x26;src=typed_query&#x26;f=top">Inspired by photo &#x26; art books</a> <em>('22-'24)</em></figcaption></figure></div>
 
 <div align="center"><figure><img src="https://456r5hpaktnuia4rvgd23ue2gnci6iy5cshax7565emfz3wj4eua.arweave.net/530eneBU20QDkamHrdCaM0SPIx0Ujgv_vukYXO7J4Sg" alt="" width="375"><figcaption><code>awalkaday 105-2022</code> portrays <a href="https://muntpunt.be/over-muntpunt">Muntpunt</a></figcaption></figure></div>
 

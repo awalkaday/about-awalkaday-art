@@ -17,7 +17,7 @@ Much earlier fragments of his public code contributions were likely archived ins
 
 Looking way back, an initial foray into a central hub of GIT repositories in May 2011, at the [age of nineteen](https://github.com/daqhris?tab=overview\&from=2011-05-01\&to=2011-06-01) in Bujumbura, Burundi, seems comparable to planting a seed of innovation in the fertile soil of a burgeoning digital platform.&#x20;
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/Screenshot-daqhris-GitContributions-Activity-2011.png" alt="" width="447"><figcaption>Screenshot of 1st activity, as Git user and contributor, time-stamped to <a href="https://github.com/daqhris?from=2011-05-01&#x26;tab=overview&#x26;to=2011-06-01">2011</a></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="/.gitbook/assets/Screenshot-daqhris-GitContributions-Activity-2011.png" alt="" width="447"><figcaption>Screenshot of 1st activity, as Git user and contributor, time-stamped to <a href="https://github.com/daqhris?from=2011-05-01&#x26;tab=overview&#x26;to=2011-06-01">2011</a></figcaption></figure></div>
 
 That seed has since blossomed into a time-stamped nomadic odyssey — rooted in cyberspace, sustained by a wandering slender figure, and grounded on Belgian soil — `awalkaday.art`_._
 

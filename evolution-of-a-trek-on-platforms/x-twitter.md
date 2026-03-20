@@ -5,7 +5,7 @@ description: Since November 2021
 
 [X](https://x.com/) allows users to share short-form media works while fostering real-time engagement in public conversations. Over time, it became a habit to navigate the digital sea of information, and to flock around inspiring figures twittering about a myriad of topics.
 
-<div data-with-frame="true"><figure class="embed-media"><img src="../.gitbook/assets/twitter-profile-summer2025.PNG" alt="Screenshot of the art project&#x27;s X profile"><figcaption>Header section on the profile page of the X user account</figcaption></figure></div>
+<div data-with-frame="true"><figure class="embed-media"><img src="/.gitbook/assets/twitter-profile-summer2025.PNG" alt="Screenshot of the art project&#x27;s X profile"><figcaption>Header section on the profile page of the X user account</figcaption></figure></div>
 
 News and viewpoints related to the photo collection have been broadcast on X, where the artist posting via [@awalkadayart](https://twitter.com/awalkadayart), connects with a diverse audience, announces key milestones, and builds relationships with artists, researchers, supporters, and collectors.
 

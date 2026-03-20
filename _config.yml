@@ -40,6 +40,9 @@ exclude:
   - _chapters/
   - "*.sh"
 
+include:
+  - .gitbook
+
 # Collections (optional — enable if you add image series as a collection)
 # collections:
 #   series:
