@@ -15,6 +15,7 @@ title: "Walking Memories — Print / PDF"
   <p class="book-meta">printlab.awalkaday.art · draft edition · 2026</p>
 </div>
 
+
 <section class="chapter" id="one-step-forward">
 {% capture chapter %}{% include_relative _chapters/one-step-forward.md %}{% endcapture %}
 {{ chapter | markdownify }}
@@ -90,23 +91,23 @@ title: "Walking Memories — Print / PDF"
 {{ chapter | markdownify }}
 </section>
 
-<section class="chapter" id="evolution-twitter">
-{% capture chapter %}{% include_relative _chapters/evolution-twitter.md %}{% endcapture %}
-{{ chapter | markdownify }}
-</section>
-
 <section class="chapter" id="evolution-github">
 {% capture chapter %}{% include_relative _chapters/evolution-github.md %}{% endcapture %}
 {{ chapter | markdownify }}
 </section>
 
-<section class="chapter" id="evolution-ethereum">
-{% capture chapter %}{% include_relative _chapters/evolution-ethereum.md %}{% endcapture %}
+<section class="chapter" id="evolution-web">
+{% capture chapter %}{% include_relative _chapters/evolution-web.md %}{% endcapture %}
 {{ chapter | markdownify }}
 </section>
 
-<section class="chapter" id="evolution-web">
-{% capture chapter %}{% include_relative _chapters/evolution-web.md %}{% endcapture %}
+<section class="chapter" id="evolution-twitter">
+{% capture chapter %}{% include_relative _chapters/evolution-twitter.md %}{% endcapture %}
+{{ chapter | markdownify }}
+</section>
+
+<section class="chapter" id="evolution-ethereum">
+{% capture chapter %}{% include_relative _chapters/evolution-ethereum.md %}{% endcapture %}
 {{ chapter | markdownify }}
 </section>
 
@@ -135,11 +136,6 @@ title: "Walking Memories — Print / PDF"
 {{ chapter | markdownify }}
 </section>
 
-<section class="chapter" id="artist-profiling-inception">
-{% capture chapter %}{% include_relative _chapters/artist-profiling-inception.md %}{% endcapture %}
-{{ chapter | markdownify }}
-</section>
-
 <section class="chapter" id="artist-profiling-human">
 {% capture chapter %}{% include_relative _chapters/artist-profiling-human.md %}{% endcapture %}
 {{ chapter | markdownify }}
@@ -147,6 +143,11 @@ title: "Walking Memories — Print / PDF"
 
 <section class="chapter" id="artist-profiling-training">
 {% capture chapter %}{% include_relative _chapters/artist-profiling-training.md %}{% endcapture %}
+{{ chapter | markdownify }}
+</section>
+
+<section class="chapter" id="artist-profiling-inception">
+{% capture chapter %}{% include_relative _chapters/artist-profiling-inception.md %}{% endcapture %}
 {{ chapter | markdownify }}
 </section>
 
