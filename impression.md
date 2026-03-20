@@ -6,15 +6,13 @@ title: "Walking Memories — Print / PDF"
 
 <div class="book-cover">
   <h1 class="book-title">Walking Memories</h1>
-  <p class="book-subtitle">An open-source artist's book tracing the digital footprints<br>
-  of an exiled wanderer and his Belgian pixels<br>
-  during an eight-year odyssey</p>
+  <p class="book-subtitle">An open-source artist's book tracing the digital footprints of an exiled wanderer and his Belgian pixels during an eight-year odyssey</p>
   <figure class="embed-media cover-photo">
     <img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="awalkaday 251-2022" loading="eager">
     <figcaption>awalkaday 251–2022</figcaption>
   </figure>
   <p class="book-author">Chris-Armel Iradukunda (daqhris)</p>
-  <p class="book-meta">awalkaday 251–2022</p>
+  <p class="book-meta">book.awalkaday.art · printlab edition · 2026</p>
 </div>
 
 <section class="chapter" id="one-step-forward">
