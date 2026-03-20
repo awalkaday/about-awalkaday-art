@@ -24,45 +24,6 @@
     Paged.js auto-runs when the DOM is ready.
   -->
   <script src="{{ '/assets/js/paged.polyfill.js' | relative_url }}"></script>
-  <style>
-  @media screen {
-    body {
-      background: #d0cdc8;
-      margin: 0;
-      padding: 3rem 1rem;
-    }
-
-    .pagedjs_pages {
-      display: grid;
-      grid-template-columns: repeat(2, auto);
-      gap: 0;
-      justify-content: center;
-      align-items: start;
-    }
-
-    /* Cover page spans both columns — it stands alone */
-    .pagedjs_page:first-child {
-      grid-column: 2 / 3;
-    }
-
-    /* Even pages (verso / left) align right */
-    .pagedjs_page:nth-child(even) {
-      justify-self: end;
-      box-shadow: -2px 2px 8px rgba(0,0,0,0.15);
-    }
-
-    /* Odd pages (recto / right) align left */
-    .pagedjs_page:nth-child(odd) {
-      justify-self: start;
-      box-shadow: 2px 2px 8px rgba(0,0,0,0.15);
-    }
-
-    /* Remove gap at the spine between facing pages */
-    .pagedjs_page:nth-child(even) + .pagedjs_page:nth-child(odd) {
-      margin-left: 0;
-    }
-  }
-</style>
 </head>
 <body class="layout-impression">
 

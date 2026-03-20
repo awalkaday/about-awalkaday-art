@@ -127,17 +127,13 @@
 
 /* Blank verso pages (even pages) — no running header */
 @page :left {
-  margin-left: 25mm;
-  margin-right: 15mm;
-  margin-top: 20mm;
-  margin-bottom: 25mm;
+  margin-left: 22mm;
+  margin-right: 18mm;
 }
-
+/* Recto pages (odd pages) */
 @page :right {
-  margin-left: 15mm;
-  margin-right: 25mm;
-  margin-top: 20mm;
-  margin-bottom: 25mm;
+  margin-left: 18mm;
+  margin-right: 22mm;
 }
 
 /* Cover page: no header/footer, no page number */
