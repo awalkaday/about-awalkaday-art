@@ -179,15 +179,6 @@ html, body {
   min-height: 100vh;   /* Paged.js fills the cover page */
   padding: 25mm 22mm;
   page-break-after: always;
-  page-break-inside: avoid;
-  min-height: 150mm;
-}
-
-.book-cover .cover-photo img {
-  max-height: 120mm;
-  width: auto;
-  display: block;
-  margin: 8mm auto;
 }
 
 .book-title {
