@@ -175,7 +175,7 @@ html, body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: flex-start;
+  align-items: center;
   min-height: 160mm;
   padding: 20mm;
   page-break-after: always;
