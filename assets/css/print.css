@@ -163,23 +163,24 @@ html, body {
   justify-content: center;
   align-items: center;
   min-height: 130mm;
-  padding: 20mm;
+  padding: 10mm 15mm;
   page-break-after: always;
+  page-break-inside: avoid;
 }
 
 .book-title {
   font-family: var(--font-ui);
-  font-size: 28pt;
+  font-size: 24pt;
   font-weight: 700;
   line-height: 1.1;
-  margin-bottom: 10mm;
+  margin-bottom: 6mm;
 }
 
 .book-subtitle {
-  font-size: 11pt;
+  font-size: 10pt;
   color: var(--color-muted);
   line-height: 1.5;
-  margin-bottom: 10mm;
+  margin-bottom: 6mm;
   max-width: 90mm;
 }
 
@@ -445,8 +446,13 @@ pre code { background: none; padding: 0; }
   word-break: break-all;
   margin-top: 1.5mm;
 }
-
 .embed-media figcaption a::after { content: none !important; }
+/* Cover photo constrained to keep all elements on one page */
+.book-cover .embed-media img {
+  max-height: 70mm;
+  width: auto;
+  margin: 4mm auto;
+}
 
 /* ── External link cards (print) ─────────────────────────────── */
 .embed-link {
