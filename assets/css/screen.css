@@ -7,8 +7,8 @@
 /* ── Custom properties ────────────────────────────────────────── */
 :root {
   --font-body:    "Merriweather", "Georgia", serif;
-  --font-ui:      "Source Sans 3", system-ui, -apple-system, sans-serif;
-  --font-mono:    "Fira Mono", "Courier New", monospace;
+  --font-ui:      "Merriweather", system-ui, -apple-system, serif;
+  --font-mono:    "Fira Mono", "Source Sans 3", monospace;
 
   --color-bg:         #faf9f7;
   --color-surface:    #ffffff;
