@@ -12,7 +12,7 @@ title: "Walking Memories — Print / PDF"
     <figcaption>awalkaday 251–2022</figcaption>
   </figure>
   <p class="book-author">Chris-Armel Iradukunda (daqhris)</p>
-  <p class="book-meta">book.awalkaday.art · printlab edition · 2026</p>
+  <p class="book-meta">printlab.awalkaday.art · draft edition · 2026</p>
 </div>
 
 <section class="chapter" id="one-step-forward">

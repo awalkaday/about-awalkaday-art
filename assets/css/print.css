@@ -193,20 +193,20 @@ html, body {
   font-size: 11pt;
   color: var(--color-muted);
   line-height: 1.5;
-  margin-bottom: 20mm;
+  margin-bottom: 10mm;
   max-width: 90mm;
 }
 
 .book-author {
   font-family: var(--font-ui);
-  font-size: 11pt;
+  font-size: 10pt;
   font-weight: 600;
   letter-spacing: 0.03em;
   margin-bottom: 3mm;
 }
 
 .book-meta {
-  font-size: 6pt;
+  font-size: 8pt;
   color: var(--color-muted);
   letter-spacing: 0.1em;
   text-transform: uppercase;
