@@ -490,3 +490,7 @@ pre code { background: none; padding: 0; }
   font-style: italic;
   margin-bottom: 6mm;
 }
+.blank-page {
+  page-break-before: always;
+  height: 100%;
+}

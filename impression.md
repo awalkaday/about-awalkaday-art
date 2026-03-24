@@ -175,3 +175,7 @@ title: "Walking Memories — Print / PDF"
 {% capture chapter %}{% include_relative _chapters/postscript.md %}{% endcapture %}
 {{ chapter | markdownify }}
 </section>
+
+<div class="blank-page"></div>
+<div class="blank-page"></div>
+<div class="blank-page"></div>
