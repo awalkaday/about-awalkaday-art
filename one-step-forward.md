@@ -29,5 +29,3 @@ title: "One Step Forward"
 <table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>IMPRINT</strong></td><td><a href="imprint.md">imprint.md</a></td></tr><tr><td align="center"><strong>APPENDIX</strong></td><td><a href="appendix.md">appendix.md</a></td></tr></tbody></table>
 
 <p align="center"></p>
-
-<p align="center"><strong><code>OUTLINE</code></strong></p>

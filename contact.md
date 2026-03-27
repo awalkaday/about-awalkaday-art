@@ -18,5 +18,3 @@ Convenient methods of contacting the walking photographer were actively run, ove
 </figure>
 
 <p align="center"></p>
-
-<p align="center"><strong><code>25</code></strong></p>

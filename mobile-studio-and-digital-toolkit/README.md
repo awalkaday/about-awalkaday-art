@@ -4,27 +4,18 @@ description: "The wanderer's burden lightened by rudimentary equipment: Nokia as
 permalink: /mobile-studio-and-digital-toolkit/
 ---
 
-
-
 [on-the-go-photography.md](on-the-go-photography.md)
-
-
 
 [cameras-and-photo-editing.md](cameras-and-photo-editing.md)
 
-
-
 [gaming-laptop.md](gaming-laptop.md)
 
-
 <p align="center"></p>
-
 
 <figure class="embed-media">
   <img src="https://xkvvewkoca4dqnjxmcm43heqtbd7l3dppc66mj2cbq7bev52m47q.arweave.net/uqtSWU4QODg1N2CZzZyQmEf17G94veYnQgw-Ele6Zz8" alt="awalkaday 23-2022" loading="lazy">
   <figcaption>awalkaday 23-2022</figcaption>
 </figure>
-
 
 <div class="hint hint-info">
 
@@ -33,5 +24,3 @@ permalink: /mobile-studio-and-digital-toolkit/
 </div>
 
 <p align="center"> </p>
-
-<p align="center"><strong><code>3</code></strong></p>

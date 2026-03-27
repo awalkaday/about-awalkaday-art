@@ -97,5 +97,3 @@ In the spring of 2024, the photographic tool rung like some years ago, as if it 
 The Englishmen's adage “_a walk a day keeps the doctor away_” ceased to be true for the photographer, eight years post-conception of the project, by the grace of a Belgian network of caring women: a doctor, an ex-girlfriend, an anthropologist, a retired nurse, a public agent, a filmmaker, scientists, artists, etc.&#x20;
 
 These walks became his penance, his pilgrimage, his enterprise for clinging to life. Not winking at courts — they had already judged — but to Time itself.
-
-<p align="center"><strong><code>24</code></strong></p>

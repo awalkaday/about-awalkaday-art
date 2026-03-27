@@ -24,5 +24,3 @@ By improving upon the way that creators of works of art used to refine their [ar
 <figcaption>awalkaday 179-2022</figcaption></figure>
 
 <p align="center"></p>
-
-<p align="center"><strong><code>18</code></strong></p>

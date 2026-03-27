@@ -25,5 +25,3 @@ description: "Lists accounting for the number of all tokenized photographs, spli
 </div>
 
 <p align="center"></p>
-
-<p align="center"><strong><code>ANNEX-2</code></strong></p>

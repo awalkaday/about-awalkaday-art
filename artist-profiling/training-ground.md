@@ -35,5 +35,3 @@ This winter is wrecking my bones and brains. Therefore, I am cheerfully answerin
 Later on, his artistic style cheaply improved upon digital photography techniques, aided by open-source computing software, playgrounds in public spaces, and dormant engineering knowhow. The `awalkaday` photographs are monochrome with a 1:1 aspect ratio, and capture fleeting memories recorded during walks geofenced to Belgian and, in part, broader European landscapes.
 
 <figure class="embed-media"><img src="https://xfme3cnkqhrv2cypjwb56rxvm3xjp2vaoevjswevtnpewduvzewa.arweave.net/uVhNiaqB410LD02D30b1Zu6X6qBxKplYlZteSw6VySw" alt="awalkaday 89-2022" loading="lazy"><figcaption>awalkaday 89-2022</figcaption></figure>
-
-<p align="center"><strong><code>23</code></strong></p>

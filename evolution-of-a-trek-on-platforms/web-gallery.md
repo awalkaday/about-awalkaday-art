@@ -53,5 +53,3 @@ A 3D exhibition hall, constructed since the springtime of 2023, welcomes all dig
 </div>
 
 <p align="center"></p>
-
-<p align="center"><strong><code>14</code></strong></p>

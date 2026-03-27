@@ -2,12 +2,10 @@
 title: "Parallel Pathways"
 ---
 
-
 <figure class="embed-media">
   <img src="https://arweave.net/g_a3kCxXvhagS4B62-glUh3IsomrXyXujClsWZKP1rI" alt="awalkaday 71-2022" loading="lazy">
   <figcaption>awalkaday 71-2022</figcaption>
 </figure>
-
 
 <div class="hint hint-info">
 
@@ -24,5 +22,3 @@ Running alongside these two, other parallels accumulated. Physical exclusion and
 Both roads, from where and when `awalkaday 71-2022` was shot, lead somewhere outside the frame.
 
 <p align="center"></p>
-
-<p align="center"><strong><code>8</code></strong></p>

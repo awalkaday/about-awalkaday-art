@@ -29,5 +29,3 @@ In the second half of 2024, `daqhris` began to ingeniously craft an online artis
 <figcaption>awalkaday 91-2022</figcaption></figure>
 
 <p align="center"></p>
-
-<p align="center"><strong><code>20</code></strong></p>

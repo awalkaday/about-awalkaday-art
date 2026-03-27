@@ -102,5 +102,3 @@ LwOBA8voYVOfUXAI7bHuxEcuP2SOgMQBAXz0OHeUQVKMnUkDaqo=
 ```
 
 <p align="center"></p>
-
-<p align="center"><strong><code>BACK-1</code></strong></p>

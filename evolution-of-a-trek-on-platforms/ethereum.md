@@ -88,5 +88,3 @@ Each name is a string of words and numbers that begins with the artistic theme `
 </figure>
 
 <p align="center"></p>
-
-<p align="center"><strong><code>16</code></strong></p>

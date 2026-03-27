@@ -104,5 +104,3 @@ _A token of gratitude goes to:_&#x20;
 <div align="center"><figure><img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Coat_of_Arms_of_the_King_of_the_Belgians.svg" alt="" width="188"><figcaption>His Majesty <a href="https://www.monarchie.be/en/royal-family/the-king">King Philippe</a> of the Belgians</figcaption></figure></div>
 
 <p align="center"> </p>
-
-<p align="center"><strong><code>ANNEX-1</code></strong></p>
