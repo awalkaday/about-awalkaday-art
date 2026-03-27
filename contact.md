@@ -16,5 +16,3 @@ Convenient methods of contacting the walking photographer were actively run, ove
   <img src="https://arweave.net/j5GfsE2q3Co8KhSvHwwjPpoNq0UZ5YN0FFeMBhdniiE" alt="awalkaday 107-2022" loading="lazy">
 <figcaption>awalkaday 107-2022</figcaption>
 </figure>
-
-<p align="center"></p>

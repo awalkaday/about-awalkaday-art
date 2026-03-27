@@ -2,7 +2,6 @@
 
 *Three extra spatial stories about the impact of the Belgian-made pixels on Earth and Ethereum*
 
-
 ### The Cover Photo's Secret
 
 The photograph on the [cover](./), **`awalkaday 251-2022`**, was shot, edited and published online before a sculpture was later installed on the same site inside a public park in Namur (Wallonia, Belgium).
@@ -101,6 +100,3 @@ LwOBA8voYVOfUXAI7bHuxEcuP2SOgMQBAXz0OHeUQVKMnUkDaqo=
 -----END PGP SIGNATURE-----
 ```
 
-<p align="center"></p>
-
-<p align="center"><strong><code>BACK-1</code></strong></p>

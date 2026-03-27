@@ -22,5 +22,3 @@ Looking way back, an initial foray into a central hub of GIT repositories in May
 That seed has since blossomed into a time-stamped nomadic odyssey — rooted in cyberspace, sustained by a wandering slender figure, and grounded on Belgian soil — `awalkaday.art`_._
 
 <figure class="embed-media"><img src="https://z4vbv73owuna6ent52mzokvk5qzs6c66cxsky65my5grlv5vsj3a.arweave.net/zyoa_261Gg8Rs-6Zlyqq7DMvC94V5Kx7rMdNFde1knY" alt="awalkaday 66-2022" loading="lazy"><figcaption>awalkaday 66-2022</figcaption></figure>
-
-<p align="center"></p>

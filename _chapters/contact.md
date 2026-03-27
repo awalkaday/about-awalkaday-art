@@ -1,6 +1,5 @@
 # Contact
 
-
 <div class="embed-link">
   <a href="https://www.instagram.com/p/BXlkT6igTqq/?utm_source=ig_web_button_share_sheet" rel="noopener" target="_blank">instagram.com</a>
 </div>
@@ -15,7 +14,3 @@ Convenient methods of contacting the walking photographer were actively run, ove
   <img src="https://arweave.net/j5GfsE2q3Co8KhSvHwwjPpoNq0UZ5YN0FFeMBhdniiE" alt="awalkaday 107-2022" loading="lazy">
 <figcaption>awalkaday 107-2022</figcaption>
 </figure>
-
-<p align="center"></p>
-
-<p align="center"><strong><code>25</code></strong></p>

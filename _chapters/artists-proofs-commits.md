@@ -1,6 +1,5 @@
 # Public GIT Commits
 
-
 [`git`](https://github.com/git-guides#what-is-git) is a version control system that tracks changes to computer source code with speed and efficiency in a distributed way. Version control is a technique that helps maintain a record of all changes throughout the development process.
 
 <div class="embed-link">
@@ -21,7 +20,3 @@ By improving upon the way that creators of works of art used to refine their [ar
 <figure class="embed-media">
   <img src="https://arweave.net/FScX2aEcLOJZM2Rv0y_RJ75a_vR57qYMXY9FOYOiD58" alt="awalkaday 179-2022" loading="lazy">
 <figcaption>awalkaday 179-2022</figcaption></figure>
-
-<p align="center"></p>
-
-<p align="center"><strong><code>18</code></strong></p>

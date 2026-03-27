@@ -1,6 +1,6 @@
 ---
 title: "Mobile Studio and Digital Toolkit"
-description: "The wanderer's burden lightened by rudimentary equipment: Nokia as Air Force, laptop as command center, and libre software as darkroom"
+description: "The wanderer's burden lightened by rudimentary equipment: Nokia as Air Force, laptop as command center and libre software as darkroom"
 permalink: /mobile-studio-and-digital-toolkit/
 ---
 
@@ -22,5 +22,3 @@ permalink: /mobile-studio-and-digital-toolkit/
 <p align="center"><em><code>awalkaday 23-2022</code></em> → <em>Railway tracks converge toward the horizon; a highway bridge crosses above them. The image was made through a window — its reflections still visible, a layer between lens and landscape. All the tools described here traveled this way.</em></p>
 
 </div>
-
-<p align="center"> </p>

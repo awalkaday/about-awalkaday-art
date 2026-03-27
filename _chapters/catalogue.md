@@ -2,8 +2,6 @@
 
 *Lists accounting for the number of all tokenized photographs, split into three categories, and arranged by location, year and season*
 
-
-
 ## Photographic Tables
 
 ### Geographic Location&#x20;
@@ -23,7 +21,3 @@
 <p align="center"><em>The total of <code>263</code> is a prime number that is irreducible by any number other than itself and one. Like the person who limited the series to an indivisible number, the collection resists administrative subdivision.</em> </p>
 
 </div>
-
-<p align="center"></p>
-
-<p align="center"><strong><code>ANNEX-2</code></strong></p>

@@ -2,7 +2,6 @@
 
 *Since August 2022*
 
-
 For the final leg of a trek on digital platforms, [daqhris](https://app.ens.domains/daqhris.eth) publicly minted the set of 263 photographs, which he had miraculously recovered after another chaotic winter.
 
 Blessed by the angelic support of a cryptocurrency wallet, that had been activated in [2017](https://etherscan.io/address/0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82#analytics), bootstrapped in [2021](https://platform.arkhamintelligence.com/explorer/entity/daqhris), and put to use in [2022](https://etherscan.io/txs?a=0xb5ee030c71e76c3e03b2a8d425dbb9b395037c82\&f=5), he preserved them for the long run as non-fungible [ERC-721 tokens](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) on the Ethereum blockchain.
@@ -86,7 +85,3 @@ Each name is a string of words and numbers that begins with the artistic theme `
   <img src="https://arweave.net/QuZy3p6WDONJOwwHuqP9VyMCgTqMOJjm-m6fDVE-86Q" alt="awalkaday 3-2022" loading="lazy">
   <figcaption>awalkaday 3-2022</figcaption>
 </figure>
-
-<p align="center"></p>
-
-<p align="center"><strong><code>16</code></strong></p>

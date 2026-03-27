@@ -54,5 +54,3 @@ description: "A list of 15 chapters and 17 subchapters showing on which numbered
   <img src="https://7n5x6ki3xr2zlkzlhcpukbprymt3dhxl2kju2haif2y3xqajshpa.arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" alt="awalkaday 129-2022" loading="lazy">
   <figcaption>awalkaday 129-2022</figcaption>
 </figure>
-
-<p align="center"></p>

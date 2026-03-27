@@ -1,6 +1,5 @@
 # Gaming Laptop
 
-
 A laptop computer, branded as [**Hasee God of War**](http://en.haseecomputer.com/About/about24.html) and acquired on the Asian continent, was very useful for coding sessions while building the online gallery on top of digital foundations.
 
 The computing device was one of the few items, in addition to engineering textbooks, and personal belongings of emotional value, that he was able to stealthily keep or ship out to North Africa after being arbitrarily detained by Chinese authorities in June 2016.
@@ -29,7 +28,3 @@ The gamer friend of African origin had been hosting a first birthday party on Be
 </figure>
 
 It's worth pointing out that most of the creative tools and works were more than once rescued, recovered or revived thanks to pieces of computer software, **`linux`** & **`git`**, brought to life by a Finnish-born American [inventor](https://github.com/torvalds) who walks when working.
-
-<p align="center"></p>
-
-<p align="center"><strong><code>6</code></strong></p>

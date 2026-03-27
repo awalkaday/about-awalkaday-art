@@ -29,5 +29,3 @@ A congratulatory message citing the virtual exhibition hall of the photo series 
 <div class="embed-link">
   <a href="https://www.instagram.com/walk.day/p/CkWOfX2DCPU/" rel="noopener" target="_blank">The final photo of Oct 2022 on Instagram. Its original file plus 4 others of that October were lost and not preserved on Ethereum.</a>
 </div>
-
-<p align="center"></p>

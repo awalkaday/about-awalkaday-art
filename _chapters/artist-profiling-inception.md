@@ -1,6 +1,5 @@
 # Project Inception
 
-
 ### Crossing Waters
 
 Accompanied by his mother, who flew back shortly after, he landed in Brussels in the winter of 2016. The kindred separated following a summer-autumn stopover in Cairo, where his parents and siblings had settled in the prestigious district of المهندسين — 'The Engineers' in Arabic — before his departure, across the sea, seated on an Egyptian airline, to the executive capital of Europe.&#x20;
@@ -96,5 +95,3 @@ In the spring of 2024, the photographic tool rung like some years ago, as if it 
 The Englishmen's adage “_a walk a day keeps the doctor away_” ceased to be true for the photographer, eight years post-conception of the project, by the grace of a Belgian network of caring women: a doctor, an ex-girlfriend, an anthropologist, a retired nurse, a public agent, a filmmaker, scientists, artists, etc.&#x20;
 
 These walks became his penance, his pilgrimage, his enterprise for clinging to life. Not winking at courts — they had already judged — but to Time itself.
-
-<p align="center"><strong><code>24</code></strong></p>

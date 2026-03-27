@@ -1,12 +1,9 @@
 # Parallel Pathways
 
-
-
 <figure class="embed-media">
   <img src="https://arweave.net/g_a3kCxXvhagS4B62-glUh3IsomrXyXujClsWZKP1rI" alt="awalkaday 71-2022" loading="lazy">
   <figcaption>awalkaday 71-2022</figcaption>
 </figure>
-
 
 <div class="hint hint-info">
 
@@ -21,7 +18,3 @@ The first pathway was artistic: walks taken, photographs made, code committed, t
 Running alongside these two, other parallels accumulated. Physical exclusion and digital inclusion moved in opposite directions at the same speed: every door the administrative system closed, a distributed network held open. Equipment losses and legal rejections arrived in clusters, each cluster followed by recovery. Two identities — one civic and contested, one digital and immutable — developed simultaneously, the second growing more permanent as the first grew more precarious.
 
 Both roads, from where and when `awalkaday 71-2022` was shot, lead somewhere outside the frame.
-
-<p align="center"></p>
-
-<p align="center"><strong><code>8</code></strong></p>

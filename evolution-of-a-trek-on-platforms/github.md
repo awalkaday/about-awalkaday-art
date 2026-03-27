@@ -26,5 +26,3 @@ The public code repositories in `git` format contain all commits attached to a d
 <div class="embed-link">
   <a href="https://github.com/awalkaday" rel="noopener" target="_blank">github.com</a>
 </div>
-
-<p align="center"></p>

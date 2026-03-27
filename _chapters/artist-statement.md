@@ -2,7 +2,6 @@
 
 *Disclosures and essential information written in the first and third person*
 
-
 ### First Steps (2017)
 
 This project was born in my spare time, developed independently in the open, and evolved at the pace of a [turtle](https://en.m.wikipedia.org/wiki/Cultural_depictions_of_turtles). Countless public drafts and serene long walks have shaped it into its present state, akin to a therapeutic exercise.
@@ -137,7 +136,3 @@ For an accurate time-stamped record of the book's drafts, or an analysis of my p
 <em>The omniscient narrator is not neutral. They speak as a system that tracked my existence, then compiled to narrate on my terms. Where the first person appears, it marks moments of direct address. These ruptures, of breaking the archival frame, are intentional.</em>&#x20;
 
 </div>
-
-<p align="center"></p>
-
-<p align="center"><strong><code>FRONT-1</code></strong></p>

@@ -16,5 +16,3 @@ In total, 454 photographs have been showcased on Instagram. They all carry the h
 <figure class="embed-media">
   <img src="https://arweave.net/L2CRb0ySUeg9xmZDRDQBI2zzHd4Cm9608AioFTSMrhc" alt="awalkaday 167-2021" loading="lazy">
 <figcaption>awalkaday 167-2021</figcaption></figure>
-
-<p align="center"></p>

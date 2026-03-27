@@ -1,6 +1,5 @@
 # Blockchain Records
 
-
 According to traces of footprints found in public records, the photo odyssey was revived in the Francophone city of Bastogne. The small town, deprived of a train station, had on its main street an electronics shop. A shopkeeper facilitated human access, without asking for proofs of human identity, to an automated banking machine exchanging paper bills with blockchain currencies.&#x20;
 
 After verification at the end of 2020 of token conversion operations nearby a tax heaven kingdom, what the photographer dreamt of was earning banknotes in cash form. His greedy dreams used to take place on a king-size bed, adjacent to a smoking chimney, below the wooden roof of a six-person Burundian family that was naturalized as Belgian by laws of the 20th century.&#x20;
@@ -56,9 +55,3 @@ Thirdly, weeks before ending on a colorful note the visual art project, a tri-co
 Since then, after honing his skillsets as an **Ethereum app developer** and overcoming the learning curve of hackathons, his next blockchain-based artistic projects began: [Zinneke Rescue Mission](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf), to be preceded by [Mission Enrollment](https://mission-enrollment.daqhris.com/).&#x20;
 
 <div><figure class="embed-media"><img src="https://assets.poap.xyz/ba72648e-b534-4630-80bf-caf648ee9ba9.png" alt="ETHGlobal Brussels 2024 Hacker (certified in Brussels)" width="375"><figcaption><a href="https://gnosis.blockscout.com/token/0x22c1f6050e56d2876009903609a2cc3fef83b415/instance/7187414">ETHGlobal Brussels 2024</a></figcaption></figure> <figure class="embed-media"><img src="https://assets.poap.xyz/a1aed95e-3455-435f-8e8e-a13c1c4e7d29.png" alt="Superhack 2024 Hacker (certified by ETHGlobal)" width="375"><figcaption><a href="https://gnosis.blockscout.com/token/0x22c1f6050e56d2876009903609a2cc3fef83b415/instance/7187414">Superhack 2024</a></figcaption></figure></div>
-
-<p align="center"></p>
-
-<p align="center"></p>
-
-<p align="center"><strong><code>10</code></strong></p>

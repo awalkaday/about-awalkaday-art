@@ -100,5 +100,3 @@ LwOBA8voYVOfUXAI7bHuxEcuP2SOgMQBAXz0OHeUQVKMnUkDaqo=
 =BUBH
 -----END PGP SIGNATURE-----
 ```
-
-<p align="center"></p>

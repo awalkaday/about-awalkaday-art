@@ -26,5 +26,3 @@ Architected in computer code languages, a web gallery and a smart contract were 
   <img src="https://arweave.net/84AC-vf_aJkER9F0cQ5iEXP-lJ1PocTY9IuOf7Bpsdc" alt="awalkaday 186-2022" loading="lazy">
   <figcaption>awalkaday 186-2022</figcaption>
 </figure>
-
-<p align="center"></p>
