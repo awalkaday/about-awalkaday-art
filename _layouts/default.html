@@ -21,7 +21,7 @@
     <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
     <nav class="site-nav" aria-label="Main navigation">
       <a href="{{ '/impression/' | relative_url }}" class="nav-print-link" title="Open print / PDF view">
-        &#x1F5B6; PDF version
+        &#x1F5B6; Print → PDF
       </a>
     </nav>
   </header>
@@ -89,10 +89,10 @@
 
   <footer class="site-footer" role="contentinfo">
     <p>© {{ site.time | date: '%Y' }} {{ site.author }} ·
-       <a href="https://github.com/awalkaday/about-awalkaday-art/tree/book" rel="noopener">Source on GitHub</a> ·
-       <a href="{{ '/impression/' | relative_url }}">Print / PDF</a>
+       <a href="https://github.com/awalkaday/about-awalkaday-art/tree/book" rel="noopener">Code Source on GitHub</a>
     </p>
-    <p class="last-updated">Last updated timestamp: {{ site.time | date: "%B %-d, %Y" }}</p>
+    <p class="last-updated">Timestamp of last modification: {{ site.time | date: "%B %-d, %Y" }}</p>
+    <p><strong>Draft Alert</strong>: This book is a few steps near its PDF destination. <a href="{{ '/impression/' | relative_url }}" rel="noopener">Print Lab</a></p>
   </footer>
 
 </body>

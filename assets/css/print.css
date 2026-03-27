@@ -10,7 +10,7 @@
      Open /impression/ in Chromium → File → Print → Save as PDF
      Or headlessly: npx @pagedjs/cli impression/index.html -o book.pdf
 
-   PAGE SIZE: A5 portrait (148mm × 210mm) — close to a small art book.
+   PAGE SIZE: Square (210mm × 210mm) — as a photo art book.
    Change @page size to A4, Letter, or custom dimensions as needed.
    ================================================================ */
 
