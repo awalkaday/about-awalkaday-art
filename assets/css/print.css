@@ -12,6 +12,26 @@
 
    PAGE SIZE: Square (210mm × 210mm) — as a photo art book.
    Change @page size to A4, Letter, or custom dimensions as needed.
+
+   CHANGELOG (2026-03-30 revision):
+     - Fix #1: Scoped URL injection — global a::after caused every
+       inline hyperlink in prose to append a full Arweave/GitHub URL,
+       creating unbreakable 80+ character strings mid-paragraph.
+       Now only .embed-link and .standalone-link show their href.
+     - Fix #2: Orphans/widows raised to 3 (book standard).
+     - Fix #3: Modern break-* aliases added alongside page-break-*
+       for Paged.js forward compatibility.
+     - Fix #4: h2 and h3 now chain to their first sibling with the
+       same "keep-with-next" guarantee as h1.
+     - Fix #5: text-indent suppressed after all non-paragraph
+       predecessors (pre, img, figure, table, ul, ol, blockquote).
+     - Fix #6: blockquote gets break-inside: avoid.
+     - Fix #7: img-only paragraphs and bare <img> siblings are
+       kept with their caption line via break-inside / break-after.
+     - Fix #8: Wide pre / code blocks get a font-size safety valve
+       and a max-width guard for the ASCII-art Solidity contract.
+     - Fix #9: Chapter-boundary break rule hardened with the modern
+       break-before: page in addition to page-break-before: always.
    ================================================================ */
 
 
@@ -122,13 +142,26 @@
   }
 }
 
-/* Cover page: same margins as all other pages, no headers or page number */
+/* Cover page: same margins, no headers or page number */
 @page cover {
   margin: 20mm 18mm 25mm 22mm;
-  @top-left   { content: none; }
-  @top-right  { content: none; }
+  @top-left      { content: none; }
+  @top-right     { content: none; }
   @bottom-center { content: none; }
 }
+
+/* Front matter (ARTIST STATEMENT, READING GUIDE): page numbers
+   in lowercase roman numerals — assign with class="front-matter"
+   on the wrapping .chapter element if desired. */
+@page front-matter {
+  @bottom-center {
+    content: counter(page, lower-roman);
+    font-family: var(--font-ui);
+    font-size: 8pt;
+    color: var(--color-muted);
+  }
+}
+
 
 /* ── Reset ────────────────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -150,7 +183,8 @@ html, body {
 }
 
 /* Each chapter heading updates the running chapter title */
-.chapter h1, .chapter h2:first-of-type {
+.chapter h1,
+.chapter h2:first-of-type {
   string-set: chapter-title content();
 }
 
@@ -165,7 +199,9 @@ html, body {
   min-height: 130mm;
   padding: 0mm;
   page-break-after: always;
+  break-after: page;           /* FIX #9: modern alias */
   page-break-inside: avoid;
+  break-inside: avoid;
 }
 
 .book-title {
@@ -203,32 +239,58 @@ html, body {
 /* ── Chapters ─────────────────────────────────────────────────── */
 .chapter {
   page-break-before: always;  /* each chapter starts on a new page */
+  break-before: page;          /* FIX #9: modern alias */
 }
 
-/* Prevent title and description from standing alone on a page */
-.chapter h1 {
+/* Assign front-matter named page to the first two chapters */
+.chapter.front-matter {
+  page: front-matter;
+}
+
+/* ── FIX #4: Heading → first sibling keep-with-next chain ──────
+   The old rules only partially covered h1. Now h1, h2, and h3
+   all keep their heading glued to the element that follows them,
+   preventing a lone heading stranded at the bottom of a page.   */
+
+.chapter h1,
+.chapter h2,
+.chapter h3 {
   page-break-after: avoid;
+  break-after: avoid;
   page-break-before: avoid;
+  break-before: avoid;
 }
 
-.chapter h1 + p,
-.chapter h1 + * {
+/* Keep heading with the very next element (paragraph, image, list…) */
+.chapter h1 + *,
+.chapter h2 + *,
+.chapter h3 + * {
   page-break-before: avoid;
+  break-before: avoid;
 }
 
+/* Keep description / italic opener glued after its heading */
 .chapter p.chapter-description,
 .chapter h1 + em,
-.chapter h1 + p em {
+.chapter h1 + p em,
+.chapter h2 + em,
+.chapter h2 + p em {
   page-break-after: avoid;
+  break-after: avoid;
 }
 
-.chapter h1 + p + * {
+/* Keep the element immediately after the description glued too */
+.chapter h1 + p + *,
+.chapter h2 + p + * {
   page-break-before: avoid;
+  break-before: avoid;
 }
 
 .chapter > p:first-of-type {
   page-break-after: avoid;
+  break-after: avoid;
 }
+
 
 /* ── Typography ───────────────────────────────────────────────── */
 h1 {
@@ -239,7 +301,9 @@ h1 {
   margin-top: 0;
   margin-bottom: 8mm;
   page-break-after: avoid;
+  break-after: avoid;
   page-break-before: avoid;
+  break-before: avoid;
 }
 
 h2 {
@@ -249,6 +313,7 @@ h2 {
   margin-top: 10mm;
   margin-bottom: 4mm;
   page-break-after: avoid;
+  break-after: avoid;
   border-bottom: 0.25pt solid var(--color-rule);
   padding-bottom: 1.5mm;
 }
@@ -260,6 +325,7 @@ h3 {
   margin-top: 7mm;
   margin-bottom: 2mm;
   page-break-after: avoid;
+  break-after: avoid;
 }
 
 h4, h5, h6 {
@@ -269,20 +335,38 @@ h4, h5, h6 {
   margin-top: 5mm;
   margin-bottom: 1.5mm;
   page-break-after: avoid;
+  break-after: avoid;
 }
 
 p {
   margin-bottom: 4mm;
   text-align: justify;
   hyphens: auto;
-  orphans: 2;
-  widows: 2;
+  orphans: 3;                  /* FIX #2: raised from 2 → 3 */
+  widows: 3;                   /* FIX #2: raised from 2 → 3 */
+  overflow-wrap: anywhere;     /* allows long tokens to break anywhere as last resort */
 }
 
-/* First paragraph after heading: no indent */
-h1 + p, h2 + p, h3 + p { text-indent: 0; }
+/* First paragraph after a heading: no indent */
+h1 + p, h2 + p, h3 + p, h4 + p { text-indent: 0; }
 
-/* Subsequent paragraphs: classic book indent instead of margin */
+/* ── FIX #5: Reset indent after ALL non-paragraph predecessors ──
+   The original only reset after headings. Any paragraph that
+   follows a code block, image, table, list, or blockquote must
+   also start at the left margin — not with a 5mm indent.        */
+pre + p,
+img + p,
+figure + p,
+table + p,
+ul + p,
+ol + p,
+blockquote + p,
+.embed-media + p,
+.embed-link + p,
+.hint + p,
+.tab + p { text-indent: 0; }
+
+/* Subsequent paragraphs: classic book indent */
 p + p {
   text-indent: 5mm;
   margin-top: 0;
@@ -292,13 +376,38 @@ a {
   color: var(--color-text);
   text-decoration: none;
 }
-/* Show URLs in footnote-style after link text */
-a[href^="http"]::after {
-  content: " <" attr(href) ">";
-  font-size: 7.5pt;
+
+/* ── FIX #1: URL injection — scoped, not global ─────────────────
+   The previous rule `a[href^="http"]::after` fired on EVERY
+   external link in the document, including dozens of inline
+   references in prose paragraphs (Instagram posts, GitHub commits,
+   Etherscan pages, Wikipedia articles…). Each appended URL was a
+   60–100 character Arweave hash or similar unbreakable string,
+   causing major line-overflow and layout thrash.
+
+   New rule: URLs are shown only on .standalone-link and
+   .embed-link elements — explicit, block-level link cards.
+   Inline hyperlinks inside prose are rendered as clean text only.
+
+   To add a link card that shows its URL, give it the class
+   "standalone-link" (or wrap it in .embed-link as before).      */
+
+/* Suppress URL display for all inline links (in paragraphs, lists…) */
+p a[href^="http"]::after,
+li a[href^="http"]::after,
+blockquote a[href^="http"]::after,
+td a[href^="http"]::after,
+figcaption a[href^="http"]::after { content: none !important; }
+
+/* Show URL only on standalone block-level link cards */
+.standalone-link a[href^="http"]::after,
+.embed-link a[href^="http"]::after {
+  content: " (" attr(href) ")";
+  font-size: 7pt;
   color: var(--color-muted);
   font-family: var(--font-mono);
   word-break: break-all;
+  overflow-wrap: anywhere;
 }
 
 blockquote {
@@ -307,19 +416,42 @@ blockquote {
   border-left: 1.5pt solid var(--color-rule);
   color: var(--color-muted);
   font-size: 9.5pt;
+  page-break-inside: avoid;   /* FIX #6: blockquote must not split */
+  break-inside: avoid;
 }
 
 ul, ol {
   margin: 3mm 0 4mm 6mm;
   padding: 0;
 }
-li { margin-bottom: 1.5mm; }
-
-/* Avoid lists breaking mid-item across pages */
-li { page-break-inside: avoid; }
+li {
+  margin-bottom: 1.5mm;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
 
 
 /* ── Images ───────────────────────────────────────────────────── */
+
+/* ── FIX #7: Keep bare <img> elements with their caption ────────
+   Nextra / Markdown renderers often output an <img> directly
+   inside a <p>, not wrapped in <figure>. The existing
+   `figure { break-inside: avoid }` rule never fires for these.
+   We target the <p> that contains only an <img> and the next
+   sibling (the caption <em> or <p>) via the :has() selector.    */
+p:has(> img:only-child) {
+  page-break-inside: avoid;
+  break-inside: avoid;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+p:has(> img:only-child) + p,
+p:has(> img:only-child) + em {
+  page-break-before: avoid;
+  break-before: avoid;
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -329,6 +461,7 @@ img {
 
 figure {
   page-break-inside: avoid;
+  break-inside: avoid;
   margin: 5mm 0;
 }
 figcaption {
@@ -347,11 +480,14 @@ table {
   font-size: 9pt;
   margin: 4mm 0;
   page-break-inside: avoid;
+  break-inside: avoid;
 }
 th, td {
   border: 0.5pt solid var(--color-rule);
   padding: 1.5mm 2.5mm;
   text-align: left;
+  overflow-wrap: anywhere;     /* prevents table cells from widening the page */
+  word-break: break-word;
 }
 th {
   font-family: var(--font-ui);
@@ -367,19 +503,46 @@ code {
   background: #f5f4f0;
   padding: 0.5mm 1mm;
   border-radius: 1pt;
+  overflow-wrap: anywhere;
 }
+
+/* ── FIX #8: Code block overflow guard ──────────────────────────
+   The Solidity contract with ASCII art and some of the git commit
+   blocks are very wide. `white-space: pre-wrap` alone does not
+   prevent the rendered box from overflowing the page margin when
+   a single word (e.g. a long hex string or ASCII-art row) is
+   wider than the text column.
+
+   overflow-wrap: anywhere lets the engine break inside any
+   token as a last resort, preventing margin bleed.
+
+   For very large pre blocks that cannot fit on one page (the
+   contract source is ~70 lines), Paged.js will split across pages.
+   `break-inside: auto` allows that split intentionally — using
+   `avoid` would push the whole block to the next page and leave
+   a large gap. If you prefer a "no split" approach for a specific
+   block, add class="pre-nosplit" to that <pre> element.          */
 pre {
   font-family: var(--font-mono);
   font-size: 7.5pt;
   background: #f5f4f0;
   border: 0.5pt solid var(--color-rule);
   padding: 3mm;
-  overflow-wrap: break-word;
+  overflow-wrap: anywhere;      /* FIX #8: break long tokens */
+  word-break: break-all;        /* FIX #8: last-resort for hex hashes */
   white-space: pre-wrap;
-  page-break-inside: avoid;
+  max-width: 100%;              /* FIX #8: prevent margin bleed */
+  break-inside: auto;           /* FIX #8: allow page splits on tall blocks */
   margin: 4mm 0;
 }
-pre code { background: none; padding: 0; }
+
+/* Allow a specific pre block to never split (add class manually) */
+pre.pre-nosplit {
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+pre code { background: none; padding: 0; overflow-wrap: anywhere; }
 
 
 /* ── Footnotes (Paged.js built-in) ───────────────────────────── */
@@ -416,24 +579,27 @@ pre code { background: none; padding: 0; }
 .pagedjs_page_content > nav { display: none !important; }
 
 
-/* ── Hint blocks (print) ──────────────────────────────────────── */
+/* ── Hint blocks ──────────────────────────────────────────────── */
 .hint {
   margin: 4mm 0;
   padding: 2.5mm 4mm;
   border-left: 2pt solid #888;
   font-size: 9pt;
   page-break-inside: avoid;
+  break-inside: avoid;
 }
 .hint-info    { border-left-color: #2d5a8e; }
 .hint-warning { border-left-color: #b07d00; }
 .hint-danger  { border-left-color: #b03000; }
 .hint-success { border-left-color: #2a7a2a; }
 
-/* ── Arweave media embeds (print) ─────────────────────────────── */
+
+/* ── Arweave media embeds ─────────────────────────────────────── */
 .embed-media {
   margin: 5mm auto;
   text-align: center;
-  break-inside: avoid-page;
+  page-break-inside: avoid;
+  break-inside: avoid;
 }
 .embed-media img {
   max-width: 100%;
@@ -444,36 +610,54 @@ pre code { background: none; padding: 0; }
   font-size: 7pt;
   color: #666;
   word-break: break-all;
+  overflow-wrap: anywhere;
   margin-top: 1.5mm;
 }
+/* Suppress URL expansion inside media captions (they contain
+   Arweave URLs that are already shown as the image source) */
 .embed-media figcaption a::after { content: none !important; }
-/* Cover photo constrained to keep all elements on one page */
+
+/* Cover photo: constrained height to keep everything on one page */
 .book-cover .embed-media img {
   max-height: 70mm;
   width: auto;
   margin: auto;
 }
 
-/* ── External link cards (print) ─────────────────────────────── */
+
+/* ── External link cards ──────────────────────────────────────── */
 .embed-link {
   margin: 3mm 0;
   padding: 1.5mm 3mm;
   border: 0.5pt solid #ccc;
   font-size: 8pt;
+  page-break-inside: avoid;
+  break-inside: avoid;
 }
-/* Show full URL after the domain text in print */
-.embed-link a::after {
-  content: " (" attr(href) ")";
-  font-size: 7pt;
-  color: #888;
+/* URL shown via the scoped rule in the URL injection section above */
+
+
+/* ── Standalone link (block-level, shows its full URL) ──────────
+   Use when a bare URL deserves its own line and should be
+   visible in print. Wrapping markup:
+     <p class="standalone-link"><a href="https://…">Label</a></p>  */
+.standalone-link {
+  font-family: var(--font-mono);
+  font-size: 8pt;
+  color: var(--color-muted);
+  margin: 2mm 0;
+  word-break: break-all;
+  overflow-wrap: anywhere;
 }
 
-/* ── Tab blocks (print) ───────────────────────────────────────── */
+
+/* ── Tab blocks ───────────────────────────────────────────────── */
 .tab {
   margin: 2mm 0 3mm;
   padding: 2mm 3mm;
   border: 0.5pt solid #ccc;
   page-break-inside: avoid;
+  break-inside: avoid;
 }
 .tab::before {
   font-size: 7.5pt;
@@ -484,13 +668,34 @@ pre code { background: none; padding: 0; }
   display: block;
   margin-bottom: 1.5mm;
 }
+
 .page-description {
   font-size: 10pt;
   color: var(--color-muted);
   font-style: italic;
   margin-bottom: 6mm;
 }
+
 .blank-page {
   page-break-before: always;
+  break-before: page;
   height: 100%;
+}
+
+
+/* ── Page-label anchors (COVER, OUTLINE, FRONT-1 … BACK-2) ─────
+   The /impression/ page uses label anchors like id="cover",
+   id="front-1", id="1", etc. These are structural, not visual.
+   No style needed, but listed here as documentation.            */
+
+
+/* ── Utility: force a page break before any element ────────────
+   Add class="page-break" to any block element in the Markdown
+   template to insert a manual page break at that point.
+   Example: <div class="page-break"></div>                       */
+.page-break {
+  page-break-before: always;
+  break-before: page;
+  display: block;
+  height: 0;
 }
