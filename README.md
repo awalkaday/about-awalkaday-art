@@ -2,7 +2,7 @@
 description: >-
   An open-source artist's book tracing eight years of one exiled wanderer's
   digital footprints — 263 photographs, a blockchain archive, and an asylum
-  claim, told in parallel.
+  file, told in parallel.
 layout:
   width: default
   title:
