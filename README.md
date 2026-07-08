@@ -1,7 +1,26 @@
 ---
 description: >-
-  An open-source artist's book tracing the digital footprints of an exiled
-  wanderer and his Belgian pixels during an eight-year odyssey
+  An open-source artist's book tracing eight years of one exiled wanderer's
+  digital footprints — 263 photographs, a blockchain archive, and an asylum
+  claim, told in parallel.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Walking Memories
