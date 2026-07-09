@@ -1,6 +1,6 @@
 ---
 title: "Walking Memories"
-description: "An open-source artist's book tracing eight years of one exiled wanderer's digital footprints — 263 photographs, a blockchain archive, and an asylum file — told in parallel across his Belgian pixels."
+description: "Open-source artbook retracing the digital footprints of an exiled wanderer's eight-year odyssey—263 photographs, a blockchain archive, and an asylum file—told in parallel across his Belgian pixels."
 ---
 
 
