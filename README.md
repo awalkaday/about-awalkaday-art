@@ -38,5 +38,5 @@ layout:
 <h4 align="center"> </h4>
 
 {% hint style="info" %}
-_Ceci \<del>`n'</dev>` est&#x20;_~~_`pas`_~~_&#x20;un Livre d'Artiste Sans Papier._
+_Ceci \<del>`n'`\</dev> est&#x20;_~~_`pas`_~~_&#x20;un Livre d'Artiste Sans Papier._
 {% endhint %}
