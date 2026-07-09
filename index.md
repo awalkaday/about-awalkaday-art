@@ -2,7 +2,7 @@
 layout: page
 title: "Walking Memories"
 permalink: /
-description: "An open-source artist's book tracing eight years of one exiled wanderer's digital footprints — 263 photographs, a blockchain archive, and an asylum file, told in parallel."
+description: "An open-source artist's book tracing eight years of one exiled wanderer's digital footprints — 263 photographs, a blockchain archive, and an asylum file — told in parallel across his Belgian pixels."
 ---
 
 <h4 align="center"></h4>
