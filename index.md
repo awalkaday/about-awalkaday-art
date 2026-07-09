@@ -19,5 +19,5 @@ description: "An open-source artist's book tracing eight years of one exiled wan
 <h4 align="center"> </h4>
 
 <div class="hint hint-info">
-<em>Ceci&#x20;</em><code>n'</code><em>&#x20;est&#x20;</em><code>pas</code><em>&#x20;un Livre d'Artiste Sans Papier.</em>
+<em>*Ceci* <del>n'<span class="sr-only"> (crossed out)</span></del> *est* <del>pas<span class="sr-only"> (crossed out)</span></del> *un Livre d'Artiste Sans Papier.*</em>
 </div>
