@@ -1,6 +1,6 @@
 ---
 title: "Walking Memories"
-description: "An open-source artist's book tracing the digital footprints of an exiled wanderer and his Belgian pixels during an eight-year odyssey — 263 photographs, a blockchain archive, and an asylum file, told in parallel."
+description: "An open-source artist's book tracing eight years of one exiled wanderer's digital footprints — 263 photographs, a blockchain archive, and an asylum file — told in parallel across his Belgian pixels."
 ---
 
 
@@ -21,6 +21,6 @@ description: "An open-source artist's book tracing the digital footprints of an 
 
 <div class="hint hint-info">
 
-_Ceci&#x20;_~~_`n'`_~~_&#x20;est&#x20;_~~_`pas`_~~_&#x20;un Livre d'Artiste Sans Papier._
+<em>Ceci <del>n'<span class="sr-only"> (crossed out)</span></del> est <del>pas<span class="sr-only"> (crossed out)</span></del> un Livre d'Artiste Sans Papier.</em>
 
 </div>
