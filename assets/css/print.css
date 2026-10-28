@@ -13,6 +13,18 @@
    PAGE SIZE: Square (210mm × 210mm) — as a photo art book.
    Change @page size to A4, Letter, or custom dimensions as needed.
 
+   DESIGN (2026-10 revision, from the printlab layout templates):
+     - Titles: Libre Franklin 600 (even stroke weight, readable at
+       size). Body: Newsreader. Captions, IDs, folios, code: Fira Mono.
+     - Monochrome first. One accent token (--accent) is ink by
+       default; set it to #F2B705 for the optional yellow edition.
+     - Mirrored margins: 16mm outer, 24mm inner (binding side),
+       so left and right pages are no longer identical.
+     - Cover and back cover are named pages with no margins and a
+       light grey board colour. Everything else uses normal margins.
+     - Photographs are shown whole: never cropped, never enlarged
+       beyond their own size (max-width / max-height only).
+
    CHANGELOG (2026-03-30 revision):
      - Fix #1: Scoped URL injection — global a::after caused every
        inline hyperlink in prose to append a full Arweave/GitHub URL,
@@ -35,64 +47,77 @@
    ================================================================ */
 
 
-/* ── Page setup ───────────────────────────────────────────────── */
+/* ── Design tokens ────────────────────────────────────────────── */
 :root {
-  --font-body:   "Merriweather", "Georgia", serif;
-  --font-ui:     "Merriweather", system-ui, -apple-system, serif;
-  --font-mono:   "Fira Mono", "Source Sans 3", monospace;
-  --color-text:  #1a1a18;
-  --color-muted: #5a5a55;
-  --color-rule:  #c8c5bd;
+  --font-display: "Libre Franklin", "Helvetica Neue", Arial, sans-serif;
+  --font-body:    "Newsreader", "Georgia", serif;
+  --font-ui:      var(--font-display);
+  --font-mono:    "Fira Mono", ui-monospace, monospace;
+
+  --color-paper:  #FBFBF9;   /* interior pages */
+  --color-board:  #E4E5E1;   /* covers */
+  --color-text:   #131313;   /* ink */
+  --color-muted:  #4F4F4B;
+  --color-rule:   #B9B9B5;
+  --color-tint:   #F0F0ED;   /* code, table heads */
+  --accent:       var(--color-text);   /* optional yellow edition: #F2B705 */
 }
 
 @font-face {
-  font-family: "Merriweather";
-  font-style: normal;
-  font-weight: 300;
-  font-display: swap;
-  src: url('/assets/fonts/Merriweather-Light.woff2') format('woff2');
-}
-@font-face {
-  font-family: "Merriweather";
+  font-family: "Libre Franklin";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url('/assets/fonts/Merriweather-Regular.woff2') format('woff2');
+  src: url('/assets/fonts/LibreFranklin-400.woff2') format('woff2');
 }
 @font-face {
-  font-family: "Merriweather";
-  font-style: italic;
-  font-weight: 400;
-  font-display: swap;
-  src: url('/assets/fonts/Merriweather-Italic.woff2') format('woff2');
-}
-@font-face {
-  font-family: "Merriweather";
+  font-family: "Libre Franklin";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 500;
   font-display: swap;
-  src: url('/assets/fonts/Merriweather-Bold.woff2') format('woff2');
+  src: url('/assets/fonts/LibreFranklin-500.woff2') format('woff2');
 }
 @font-face {
-  font-family: "Source Sans 3";
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url('/assets/fonts/SourceSans3-Regular.woff2') format('woff2');
-}
-@font-face {
-  font-family: "Source Sans 3";
+  font-family: "Libre Franklin";
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url('/assets/fonts/SourceSans3-SemiBold.woff2') format('woff2');
+  src: url('/assets/fonts/LibreFranklin-600.woff2') format('woff2');
 }
 @font-face {
-  font-family: "Source Sans 3";
+  font-family: "Libre Franklin";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url('/assets/fonts/SourceSans3-Bold.woff2') format('woff2');
+  src: url('/assets/fonts/LibreFranklin-700.woff2') format('woff2');
+}
+@font-face {
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/Newsreader-400-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/Newsreader-400-italic.woff2') format('woff2');
+}
+@font-face {
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/assets/fonts/Newsreader-500-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/assets/fonts/Newsreader-500-italic.woff2') format('woff2');
 }
 @font-face {
   font-family: "Fira Mono";
@@ -116,49 +141,92 @@
   src: url('/assets/fonts/FiraMono-Bold.woff2') format('woff2');
 }
 
+
+/* ── Page setup ───────────────────────────────────────────────── */
 @page {
   size: 210mm 210mm;
-  margin: 20mm 18mm 25mm 22mm;
+  margin: 17mm 16mm 25mm 24mm;
+}
+
+/* Mirrored margins: 16mm outside, 24mm on the binding side.
+   The cover is page 1 and therefore a right-hand page. */
+@page :left {
+  margin: 17mm 24mm 25mm 16mm;
 
   @top-left {
     content: string(book-title);
-    font-family: var(--font-ui);
-    font-size: 8pt;
+    font-family: var(--font-mono);
+    font-size: 7.5pt;
     color: var(--color-muted);
-    letter-spacing: 0.08em;
+    letter-spacing: 0.1em;
     text-transform: uppercase;
   }
-  @top-right {
-    content: string(chapter-title);
-    font-family: var(--font-ui);
-    font-size: 8pt;
-    color: var(--color-muted);
-  }
-  @bottom-center {
+  @bottom-left {
     content: counter(page);
-    font-family: var(--font-ui);
+    font-family: var(--font-mono);
     font-size: 8pt;
-    color: var(--color-muted);
+    color: var(--color-text);
+    letter-spacing: 0.08em;
   }
 }
 
-/* Cover page: same margins, no headers or page number */
+@page :right {
+  margin: 17mm 16mm 25mm 24mm;
+
+  @top-right {
+    content: string(chapter-title);
+    font-family: var(--font-mono);
+    font-size: 7.5pt;
+    color: var(--color-muted);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  @bottom-right {
+    content: counter(page);
+    font-family: var(--font-mono);
+    font-size: 8pt;
+    color: var(--color-text);
+    letter-spacing: 0.08em;
+  }
+}
+
+/* Cover and back cover: no margins, no running heads, board colour */
 @page cover {
-  margin: 20mm 18mm 25mm 22mm;
+  margin: 0;
+  background: var(--color-board);
   @top-left      { content: none; }
   @top-right     { content: none; }
+  @bottom-left   { content: none; }
+  @bottom-right  { content: none; }
+  @bottom-center { content: none; }
+}
+@page back {
+  margin: 0;
+  background: var(--color-board);
+  @top-left      { content: none; }
+  @top-right     { content: none; }
+  @bottom-left   { content: none; }
+  @bottom-right  { content: none; }
   @bottom-center { content: none; }
 }
 
 /* Front matter (ARTIST STATEMENT, READING GUIDE): page numbers
    in lowercase roman numerals — assign with class="front-matter"
    on the wrapping .chapter element if desired. */
-@page front-matter {
-  @bottom-center {
+@page front-matter:left {
+  @bottom-left {
     content: counter(page, lower-roman);
-    font-family: var(--font-ui);
+    font-family: var(--font-mono);
     font-size: 8pt;
-    color: var(--color-muted);
+    color: var(--color-text);
+  }
+}
+@page front-matter:right {
+  @bottom-right {
+    content: counter(page, lower-roman);
+    font-family: var(--font-mono);
+    font-size: 8pt;
+    color: var(--color-text);
   }
 }
 
@@ -168,10 +236,10 @@
 
 html, body {
   font-family: var(--font-body);
-  font-size: 10pt;
-  line-height: 1.6;
+  font-size: 10.5pt;
+  line-height: 1.5;
   color: var(--color-text);
-  background: white;
+  background: var(--color-paper);
 }
 
 
@@ -179,7 +247,9 @@ html, body {
 
 /* The book title is set once on the cover */
 .book-title {
-  string-set: book-title content();
+  /* literal string: the cover title contains a <br>, which content() would
+     join without a space ("WalkingMemories") */
+  string-set: book-title "Walking Memories";
 }
 
 /* Each chapter heading updates the running chapter title */
@@ -190,14 +260,16 @@ html, body {
 
 
 /* ── Cover page ───────────────────────────────────────────────── */
+/* 210 × 210mm board with absolutely placed elements. Height is set
+   a hair under the page (209.5mm) so rounding never spills a blank
+   page after it. Positions come from the cover template. */
 .book-cover {
   page: cover;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  min-height: 130mm;
-  padding: 0mm;
+  position: relative;
+  width: 210mm;
+  height: 209.5mm;
+  overflow: hidden;
+  background: var(--color-board);
   page-break-after: always;
   break-after: page;           /* FIX #9: modern alias */
   page-break-inside: avoid;
@@ -205,35 +277,166 @@ html, body {
 }
 
 .book-title {
-  font-family: var(--font-ui);
-  font-size: 24pt;
-  font-weight: 700;
-  line-height: 1.1;
-  margin-bottom: 6mm;
+  position: absolute;
+  left: 14mm;
+  top: 12.5mm;
+  font-family: var(--font-display);
+  font-size: 81pt;
+  font-weight: 600;
+  line-height: 0.92;
+  letter-spacing: -0.035em;
+  margin: 0;
 }
 
-.book-subtitle {
-  font-size: 10pt;
-  color: var(--color-muted);
-  line-height: 1.5;
-  margin-bottom: 6mm;
-  max-width: 90mm;
+/* "Ceci n'est pas un Livre d'Artiste Sans Papier." — one line per row,
+   with n' and pas struck through in the accent colour */
+.book-tagline {
+  position: absolute;
+  left: 16mm;
+  top: 69mm;
+  width: 72mm;
+  font-family: var(--font-body);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 22pt;
+  line-height: 1.22;
+  text-align: left;
+  margin: 0;
 }
+.book-tagline span { display: block; }
+.book-tagline del {
+  text-decoration: none;
+  background: linear-gradient(transparent 46%, var(--accent) 46%, var(--accent) 66%, transparent 66%);
+  padding: 0 1mm;
+  margin: 0 -1mm;
+}
+
+/* Framed print: shown whole, 1:1 */
+.book-cover .embed-media {
+  position: absolute;
+  left: 93.5mm;
+  top: 69mm;
+  width: 100.5mm;
+  margin: 0;
+  text-align: left;
+}
+.book-cover .embed-media img {
+  width: 100.5mm;
+  height: 100.5mm;
+  max-height: none;
+  object-fit: contain;
+  margin: 0;
+}
+.book-cover .embed-media figcaption {
+  font-family: var(--font-mono);
+  font-style: normal;
+  font-size: 8pt;
+  letter-spacing: 0.04em;
+  color: var(--color-text);
+  text-align: left;
+  margin-top: 3mm;
+}
+
+.book-subtitle { display: none; }   /* kept in markup for the web, not printed on the cover */
 
 .book-author {
-  font-family: var(--font-ui);
-  font-size: 10pt;
-  font-weight: 600;
-  letter-spacing: 0.03em;
-  margin-bottom: 3mm;
+  position: absolute;
+  left: 16mm;
+  top: 156mm;
+  font-family: var(--font-body);
+  font-size: 15pt;
+  font-weight: 500;
+  margin: 0;
+  text-align: left;
 }
 
 .book-meta {
+  position: absolute;
+  left: 16mm;
+  top: 164mm;
+  font-family: var(--font-mono);
   font-size: 8pt;
   color: var(--color-muted);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin: 0;
+  text-align: left;
+}
+
+.cover-foot {
+  position: absolute;
+  left: 16mm;
+  right: 16mm;
+  bottom: 11.5mm;
+  display: flex;
+  justify-content: space-between;
+  font-family: var(--font-mono);
+  font-size: 8pt;
   letter-spacing: 0.1em;
   text-transform: uppercase;
 }
+
+
+/* ── Back cover ───────────────────────────────────────────────── */
+.book-back {
+  page: back;
+  position: relative;
+  width: 210mm;
+  height: 209.5mm;
+  overflow: hidden;
+  background: var(--color-board);
+  page-break-before: always;
+  break-before: page;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+.book-back p { text-indent: 0; margin: 0; text-align: left; }
+
+.book-back .back-synopsis {
+  position: absolute;
+  left: 16mm;
+  top: 16mm;
+  width: 138mm;
+  font-size: 15.5pt;
+  line-height: 1.4;
+}
+.book-back .back-origin {
+  position: absolute;
+  left: 16mm;
+  top: 62mm;
+  width: 127mm;
+  font-style: italic;
+  font-size: 14pt;
+  line-height: 1.4;
+}
+.book-back .back-origin strong { font-weight: 500; }
+.book-back .back-origin span { color: var(--color-muted); }
+
+.book-back .back-years {
+  position: absolute;
+  left: 16mm;
+  top: 105mm;
+  width: 178mm;
+  display: flex;
+  gap: 4mm;
+  font-family: var(--font-mono);
+  font-size: 8pt;
+  line-height: 1.3;
+}
+.book-back .back-years div { flex: 1; border-top: 1pt solid var(--color-text); padding-top: 2mm; }
+.book-back .back-years b { display: block; font-weight: 500; }
+.book-back .back-years span { color: var(--color-muted); }
+
+.book-back .back-foot {
+  position: absolute;
+  left: 16mm;
+  bottom: 14mm;
+  font-family: var(--font-mono);
+  font-size: 8pt;
+  line-height: 1.6;
+  letter-spacing: 0.02em;
+}
+.book-back .back-foot strong { font-weight: 500; }
 
 
 /* ── Chapters ─────────────────────────────────────────────────── */
@@ -294,10 +497,11 @@ html, body {
 
 /* ── Typography ───────────────────────────────────────────────── */
 h1 {
-  font-family: var(--font-ui);
-  font-size: 20pt;
-  font-weight: 700;
-  line-height: 1.15;
+  font-family: var(--font-display);
+  font-size: 28pt;
+  font-weight: 600;
+  line-height: 1.02;
+  letter-spacing: -0.03em;
   margin-top: 0;
   margin-bottom: 8mm;
   page-break-after: avoid;
@@ -306,22 +510,36 @@ h1 {
   break-before: avoid;
 }
 
+/* The accent bar above each chapter title (ink unless --accent is set) */
+.chapter > h1:first-child::before,
+.chapter > h2:first-child::before {
+  content: "";
+  display: block;
+  width: 17mm;
+  height: 2mm;
+  background: var(--accent);
+  margin-bottom: 4mm;
+}
+
 h2 {
-  font-family: var(--font-ui);
-  font-size: 13pt;
+  font-family: var(--font-display);
+  font-size: 15pt;
   font-weight: 600;
+  line-height: 1.08;
+  letter-spacing: -0.025em;
   margin-top: 10mm;
   margin-bottom: 4mm;
   page-break-after: avoid;
   break-after: avoid;
-  border-bottom: 0.25pt solid var(--color-rule);
+  border-bottom: 0.5pt solid var(--color-rule);
   padding-bottom: 1.5mm;
 }
 
 h3 {
-  font-family: var(--font-ui);
-  font-size: 10.5pt;
+  font-family: var(--font-display);
+  font-size: 11pt;
   font-weight: 600;
+  letter-spacing: -0.015em;
   margin-top: 7mm;
   margin-bottom: 2mm;
   page-break-after: avoid;
@@ -329,7 +547,7 @@ h3 {
 }
 
 h4, h5, h6 {
-  font-family: var(--font-ui);
+  font-family: var(--font-display);
   font-size: 9.5pt;
   font-weight: 600;
   margin-top: 5mm;
@@ -338,9 +556,10 @@ h4, h5, h6 {
   break-after: avoid;
 }
 
+/* Ragged right: no justified rivers in a narrow column */
 p {
   margin-bottom: 4mm;
-  text-align: justify;
+  text-align: left;
   hyphens: auto;
   orphans: 3;                  /* FIX #2: raised from 2 → 3 */
   widows: 3;                   /* FIX #2: raised from 2 → 3 */
@@ -415,7 +634,7 @@ blockquote {
   padding: 0 5mm;
   border-left: 1.5pt solid var(--color-rule);
   color: var(--color-muted);
-  font-size: 9.5pt;
+  font-size: 10pt;
   page-break-inside: avoid;   /* FIX #6: blockquote must not split */
   break-inside: avoid;
 }
@@ -452,6 +671,8 @@ p:has(> img:only-child) + em {
   break-before: avoid;
 }
 
+/* Photographs are shown whole: only ever scaled DOWN to fit the page
+   (max-width / max-height with auto), never cropped or enlarged. */
 img {
   max-width: 100%;
   height: auto;
@@ -465,11 +686,13 @@ figure {
   margin: 5mm 0;
 }
 figcaption {
+  font-family: var(--font-mono);
   font-size: 8pt;
-  color: var(--color-muted);
-  text-align: center;
+  letter-spacing: 0.04em;
+  color: var(--color-text);
+  text-align: left;
   margin-top: 2mm;
-  font-style: italic;
+  font-style: normal;
 }
 
 
@@ -490,9 +713,12 @@ th, td {
   word-break: break-word;
 }
 th {
-  font-family: var(--font-ui);
-  font-weight: 600;
-  background: #f0ede7;
+  font-family: var(--font-mono);
+  font-size: 7.5pt;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  background: var(--color-tint);
 }
 
 
@@ -500,7 +726,7 @@ th {
 code {
   font-family: var(--font-mono);
   font-size: 8pt;
-  background: #f5f4f0;
+  background: var(--color-tint);
   padding: 0.5mm 1mm;
   border-radius: 1pt;
   overflow-wrap: anywhere;
@@ -525,8 +751,8 @@ code {
 pre {
   font-family: var(--font-mono);
   font-size: 7.5pt;
-  background: #f5f4f0;
-  border: 0.5pt solid var(--color-rule);
+  background: var(--color-tint);
+  border: 0.5pt solid var(--color-muted);
   padding: 3mm;
   overflow-wrap: anywhere;      /* FIX #8: break long tokens */
   word-break: break-all;        /* FIX #8: last-resort for hex hashes */
@@ -580,35 +806,39 @@ pre code { background: none; padding: 0; overflow-wrap: anywhere; }
 
 
 /* ── Hint blocks ──────────────────────────────────────────────── */
+/* Monochrome: the hint kinds differ by rule weight, not by colour */
 .hint {
   margin: 4mm 0;
   padding: 2.5mm 4mm;
-  border-left: 2pt solid #888;
-  font-size: 9pt;
+  border-left: 2pt solid var(--color-muted);
+  font-size: 9.5pt;
   page-break-inside: avoid;
   break-inside: avoid;
 }
-.hint-info    { border-left-color: #2d5a8e; }
-.hint-warning { border-left-color: #b07d00; }
-.hint-danger  { border-left-color: #b03000; }
-.hint-success { border-left-color: #2a7a2a; }
+.hint-info    { border-left-color: var(--color-text); }
+.hint-warning { border-left-width: 3pt; }
+.hint-danger  { border-left-width: 4pt; border-left-color: var(--color-text); }
+.hint-success { border-left-style: double; border-left-width: 3pt; }
 
 
 /* ── Arweave media embeds ─────────────────────────────────────── */
 .embed-media {
   margin: 5mm auto;
-  text-align: center;
+  text-align: left;
   page-break-inside: avoid;
   break-inside: avoid;
 }
 .embed-media img {
   max-width: 100%;
-  max-height: 100mm;
+  max-height: 100mm;            /* scaled down only; never enlarged */
+  width: auto;
   height: auto;
+  margin: 0 auto;
 }
 .embed-media figcaption {
-  font-size: 7pt;
-  color: #666;
+  font-family: var(--font-mono);
+  font-size: 8pt;
+  color: var(--color-text);
   word-break: break-all;
   overflow-wrap: anywhere;
   margin-top: 1.5mm;
@@ -617,19 +847,13 @@ pre code { background: none; padding: 0; overflow-wrap: anywhere; }
    Arweave URLs that are already shown as the image source) */
 .embed-media figcaption a::after { content: none !important; }
 
-/* Cover photo: constrained height to keep everything on one page */
-.book-cover .embed-media img {
-  max-height: 70mm;
-  width: auto;
-  margin: auto;
-}
-
 
 /* ── External link cards ──────────────────────────────────────── */
 .embed-link {
   margin: 3mm 0;
   padding: 1.5mm 3mm;
-  border: 0.5pt solid #ccc;
+  border: 0.5pt solid var(--color-muted);
+  font-family: var(--font-mono);
   font-size: 8pt;
   page-break-inside: avoid;
   break-inside: avoid;
@@ -655,22 +879,23 @@ pre code { background: none; padding: 0; overflow-wrap: anywhere; }
 .tab {
   margin: 2mm 0 3mm;
   padding: 2mm 3mm;
-  border: 0.5pt solid #ccc;
+  border: 0.5pt solid var(--color-muted);
   page-break-inside: avoid;
   break-inside: avoid;
 }
 .tab::before {
+  font-family: var(--font-mono);
   font-size: 7.5pt;
-  font-weight: 600;
-  letter-spacing: 0.05em;
+  font-weight: 500;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: #888;
+  color: var(--color-muted);
   display: block;
   margin-bottom: 1.5mm;
 }
 
 .page-description {
-  font-size: 10pt;
+  font-size: 10.5pt;
   color: var(--color-muted);
   font-style: italic;
   margin-bottom: 6mm;
