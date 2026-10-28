@@ -430,7 +430,7 @@ del {
 /* ── Arweave / media embeds ───────────────────────────────────── */
 .embed-media {
   margin: 1.75rem 0;
-  text-align: left;
+  text-align: center;
 }
 .embed-media img {
   max-width: 100%;
