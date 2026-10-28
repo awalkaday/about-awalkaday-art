@@ -824,7 +824,7 @@ pre code { background: none; padding: 0; overflow-wrap: anywhere; }
 /* ── Arweave media embeds ─────────────────────────────────────── */
 .embed-media {
   margin: 5mm auto;
-  text-align: left;
+  text-align: center;
   page-break-inside: avoid;
   break-inside: avoid;
 }
