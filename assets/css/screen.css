@@ -1,78 +1,99 @@
 /* ================================================================
    screen.css — web layout for printlab.awalkaday.art
    Loaded on all pages EXCEPT /impression/
-   Inspired by the Chiragan catalogue layout (Julie Blanc, 2020)
+
+   Same design as print.css (2026-10 revision):
+     - Titles Libre Franklin 600, body Newsreader, captions and
+       UI labels Fira Mono.
+     - Monochrome first. --accent is ink; set it to #F2B705 for the
+       optional yellow edition (keep it identical in print.css).
+     - Photographs are shown whole: only ever scaled down to fit the
+       column, never cropped or enlarged.
+     - Light grey "board" colour for the header and the home cover,
+       the same tone as the printed covers.
    ================================================================ */
 
 /* ── Custom properties ────────────────────────────────────────── */
 :root {
-  --font-body:    "Merriweather", "Georgia", serif;
-  --font-ui:      "Merriweather", system-ui, -apple-system, serif;
-  --font-mono:    "Fira Mono", "Source Sans 3", monospace;
+  --font-display: "Libre Franklin", "Helvetica Neue", Arial, sans-serif;
+  --font-body:    "Newsreader", "Georgia", serif;
+  --font-ui:      var(--font-display);
+  --font-mono:    "Fira Mono", ui-monospace, monospace;
 
-  --color-bg:         #faf9f7;
-  --color-surface:    #ffffff;
-  --color-text:       #1a1a18;
-  --color-text-muted: #6b6b65;
-  --color-accent:     #2d5a8e;
-  --color-accent-hover: #1e3f65;
-  --color-border:     #e0ddd5;
-  --color-nav-active: #2d5a8e;
-  --color-nav-active-bg: #eef3fa;
+  --color-bg:         #FBFBF9;   /* paper */
+  --color-surface:    #FFFFFF;
+  --color-board:      #E4E5E1;   /* covers, header */
+  --color-tint:       #F0F0ED;   /* code, table heads, hints */
+  --color-text:       #131313;   /* ink */
+  --color-text-muted: #4F4F4B;
+  --color-border:     #D2D2CE;
+  --color-rule:       #8A8A86;
+  --accent:           var(--color-text);   /* optional yellow edition: #F2B705 */
+  --color-accent:     var(--color-text);
+  --color-accent-hover: var(--color-text-muted);
+  --color-nav-active: var(--color-text);
+  --color-nav-active-bg: var(--color-tint);
 
   --sidebar-width: 260px;
-  --content-max:   720px;
+  --content-max:   42rem;
   --header-h:      52px;
 }
 
 @font-face {
-  font-family: "Merriweather";
-  font-style: normal;
-  font-weight: 300;
-  font-display: swap;
-  src: url('/assets/fonts/Merriweather-Light.woff2') format('woff2');
-}
-@font-face {
-  font-family: "Merriweather";
+  font-family: "Libre Franklin";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url('/assets/fonts/Merriweather-Regular.woff2') format('woff2');
+  src: url('/assets/fonts/LibreFranklin-400.woff2') format('woff2');
 }
 @font-face {
-  font-family: "Merriweather";
-  font-style: italic;
-  font-weight: 400;
-  font-display: swap;
-  src: url('/assets/fonts/Merriweather-Italic.woff2') format('woff2');
-}
-@font-face {
-  font-family: "Merriweather";
+  font-family: "Libre Franklin";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 500;
   font-display: swap;
-  src: url('/assets/fonts/Merriweather-Bold.woff2') format('woff2');
+  src: url('/assets/fonts/LibreFranklin-500.woff2') format('woff2');
 }
 @font-face {
-  font-family: "Source Sans 3";
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url('/assets/fonts/SourceSans3-Regular.woff2') format('woff2');
-}
-@font-face {
-  font-family: "Source Sans 3";
+  font-family: "Libre Franklin";
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url('/assets/fonts/SourceSans3-SemiBold.woff2') format('woff2');
+  src: url('/assets/fonts/LibreFranklin-600.woff2') format('woff2');
 }
 @font-face {
-  font-family: "Source Sans 3";
+  font-family: "Libre Franklin";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url('/assets/fonts/SourceSans3-Bold.woff2') format('woff2');
+  src: url('/assets/fonts/LibreFranklin-700.woff2') format('woff2');
+}
+@font-face {
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/Newsreader-400-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/Newsreader-400-italic.woff2') format('woff2');
+}
+@font-face {
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/assets/fonts/Newsreader-500-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/assets/fonts/Newsreader-500-italic.woff2') format('woff2');
 }
 @font-face {
   font-family: "Fira Mono";
@@ -98,15 +119,14 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-bg:         #18181a;
-    --color-surface:    #222224;
-    --color-text:       #e8e6e1;
-    --color-text-muted: #8c8b85;
-    --color-accent:     #7aaddf;
-    --color-accent-hover: #a0c4eb;
-    --color-border:     #333330;
-    --color-nav-active: #7aaddf;
-    --color-nav-active-bg: #1e2b38;
+    --color-bg:         #141413;
+    --color-surface:    #1B1B1A;
+    --color-board:      #232321;
+    --color-tint:       #222220;
+    --color-text:       #ECECE8;
+    --color-text-muted: #A5A5A0;
+    --color-border:     #3A3A37;
+    --color-rule:       #6E6E69;
   }
 }
 
@@ -116,10 +136,16 @@ html { font-size: 16px; scroll-behavior: smooth; }
 
 body {
   font-family: var(--font-body);
+  font-size: 1.0625rem;
   background: var(--color-bg);
   color: var(--color-text);
-  line-height: 1.75;
+  line-height: 1.65;
   -webkit-font-smoothing: antialiased;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-text);
+  outline-offset: 2px;
 }
 
 /* ── Site header ──────────────────────────────────────────────── */
@@ -132,33 +158,34 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 0 1.5rem;
-  background: var(--color-surface);
+  background: var(--color-board);
   border-bottom: 1px solid var(--color-border);
 }
 
 .site-title {
-  font-family: var(--font-ui);
-  font-size: 0.95rem;
+  font-family: var(--font-display);
+  font-size: 1rem;
   font-weight: 600;
-  letter-spacing: 0.01em;
+  letter-spacing: -0.02em;
   color: var(--color-text);
   text-decoration: none;
 }
-.site-title:hover { color: var(--color-accent); }
+.site-title:hover { color: var(--color-text-muted); }
 
 .nav-print-link {
-  font-family: var(--font-ui);
-  font-size: 0.8rem;
-  color: var(--color-text-muted);
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-text);
   text-decoration: none;
-  border: 1px solid var(--color-border);
-  padding: 0.25rem 0.6rem;
-  border-radius: 4px;
-  transition: color 0.15s, border-color 0.15s;
+  border: 1px solid var(--color-text);
+  padding: 0.3rem 0.65rem;
+  transition: background 0.15s, color 0.15s;
 }
 .nav-print-link:hover {
-  color: var(--color-accent);
-  border-color: var(--color-accent);
+  background: var(--color-text);
+  color: var(--color-bg);
 }
 
 /* ── Body layout ──────────────────────────────────────────────── */
@@ -177,7 +204,7 @@ body {
   overflow-y: auto;
   padding: 1.5rem 0;
   border-right: 1px solid var(--color-border);
-  background: var(--color-surface);
+  background: var(--color-bg);
 }
 
 .nav-list {
@@ -187,12 +214,11 @@ body {
   margin-left: 0.75rem;
 }
 
-.nav-item { }
-
 .nav-link {
   display: block;
-  font-family: var(--font-ui);
+  font-family: var(--font-display);
   font-size: 0.82rem;
+  line-height: 1.4;
   color: var(--color-text-muted);
   text-decoration: none;
   padding: 0.35rem 1.25rem;
@@ -204,8 +230,8 @@ body {
   background: var(--color-nav-active-bg);
 }
 .nav-link--active {
-  color: var(--color-nav-active);
-  border-left-color: var(--color-nav-active);
+  color: var(--color-text);
+  border-left-color: var(--accent);
   background: var(--color-nav-active-bg);
   font-weight: 600;
 }
@@ -223,119 +249,160 @@ body {
 }
 
 /* ── Typography ───────────────────────────────────────────────── */
+/* The accent bar above every page title (ink unless --accent is set) */
+.page-title::before {
+  content: "";
+  display: block;
+  width: 4rem;
+  height: 0.5rem;
+  background: var(--accent);
+  margin-bottom: 1.1rem;
+}
 .page-title {
-  font-family: var(--font-ui);
-  font-size: 2rem;
-  font-weight: 700;
-  line-height: 1.2;
-  margin-bottom: 2rem;
+  font-family: var(--font-display);
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.04;
+  letter-spacing: -0.03em;
+  margin-bottom: 1.5rem;
   color: var(--color-text);
+  text-wrap: balance;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-ui);
+  font-family: var(--font-display);
   font-weight: 600;
-  line-height: 1.3;
-  margin: 2rem 0 0.75rem;
+  line-height: 1.15;
+  letter-spacing: -0.025em;
+  margin: 2.25rem 0 0.75rem;
   color: var(--color-text);
+  text-wrap: balance;
 }
-h1 { font-size: 1.75rem; }
-h2 { font-size: 1.35rem; border-bottom: 1px solid var(--color-border); padding-bottom: 0.4rem; }
-h3 { font-size: 1.1rem; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.45rem; border-bottom: 1px solid var(--color-border); padding-bottom: 0.4rem; }
+h3 { font-size: 1.15rem; letter-spacing: -0.015em; }
+h4, h5, h6 { font-size: 1rem; letter-spacing: -0.01em; }
 
-p { margin-bottom: 1.25rem; }
+p { margin-bottom: 1.25rem; text-wrap: pretty; hyphens: auto; }
 
-a { color: var(--color-accent); text-decoration: underline; text-decoration-thickness: 1px; }
-a:hover { color: var(--color-accent-hover); }
+/* Links: ink with an underline, so they read in monochrome */
+a {
+  color: var(--color-text);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+a:hover { color: var(--color-text-muted); }
 
+/* Photographs are shown whole: only ever scaled DOWN to fit the
+   column (max-width + auto height), never cropped or enlarged. */
 img {
   max-width: 100%;
   height: auto;
   display: block;
   margin: 1.5rem 0;
-  border-radius: 4px;
 }
 
 blockquote {
   margin: 1.5rem 0;
-  padding: 0.75rem 1.25rem;
-  border-left: 3px solid var(--color-accent);
+  padding: 0.5rem 1.25rem;
+  border-left: 3px solid var(--color-text);
   color: var(--color-text-muted);
   font-style: italic;
 }
 
 code {
   font-family: var(--font-mono);
-  font-size: 0.85em;
-  background: var(--color-border);
+  font-size: 0.82em;
+  background: var(--color-tint);
   padding: 0.1em 0.35em;
-  border-radius: 3px;
 }
 pre {
-  background: var(--color-surface);
-  border: 1px solid var(--color-border);
-  border-radius: 6px;
+  background: var(--color-tint);
+  border: 1px solid var(--color-rule);
   padding: 1rem;
   overflow-x: auto;
   margin: 1.5rem 0;
+  font-size: 0.85rem;
+  line-height: 1.55;
 }
 pre code { background: none; padding: 0; }
 
-table {
+/* Tables: ruled, mono uppercase headings */
+.page-content table {
   border-collapse: collapse;
   width: 100%;
   margin: 1.5rem 0;
-  font-size: 0.9rem;
+  font-size: 0.92rem;
 }
 th, td {
   padding: 0.5rem 0.75rem;
   border: 1px solid var(--color-border);
   text-align: left;
 }
-th { background: var(--color-border); font-family: var(--font-ui); }
+th {
+  background: var(--color-tint);
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+del {
+  text-decoration: none;
+  background: linear-gradient(transparent 46%, var(--accent) 46%, var(--accent) 66%, transparent 66%);
+  padding: 0 0.12em;
+}
 
 /* ── Page footer (pagination) ─────────────────────────────────── */
 .page-footer {
   margin-top: 4rem;
   padding-top: 1.5rem;
-  border-top: 1px solid var(--color-border);
+  border-top: 1px solid var(--color-text);
 }
 .page-pagination {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
-  font-family: var(--font-ui);
-  font-size: 0.85rem;
+  gap: 0.75rem;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
 }
 .pagination-prev, .pagination-next {
-  color: var(--color-accent);
+  color: var(--color-text);
   text-decoration: none;
-  padding: 0.4rem 0.75rem;
-  border: 1px solid var(--color-border);
-  border-radius: 4px;
-  transition: border-color 0.15s, background 0.15s;
+  padding: 0.5rem 0.85rem;
+  border: 1px solid var(--color-text);
+  transition: background 0.15s, color 0.15s;
 }
 .pagination-prev:hover, .pagination-next:hover {
-  background: var(--color-nav-active-bg);
-  border-color: var(--color-accent);
+  background: var(--color-text);
+  color: var(--color-bg);
 }
 
 /* ── Site footer ──────────────────────────────────────────────── */
 .site-footer {
   padding: 1.5rem 2rem;
-  font-family: var(--font-ui);
-  font-size: 0.78rem;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  line-height: 1.7;
+  letter-spacing: 0.03em;
   color: var(--color-text-muted);
   border-top: 1px solid var(--color-border);
+  background: var(--color-board);
   text-align: center;
 }
 .site-footer a { color: var(--color-text-muted); }
-.site-footer a:hover { color: var(--color-accent); }
+.site-footer a:hover { color: var(--color-text); }
 
 /* ── Responsive ───────────────────────────────────────────────── */
 @media (max-width: 768px) {
   .sidebar { display: none; }
+  .site-header { padding: 0 1rem; }
   .content { padding: 1.5rem 1rem 3rem; }
-  .page-title { font-size: 1.5rem; }
+  .page-title { font-size: 2rem; }
 }
 
 /* ── Do not render when printing — print.css handles that ─────── */
@@ -344,63 +411,57 @@ th { background: var(--color-border); font-family: var(--font-ui); }
 }
 
 /* ── Hint / callout blocks ────────────────────────────────────── */
+/* Monochrome: the kinds differ by rule weight, not by colour */
 .hint {
   margin: 1.5rem 0;
   padding: 0.85rem 1.1rem;
-  border-left: 3px solid var(--color-border);
-  border-radius: 0 4px 4px 0;
-  font-size: 0.93rem;
+  border-left: 3px solid var(--color-rule);
+  background: var(--color-tint);
+  font-size: 0.95rem;
   line-height: 1.6;
 }
 .hint p:last-child { margin-bottom: 0; }
 
-.hint-info    { border-left-color: var(--color-accent);  background: var(--color-nav-active-bg); }
-.hint-warning { border-left-color: #b07d00; background: #fdf8e8; }
-.hint-danger  { border-left-color: #b03000; background: #fdf0ee; }
-.hint-success { border-left-color: #2a7a2a; background: #f0faf0; }
-
-@media (prefers-color-scheme: dark) {
-  .hint-warning { background: #2a2400; }
-  .hint-danger  { background: #2a1400; }
-  .hint-success { background: #0a2200; }
-}
+.hint-info    { border-left-color: var(--color-text); }
+.hint-warning { border-left-width: 5px; }
+.hint-danger  { border-left-width: 6px; border-left-color: var(--color-text); }
+.hint-success { border-left-style: double; border-left-width: 5px; }
 
 /* ── Arweave / media embeds ───────────────────────────────────── */
 .embed-media {
   margin: 1.75rem 0;
-  text-align: center;
+  text-align: left;
 }
 .embed-media img {
   max-width: 100%;
   height: auto;
-  border-radius: 4px;
   display: block;
-  margin: 0 auto 0.5rem;
+  margin: 0 0 0.6rem;
 }
 .embed-media figcaption {
-  font-family: var(--font-ui);
-  font-size: 0.75rem;
-  color: var(--color-text-muted);
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  color: var(--color-text);
   word-break: break-all;
 }
 .embed-media figcaption a {
   color: var(--color-text-muted);
   text-decoration: none;
 }
-.embed-media figcaption a:hover { color: var(--color-accent); }
+.embed-media figcaption a:hover { color: var(--color-text); }
 
 /* ── External link cards ──────────────────────────────────────── */
 .embed-link {
   margin: 1rem 0;
-  padding: 0.65rem 1rem;
-  border: 1px solid var(--color-border);
-  border-radius: 6px;
-  font-family: var(--font-ui);
-  font-size: 0.85rem;
-  background: var(--color-surface);
+  padding: 0.6rem 1rem;
+  border: 1px solid var(--color-rule);
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  background: var(--color-bg);
 }
 .embed-link a {
-  color: var(--color-accent);
+  color: var(--color-text);
   word-break: break-all;
 }
 
@@ -412,26 +473,61 @@ th { background: var(--color-border); font-family: var(--font-ui); }
 .tab {
   margin: 0.5rem 0 1rem;
   padding: 0.75rem 1rem;
-  border: 1px solid var(--color-border);
-  border-radius: 6px;
+  border: 1px solid var(--color-rule);
 }
 .tab::before {
   display: block;
   content: attr(data-title);
-  font-family: var(--font-ui);
-  font-size: 0.75rem;
-  font-weight: 600;
-  letter-spacing: 0.05em;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--color-text-muted);
   margin-bottom: 0.5rem;
 }
 .page-description {
-  font-size: 1.05rem;
+  font-size: 1.1rem;
   color: var(--color-text-muted);
-  line-height: 1.6;
-  margin: -1rem 0 2rem;
+  line-height: 1.55;
+  margin: -0.5rem 0 2rem;
   font-style: italic;
+  hyphens: manual;   /* short intro lines: no "ar-chive" */
+}
+
+/* ── Home page: the cover ─────────────────────────────────────── */
+/* Applied through <article class="page-content home"> in
+   _layouts/page.html. Board-grey panel, large title, the cover photo
+   shown whole, and the tagline set like the printed cover. */
+.page-content.home {
+  max-width: 56rem;
+  background: var(--color-board);
+  padding: clamp(1.5rem, 5vw, 3.5rem);
+}
+.page-content.home .page-title {
+  font-size: clamp(3rem, 9vw, 6rem);
+  line-height: 0.92;
+  letter-spacing: -0.035em;
+  margin-bottom: 1.25rem;
+}
+.page-content.home .page-description {
+  font-style: normal;
+  font-size: 1.15rem;
+  max-width: 34rem;
+  margin: 0 0 2rem;
+  color: var(--color-text);
+}
+.page-content.home .embed-media { max-width: 34rem; }
+.page-content.home h3 { font-weight: 500; font-size: 1.2rem; letter-spacing: -0.01em; margin-top: 1.5rem; }
+.page-content.home .hint {
+  background: none;
+  border: 0;
+  padding: 0;
+  font-size: 1.6rem;
+  line-height: 1.25;
+  font-style: italic;
+  font-weight: 500;
+  max-width: 14rem;
 }
 
 .sr-only {
@@ -446,3 +542,7 @@ th { background: var(--color-border); font-family: var(--font-ui); }
   border: 0;
 }
 
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  * { transition: none !important; }
+}

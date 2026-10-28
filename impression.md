@@ -5,14 +5,22 @@ title: "Walking Memories — Print / PDF"
 ---
 
 <div class="book-cover">
-  <h1 class="book-title">Walking Memories</h1>
+  <h1 class="book-title">Walking<br>Memories</h1>
   <p class="book-subtitle">An open-source artist's book tracing the digital footprints of an exiled wanderer and his Belgian pixels during an eight-year odyssey</p>
+  <p class="book-tagline">
+    <span>Ceci <del>n’</del></span>
+    <span>est <del>pas</del></span>
+    <span>un Livre</span>
+    <span>d’Artiste</span>
+    <span>Sans Papier.</span>
+  </p>
   <figure class="embed-media cover-photo">
     <img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="awalkaday 251-2022" loading="eager">
     <figcaption>awalkaday 251–2022</figcaption>
   </figure>
-  <p class="book-author">Chris-Armel Iradukunda (daqhris)</p>
-  <p class="book-meta">printlab.awalkaday.art · draft edition · 2026</p>
+  <p class="book-author">Chris-Armel Iradukunda</p>
+  <p class="book-meta">daqhris · draft edition 2026</p>
+  <div class="cover-foot"><span>awalkaday.art</span><span>263 photographs · 2017–2022</span></div>
 </div>
 
 
@@ -176,6 +184,24 @@ title: "Walking Memories — Print / PDF"
 {{ chapter | markdownify }}
 </section>
 
-<div class="blank-page"></div>
-<div class="blank-page"></div>
-<div class="blank-page"></div>
+<div class="book-back">
+  <p class="back-synopsis">Open-source artbook retracing the digital footprints of an exiled wanderer’s eight-year odyssey—263 photographs, a blockchain archive, and an asylum file—told in parallel across his Belgian pixels.</p>
+  <div class="back-origin">
+    <p><strong>Made in the Kingdom of Belgium</strong></p>
+    <p><span>An Undocumented Artistic Product Of Afro-Surrealism, By An Undocumented Artist On The Land of Surrealism.</span></p>
+  </div>
+  <div class="back-years">
+    <div><b>2017</b><span>30</span></div>
+    <div><b>2018</b><span>13</span></div>
+    <div><b>2019</b><span>—</span></div>
+    <div><b>2020</b><span>—</span></div>
+    <div><b>2021</b><span>107</span></div>
+    <div><b>2022</b><span>113</span></div>
+  </div>
+  <div class="back-foot">
+    <strong>book.awalkaday.art</strong><br>
+    Photos, writings CC BY-NC-ND 4.0<br>
+    Source code EUPL 1.2<br>
+    ISBN absent until its author’s human ID is active
+  </div>
+</div>
