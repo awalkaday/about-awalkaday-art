@@ -839,6 +839,7 @@ pre code { background: none; padding: 0; overflow-wrap: anywhere; }
   font-family: var(--font-mono);
   font-size: 8pt;
   color: var(--color-text);
+  text-align: center;           /* beats the general figcaption left rule */
   word-break: break-all;
   overflow-wrap: anywhere;
   margin-top: 1.5mm;
