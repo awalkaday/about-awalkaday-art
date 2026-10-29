@@ -436,7 +436,7 @@ del {
   max-width: 100%;
   height: auto;
   display: block;
-  margin: 0 0 0.6rem;
+  margin: 0 auto 0.6rem;
 }
 .embed-media figcaption {
   font-family: var(--font-mono);
