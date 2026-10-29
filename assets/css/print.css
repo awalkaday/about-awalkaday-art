@@ -333,7 +333,7 @@ html, body {
   font-size: 8pt;
   letter-spacing: 0.04em;
   color: var(--color-text);
-  text-align: left;
+  text-align: center;           /* centred under the framed print, like every other photo ID */
   margin-top: 3mm;
 }
 
@@ -440,7 +440,11 @@ html, body {
 
 
 /* ── Chapters ─────────────────────────────────────────────────── */
-.chapter {
+/* Paged.js records `break-before: page` as data-break-before on the element
+   and a later `avoid` never clears it, so with .fx-sub on, the base rule must
+   simply not match subchapters (`.sub`). */
+body:not(.fx-sub) .chapter,
+.fx-sub .chapter:not(.sub) {
   page-break-before: always;  /* each chapter starts on a new page */
   break-before: page;          /* FIX #9: modern alias */
 }
@@ -936,4 +940,81 @@ pre code { background: none; padding: 0; overflow-wrap: anywhere; }
   clip: rect(0, 0, 0, 0);
   white-space: nowrap;
   border: 0;
+}
+
+
+/* ── GitBook alignment attributes ───────────────────────────────
+   The exported content centres and right-aligns with HTML
+   align="center" / align="right" attributes (the ◈ ornament, the
+   Imprint credits, table cells). A plain `p { text-align: left }`
+   rule always beats an HTML attribute, so these rules restore them.
+   The attribute selectors are more specific than the element rules. */
+[align="center"] { text-align: center; }
+[align="right"]  { text-align: right; }
+[align="left"]   { text-align: left; }
+p[align]         { text-indent: 0; }
+
+
+/* ================================================================
+   FLOW CONTROLS — switchable page-saving features
+   Each group below applies only when its class is on <body>
+   (set in _layouts/impression.html). Delete a class there to turn
+   that feature off and compare page counts.
+
+     fx-sub       sub-chapters flow on instead of starting a page
+     fx-hide      web-only blocks (card tables, .md link stubs) not printed
+     fx-inset     photos become 64mm insets beside the text
+                  (give a figure class="plate" to keep it large)
+     fx-register  the 263-row postscript and catalogue tables set compact
+   ================================================================ */
+
+/* fx-sub: only the 15 top-level chapters start on a new page */
+.fx-sub .chapter.sub {
+  /* the forced break is withheld by the base rule's selector above */
+  margin-top: 9mm;
+}
+.fx-sub .chapter.sub > h1:first-child {
+  font-size: 17pt;
+  margin-bottom: 4mm;
+}
+.fx-sub .chapter.sub > h1:first-child::before {
+  width: 11mm;
+  height: 1.4mm;
+  margin-bottom: 3mm;
+}
+
+/* fx-hide: navigation furniture that only makes sense on the web */
+.fx-hide table[data-view="cards"],
+.fx-hide p:has(> a[href$=".md"]:only-child) {
+  display: none;
+}
+
+/* fx-inset: photographs shown whole but smaller, text wraps around them */
+.fx-inset .chapter figure.embed-media:not(.plate) {
+  float: right;
+  width: 64mm;
+  margin: 1mm 0 3mm 6mm;
+}
+.fx-inset .chapter figure.embed-media:not(.plate) img {
+  max-height: 64mm;
+}
+
+/* fx-register: dense, ruled registers instead of boxed tables */
+.fx-register #postscript table {
+  font-size: 7pt;
+  break-inside: auto;
+  page-break-inside: auto;
+}
+.fx-register #postscript th,
+.fx-register #postscript td {
+  padding: 0.6mm 1.6mm;
+  border-width: 0 0 0.25pt 0;
+}
+.fx-register #postscript tr {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.fx-register #catalogue table {
+  font-size: 8pt;
+  margin: 2mm 0;
 }
