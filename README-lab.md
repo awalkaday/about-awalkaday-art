@@ -56,10 +56,17 @@ open http://localhost:4000/impression/   # print view — use Chromium
 4. More settings: disable "Headers and footers", margins to None
 5. Save
 
-Headless alternative:
+Headless (command line), with page counts and chapter start pages:
 ```bash
-npx @pagedjs/cli http://localhost:4000/impression/ -o walking-memories.pdf
+npm i -D playwright && npx playwright install chromium     # once
+node scripts/make-pdf.js http://localhost:4000/impression/ walking-memories.pdf
+node scripts/make-pdf.js https://printlab.awalkaday.art/impression/ live.pdf
+
+# compare the page-saving switches without editing the layout:
+node scripts/make-pdf.js http://localhost:4000/impression/ off.pdf --fx ""
+node scripts/make-pdf.js http://localhost:4000/impression/ all.pdf --fx "fx-sub fx-hide fx-inset fx-register"
 ```
+`--fx` replaces the `fx-*` classes on `<body>` for that render only.
 
 ## Deploying
 
