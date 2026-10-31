@@ -3,3 +3,4 @@
 .jekyll-metadata/
 vendor/
 __pycache__/
+.photo-cache/

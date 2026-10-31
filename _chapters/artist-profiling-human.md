@@ -15,4 +15,4 @@
 
 Born in 1992, raised with a spoon feeding his mouth on East African soil, Chris was educated in his teenage years at a state-funded public school, and another one backed by a Jesuit institution on the territory of Bujumbura, Burundi. The two public schools were named in a religious manner after the Morning Star in Latin as _Stella Matutina_, and the Holy Spirit in French as _Saint-Esprit_.
 
-<div data-with-frame="true"><figure class="embed-media"><img src="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/daqhris-qrcode2.png" alt="QR Code of an online CV"><figcaption>This QR code is a portal to an <a href="https://daqhris.com/about">online CV</a></figcaption></figure></div>
+<div data-with-frame="true"><figure class="embed-media"><img data-src-original="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/daqhris-qrcode2.png" src="/assets/external/daqhris-qrcode2-1edf4611.png" alt="QR Code of an online CV"><figcaption>This QR code is a portal to an <a href="https://daqhris.com/about">online CV</a></figcaption></figure></div>

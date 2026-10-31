@@ -77,7 +77,7 @@ The page listing answers to _'WHEN, WHY, HOW, WHERE, WHO'_, titled `FAQ | A WALK
 
 The `awalkaday` building blocks became once again the focus of my geeky attention and camera lenses from [May 2021](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4) onwards. That was right after receiving a developer certification from web coding classes, taught at [freeCodeCamp.org](https://www.freecodecamp.org/daqhris), elongated into the timeframes of Aug-Oct 2016 and Dec 2020-Feb 2021.
 
-<div data-with-frame="true"><figure><img src="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/freeCodeCamp-ResponsiveWebDesign.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img data-src-original="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/freeCodeCamp-ResponsiveWebDesign.png" src="/assets/external/freecodecamp-responsivewebdesign-dafe237a.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 <div class="embed-link">
   <a href="https://daqhris.com/fcc-cert/" rel="noopener" target="_blank">daqhris.com</a>

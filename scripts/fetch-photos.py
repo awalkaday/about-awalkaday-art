@@ -8,6 +8,9 @@ rewrite the chapters to embed the local copies.
     python3 scripts/fetch-photos.py --rewrite          # ...and point chapters at local files
     python3 scripts/fetch-photos.py --no-chain         # skip the on-chain check
     python3 scripts/fetch-photos.py --dry-run          # list what would happen
+    python3 scripts/fetch-photos.py --external --rewrite   # also mirror third-party images (logos...)
+    python3 scripts/fetch-photos.py --max-px 1600      # store print-size copies (needs Pillow);
+                                                       # originals stay in .photo-cache/ (git-ignored)
 
 Keys and names
   * The token ID is the key. Photo names are NOT unique (5 repeat, 30 are ".5"
@@ -35,10 +38,13 @@ ROOT = Path(__file__).resolve().parent.parent
 CONTRACT_DEFAULT = "0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1"
 IMG_RE = re.compile(r'<img\b[^>]*?>', re.I | re.S)
 SRC_RE = re.compile(r'src="(https?://(?:[a-z0-9]+\.)?arweave\.net/([A-Za-z0-9_-]{43}))"')
+DATA_AR_RE = re.compile(r'data-arweave="(https?://(?:[a-z0-9]+\.)?arweave\.net/([A-Za-z0-9_-]{43}))"')
 ALT_RE = re.compile(r'alt="([^"]*)"')
 FIELDS = ["token_id", "contract", "title", "date", "instagram_url", "foundation_url",
           "arweave_txid", "arweave_url", "token_uri", "metadata_image", "chain_check",
-          "local_path", "sha256", "bytes", "width", "height", "fetched_at", "status"]
+          "local_path", "sha256", "bytes", "width", "height",
+          "sha256_original", "bytes_original", "orig_width", "orig_height", "derived_px",
+          "fetched_at", "status"]
 
 
 def read_register():
@@ -61,7 +67,7 @@ def scan_embeds():
     found = []
     for f in files:
         for tag in IMG_RE.findall(f.read_text(encoding="utf-8")):
-            s = SRC_RE.search(tag)
+            s = SRC_RE.search(tag) or DATA_AR_RE.search(tag)
             if s:
                 a = ALT_RE.search(tag)
                 found.append((f, s.group(2), s.group(1), a.group(1).strip() if a else ""))
@@ -112,7 +118,13 @@ def to_http(uri):
     return uri
 
 
+EXT_SRC_RE = re.compile(r'src="(https?://[^"]+)"')
+
+
 def sniff_ext(data):
+    head = data[:512].lstrip()
+    if head[:5] == b"<?xml" or head[:4] == b"<svg": return ".svg"
+    if data[:4] == b"GIF8": return ".gif"
     if data[:3] == b"\xff\xd8\xff": return ".jpg"
     if data[:8] == b"\x89PNG\r\n\x1a\n": return ".png"
     if data[:4] == b"RIFF" and data[8:12] == b"WEBP": return ".webp"
@@ -123,6 +135,33 @@ def image_size(path):
     try:
         from PIL import Image
         with Image.open(path) as im:
+            return im.size
+    except Exception:
+        return None
+
+
+def derive(data, max_px, quality):
+    """Return (bytes, ext, (orig_w, orig_h)). Never enlarges; small images are kept as they are."""
+    import io
+    from PIL import Image, ImageOps
+    im = Image.open(io.BytesIO(data))
+    orig = im.size
+    if max(orig) <= max_px:
+        return data, sniff_ext(data), orig
+    im = ImageOps.exif_transpose(im)
+    if im.mode not in ("L", "RGB"):
+        im = im.convert("RGB")
+    im.thumbnail((max_px, max_px), Image.LANCZOS)
+    buf = io.BytesIO()
+    im.save(buf, "JPEG", quality=quality, optimize=True, progressive=True)
+    return buf.getvalue(), ".jpg", orig
+
+
+def image_size_bytes(data):
+    try:
+        import io
+        from PIL import Image
+        with Image.open(io.BytesIO(data)) as im:
             return im.size
     except Exception:
         return None
@@ -156,6 +195,11 @@ def main():
     ap.add_argument("--rewrite", action="store_true", help="rewrite chapters to embed the local files")
     ap.add_argument("--public-prefix", default="/assets/photos", help="URL path used in rewritten <img src> (baseurl is empty on this site)")
     ap.add_argument("--min-px", type=int, default=1000, help="warn when an image is smaller than this (px)")
+    ap.add_argument("--max-px", type=int, default=0, help="store copies no larger than N px on the long side (needs Pillow); 0 = keep originals")
+    ap.add_argument("--quality", type=int, default=85, help="JPEG quality for --max-px copies")
+    ap.add_argument("--cache", default=".photo-cache", help="where originals are kept when --max-px is used (git-ignored)")
+    ap.add_argument("--external", action="store_true", help="also mirror third-party <img> images into assets/external/ (logos, QR codes...)")
+    ap.add_argument("--prune", action="store_true", help="delete files in --out that the manifest no longer references")
     ap.add_argument("--dry-run", action="store_true")
     a = ap.parse_args()
 
@@ -202,64 +246,121 @@ def main():
         print(f"needs review: {len(review)}")
         return 0
 
+    if a.max_px:
+        try:
+            import PIL  # noqa: F401
+        except ImportError:
+            sys.exit("--max-px needs Pillow:  pip install pillow")
     out_dir.mkdir(parents=True, exist_ok=True)
+    cache_dir = ROOT / a.cache
     problems = []
+
+    # a token can have several Arweave files (e.g. the minted one and a variant used in a
+    # chapter): give each its own filename so they never overwrite each other
+    txs_of = {}
+    for tx, r in manifest.items():
+        if r.get("token_id"):
+            txs_of.setdefault(r["token_id"], []).append(tx)
+
+    def target_name(row, tx, ext):
+        base = f"t{int(row['token_id']):04d}-{slug(row['title'])}"
+        if len(txs_of[row["token_id"]]) > 1:
+            base += "-" + re.sub(r"[^A-Za-z0-9]", "", tx)[:6].lower()
+        return base + ext
+
+    sha = lambda b: hashlib.sha256(b).hexdigest()
     try:
-      for tx, row in sorted(manifest.items(), key=lambda kv: int(kv[1].get("token_id") or 10**6)):
-          tid = row.get("token_id")
-          if not tid:
-              continue
-          existing = [p for p in out_dir.glob(f"t{int(tid):04d}-*") if p.is_file()]
-          if existing and row.get("sha256") and hashlib.sha256(existing[0].read_bytes()).hexdigest() == row["sha256"]:
-              row["local_path"] = f"{a.out}/{existing[0].name}"
-              print(f"  ok (cached)  t{int(tid):04d}")
-          else:
-              urls = ([] if a.skip_original else [row["arweave_url"]]) + [g.rstrip("/") + "/" + tx for g in a.gateway]
-              if not a.skip_original and "arweave.net/" in row["arweave_url"] and not a.gateway:
-                  urls.append("https://arweave.net/" + tx)
-              data, err = None, None
-              for u in urls:
-                  try:
-                      data, _ = retry(lambda: http(u, timeout=120))
-                      break
-                  except Exception as e:
-                      err = f"{u}: {e}"
-              if data is None:
-                  row["status"] = "download-failed"
-                  problems.append((tid, tx, err))
-                  print(f"  FAILED       t{int(tid):04d}  {err}")
-                  continue
-              ext = sniff_ext(data)
-              if not ext:
-                  row["status"] = "not-an-image"
-                  problems.append((tid, tx, "not a jpg/png/webp"))
-                  continue
-              name = f"t{int(tid):04d}-{slug(row['title'])}{ext}"
-              tmp = out_dir / (name + ".part")
-              tmp.write_bytes(data)
-              tmp.replace(out_dir / name)
-              row.update(local_path=f"{a.out}/{name}", sha256=hashlib.sha256(data).hexdigest(), bytes=str(len(data)),
-                         fetched_at=time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()))
-              print(f"  downloaded   t{int(tid):04d}  {len(data)//1024} KB")
-          size = image_size(ROOT / row["local_path"])
-          row["status"] = "ok"
-          if size:
-              row["width"], row["height"] = str(size[0]), str(size[1])
-              if size[0] != size[1]:
-                  row["status"] = "not-square"
-              elif size[0] < a.min_px:
-                  row["status"] = "small"
-          if not a.no_chain and row.get("chain_check") != "match":
-              try:
-                  turi = token_uri(a.rpc, row.get("contract") or CONTRACT_DEFAULT, int(tid))
-                  meta, _ = retry(lambda: http(to_http(turi), timeout=60))
-                  img = json.loads(meta).get("image") or json.loads(meta).get("image_url") or ""
-                  row.update(token_uri=turi, metadata_image=img, chain_check="match" if tx in img else "mismatch")
-              except Exception as e:
-                  row["chain_check"] = "unreachable"
-                  print(f"  chain check unreachable for t{int(tid):04d}: {e}")
+        for tx, row in sorted(manifest.items(), key=lambda kv: int(kv[1].get("token_id") or 10**6)):
+            tid = row.get("token_id")
+            if not tid:
+                continue
+            tag = f"t{int(tid):04d}"
+            lp = ROOT / row["local_path"] if row.get("local_path") else None
+            # manifests from the first version had no *_original columns: sha256 WAS the original
+            orig_sha = row.get("sha256_original") or (row.get("sha256") if not row.get("derived_px") else "")
+            done = (lp and lp.is_file() and row.get("sha256") and sha(lp.read_bytes()) == row["sha256"]
+                    and str(a.max_px) == (row.get("derived_px") or "0")
+                    and lp.stem == Path(target_name(row, tx, lp.suffix)).stem)
+            if done:
+                print(f"  ok (cached)  {tag}")
+            else:
+                data = None
+                for ext in (".jpg", ".png", ".webp"):          # 1. the originals cache
+                    c = cache_dir / f"{tx}{ext}"
+                    if c.is_file():
+                        d = c.read_bytes()
+                        if not orig_sha or sha(d) == orig_sha:
+                            data = d
+                            break
+                if data is None and lp and lp.is_file() and orig_sha and sha(lp.read_bytes()) == orig_sha:
+                    data = lp.read_bytes()                      # 2. the repo file IS the original (migration)
+                if data is None:                                # 3. download
+                    urls = ([] if a.skip_original else [row["arweave_url"]]) + [g.rstrip("/") + "/" + tx for g in a.gateway]
+                    if not a.skip_original and "arweave.net/" in row["arweave_url"] and not a.gateway:
+                        urls.append("https://arweave.net/" + tx)
+                    err = None
+                    for u in urls:
+                        try:
+                            data, _ = retry(lambda: http(u, timeout=120))
+                            break
+                        except Exception as e:
+                            err = f"{u}: {e}"
+                    if data is None:
+                        row["status"] = "download-failed"
+                        problems.append((tid, tx, err))
+                        print(f"  FAILED       {tag}  {err}")
+                        continue
+                    row["fetched_at"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+                    print(f"  downloaded   {tag}  {len(data)//1024} KB")
+                oext = sniff_ext(data)
+                if not oext:
+                    row["status"] = "not-an-image"
+                    problems.append((tid, tx, "not a jpg/png/webp"))
+                    continue
+                row.update(sha256_original=sha(data), bytes_original=str(len(data)))
+                final, ext, osize = data, oext, image_size_bytes(data)
+                if a.max_px:
+                    cache_dir.mkdir(parents=True, exist_ok=True)
+                    (cache_dir / f"{tx}{oext}").write_bytes(data)
+                    final, ext, osize = derive(data, a.max_px, a.quality)
+                name = target_name(row, tx, ext)
+                tmp = out_dir / (name + ".part")
+                tmp.write_bytes(final)
+                tmp.replace(out_dir / name)
+                row.update(local_path=f"{a.out}/{name}", sha256=sha(final), bytes=str(len(final)), derived_px=str(a.max_px))
+                if osize:
+                    row["orig_width"], row["orig_height"] = str(osize[0]), str(osize[1])
+                if a.max_px:
+                    print(f"  stored       {tag}  {len(data)//1024} KB -> {len(final)//1024} KB")
+            size = image_size(ROOT / row["local_path"])
+            row["status"] = "ok"
+            if size:
+                row["width"], row["height"] = str(size[0]), str(size[1])
+            ow, oh = int(row.get("orig_width") or 0), int(row.get("orig_height") or 0)
+            ow, oh = (ow, oh) if ow else (size or (0, 0))
+            if ow and ow != oh:
+                row["status"] = "not-square"
+            elif ow and ow < a.min_px:
+                row["status"] = "small"
+            if not a.no_chain and row.get("chain_check") != "match":
+                try:
+                    turi = token_uri(a.rpc, row.get("contract") or CONTRACT_DEFAULT, int(tid))
+                    meta, _ = retry(lambda: http(to_http(turi), timeout=60))
+                    img = json.loads(meta).get("image") or json.loads(meta).get("image_url") or ""
+                    row.update(token_uri=turi, metadata_image=img, chain_check="match" if tx in img else "mismatch")
+                except Exception as e:
+                    row["chain_check"] = "unreachable"
+                    print(f"  chain check unreachable for {tag}: {e}")
     finally:
         save_manifest(man_path, manifest)
+
+    keep = {Path(r["local_path"]).name for r in manifest.values() if r.get("local_path")}
+    stale = sorted(p for p in out_dir.iterdir() if p.is_file() and p.name not in keep and p.suffix in (".jpg", ".png", ".webp"))
+    for p in stale:
+        if a.prune:
+            p.unlink(); print(f"  pruned       {p.name}")
+        else:
+            print(f"  stale file (not in manifest; --prune removes it): {a.out}/{p.name}")
     if review:
         p = ROOT / "data" / "photos-needs-review.csv"
         with p.open("w", newline="", encoding="utf-8") as f:
@@ -268,19 +369,81 @@ def main():
                 w.writerow([tx, alts, " ".join(map(str, c))])
         print(f"{len(review)} image(s) need a token ID: see data/photos-needs-review.csv, answer in {a.overrides}")
 
+    if a.external:
+        ext_dir, ext_path = ROOT / "assets" / "external", ROOT / "data" / "external-images.csv"
+        ext_fields = ["url", "local_path", "sha256", "bytes", "status", "fetched_at"]
+        ext_rows = {}
+        if ext_path.exists():
+            with ext_path.open(newline="", encoding="utf-8") as f:
+                ext_rows = {r["url"]: r for r in csv.DictReader(f)}
+        files = sorted((ROOT / "_chapters").glob("*.md")) + [ROOT / "impression.md"]
+        urls = []
+        for f in files:
+            for tag in IMG_RE.findall(f.read_text(encoding="utf-8")):
+                m = EXT_SRC_RE.search(tag)
+                if m and "arweave.net/" not in m.group(1) and m.group(1) not in urls:
+                    urls.append(m.group(1))
+        print(f"third-party images: {len(urls)}")
+        ext_dir.mkdir(parents=True, exist_ok=True)
+        for u in urls:
+            r = ext_rows.get(u, {"url": u})
+            lp = ROOT / r["local_path"] if r.get("local_path") else None
+            if lp and lp.is_file() and r.get("sha256") == hashlib.sha256(lp.read_bytes()).hexdigest():
+                print(f"  ok (cached)  {u[:80]}")
+            else:
+                try:
+                    data, _ = retry(lambda: http(u, timeout=60))
+                    ext = sniff_ext(data)
+                    if not ext:
+                        raise ValueError("not an image")
+                    if a.max_px and ext == ".jpg":              # never JPEG-ify PNG/SVG: logos need transparency
+                        data, ext, _ = derive(data, a.max_px, a.quality)
+                    base = slug(Path(u.split("?")[0]).stem)[:40] or "image"
+                    h = hashlib.sha256(data).hexdigest()
+                    name = f"{base}-{h[:8]}{ext}"
+                    (ext_dir / name).write_bytes(data)
+                    r.update(local_path=f"assets/external/{name}", sha256=h, bytes=str(len(data)),
+                             status="ok", fetched_at=time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()))
+                    print(f"  downloaded   {name}  {len(data)//1024} KB")
+                except Exception as e:
+                    r["status"] = "download-failed"
+                    print(f"  FAILED       {u[:80]}: {e}")
+            ext_rows[u] = r
+        with ext_path.open("w", newline="", encoding="utf-8") as f:
+            w = csv.DictWriter(f, fieldnames=ext_fields); w.writeheader()
+            for r in sorted(ext_rows.values(), key=lambda r: r["url"]):
+                w.writerow({k: r.get(k, "") for k in ext_fields})
+        if a.rewrite:
+            changed = 0
+            for f in files:
+                text = f.read_text(encoding="utf-8")
+                def sub_ext(m):
+                    tag = m.group(0)
+                    mm = EXT_SRC_RE.search(tag)
+                    r = ext_rows.get(mm.group(1)) if mm else None
+                    if not r or r.get("status") != "ok" or "arweave.net/" in mm.group(1):
+                        return tag
+                    return tag.replace(mm.group(0), f'src="/{r["local_path"]}"').replace("<img", f'<img data-src-original="{mm.group(1)}"', 1)
+                new_text = IMG_RE.sub(sub_ext, text)
+                if new_text != text:
+                    f.write_text(new_text, encoding="utf-8"); changed += 1
+            print(f"rewrote {changed} file(s) for third-party images")
+
     if a.rewrite:
         changed = 0
         for f in sorted((ROOT / "_chapters").glob("*.md")) + [ROOT / "impression.md"]:
             text = f.read_text(encoding="utf-8")
             def sub(m):
                 tag = m.group(0)
-                s = SRC_RE.search(tag)
+                s = SRC_RE.search(tag) or DATA_AR_RE.search(tag)
                 r = manifest.get(s.group(2)) if s else None
                 if not r or not r.get("local_path") or r.get("status") in ("download-failed", "not-an-image"):
                     return tag
+                local = f'src="{a.public_prefix}/{Path(r["local_path"]).name}"'
+                if "data-arweave=" in tag:                       # already rewritten: just refresh src
+                    return re.sub(r'src="[^"]*"', local, tag, count=1)
                 attrs = f' data-token="{r["token_id"]}" data-arweave="{s.group(1)}"'
-                new = tag.replace(s.group(0), f'src="{a.public_prefix}/{Path(r["local_path"]).name}"')
-                return new.replace("<img", "<img" + attrs, 1) if "data-token=" not in new else new
+                return tag.replace(s.group(0), local).replace("<img", "<img" + attrs, 1)
             new_text = IMG_RE.sub(sub, text)
             if new_text != text:
                 f.write_text(new_text, encoding="utf-8"); changed += 1
