@@ -74,6 +74,25 @@ Page breaks: every `<section class="chapter" …>` in `impression.md` starts a n
 page. Add `sub` (`class="chapter sub"`) to let that one flow on from the section
 before it.
 
+## Photos: local copies tied to the blockchain originals
+
+The chapters embed photographs straight from Arweave, which makes rendering slow
+and makes the PDF depend on an outside server. `scripts/fetch-photos.py` downloads
+them into `assets/photos/`, keeps a manifest, and can rewrite the chapters:
+
+```bash
+python3 scripts/fetch-photos.py --dry-run     # what it found, nothing downloaded
+python3 scripts/fetch-photos.py               # download, verify, write data/photos.csv
+python3 scripts/fetch-photos.py --rewrite     # also point chapter <img> tags at the local files
+```
+
+- **Key = token ID**, taken from the register in `_chapters/postscript.md`. Photo names are not unique, so a name is only used to look a token up, and only when it matches exactly one row.
+- **Needs a human:** images whose name matches zero or several tokens (or have no alt text) are listed in `data/photos-needs-review.csv`. Answer in `data/photo-overrides.csv` (`arweave_txid,token_id`) and re-run.
+- **Ties kept:** each rewritten `<img>` keeps `data-token` and `data-arweave`. `data/photos.csv` records the txid, `tokenURI`, the image address inside the token metadata, a `chain_check` (`match` / `mismatch` / `unreachable`) and the SHA-256 of the stored file.
+- **Re-runnable:** files whose SHA-256 already matches are skipped; failed downloads fall back to `https://arweave.net/<txid>`.
+- Options: `--no-chain` (skip the Ethereum lookup), `--rpc URL`, `--gateway URL`, `--out DIR`, `--min-px N`.
+- Needs network access to Arweave and an Ethereum RPC node; run it on your computer or in CI. Python 3 only; Pillow is optional (adds width/height and a square check).
+
 ## Deploying
 
 ```bash
