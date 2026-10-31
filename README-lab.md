@@ -64,9 +64,15 @@ node scripts/make-pdf.js https://printlab.awalkaday.art/impression/ live.pdf
 
 # compare the page-saving switches without editing the layout:
 node scripts/make-pdf.js http://localhost:4000/impression/ off.pdf --fx ""
-node scripts/make-pdf.js http://localhost:4000/impression/ all.pdf --fx "fx-sub fx-hide fx-inset fx-register"
+node scripts/make-pdf.js http://localhost:4000/impression/ all.pdf --fx "fx-hide fx-inset fx-register"
 ```
 `--fx` replaces the `fx-*` classes on `<body>` for that render only.
+Add `--placeholder` to skip downloading the remote photos (each becomes a grey
+square): much faster, and good enough to judge page flow.
+
+Page breaks: every `<section class="chapter" …>` in `impression.md` starts a new
+page. Add `sub` (`class="chapter sub"`) to let that one flow on from the section
+before it.
 
 ## Deploying
 

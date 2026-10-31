@@ -440,13 +440,14 @@ html, body {
 
 
 /* ── Chapters ─────────────────────────────────────────────────── */
-/* Paged.js records `break-before: page` as data-break-before on the element
-   and a later `avoid` never clears it, so with .fx-sub on, the base rule must
-   simply not match subchapters (`.sub`). */
-body:not(.fx-sub) .chapter,
-.fx-sub .chapter:not(.sub) {
-  page-break-before: always;  /* each chapter starts on a new page */
-  break-before: page;          /* FIX #9: modern alias */
+/* Every chapter and subchapter starts a new page, unless its <section> in
+   impression.md carries the extra class `sub` (then it flows on from the
+   section before it).
+   Do NOT scope this rule to <body> (e.g. `body:not(.fx-x) .chapter`): Paged.js
+   does not match such selectors and silently drops the forced break. */
+.chapter:not(.sub) {
+  page-break-before: always;
+  break-before: page;
 }
 
 /* Assign front-matter named page to the first two chapters */
@@ -957,27 +958,27 @@ p[align]         { text-indent: 0; }
 
 /* ================================================================
    FLOW CONTROLS — switchable page-saving features
-   Each group below applies only when its class is on <body>
+   Each group below applies only when its class is on <body>,
    (set in _layouts/impression.html). Delete a class there to turn
    that feature off and compare page counts.
 
-     fx-sub       sub-chapters flow on instead of starting a page
+     (sections with class="chapter sub" in impression.md flow on instead of
+      starting a page; no body class needed)
      fx-hide      web-only blocks (card tables, .md link stubs) not printed
      fx-inset     photos become 64mm insets beside the text
                   (give a figure class="plate" to keep it large)
      fx-register  the 263-row postscript and catalogue tables set compact
    ================================================================ */
 
-/* fx-sub: only the 15 top-level chapters start on a new page */
-.fx-sub .chapter.sub {
-  /* the forced break is withheld by the base rule's selector above */
+/* flow-on sections (class="chapter sub"): compact title, small gap above */
+.chapter.sub {
   margin-top: 9mm;
 }
-.fx-sub .chapter.sub > h1:first-child {
+.chapter.sub > h1:first-child {
   font-size: 17pt;
   margin-bottom: 4mm;
 }
-.fx-sub .chapter.sub > h1:first-child::before {
+.chapter.sub > h1:first-child::before {
   width: 11mm;
   height: 1.4mm;
   margin-bottom: 3mm;
