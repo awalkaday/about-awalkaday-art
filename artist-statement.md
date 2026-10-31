@@ -126,11 +126,11 @@ For an accurate time-stamped record of the book's drafts, or an analysis of my p
 
 </div>
 
-* _**Julius Caesar** wrote **"Commentarii"** about his military campaigns in third person (self-documentation and self-mythologizing). Centuries later, *Charles de Gaulle* followed suit, **"Mémoires de guerre"**. **Henry Adams** wrote **"The Education of Henry Adams"** in third person to examine himself as case study, objectified for analysis._&#x20;
+* _**Julius Caesar** wrote **"Commentarii"** about his military campaigns in third person (self-documentation and self-mythologizing). Centuries later, **Charles de Gaulle** followed suit, **"Mémoires de guerre"**. **Henry Adams** wrote **"The Education of Henry Adams"** in third person to examine himself as case study, objectified for analysis._&#x20;
 * _**W.G. Sebald**'s narrators observe themselves observing, creating dreamlike distance._&#x20;
 * _**Gertrude Stein** ventriloquized herself through **'Alice B. Toklas'**._&#x20;
-* _**W.E.B. Du Bois**'s 'double consciousness'*: the necessity of seeing oneself through the gaze of systems that mark you as _other_. _As an African exiled in Europe, I exist in this dual consciousness — my lived experience and the bureaucratic third-person that defines my (non-)status._&#x20;
-* _**Afrofuturism**'s archival urgency*: the practice of creating permanent records when dominant systems erase or distort one's existence._&#x20;
+* _**W.E.B. Du Bois**'s 'double consciousness': the necessity of seeing oneself through the gaze of systems that mark you as _other_. _As an African exiled in Europe, I exist in this dual consciousness — my lived experience and the bureaucratic third-person that defines my (non-)status._&#x20;
+* _**Afrofuturism**'s archival urgency: the practice of creating permanent records when dominant systems erase or distort one's existence._&#x20;
 
 <div class="hint hint-info">
 
