@@ -437,6 +437,7 @@ del {
   height: auto;
   display: block;
   margin: 0 auto 0.6rem;
+  text-align: center;
 }
 .embed-media figcaption {
   font-family: var(--font-mono);
@@ -517,7 +518,7 @@ del {
   margin: 0 0 2rem;
   color: var(--color-text);
 }
-.page-content.home .embed-media { max-width: 34rem; }
+.page-content.home .embed-media { max-width: 34rem; text-align: right; }
 .page-content.home h3 { font-weight: 500; font-size: 1.2rem; letter-spacing: -0.01em; margin-top: 1.5rem; }
 .page-content.home .hint {
   background: none;
