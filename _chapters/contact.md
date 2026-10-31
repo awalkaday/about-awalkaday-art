@@ -11,6 +11,6 @@ Convenient methods of contacting the walking photographer were actively run, ove
 [contact@awalkaday.art](mailto:contact@awalkaday.art)
 
 <figure class="embed-media">
-  <img src="https://arweave.net/j5GfsE2q3Co8KhSvHwwjPpoNq0UZ5YN0FFeMBhdniiE" alt="awalkaday 107-2022" loading="lazy">
+  <img data-token="223" data-arweave="https://arweave.net/j5GfsE2q3Co8KhSvHwwjPpoNq0UZ5YN0FFeMBhdniiE" src="/assets/photos/t0223-awalkaday-107-2022.jpg" alt="awalkaday 107-2022" loading="lazy">
 <figcaption>awalkaday 107-2022</figcaption>
 </figure>

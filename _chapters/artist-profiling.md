@@ -9,6 +9,6 @@
 [project-inception.md](project-inception.md)
 
 <figure class="embed-media">
-  <img src="https://dibgu6jbyfev7qwgpqg6sqj47phfzuul5wajfucqqfkvxwl3in4a.arweave.net/GgJqeSHBSV_CxnwN6UE8-85c0ovtgJLQUIFVW9l7Q3g" alt="awalkaday 8-2018" loading="lazy">
+  <img data-token="81" data-arweave="https://dibgu6jbyfev7qwgpqg6sqj47phfzuul5wajfucqqfkvxwl3in4a.arweave.net/GgJqeSHBSV_CxnwN6UE8-85c0ovtgJLQUIFVW9l7Q3g" src="/assets/photos/t0081-awalkaday-8-2018.jpg" alt="awalkaday 8-2018" loading="lazy">
   <figcaption>awalkaday 8-2018</figcaption>
 </figure>

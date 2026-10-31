@@ -5,7 +5,7 @@ A laptop computer, branded as [**Hasee God of War**](http://en.haseecomputer.com
 The computing device was one of the few items, in addition to engineering textbooks, and personal belongings of emotional value, that he was able to stealthily keep or ship out to North Africa after being arbitrarily detained by Chinese authorities in June 2016.
 
 <figure class="embed-media">
-  <img src="https://arweave.net/MiuCILoiAVXSGdWoiN4tM6XHZGSCCkLvCFyKMwWvzHg" alt="awalkaday 187-2021" loading="lazy">
+  <img data-token="48" data-arweave="https://arweave.net/MiuCILoiAVXSGdWoiN4tM6XHZGSCCkLvCFyKMwWvzHg" src="/assets/photos/t0048-awalkaday-187-2021.jpg" alt="awalkaday 187-2021" loading="lazy">
   <figcaption>awalkaday 187-2021</figcaption>
 </figure>
 
@@ -14,7 +14,7 @@ Once upon a snowy day of 2015, enriched by acting in the background of state-pro
 Unfortunately, the gaming computer first mysteriously crashed in the winter of 2017, but was resurrected the next year, and finally, relapsed four years later, during a malware analysis in the winter of 2022. The nearly decade-old computing device, still alive and undiagnosed in his care, eventually regained basic functionality under [Ubuntu](https://ubuntu.com/desktop)-flavored [`linux`](https://www.redhat.com/en/topics/linux/what-is-linux) software.
 
 <figure class="embed-media">
-<img src="https://r66m6blkscdslv4l3y5pfdfuxed2ddxqp3uqyiyvyliwemlaotpq.arweave.net/j7zPBWqQhyXXi9468oy0uQehjvB-6QwjFcLRYjFgdN8" alt="awalkaday 32-2022" loading="lazy">
+<img data-token="174" data-arweave="https://r66m6blkscdslv4l3y5pfdfuxed2ddxqp3uqyiyvyliwemlaotpq.arweave.net/j7zPBWqQhyXXi9468oy0uQehjvB-6QwjFcLRYjFgdN8" src="/assets/photos/t0174-awalkaday-32-2022.jpg" alt="awalkaday 32-2022" loading="lazy">
 <figcaption>awalkaday 32-2022</figcaption>
 </figure>
 
@@ -23,7 +23,7 @@ A second-hand lightweight laptop — made by an American enterprise esteemed for
 The gamer friend of African origin had been hosting a first birthday party on Belgian soil, gathering `daqhris` and other fresh off the boat friends, when `A WALK≡A DAY` commits and intentions were initially encoded on a public webpage, from a corner of a dorm room party, in the cold days of [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f#diff-4f167c64a65a03a4e373ec9069f3899d550708ddb9e77a3908246068cde7ac70).
 
 <figure class="embed-media">
-  <img src="https://arweave.net/8FU-mhjYjLfvf3eWMYiJIx60YeKUbtx7x8Qf2O4bRL0" alt="awalkaday 328-2017" loading="lazy">
+  <img data-token="108" data-arweave="https://arweave.net/8FU-mhjYjLfvf3eWMYiJIx60YeKUbtx7x8Qf2O4bRL0" src="/assets/photos/t0108-awalkaday-328-2017.jpg" alt="awalkaday 328-2017" loading="lazy">
   <figcaption>awalkaday 328-2017</figcaption>
 </figure>
 

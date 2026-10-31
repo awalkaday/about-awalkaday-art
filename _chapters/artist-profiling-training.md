@@ -7,7 +7,7 @@ Around the global debut of Instagram's cyber conquest, Chris decided to learn ph
 Beginning in 2013 with accelerated dual immersion — in a Chinese urban culture and an American online network — until the season of his sunrise portrait on top of the sacred [Mount Tai](https://en.wikipedia.org/wiki/Mount_Tai) (Spring 2016), he was scientifically studying [computer engineering](https://en.wikipedia.org/wiki/Computer_science_and_engineering) at an elite technical university. The institution for higher learning was located on a road that is memorable as 学院, a two-letter Mandarin translation of a school within a university, and a homophone of _xué yuán_, meaning 'officer cadet' in the People's Liberation Army.&#x20;
 
 <figure class="embed-media">
-  <img src="https://arweave.net/2s8V7COfuK32VaXHDAyInocahSsGR4FRdhxICHufdis" alt="awalkaday 4-2022" loading="lazy">
+  <img data-token="155" data-arweave="https://arweave.net/2s8V7COfuK32VaXHDAyInocahSsGR4FRdhxICHufdis" src="/assets/photos/t0155-awalkaday-4-2022.jpg" alt="awalkaday 4-2022" loading="lazy">
   <figcaption>awalkaday 4-2022</figcaption>
 </figure>
 
@@ -32,4 +32,4 @@ This winter is wrecking my bones and brains. Therefore, I am cheerfully answerin
 
 Later on, his artistic style cheaply improved upon digital photography techniques, aided by open-source computing software, playgrounds in public spaces, and dormant engineering knowhow. The `awalkaday` photographs are monochrome with a 1:1 aspect ratio, and capture fleeting memories recorded during walks geofenced to Belgian and, in part, broader European landscapes.
 
-<figure class="embed-media"><img src="https://xfme3cnkqhrv2cypjwb56rxvm3xjp2vaoevjswevtnpewduvzewa.arweave.net/uVhNiaqB410LD02D30b1Zu6X6qBxKplYlZteSw6VySw" alt="awalkaday 89-2022" loading="lazy"><figcaption>awalkaday 89-2022</figcaption></figure>
+<figure class="embed-media"><img data-token="208" data-arweave="https://xfme3cnkqhrv2cypjwb56rxvm3xjp2vaoevjswevtnpewduvzewa.arweave.net/uVhNiaqB410LD02D30b1Zu6X6qBxKplYlZteSw6VySw" src="/assets/photos/t0208-awalkaday-89-2022.jpg" alt="awalkaday 89-2022" loading="lazy"><figcaption>awalkaday 89-2022</figcaption></figure>

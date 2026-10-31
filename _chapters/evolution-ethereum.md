@@ -10,7 +10,7 @@ Blessed by the angelic support of a cryptocurrency wallet, that had been activat
   <a href="https://eth.blockscout.com/tx/0x2d4e5a73fada3bb3e626bec4b2d24bbdabce66fad66b70fbe8e3e0e1e169537b" rel="noopener" target="_blank">Blockscout Ethereum Explorer: Mint Transaction of WALK tokens</a>
 </div>
 <figure class="embed-media">
-  <img src="https://arweave.net/YUAAmDamuHChXj-NssLZxiYHsesYNUlQjazoh3I-4ZQ" alt="awalkaday 78-2022" loading="lazy">
+  <img data-token="218" data-arweave="https://arweave.net/YUAAmDamuHChXj-NssLZxiYHsesYNUlQjazoh3I-4ZQ" src="/assets/photos/t0218-awalkaday-78-2022.jpg" alt="awalkaday 78-2022" loading="lazy">
 <figcaption>awalkaday 78-2022</figcaption></figure>
 
 [Ethereum](https://ethereum.org/) is a decentralized blockchain platform that allows developers to deploy self-executing code in the form of smart contracts and applications. The artworks were wrapped in a smart contract, recorded in the public ledger as [**awalkaday.art**](https://eth.blockscout.com/name-services/domains/awalkaday.art), and self-published so that they can be preserved, collected and exchanged. The smart contract address is [`0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1`](https://etherscan.io/address/0xE31801C2E58b151C3deD2cB29dA56147b7f27eB1) and its source code has a file on-display below. Its ASCII art depicts the `awalkaday` logo encoded in the contract itself.<br>
@@ -73,7 +73,7 @@ The monochromatic snapshots were assembled, named, and minted during a wintertim
 Once released into a sovereign financial ecosystem, the fear of losing the `awalkaday` photographs vanished into thin air, transcended the confines of his last encrypted device — the Android One — whose secure updates had been halted near the [end of 2022](https://source.android.com/docs/security/bulletin/2022-12-01).
 
 <figure class="embed-media">
-  <img src="https://arweave.net/0-_c04sCcDNe-rkCZvTETL1TkmxsLroCqoXVsaWSpOU" alt="awalkaday 174-2022" loading="lazy">
+  <img data-token="243" data-arweave="https://arweave.net/0-_c04sCcDNe-rkCZvTETL1TkmxsLroCqoXVsaWSpOU" src="/assets/photos/t0243-awalkaday-174-2022.jpg" alt="awalkaday 174-2022" loading="lazy">
   <figcaption>awalkaday 174-2022</figcaption>
 </figure>
 
@@ -82,6 +82,6 @@ After landing on a blockchain terrain in a batch series, each photo began to car
 Each name is a string of words and numbers that begins with the artistic theme `awalkaday`, then ends with a computer-calculated [day of the year](https://asd.gsfc.nasa.gov/Craig.Markwardt/doy2025.html), linked by a hyphen to the year of when the photo was first dropped online without a parachute, and crossed the radar of [cyberwarfare forces](https://en.m.wikipedia.org/wiki/List_of_cyber_warfare_forces) without a travel visa.
 
 <figure class="embed-media">
-  <img src="https://arweave.net/QuZy3p6WDONJOwwHuqP9VyMCgTqMOJjm-m6fDVE-86Q" alt="awalkaday 3-2022" loading="lazy">
+  <img data-token="156" data-arweave="https://arweave.net/QuZy3p6WDONJOwwHuqP9VyMCgTqMOJjm-m6fDVE-86Q" src="/assets/photos/t0156-awalkaday-3-2022.jpg" alt="awalkaday 3-2022" loading="lazy">
   <figcaption>awalkaday 3-2022</figcaption>
 </figure>

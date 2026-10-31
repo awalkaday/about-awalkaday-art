@@ -3,7 +3,7 @@
 [Chris-Armel](https://daqhris.com), digitally identified as `daqhris`, is the artist, photographer, and software developer whose binary footprints formed the `awalkaday.art` Photography Collectio&#x6E;_._ He shouldered a heavy artistic load during the second half of his twenties, while living, wandering, and gazing at landscapes of Belgium.
 
 <figure class="embed-media">
-  <img src="https://arweave.net/FX9tL1mN61NrlJ9Yw-v4796VAkf79TnvN7-l84nGXts" alt="awalkaday 202-2021" loading="lazy">
+  <img data-token="63" data-arweave="https://arweave.net/FX9tL1mN61NrlJ9Yw-v4796VAkf79TnvN7-l84nGXts" src="/assets/photos/t0063-awalkaday-202-2021.jpg" alt="awalkaday 202-2021" loading="lazy">
   <figcaption>awalkaday 202-2021</figcaption>
 </figure>
 

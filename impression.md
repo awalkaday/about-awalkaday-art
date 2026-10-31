@@ -15,7 +15,7 @@ title: "Walking Memories — Print / PDF"
     <span>Sans Papier.</span>
   </p>
   <figure class="embed-media cover-photo">
-    <img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="awalkaday 251-2022" loading="eager">
+    <img data-token="250" data-arweave="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" src="/assets/photos/t0250-awalkaday-251-2022.jpg" alt="awalkaday 251-2022" loading="eager">
     <figcaption>awalkaday 251–2022</figcaption>
   </figure>
   <p class="book-author">Chris-Armel Iradukunda</p>

@@ -6,7 +6,7 @@ After verification at the end of 2020 of token conversion operations nearby a ta
 
 Throughout months of unemployment, little to no free time was wasted away from executing entrepreneurial moves across public networks of cyberspace or wandering kilometers of walkways built on dismantled railway tracks, _RAVeL_. As soon as the Sun rose up on his November birthdate in 2021, romantic ties woven in French were severed by a Belgian girlfriend who battled everyday an autoimmune hindrance to her walks in the city of Verviers. The last surprise _du jour_ unwrapped a present: a digital stack of ENS governance tokens parachuted into his public wallet.&#x20;
 
-<figure class="embed-media"><img src="https://2tn42zs3accecv6wwa6ccommvlm4jjbeeyogidtrjjqr3tzid6sa.arweave.net/1NvNZlsAhEFX1rA8ITmMqtnEpCQmHGQOcUphHc8oH6Q" alt="awalkaday 173-2021" loading="lazy"><figcaption>awalkaday 173-2021</figcaption></figure>
+<figure class="embed-media"><img data-token="37" data-arweave="https://2tn42zs3accecv6wwa6ccommvlm4jjbeeyogidtrjjqr3tzid6sa.arweave.net/1NvNZlsAhEFX1rA8ITmMqtnEpCQmHGQOcUphHc8oH6Q" src="/assets/photos/t0037-awalkaday-173-2021.jpg" alt="awalkaday 173-2021" loading="lazy"><figcaption>awalkaday 173-2021</figcaption></figure>
 
 <div class="hint hint-info">
 

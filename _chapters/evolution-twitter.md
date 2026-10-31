@@ -9,7 +9,7 @@
 News and viewpoints related to the photo collection have been broadcast on X, where the artist posting via [@awalkadayart](https://twitter.com/awalkadayart), connects with a diverse audience, announces key milestones, and builds relationships with artists, researchers, supporters, and collectors.
 
 <figure class="embed-media">
-  <img src="https://arweave.net/Xe2BxPvNy1dKj92ZOtfLH1NWynZ1w8uudpZJbxvnNdk" alt="awalkaday 220-2022" loading="lazy">
+  <img data-token="253" data-arweave="https://arweave.net/Xe2BxPvNy1dKj92ZOtfLH1NWynZ1w8uudpZJbxvnNdk" src="/assets/photos/t0253-awalkaday-220-2022.jpg" alt="awalkaday 220-2022" loading="lazy">
   <figcaption>awalkaday 220-2022</figcaption>
 </figure>
 

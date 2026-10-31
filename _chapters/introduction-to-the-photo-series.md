@@ -7,6 +7,6 @@ This is a series of black-and-white photographs depicting captivating sights obs
 Near the physical endpoint of the digital odyssey, a select number of snapshots were assigned unique names and identification tokens on a public blockchain, guaranteeing that they are **authentic**, **traceable** and **collectible** for everlasting time.
 
 <figure class="embed-media">
-  <img src="https://clbxzh7mtjfyeo56l7xzmuclv74yrjpdagus55v3labbyvnxfpgq.arweave.net/EsN8n-yaS4I7vl_vllBLr_mIpeMBqS72u1gCHFW3K80" alt="awalkaday 168.5-2021" loading="lazy">
+  <img data-token="27" data-arweave="https://clbxzh7mtjfyeo56l7xzmuclv74yrjpdagus55v3labbyvnxfpgq.arweave.net/EsN8n-yaS4I7vl_vllBLr_mIpeMBqS72u1gCHFW3K80" src="/assets/photos/t0027-awalkaday-168-5-2021.jpg" alt="awalkaday 168.5-2021" loading="lazy">
   <figcaption>awalkaday 168.5-2021</figcaption>
 </figure>

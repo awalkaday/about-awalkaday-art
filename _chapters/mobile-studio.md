@@ -11,7 +11,7 @@
 <p align="center"></p>
 
 <figure class="embed-media">
-  <img src="https://xkvvewkoca4dqnjxmcm43heqtbd7l3dppc66mj2cbq7bev52m47q.arweave.net/uqtSWU4QODg1N2CZzZyQmEf17G94veYnQgw-Ele6Zz8" alt="awalkaday 23-2022" loading="lazy">
+  <img data-token="167" data-arweave="https://xkvvewkoca4dqnjxmcm43heqtbd7l3dppc66mj2cbq7bev52m47q.arweave.net/uqtSWU4QODg1N2CZzZyQmEf17G94veYnQgw-Ele6Zz8" src="/assets/photos/t0167-awalkaday-23-2022.jpg" alt="awalkaday 23-2022" loading="lazy">
   <figcaption>awalkaday 23-2022</figcaption>
 </figure>
 

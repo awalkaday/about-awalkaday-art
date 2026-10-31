@@ -6,7 +6,7 @@
 
 The underlying codebase supporting at least three pillars of the `awalkaday` series of photos — gallery, book, shop — is hosted and runs on GitHub, where every single committed modification can be tracked, retraced, or audited in real time.
 
-<figure class="embed-media"><img src="https://g45uizvtj4rxqie5bobsz5pzcimp7je3gdnj6tz7634zyi6oubzq.arweave.net/NztEZrNPI3ggnQuDLPX5Ehj_pJsw2p9PP_b5nCPOoHM" alt="awalkaday 353.5-2017" loading="lazy"><figcaption>awalkaday 353.5-2017</figcaption></figure>
+<figure class="embed-media"><img data-token="95" data-arweave="https://g45uizvtj4rxqie5bobsz5pzcimp7je3gdnj6tz7634zyi6oubzq.arweave.net/NztEZrNPI3ggnQuDLPX5Ehj_pJsw2p9PP_b5nCPOoHM" src="/assets/photos/t0095-awalkaday-353-5-2017.jpg" alt="awalkaday 353.5-2017" loading="lazy"><figcaption>awalkaday 353.5-2017</figcaption></figure>
 
 In the winter of 2017, when free attendance to French-spoken lectures was just starting inside the Namur-based computer department of a Jesuits-affiliated public university, their testing phase began at [github.com/daqhris/awalkaday](https://github.com/daqhris/awalkaday) by use of a computer-readable language.
 

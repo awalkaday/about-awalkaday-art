@@ -12,4 +12,4 @@
 
 [ethereum.md](ethereum.md)
 
-<figure class="embed-media"><img src="https://i4ctj3fmalpaczcuwj2xhq7jx4kg7ktaxybmjkynlkbpcscz53jq.arweave.net/RwU07KwC3gFkVLJ1c8PpvxRvqmC-AsSrDVqC8UhZ7tM" alt="awalkaday 25-2022" loading="lazy"><figcaption>awalkaday 25-2022</figcaption></figure>
+<figure class="embed-media"><img data-token="165" data-arweave="https://i4ctj3fmalpaczcuwj2xhq7jx4kg7ktaxybmjkynlkbpcscz53jq.arweave.net/RwU07KwC3gFkVLJ1c8PpvxRvqmC-AsSrDVqC8UhZ7tM" src="/assets/photos/t0165-awalkaday-25-2022.jpg" alt="awalkaday 25-2022" loading="lazy"><figcaption>awalkaday 25-2022</figcaption></figure>

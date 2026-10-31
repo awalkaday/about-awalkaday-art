@@ -13,5 +13,5 @@ The monochrome photographs were originally posted on Instagram by [@walk.day](ht
 In total, 454 photographs have been showcased on Instagram. They all carry the hashtag [#awalkaday](https://www.instagram.com/explore/tags/awalkaday/), as envisioned in summer 2017. This has been consistent all the way back to the first social media post.
 
 <figure class="embed-media">
-  <img src="https://arweave.net/L2CRb0ySUeg9xmZDRDQBI2zzHd4Cm9608AioFTSMrhc" alt="awalkaday 167-2021" loading="lazy">
+  <img data-token="28" data-arweave="https://arweave.net/L2CRb0ySUeg9xmZDRDQBI2zzHd4Cm9608AioFTSMrhc" src="/assets/photos/t0028-awalkaday-167-2021.jpg" alt="awalkaday 167-2021" loading="lazy">
 <figcaption>awalkaday 167-2021</figcaption></figure>
