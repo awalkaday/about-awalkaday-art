@@ -29,4 +29,4 @@ Since December 2022, I'm stuck trying to be productive and creative while living
 (https://www.bruzz.be/tag/palais-des-droits)
 ```
 
-<div data-with-frame="true"><figure class="embed-media"><img src="https://pbs.twimg.com/media/Fn-e1ZGWAAQHvnA?format=jpg&#x26;name=4096x4096" alt="BRUZZ Newspaper, Jan. 2023, P. 10-11" width="563"><figcaption>Photo of the BRUZZ weekly newspaper, Edition of 18 January 2023, Pages 10-11</figcaption></figure></div>
+<div data-with-frame="true"><figure class="embed-media"><img data-src-original="https://pbs.twimg.com/media/Fn-e1ZGWAAQHvnA?format=jpg&#x26;name=4096x4096" src="/assets/external/fn-e1zgwaaqhvna-b340bb54.jpg" alt="BRUZZ Newspaper, Jan. 2023, P. 10-11" width="563"><figcaption>Photo of the BRUZZ weekly newspaper, Edition of 18 January 2023, Pages 10-11</figcaption></figure></div>

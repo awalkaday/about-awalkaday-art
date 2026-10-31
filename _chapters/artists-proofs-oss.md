@@ -23,5 +23,5 @@ As a volunteer, one of his most memorable acts was standing onstage, in front of
 In the second half of 2024, `daqhris` began to ingeniously craft an online artist's book, `book.awalkaday.art`, which spotlights various aspects of his `git`-dependent artistic practice, and meets the public eye from a technical documentation platform, [GitBook](https://www.gitbook.com/).
 
 <figure class="embed-media">
-  <img data-token="211" data-arweave="https://arweave.net/EGWfqt41-x4swizPynVwltLBmd-68PCM8q6CX3EmwG4" src="/assets/photos/t0211-awalkaday-91-2022.jpg" alt="awalkaday 91-2022" loading="lazy">
+  <img data-token="211" data-arweave="https://arweave.net/EGWfqt41-x4swizPynVwltLBmd-68PCM8q6CX3EmwG4" src="/assets/photos/t0211-awalkaday-91-2022-egwfqt.jpg" alt="awalkaday 91-2022" loading="lazy">
 <figcaption>awalkaday 91-2022</figcaption></figure>

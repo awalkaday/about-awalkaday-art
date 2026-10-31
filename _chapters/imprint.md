@@ -10,7 +10,7 @@ _Until the activation of its author's human ID._
 **Source Code License**: [EUPL 1.2](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt)\
 **Text-only Edition:** [book.awalkaday.art/llms-full.txt](https://book.awalkaday.art/llms-full.txt)&#x20;
 
-<div data-with-frame="true"><figure class="embed-media"><img src="https://raw.githubusercontent.com/awalkaday/awalkaday-art/refs/heads/master/assets/icons/awalkaday-logo-3x2.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure class="embed-media"><img data-src-original="https://raw.githubusercontent.com/awalkaday/awalkaday-art/refs/heads/master/assets/icons/awalkaday-logo-3x2.png" src="/assets/external/awalkaday-logo-3x2-7c63500c.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 <h3 align="right">Copyrights</h3>
 
@@ -37,7 +37,7 @@ If this book has moved you, the photographs that sparked it are available as col
   </a>
 </div>
 <figure class="embed-media">
-  <img data-token="211" data-arweave="https://xjp7hza4gi5jdcag2jq3jmtdysje24arqrq2mxdxxqenaxadq7yq.arweave.net/ul_z5BwyOpGIBtJhtLJjxJJNcBGEYaZcd7wI0FwDh_E" src="/assets/photos/t0211-awalkaday-91-2022.jpg" alt="awalkaday 91-2022" loading="lazy">
+  <img data-token="211" data-arweave="https://xjp7hza4gi5jdcag2jq3jmtdysje24arqrq2mxdxxqenaxadq7yq.arweave.net/ul_z5BwyOpGIBtJhtLJjxJJNcBGEYaZcd7wI0FwDh_E" src="/assets/photos/t0211-awalkaday-91-2022-ulz5bw.jpg" alt="awalkaday 91-2022" loading="lazy">
 <figcaption>awalkaday 91-2022</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ _A token of gratitude goes to:_&#x20;
 
 #### Artwork Publication
 
-<div align="left"><figure><picture><source srcset="https://raw.githubusercontent.com/manifoldxyz/manifold-brand/refs/heads/main/logo%20with%20text/png/manifold_logo-w-text_white_transparent-bg.png" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/manifoldxyz/manifold-brand/refs/heads/main/logo%20with%20text/png/manifold_logo-w-text_black_transparent-bg.png" alt="" width="188"></picture><figcaption><a href="https://forum.manifold.xyz/u/daqhris/summary">Onchain minting of photographs</a> <em>('23)</em></figcaption></figure></div>
+<div align="left"><figure><picture><source srcset="https://raw.githubusercontent.com/manifoldxyz/manifold-brand/refs/heads/main/logo%20with%20text/png/manifold_logo-w-text_white_transparent-bg.png" media="(prefers-color-scheme: dark)"><img data-src-original="https://raw.githubusercontent.com/manifoldxyz/manifold-brand/refs/heads/main/logo%20with%20text/png/manifold_logo-w-text_black_transparent-bg.png" src="/assets/external/manifold-logo-w-text-black-transparent-b-f2a10e73.png" alt="" width="188"></picture><figcaption><a href="https://forum.manifold.xyz/u/daqhris/summary">Onchain minting of photographs</a> <em>('23)</em></figcaption></figure></div>
 
 <h4 align="right">Data Preservation</h4>
 
@@ -89,14 +89,14 @@ _A token of gratitude goes to:_&#x20;
 
 #### Storytelling Training
 
-<div align="left"><figure><img src="https://soundimageculture.org/wp-content/uploads/2023/05/sic_logo_white_circle_text_vec.svg" alt="https://soundimageculture.org/" width="188"><figcaption>Observer: <a href="https://soundimageculture.org/laboratory/#sic-regular-text-block_cd5d0fa1e38b295170f402ac3a73b7d6">SIC Collective Sessions</a> <em>('23-'24)</em></figcaption></figure></div>
+<div align="left"><figure><img data-src-original="https://soundimageculture.org/wp-content/uploads/2023/05/sic_logo_white_circle_text_vec.svg" src="/assets/external/sic-logo-white-circle-text-vec-8f1544a8.svg" alt="https://soundimageculture.org/" width="188"><figcaption>Observer: <a href="https://soundimageculture.org/laboratory/#sic-regular-text-block_cd5d0fa1e38b295170f402ac3a73b7d6">SIC Collective Sessions</a> <em>('23-'24)</em></figcaption></figure></div>
 
 <h4 align="right">Political Asylum Overseers</h4>
 
-<div align="right"><figure><img src="https://www.cgra.be/sites/default/files/logo_cgvs-cgra.png" alt="" width="188"><figcaption>Queries by <a href="https://www.cgrs.be/en">Belgian Federal Agents</a> <em>('17/'18/'19)</em></figcaption></figure></div>
+<div align="right"><figure><img data-src-original="https://www.cgra.be/sites/default/files/logo_cgvs-cgra.png" src="/assets/external/logo-cgvs-cgra-f2c3827d.png" alt="" width="188"><figcaption>Queries by <a href="https://www.cgrs.be/en">Belgian Federal Agents</a> <em>('17/'18/'19)</em></figcaption></figure></div>
 
-<div align="right"><figure><img src="https://www.rvv-cce.be/sites/default/files/wlogo-fr.png" alt="" width="188"><figcaption>Appeals to the court of <a href="https://www.rvv-cce.be/fr">Judge R.V.</a> <em>('18/'19)</em></figcaption></figure></div>
+<div align="right"><figure><img data-src-original="https://www.rvv-cce.be/sites/default/files/wlogo-fr.png" src="/assets/external/wlogo-fr-3c1607fa.png" alt="" width="188"><figcaption>Appeals to the court of <a href="https://www.rvv-cce.be/fr">Judge R.V.</a> <em>('18/'19)</em></figcaption></figure></div>
 
 <h4 align="center">Terrestrial Land Ruler</h4>
 
-<div align="center"><figure><img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Coat_of_Arms_of_the_King_of_the_Belgians.svg" alt="" width="188"><figcaption>His Majesty <a href="https://www.monarchie.be/en/royal-family/the-king">King Philippe</a> of the Belgians</figcaption></figure></div>
+<div align="center"><figure><img data-src-original="https://upload.wikimedia.org/wikipedia/commons/d/d4/Coat_of_Arms_of_the_King_of_the_Belgians.svg" src="/assets/external/coat-of-arms-of-the-king-of-the-belgians-ffa89a5b.svg" alt="" width="188"><figcaption>His Majesty <a href="https://www.monarchie.be/en/royal-family/the-king">King Philippe</a> of the Belgians</figcaption></figure></div>
