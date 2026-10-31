@@ -20,7 +20,7 @@ title: "Walking Memories — Print / PDF"
   </figure>
   <p class="book-author">Chris-Armel Iradukunda</p>
   <p class="book-meta">daqhris · draft edition 2026</p>
-  <div class="cover-foot"><span>awalkaday.art</span><span>263 photographs · 2017–2024</span></div>
+  <div class="cover-foot"><span>printlab.awalkaday.art</span><span>263 photographs · 2017–2024</span></div>
 </div>
 
 
@@ -199,7 +199,7 @@ title: "Walking Memories — Print / PDF"
     <div><b>2022</b><span>113</span></div>
   </div>
   <div class="back-foot">
-    <strong>book.awalkaday.art</strong><br>
+    <strong>printlab.awalkaday.art</strong><br>
     Photos, writings CC BY-NC-ND 4.0<br>
     Source code EUPL 1.2<br>
     ISBN absent until its author’s human ID is active
