@@ -1,0 +1,52 @@
+flowchart TB
+  subgraph AUTHOR["① WRITING — GitBook"]
+    direction LR
+    GB["GitBook editor<br/>book.awalkaday.art"]
+    BOOK[("branch <b>book</b> (default)<br/>GitBook syntax · 886 GITBOOK-n commits")]
+    GB <-- "GitHub Sync" --> BOOK
+    BACK["way back = by hand only<br/>retype in GitBook syntax;<br/>printlab never pushes to book"]
+    BOOK ~~~ BACK
+  end
+
+  subgraph CHAIN["PHOTOS — on chain"]
+    direction LR
+    ETH["Ethereum · 263 tokens<br/>contract 0xE318…"]
+    ARW["Arweave originals<br/>4100–6500 px"]
+    ETH -- "tokenURI" --> ARW
+  end
+
+  subgraph LAB["② REMIX — branch printlab (Jekyll · CSS · JS)"]
+    direction LR
+    WEB["WEB PAGES<br/>index.md · *.md · folders/<br/>_data/toc.yml · _layouts · screen.css"]
+    CH["PRINT CHAPTERS<br/>_chapters/*.md<br/>copy of the web pages, since drifted"]
+    IMP["impression.md<br/>cover · 32 chapters · back cover<br/>print.css · Paged.js"]
+    PH["PHOTOS<br/>assets/photos 1600 px · web/ 800 px<br/>data/photos.csv: token ↔ txid ↔ sha256"]
+    CH --> IMP
+  end
+
+  subgraph OUT["③ OUTPUTS"]
+    direction LR
+    SITE["screen book<br/>printlab.awalkaday.art"]
+    PDF["walking-memories.pdf<br/>96 pages · ~29 MB"]
+    SHEETS["contact sheets (PNG)"]
+    PRINT["printed copies<br/>first print: Venice Biennale 2026"]
+    PDF --> SHEETS
+    PDF --> PRINT
+  end
+
+  BOOK ==>|"PR / merge, then port by hand"| WEB
+  WEB -.->|"one-time copy, then edited by hand"| CH
+  ARW -->|"fetch-photos.py: verify · shrink · rewrite"| PH
+  ETH -->|"chain_check"| PH
+  PH --> WEB
+  PH --> CH
+  WEB ==>|"deploy.yml · jekyll build"| SITE
+  IMP ==>|"pdf.yml · Paged.js + Chromium"| PDF
+  IMP -->|"/impression/ in a browser"| SITE
+
+  classDef gb fill:#e8f0fe,stroke:#4466aa;
+  classDef lab fill:#f3f3ee,stroke:#333;
+  classDef out fill:#fff7d6,stroke:#b8960c;
+  class GB,BOOK,BACK gb;
+  class WEB,CH,IMP,PH lab;
+  class SITE,PDF,SHEETS,PRINT out;

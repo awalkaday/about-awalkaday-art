@@ -1,17 +1,35 @@
 ---
-title: "Walking Memories"
-description: "Open-source artbook retracing the digital footprints of an exiled wanderer's eight-year odyssey—263 photographs, a blockchain archive, and an asylum file—told in parallel across his Belgian pixels."
+description: >-
+  Open-source artbook retracing the digital footprints of an exiled wanderer's
+  eight-year odyssey—263 photographs, a blockchain archive, and an asylum
+  file—told in parallel across his Belgian pixels.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
+# Walking Memories
 
 <h4 align="center"></h4>
 
-
-<figure class="embed-media">
-  <img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="awalkaday 251-2022" loading="lazy">
-  <figcaption>awalkaday 251-2022</figcaption>
-</figure>
-
+{% embed url="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" %}
+**awalkaday 251-2022**
+{% endembed %}
 
 <h4 align="right"></h4>
 
@@ -19,8 +37,6 @@ description: "Open-source artbook retracing the digital footprints of an exiled 
 
 <h4 align="center"> </h4>
 
-<div class="hint hint-info">
-
-<em>Ceci <del>n'<span class="sr-only"> (crossed out)</span></del> est <del>pas<span class="sr-only"> (crossed out)</span></del> un Livre d'Artiste Sans Papier.</em>
-
-</div>
+{% hint style="info" %}
+_Ceci_ ~~n'~~ _est_ ~~pas~~ _un Livre d'Artiste Sans Papier._
+{% endhint %}
