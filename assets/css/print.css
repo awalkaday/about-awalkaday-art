@@ -432,13 +432,13 @@ html, body {
   position: absolute;
   right: 16mm;
   bottom: 14mm;
-  width: 54mm;
+  width: 64mm;
   margin: 0;
   text-align: center;
 }
 .book-back .back-photo img {
-  width: 54mm;
-  height: 54mm;
+  width: 64mm;
+  height: 64mm;
   max-height: none;
   object-fit: contain;
   margin: 0;
@@ -449,8 +449,23 @@ html, body {
   font-style: normal;
   font-size: 6.5pt;
   letter-spacing: 0.04em;
-  margin-top: 2mm;
+  margin-top: 1mm;
   text-align: center;
+}
+
+/* Exhibition marks (text comes from _data/exhibition.yml via _includes/exhibition-mark.html):
+   a quiet second line under a photo ID. Never wraps mid-word. */
+.exhibition-mark {
+  display: block;
+  font-family: var(--font-mono);
+  font-style: normal;
+  font-size: 0.9em;
+  line-height: 1.45;
+  letter-spacing: 0.02em;
+  color: var(--color-muted);
+  margin-top: 0.6mm;
+  word-break: normal;
+  overflow-wrap: normal;
 }
 
 .book-back .back-foot {

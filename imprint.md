@@ -40,7 +40,7 @@ If this book has moved you, the photographs that sparked it are available as col
 </div>
 <figure class="embed-media">
   <img decoding="async" data-token="211" data-arweave="https://xjp7hza4gi5jdcag2jq3jmtdysje24arqrq2mxdxxqenaxadq7yq.arweave.net/ul_z5BwyOpGIBtJhtLJjxJJNcBGEYaZcd7wI0FwDh_E" src="/assets/photos/web/t0211-awalkaday-91-2022.jpg" srcset="/assets/photos/web/t0211-awalkaday-91-2022.jpg 800w, /assets/photos/t0211-awalkaday-91-2022.jpg 1600w" sizes="(min-width: 760px) 720px, 100vw" alt="awalkaday 91-2022" loading="lazy">
-<figcaption>awalkaday 91-2022</figcaption>
+<figcaption>awalkaday 91-2022{% include exhibition-mark.html variant="full" %}</figcaption>
 </figure>
 
 ### Acknowledgments

@@ -1,0 +1,14 @@
+# Exhibition marks: one source for every caption/credit that mentions the Venice Biennale.
+# Used by _includes/exhibition-mark.html (screen, print chapters, back cover). Edit here only.
+work: "awalkaday 91-2022"
+token_id: 211
+artist: "Chris-Armel Iradukunda (daqhris)"
+venue: "Solidarity Burundi Pavilion"
+host: "Domus Diasporica, Bosnia and Herzegovina Pavilion"
+place: "Palazzo Malipiero, Venice"
+event: "61st Venice Biennale Arte"
+year: "2026"
+dates: "9 May – 22 Nov 2026"
+print: "black-and-white print, 300 × 300 mm, dark grey fabric mat"
+url_text: "daqhris.com/venice-biennale"
+url: "https://daqhris.com/venice-biennale"

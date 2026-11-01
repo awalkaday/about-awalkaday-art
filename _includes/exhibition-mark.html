@@ -1,0 +1,6 @@
+{%- assign x = site.data.exhibition -%}
+{%- if include.variant == "full" -%}
+<span class="exhibition-mark">Shown at the {{ x.venue }} · {{ x.event }} · {{ x.dates }}</span><span class="exhibition-mark">{{ x.host }}, {{ x.place }}</span><span class="exhibition-mark">{{ x.artist }} · {{ x.print }} · {{ x.url_text }}</span>
+{%- else -%}
+<span class="exhibition-mark">Shown at the {{ x.event }}, {{ x.year }}</span>
+{%- endif -%}

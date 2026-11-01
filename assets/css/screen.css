@@ -547,3 +547,45 @@ del {
   html { scroll-behavior: auto; }
   * { transition: none !important; }
 }
+
+/* ── Exhibition marks ─────────────────────────────────────────────
+   Text comes from _data/exhibition.yml (_includes/exhibition-mark.html). */
+.exhibition-mark {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-text-muted);
+  word-break: normal;
+  overflow-wrap: break-word;
+  margin-top: 0.15rem;
+}
+.exhibition-band {
+  display: flex;
+  gap: 1.25rem;
+  align-items: center;
+  margin: 3rem 0 1rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--color-border);
+}
+.exhibition-band img {
+  flex: 0 0 auto;
+  width: 120px;
+  height: auto;
+  margin: 0;
+}
+.exhibition-band p {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  line-height: 1.5;
+}
+.exhibition-band a {
+  display: inline-block;
+  margin-top: 0.4rem;
+  color: var(--color-text);
+}
+@media (max-width: 520px) {
+  .exhibition-band { flex-direction: column; align-items: flex-start; }
+}
