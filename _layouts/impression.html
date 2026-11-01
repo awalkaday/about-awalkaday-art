@@ -24,6 +24,19 @@
     Paged.js auto-runs when the DOM is ready.
   -->
   <script src="{{ '/assets/js/paged.polyfill.js' | relative_url }}"></script>
+  <!--
+    Paged.js lays the pages out off-screen, where browsers never load
+    loading="lazy" images: rendering stalls until you scroll (a headless/CLI
+    render never finishes). This hook makes every image eager before Paged.js
+    parses the content. Registered right after the polyfill, before it starts.
+  -->
+  <script>
+    Paged.registerHandlers(class extends Paged.Handler {
+      beforeParsed(content) {
+        content.querySelectorAll('img[loading]').forEach(function (i) { i.setAttribute('loading', 'eager'); });
+      }
+    });
+  </script>
 </head>
 <body class="layout-impression fx-hide fx-inset fx-register">
 

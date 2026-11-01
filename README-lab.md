@@ -74,6 +74,18 @@ Page breaks: every `<section class="chapter" …>` in `impression.md` starts a n
 page. Add `sub` (`class="chapter sub"`) to let that one flow on from the section
 before it.
 
+## PDF on every push (GitHub Actions)
+
+`.github/workflows/pdf.yml` builds the site with Jekyll, renders `/impression/` with
+`scripts/make-pdf.js`, and attaches the result to the run (Actions tab, the run, then
+**Artifacts**, `walking-memories-pdf`, kept 14 days):
+
+- `walking-memories.pdf`, `summary.md` (pages, size, chapter start pages, remote images still referenced) and `sheets/contact-sheet-NN.png` (thumbnails of every spread).
+- The run turns red when a chapter that should start a page does not (`--strict`), and the summary warns when the PDF passes 100 MB, which usually means photos are full size again.
+- Run it by hand from the Actions tab with **Run workflow**; the optional `fx` input swaps the `fx-*` classes for that render only.
+- The same checks locally: `node scripts/make-pdf.js http://localhost:4000/impression/ out.pdf --strict --summary summary.md` then `python3 scripts/contact-sheets.py out.pdf sheets/`.
+- Images on other servers are replaced by grey squares in CI (`--placeholder`), so a slow or dead third-party server cannot break a build; the summary lists which ones are still remote. Mirror them with `python3 scripts/fetch-photos.py --external --rewrite`.
+
 ## Photos: local copies tied to the blockchain originals
 
 The chapters embed photographs straight from Arweave, which makes rendering slow
