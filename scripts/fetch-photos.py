@@ -47,21 +47,32 @@ FIELDS = ["token_id", "contract", "title", "date", "instagram_url", "foundation_
           "fetched_at", "status"]
 
 
-def read_register():
-    """token_id -> dict(title, date, instagram_url, foundation_url, contract)"""
-    text = (ROOT / "_chapters" / "postscript.md").read_text(encoding="utf-8")
+def read_register(path=None):
+    """token_id -> dict(title, date, instagram_url, foundation_url, contract)
+
+    Format-agnostic: a row is <tr><td><a>TITLE</a></td><td><a instagram>DATE</a></td><td>TOKEN ID</td></tr>.
+    The link behind the title may be Foundation, Manifold or anything else; the token ID is read from the
+    last cell, the contract from a Foundation-style link when there is one (else the default contract).
+    """
+    text = (Path(path) if path else ROOT / "_chapters" / "postscript.md").read_text(encoding="utf-8")
     out = {}
     for row in re.findall(r"<tr>(.*?)</tr>", text, flags=re.S)[1:]:
-        m = re.search(r'href="(https://foundation\.app/mint/eth/(0x[0-9a-fA-F]+)/(\d+))">([^<]+)<', row)
+        cells = re.findall(r"<td[^>]*>(.*?)</td>", row, flags=re.S)
+        if len(cells) < 3 or not re.fullmatch(r"\s*\d+\s*", re.sub(r"<[^>]+>", "", cells[-1])):
+            continue
+        tid = int(re.sub(r"<[^>]+>", "", cells[-1]))
+        m = re.search(r'href="([^"]+)"[^>]*>([^<]+)<', cells[0])
         if not m:
             continue
-        d = re.search(r'href="([^"]*instagram[^"]*)">(\d{4}-\d\d-\d\d)<', row)
-        out[int(m.group(3))] = dict(contract=m.group(2), title=m.group(4).strip(), foundation_url=m.group(1),
-                                    instagram_url=d.group(1) if d else "", date=d.group(2) if d else "")
+        link, title = m.group(1), m.group(2).strip()
+        c = re.search(r"/(0x[0-9a-fA-F]{40})/", link)
+        d = re.search(r'href="([^"]*instagram[^"]*)">(\d{4}-\d\d-\d\d)<', cells[1])
+        out[tid] = dict(contract=c.group(1) if c else CONTRACT_DEFAULT, title=title, foundation_url=link,
+                        instagram_url=d.group(1) if d else "", date=d.group(2) if d else "")
     return out
 
 
-SKIP_DIRS = {"_chapters", "node_modules", "vendor", ".git", ".github", ".photo-cache", "scripts", "_site"}
+SKIP_DIRS = {"_chapters", "node_modules", "vendor", ".git", ".github", ".photo-cache", "scripts", "_site", "docs"}
 SKIP_FILES = {"README.md", "README-lab.md", "SUMMARY.md", "impression.md"}
 
 
@@ -252,6 +263,7 @@ def rewrite_web(manifest, a):
                 attrs = f'src="{full}"'
             tag = re.sub(r'\s(?:srcset|sizes)="[^"]*"', "", tag)          # idempotent
             if "data-arweave=" in tag:
+                tag = re.sub(r'data-token="[^"]*"', f'data-token="{r["token_id"]}"', tag, count=1)
                 tag = re.sub(r'\ssrc="[^"]*"', " " + attrs, tag, count=1)
             else:
                 tag = tag.replace(s.group(0), attrs).replace("<img", f'<img data-token="{r["token_id"]}" data-arweave="{s.group(1)}"', 1)
@@ -452,12 +464,12 @@ def main():
             p.unlink(); print(f"  pruned       {p.name}")
         else:
             print(f"  stale file (not in manifest; --prune removes it): {a.out}/{p.name}")
+    p = ROOT / "data" / "photos-needs-review.csv"          # always rewritten: an empty list means nothing is open
+    with p.open("w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f, lineterminator="\n"); w.writerow(["arweave_txid", "alt_text_seen", "candidate_token_ids"])
+        for tx, alts, c in review:
+            w.writerow([tx, alts, " ".join(map(str, c))])
     if review:
-        p = ROOT / "data" / "photos-needs-review.csv"
-        with p.open("w", newline="", encoding="utf-8") as f:
-            w = csv.writer(f); w.writerow(["arweave_txid", "alt_text_seen", "candidate_token_ids"])
-            for tx, alts, c in review:
-                w.writerow([tx, alts, " ".join(map(str, c))])
         print(f"{len(review)} image(s) need a token ID: see data/photos-needs-review.csv, answer in {a.overrides}")
 
     if a.external:
@@ -531,7 +543,8 @@ def main():
                 if not r or not r.get("local_path") or r.get("status") in ("download-failed", "not-an-image"):
                     return tag
                 local = f'src="{a.public_prefix}/{Path(r["local_path"]).name}"'
-                if "data-arweave=" in tag:                       # already rewritten: just refresh src
+                if "data-arweave=" in tag:                       # already rewritten: just refresh src and token
+                    tag = re.sub(r'data-token="[^"]*"', f'data-token="{r["token_id"]}"', tag, count=1)
                     return re.sub(r'src="[^"]*"', local, tag, count=1)
                 attrs = f' data-token="{r["token_id"]}" data-arweave="{s.group(1)}"'
                 return tag.replace(s.group(0), local).replace("<img", "<img" + attrs, 1)

@@ -199,8 +199,8 @@ title: "Walking Memories — Print / PDF"
     <div><b>2022</b><span>113</span></div>
   </div>
   <figure class="back-photo">
-    <img data-token="250" data-arweave="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" src="/assets/photos/t0250-awalkaday-251-2022.jpg" alt="awalkaday 251-2022" loading="eager">
-    <figcaption>awalkaday 251–2022</figcaption>
+    <img data-token="211" data-arweave="https://xjp7hza4gi5jdcag2jq3jmtdysje24arqrq2mxdxxqenaxadq7yq.arweave.net/ul_z5BwyOpGIBtJhtLJjxJJNcBGEYaZcd7wI0FwDh_E" src="/assets/photos/t0211-awalkaday-91-2022.jpg" alt="awalkaday 91-2022" loading="eager">
+    <figcaption>awalkaday 91–2022{% include exhibition-mark.html variant="short" %}</figcaption>
   </figure>
   <div class="back-foot">
     <strong>printlab.awalkaday.art</strong><br>
