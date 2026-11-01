@@ -1,0 +1,82 @@
+name: Build PDF
+
+# Renders /impression/ with Paged.js in headless Chromium on every push to the
+# printlab branch (and on pull requests into it), and attaches the PDF, a short
+# report and contact sheets to the run. Download them from the run's page under
+# "Artifacts". Nothing is deployed from here; deploy.yml still does that.
+
+on:
+  push:
+    branches: [printlab]
+  pull_request:
+    branches: [printlab]
+  workflow_dispatch:
+    inputs:
+      fx:
+        description: 'Override the fx-* body classes for this render, e.g. "fx-hide fx-inset" (empty = use the layout)'
+        required: false
+        default: ''
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pdf-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  pdf:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+          bundler-cache: true
+
+      - name: Build the site with Jekyll
+        run: bundle exec jekyll build --baseurl ""
+        env:
+          JEKYLL_ENV: production
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Chromium (Playwright) and PDF tools
+        run: |
+          npm i --no-save playwright
+          npx playwright install --with-deps chromium
+          sudo apt-get install -y poppler-utils
+          pip install pillow
+
+      - name: Serve the built site
+        run: |
+          python3 -m http.server 4000 --directory _site >/dev/null 2>&1 &
+          for i in $(seq 1 20); do curl -fs http://localhost:4000/impression/ >/dev/null && break; sleep 1; done
+
+      - name: Render the PDF
+        id: render
+        run: |
+          mkdir -p out
+          FX=()
+          if [ -n "${{ inputs.fx }}" ]; then FX=(--fx "${{ inputs.fx }}"); fi
+          node scripts/make-pdf.js http://localhost:4000/impression/ out/walking-memories.pdf \
+            --placeholder --strict --summary out/summary.md --timeout 900 "${FX[@]}"
+
+      - name: Contact sheets
+        if: always() && hashFiles('out/walking-memories.pdf') != ''
+        run: python3 scripts/contact-sheets.py out/walking-memories.pdf out/sheets
+
+      - name: Job summary
+        if: always() && hashFiles('out/summary.md') != ''
+        run: cat out/summary.md >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: walking-memories-pdf
+          path: out/
+          retention-days: 14
