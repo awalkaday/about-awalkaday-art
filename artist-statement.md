@@ -8,7 +8,7 @@ description: "Disclosures and essential information written in the first and thi
 This project was born in my spare time, developed independently in the open, and evolved at the pace of a [turtle](https://en.m.wikipedia.org/wiki/Cultural_depictions_of_turtles). Countless public drafts and serene long walks have shaped it into its present state, akin to a therapeutic exercise.
 
 <figure class="embed-media">
-  <img src="https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-gdEnlGmI" alt="awalkaday 219-2022" loading="lazy">
+  <img decoding="async" data-token="254" data-arweave="https://arweave.net/jLFiHjCQmo1aX7OnOewYEwn6MQ2nBHcMDC-gdEnlGmI" src="/assets/photos/web/t0254-awalkaday-219-2022.jpg" srcset="/assets/photos/web/t0254-awalkaday-219-2022.jpg 800w, /assets/photos/t0254-awalkaday-219-2022.jpg 1600w" sizes="(min-width: 760px) 720px, 100vw" alt="awalkaday 219-2022" loading="lazy">
   <figcaption>awalkaday 219-2022</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ The page listing answers to _'WHEN, WHY, HOW, WHERE, WHO'_, titled `FAQ | A WALK
 
 The `awalkaday` building blocks became once again the focus of my geeky attention and camera lenses from [May 2021](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4) onwards. That was right after receiving a developer certification from web coding classes, taught at [freeCodeCamp.org](https://www.freecodecamp.org/daqhris), elongated into the timeframes of Aug-Oct 2016 and Dec 2020-Feb 2021.
 
-<div data-with-frame="true"><figure><img src="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/freeCodeCamp-ResponsiveWebDesign.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img data-src-original="https://raw.githubusercontent.com/daqhris/daqhris.github.io/refs/heads/master/image/freeCodeCamp-ResponsiveWebDesign.png" decoding="async" loading="lazy" src="/assets/external/freecodecamp-responsivewebdesign-dafe237a.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 <div class="embed-link">
   <a href="https://daqhris.com/fcc-cert/" rel="noopener" target="_blank">daqhris.com</a>
@@ -89,7 +89,7 @@ This book displays a mix of texts copied and modified from [about.awalkaday.art]
 Its pages tell the tale of a human wanderer, portray traces of what was seen, felt, done, and lived from an objective perspective, and also hint at what has come to pass.&#x20;
 
 <figure class="embed-media">
-<img src="https://wsxgsr6e2fq4xoktdz3sqpudk7wusjy5lsip2zdramftcwphlkdq.arweave.net/tK5pR8TRYcu5Ux53KD6DV-1JJx1ckP1kcQMLMVnnWoc" alt="awalkaday 48-2022" loading="lazy">
+<img decoding="async" data-token="186" data-arweave="https://wsxgsr6e2fq4xoktdz3sqpudk7wusjy5lsip2zdramftcwphlkdq.arweave.net/tK5pR8TRYcu5Ux53KD6DV-1JJx1ckP1kcQMLMVnnWoc" src="/assets/photos/web/t0186-awalkaday-48-2022.jpg" srcset="/assets/photos/web/t0186-awalkaday-48-2022.jpg 800w, /assets/photos/t0186-awalkaday-48-2022.jpg 1600w" sizes="(min-width: 760px) 720px, 100vw" alt="awalkaday 48-2022" loading="lazy">
 <figcaption>awalkaday 48-2022</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Peering into photographs devoid of humans, combing through scattered data trails
 
 Traveling back in my mind's timeline, against my brain's resistance, was made a breeze by the patronage of a British artist and theatre-maker who provided rent-free housing on the hilltop of an avenue honoring Mount Kemmel in Brussels, at a flat overlooking the Park of Forest where rose up inspiration, for nearly a year and a half (2023-2025).&#x20;
 
-<figure class="embed-media"><img src="https://7qcx5f3hkbvgk5mz33xc3cpbuxozanrxhfpl7qinekgqyptnkuea.arweave.net/_AV-l2dQamV1md7uLYnhpd2QNjc5Xr_BDSKNDD5tVQg" alt="awalkaday 172-2022" loading="lazy"><figcaption>awalkaday 172-2022</figcaption></figure>
+<figure class="embed-media"><img decoding="async" data-token="239" data-arweave="https://7qcx5f3hkbvgk5mz33xc3cpbuxozanrxhfpl7qinekgqyptnkuea.arweave.net/_AV-l2dQamV1md7uLYnhpd2QNjc5Xr_BDSKNDD5tVQg" src="/assets/photos/web/t0239-awalkaday-172-2022.jpg" srcset="/assets/photos/web/t0239-awalkaday-172-2022.jpg 800w, /assets/photos/t0239-awalkaday-172-2022.jpg 1600w" sizes="(min-width: 760px) 720px, 100vw" alt="awalkaday 172-2022" loading="lazy"><figcaption>awalkaday 172-2022</figcaption></figure>
 
 For an accurate time-stamped record of the book's drafts, or an analysis of my public edits scribbled down in `git` commits, please visit the source code repository. A visual chart showing additions and deletions of encoded texts, on a weekly basis and over a long time window, is available [here](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency).&#x20;
 

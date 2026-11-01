@@ -198,6 +198,10 @@ title: "Walking Memories — Print / PDF"
     <div><b>2021</b><span>107</span></div>
     <div><b>2022</b><span>113</span></div>
   </div>
+  <figure class="back-photo">
+    <img data-token="250" data-arweave="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" src="/assets/photos/t0250-awalkaday-251-2022.jpg" alt="awalkaday 251-2022" loading="eager">
+    <figcaption>awalkaday 251–2022</figcaption>
+  </figure>
   <div class="back-foot">
     <strong>printlab.awalkaday.art</strong><br>
     Photos, writings CC BY-NC-ND 4.0<br>

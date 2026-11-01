@@ -61,9 +61,35 @@ def read_register():
     return out
 
 
+SKIP_DIRS = {"_chapters", "node_modules", "vendor", ".git", ".github", ".photo-cache", "scripts", "_site"}
+SKIP_FILES = {"README.md", "README-lab.md", "SUMMARY.md", "impression.md"}
+
+
+def print_files():
+    """pages that make up the print book"""
+    return sorted((ROOT / "_chapters").glob("*.md")) + [ROOT / "impression.md"]
+
+
+def web_files():
+    """the screen book: every page Jekyll publishes (root and sub-folders, not _chapters)"""
+    out = []
+    for f in sorted(ROOT.rglob("*.md")):
+        rel = f.relative_to(ROOT)
+        if rel.parts[0] in SKIP_DIRS or rel.name in SKIP_FILES and len(rel.parts) == 1:
+            continue
+        if rel.name == "README.md" and len(rel.parts) == 1:
+            continue
+        out.append(f)
+    return out
+
+
+def all_files():
+    return print_files() + web_files()
+
+
 def scan_embeds():
-    """[(file, txid, url, alt)] for every Arweave <img> in the chapters and impression.md"""
-    files = sorted((ROOT / "_chapters").glob("*.md")) + [ROOT / "impression.md"]
+    """[(file, txid, url, alt)] for every Arweave <img> in the print chapters and the web pages"""
+    files = all_files()
     found = []
     for f in files:
         for tag in IMG_RE.findall(f.read_text(encoding="utf-8")):
@@ -183,6 +209,70 @@ def save_manifest(path, rows):
             w.writerow({k: r.get(k, "") for k in FIELDS})
 
 
+def web_variant(src, dst, px, quality=80):
+    """small JPEG copy for the screen book, made from the stored print copy (no network needed)"""
+    from PIL import Image
+    if dst.is_file() and dst.stat().st_mtime >= src.stat().st_mtime:
+        return
+    with Image.open(src) as im:
+        im = im.convert("RGB")
+        im.thumbnail((px, px), Image.LANCZOS)
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        im.save(dst, "JPEG", quality=quality, optimize=True, progressive=True)
+
+
+def rewrite_web(manifest, a):
+    """Point the web pages at local files: an 800 px src plus a srcset with the print copy."""
+    prefix = a.public_prefix.rstrip("/")
+    changed = 0
+    for f in web_files():
+        text = f.read_text(encoding="utf-8")
+
+        def sub(m):
+            tag = m.group(0)
+            s = SRC_RE.search(tag) or DATA_AR_RE.search(tag)
+            r = manifest.get(s.group(2)) if s else None
+            if not r or not r.get("local_path") or r.get("status") in ("download-failed", "not-an-image", "needs-review"):
+                return tag
+            name = Path(r["local_path"]).name
+            full = f"{prefix}/{name}"
+            if a.web_px:
+                small = ROOT / a.out / "web" / (Path(name).stem + ".jpg")
+                web_variant(ROOT / r["local_path"], small, a.web_px)
+                small_url = f"{prefix}/web/{small.name}"
+                from PIL import Image
+                with Image.open(small) as im:
+                    sw = im.size[0]
+                with Image.open(ROOT / r["local_path"]) as im:
+                    fw = im.size[0]
+                attrs = f'src="{small_url}" srcset="{small_url} {sw}w, {full} {fw}w"'
+                wm = re.search(r'\bwidth="(\d+)"', tag)
+                attrs += f' sizes="{wm.group(1)}px"' if wm else ' sizes="(min-width: 760px) 720px, 100vw"'
+            else:
+                attrs = f'src="{full}"'
+            tag = re.sub(r'\s(?:srcset|sizes)="[^"]*"', "", tag)          # idempotent
+            if "data-arweave=" in tag:
+                tag = re.sub(r'\ssrc="[^"]*"', " " + attrs, tag, count=1)
+            else:
+                tag = tag.replace(s.group(0), attrs).replace("<img", f'<img data-token="{r["token_id"]}" data-arweave="{s.group(1)}"', 1)
+            if "decoding=" not in tag:
+                tag = tag.replace("<img", '<img decoding="async"', 1)
+            return tag
+
+        def lazy(m):                         # every web image: decode off the main thread, load when near
+            tag = m.group(0)
+            if "loading=" not in tag:
+                tag = tag.replace("<img", '<img loading="lazy"', 1)
+            if "decoding=" not in tag:
+                tag = tag.replace("<img", '<img decoding="async"', 1)
+            return tag
+
+        new_text = IMG_RE.sub(lazy, IMG_RE.sub(sub, text))
+        if new_text != text:
+            f.write_text(new_text, encoding="utf-8"); changed += 1
+    print(f"rewrote {changed} file(s) (web)")
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--out", default="assets/photos", help="where to store photos (default assets/photos)")
@@ -198,6 +288,7 @@ def main():
     ap.add_argument("--max-px", type=int, default=0, help="store copies no larger than N px on the long side (needs Pillow); 0 = keep originals")
     ap.add_argument("--quality", type=int, default=85, help="JPEG quality for --max-px copies")
     ap.add_argument("--cache", default=".photo-cache", help="where originals are kept when --max-px is used (git-ignored)")
+    ap.add_argument("--web-px", type=int, default=800, help="long side of the small copies used by the web pages (assets/photos/web/); 0 = web pages use the print copies")
     ap.add_argument("--external", action="store_true", help="also mirror third-party <img> images into assets/external/ (logos, QR codes...)")
     ap.add_argument("--prune", action="store_true", help="delete files in --out that the manifest no longer references")
     ap.add_argument("--dry-run", action="store_true")
@@ -376,7 +467,7 @@ def main():
         if ext_path.exists():
             with ext_path.open(newline="", encoding="utf-8") as f:
                 ext_rows = {r["url"]: r for r in csv.DictReader(f)}
-        files = sorted((ROOT / "_chapters").glob("*.md")) + [ROOT / "impression.md"]
+        files = all_files()
         urls = []
         for f in files:
             for tag in IMG_RE.findall(f.read_text(encoding="utf-8")):
@@ -431,7 +522,7 @@ def main():
 
     if a.rewrite:
         changed = 0
-        for f in sorted((ROOT / "_chapters").glob("*.md")) + [ROOT / "impression.md"]:
+        for f in print_files():
             text = f.read_text(encoding="utf-8")
             def sub(m):
                 tag = m.group(0)
@@ -447,7 +538,8 @@ def main():
             new_text = IMG_RE.sub(sub, text)
             if new_text != text:
                 f.write_text(new_text, encoding="utf-8"); changed += 1
-        print(f"rewrote {changed} file(s)")
+        print(f"rewrote {changed} file(s) (print)")
+        rewrite_web(manifest, a)
 
     counts = {}
     for r in manifest.values():

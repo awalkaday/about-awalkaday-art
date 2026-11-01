@@ -3,7 +3,7 @@ title: "Web Gallery"
 description: Since May 2021
 ---
 
-<figure class="embed-media"><img src="https://ysqlt77jtllpkzuoskytbkqovjouubb34uuqmi6igo7wwzrx3toa.arweave.net/xKC5_-ma1vVmjpKxMKoOql1KBDvlKQYjyDO_a2Y33Nw" alt="awalkaday 42-2022" loading="lazy"><figcaption>awalkaday 42-2022</figcaption></figure>
+<figure class="embed-media"><img decoding="async" data-token="179" data-arweave="https://ysqlt77jtllpkzuoskytbkqovjouubb34uuqmi6igo7wwzrx3toa.arweave.net/xKC5_-ma1vVmjpKxMKoOql1KBDvlKQYjyDO_a2Y33Nw" src="/assets/photos/web/t0179-awalkaday-42-2022.jpg" srcset="/assets/photos/web/t0179-awalkaday-42-2022.jpg 800w, /assets/photos/t0179-awalkaday-42-2022.jpg 1600w" sizes="(min-width: 760px) 720px, 100vw" alt="awalkaday 42-2022" loading="lazy"><figcaption>awalkaday 42-2022</figcaption></figure>
 
 Once the art project was resumed in the [spring of 2021](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4), a limited number of the salvaged photos began to be steadily uploaded to a purpose-built web gallery, [`awalkaday.art`](https://awalkaday.art/), which ultimately hosts a catalog of 263 photographs from the collection in a custom-designed, interactive and responsive gallery.
 
@@ -11,7 +11,7 @@ Once the art project was resumed in the [spring of 2021](https://github.com/awal
   <a href="https://awalkaday.art" rel="noopener" target="_blank">Make a short trip to the online gallery and encounter in a random order the photos</a>
 </div>
 
-<figure class="embed-media"><img src="/.gitbook/assets/web-gallery-overview.PNG" alt="Screenshot of the web gallery: awalkaday.art" width="563"><figcaption>A screenshot of the custom-built web gallery</figcaption></figure>
+<figure class="embed-media"><img decoding="async" loading="lazy" src="/.gitbook/assets/web-gallery-overview.PNG" alt="Screenshot of the web gallery: awalkaday.art" width="563"><figcaption>A screenshot of the custom-built web gallery</figcaption></figure>
 
 The web gallery prioritizes a smooth and random order of display for each visit, allowing for ease of navigation and discovery of photographs by surprising visitors with fresh-eye perspectives every load time. The gallery's code enforcing mathematical randomness in JavaScript dates from [February 2023](https://github.com/awalkaday/awalkaday-art/commits/master/assets/js/main.js).
 
