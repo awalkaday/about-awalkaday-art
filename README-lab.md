@@ -3,7 +3,7 @@
 Experimental static-site rebuild of the artist's book, served at `printlab.awalkaday.art`.
 The live GitBook at `book.awalkaday.art` remains untouched during the transition.
 
-Zero dependency on GitBook infrastructure once `migrate-from-gitbook.py` has been run.
+Zero dependency on GitBook infrastructure since the March 2026 migration. Map of the whole repo: [.github/README.md](.github/README.md).
 
 ## Stack
 
@@ -33,11 +33,8 @@ chmod +x scripts/vendor-pagedjs.sh
 git add assets/js/paged.polyfill.js
 git commit -m "vendor: add Paged.js locally"
 
-# 4. Migrate content away from GitBook (images + block syntax)
-python3 scripts/migrate-from-gitbook.py --dry-run
-python3 scripts/migrate-from-gitbook.py
-git add -A
-git commit -m "migrate: remove all GitBook dependencies"
+# 4. (done) GitBook content was migrated in March 2026; the one-off scripts are in scripts/archive/.
+#    To import new GitBook edits see .github/README.md, section 4.
 ```
 
 ## Local development
