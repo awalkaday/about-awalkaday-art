@@ -58,8 +58,7 @@ Re-render: `mmdc -i docs/flow.mmd -o docs/flow.svg`.</sub>
   (`chain_check`: match / mismatch / unreachable), shrinks to 1600 px (originals are 4100–6500 px, avg 5.2 MB), and
   rewrites every `<img>` in **both** the print chapters and the web pages. The web pages additionally get a
   800 px copy with `srcset`.
-* Result: the print book and the web book load only local files. 55 images are mirrored; the Imprint image
-  (`530eneBU…`) is still awaiting its token ID.
+* Result: the print book and the web book load only local files. 55 images are mirrored.
 
 ## 4. How text moves
 
@@ -150,16 +149,13 @@ originals and proof) · GitBook (writing, `book.awalkaday.art`) · a public Ethe
 * The git history also holds the 280 MB of full-size photos committed on 2026-10-31, before the shrink (`.git` is ≈344 MB
   on disk). A history rewrite would shrink it, at the price of changing every commit ID; not done.
 
-Traces outside the repo: the book at `book.awalkaday.art` · the web remix at `printlab.awalkaday.art` · the register of tokens on
-Foundation / Ethereum · the Instagram posts linked in the register · the first print out, on view at the 61st Venice
+Traces outside the repo: the book at `book.awalkaday.art` · the web remix at `printlab.awalkaday.art` · the register of tokens on Ethereum · the Instagram posts linked in the register · the first print out, on view at the 61st Venice
 Biennale (`daqhris.com/venice-biennale`).
 
 ## 8. House-keeping backlog
 
-* Remove, when you agree (all stay recoverable from git history): the 32 `_chapters/*.html` files (older HTML renderings of the
-  chapters, referenced nowhere, not published) and 7 unused font files (`Merriweather-*`, `SourceSans3-*`).
 * Decide for each drifted chapter (§5) which text is the master.
 * Re-run `fetch-photos.py --external --rewrite` on a machine with internet access: two logos (`art.art`, `ethereum.org`) still load remotely.
-* Settle the Imprint image's token (`data/photo-overrides.csv`).
+* Run `fetch-photos.py --max-px 1600 --external --rewrite` once with internet: it downloads the Imprint image (token 224), checks it against the chain, and rewrites its `<img>`.
 * Make `remigrate-from-book.py` safe (keep `embed-media`, drop page-number markers, absolute `/.gitbook/` paths) if a one-command import is wanted.
 * Optional: `.github/workflows` job that runs `content-sync.py toc` and `drift` on each PR.
