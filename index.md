@@ -8,7 +8,7 @@ description: "Open-source artbook retracing the digital footprints of an exiled 
 <h4 align="center"></h4>
 
 <figure class="embed-media">
-  <img src="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" alt="awalkaday 251-2022" loading="lazy">
+  <img decoding="sync" data-token="250" data-arweave="https://d72mm3yw6jhz7lrwgqqtnebzznwlcz27mbhyh4rvmcpirgouwwoa.arweave.net/H_TGbxbyT5-uNjQhNpA5y2yxZ19gT4PyNWCeiJnUtZw" src="/assets/photos/web/t0250-awalkaday-251-2022.jpg" srcset="/assets/photos/web/t0250-awalkaday-251-2022.jpg 800w, /assets/photos/t0250-awalkaday-251-2022.jpg 1600w" sizes="(min-width: 760px) 720px, 100vw" alt="awalkaday 251-2022" loading="eager" fetchpriority="high">
   <figcaption>awalkaday 251-2022</figcaption>
 </figure>
 

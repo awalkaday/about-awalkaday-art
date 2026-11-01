@@ -51,6 +51,6 @@ description: "A list of 15 chapters and 17 subchapters showing on which numbered
 * POSTSCRIPT                                         → [`BACK-2`](postscript.md)&#x20;
 
 <figure class="embed-media">
-  <img src="https://7n5x6ki3xr2zlkzlhcpukbprymt3dhxl2kju2haif2y3xqajshpa.arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" alt="awalkaday 129-2022" loading="lazy">
+  <img decoding="async" data-token="226" data-arweave="https://7n5x6ki3xr2zlkzlhcpukbprymt3dhxl2kju2haif2y3xqajshpa.arweave.net/-3t_KRu8dZWrKzifRQXxwyexnuvSk00cCC6xu8AJkd4" src="/assets/photos/web/t0226-awalkaday-129-2022.jpg" srcset="/assets/photos/web/t0226-awalkaday-129-2022.jpg 800w, /assets/photos/t0226-awalkaday-129-2022.jpg 1600w" sizes="(min-width: 760px) 720px, 100vw" alt="awalkaday 129-2022" loading="lazy">
   <figcaption>awalkaday 129-2022</figcaption>
 </figure>

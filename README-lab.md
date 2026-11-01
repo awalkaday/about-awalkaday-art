@@ -129,3 +129,11 @@ GitHub Pages issues a free TLS certificate automatically.
 - No database, no login surface, no dynamic execution
 - Paged.js vendored in `assets/js/` — print layer works fully offline
 - All content and history in Git — no vendor controls your source
+
+## Screen book: local, light images
+
+`python3 scripts/fetch-photos.py --max-px 1600 --external --rewrite` now also rewrites the web pages
+(root and sub-folders, not `_chapters/`): Arweave photos become a local 800 px copy in `assets/photos/web/`
+with a `srcset` to the 1600 px print copy; every web image gets `loading="lazy"` and `decoding="async"`
+(the home cover photo is eager). `--web-px 0` skips the small copies.
+`python3 scripts/shrink-assets.py --apply` shrinks oversized files in `.gitbook/assets` (originals go to `.photo-cache/gitbook/`).

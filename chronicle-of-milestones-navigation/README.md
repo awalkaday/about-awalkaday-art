@@ -11,6 +11,6 @@ permalink: /chronicle-of-milestones-navigation/
 [blockchain-records.md](blockchain-records.md)
 
 <figure class="embed-media">
-  <img src="https://cc6eptmtmherdp7jt46ananrjsvjbscvbsxwhev3t3hoqgw37nqq.arweave.net/ELxHzZNhyRG_6Z88BoGxTKqQyFUMr2OSu57O6Brb-2E" alt="awalkaday 198-2021" loading="lazy">
+  <img decoding="async" data-token="67" data-arweave="https://cc6eptmtmherdp7jt46ananrjsvjbscvbsxwhev3t3hoqgw37nqq.arweave.net/ELxHzZNhyRG_6Z88BoGxTKqQyFUMr2OSu57O6Brb-2E" src="/assets/photos/web/t0067-awalkaday-198-2021.jpg" srcset="/assets/photos/web/t0067-awalkaday-198-2021.jpg 800w, /assets/photos/t0067-awalkaday-198-2021.jpg 1600w" sizes="(min-width: 760px) 720px, 100vw" alt="awalkaday 198-2021" loading="lazy">
   <figcaption>awalkaday 198-2021</figcaption>
 </figure>

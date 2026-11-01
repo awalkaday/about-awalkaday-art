@@ -5,7 +5,7 @@ title: "Cameras and Photo Editing"
 At the beginning of the travelogue on Western soil, between 2017 and 2018, a [**Xiaomi**](https://www.mi.com/global/about/) smartphone, acquired in Beijing around 2015, was the tool of choice for capturing and editing still images.
 
 <figure class="embed-media">
-  <img src="https://arweave.net/lt_hFp1beJB2ZMQBJa-r4c8R0kpEWgwmcX-lDePzUoE" alt="awalkaday 4-2018" loading="lazy">
+  <img decoding="async" data-token="89" data-arweave="https://arweave.net/lt_hFp1beJB2ZMQBJa-r4c8R0kpEWgwmcX-lDePzUoE" src="/assets/photos/web/t0089-awalkaday-4-2018.jpg" srcset="/assets/photos/web/t0089-awalkaday-4-2018.jpg 800w, /assets/photos/t0089-awalkaday-4-2018.jpg 1600w" sizes="(min-width: 760px) 720px, 100vw" alt="awalkaday 4-2018" loading="lazy">
   <figcaption>awalkaday 4-2018</figcaption>
 </figure>
 
@@ -14,7 +14,7 @@ In early 2021, a smartphone, operating under [Android One](https://www.android.c
 The low-cost computing machine, manufactured by a supply chain for a Finnish corporation and bought at a Belgian chain of stores, was equipped with two rear cameras which were endowed with a 13-megapixel primary sensor and a 2-megapixel depth sensor.
 
 <figure class="embed-media">
-  <img src="https://arweave.net/3wrYeB0PvtdlrZ9dbL0rIeqWB5KDBn0sa33casdaJX0" alt="awalkaday 73-2022" loading="lazy">
+  <img decoding="async" data-token="194" data-arweave="https://arweave.net/3wrYeB0PvtdlrZ9dbL0rIeqWB5KDBn0sa33casdaJX0" src="/assets/photos/web/t0194-awalkaday-73-2022.jpg" srcset="/assets/photos/web/t0194-awalkaday-73-2022.jpg 800w, /assets/photos/t0194-awalkaday-73-2022.jpg 1600w" sizes="(min-width: 760px) 720px, 100vw" alt="awalkaday 73-2022" loading="lazy">
   <figcaption>awalkaday 73-2022</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ The smart device was cryptographically identified and verified as his by him on 
 The **Android One**'s circuits were penetrated by an illogical force in the last season of 2022, then again in the first season of 2024. Such were unreported cases of traumatic events that, year after year, comically proved one's resilience to ill-willed interference, and tearfully washed away hopes of mercy.
 
 <figure class="embed-media">
-  <img src="https://arweave.net/i6PP4en92kXHtQLpdd0XBSBrQuY6a5cWgMt3A1gJBCI" alt="awalkaday 253-2022" loading="lazy">
+  <img decoding="async" data-token="249" data-arweave="https://arweave.net/i6PP4en92kXHtQLpdd0XBSBrQuY6a5cWgMt3A1gJBCI" src="/assets/photos/web/t0249-awalkaday-253-2022.jpg" srcset="/assets/photos/web/t0249-awalkaday-253-2022.jpg 800w, /assets/photos/t0249-awalkaday-253-2022.jpg 1600w" sizes="(min-width: 760px) 720px, 100vw" alt="awalkaday 253-2022" loading="lazy">
   <figcaption>awalkaday 253-2022</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ All photographs were edited by using Android software applications before being 
 Overall, the two cameras had basic features to balance highlights and shadows in photographs, and produced decent details in well-lit conditions. They assisted with scene recognition and optimization, but all cameras were obviously unprivileged by their mediocre sensors.
 
 <figure class="embed-media">
-  <img src="https://qvkqswypiambkjkycjmxs7vah6nml7rkl6gos6252pghv7f2mz5a.arweave.net/hVUJWw9AGBUlWBJZeX6gP5rF_ipfjOl7XdPMevy6Zno" alt="awalkaday 28-2022" loading="lazy">
+  <img decoding="async" data-token="176" data-arweave="https://qvkqswypiambkjkycjmxs7vah6nml7rkl6gos6252pghv7f2mz5a.arweave.net/hVUJWw9AGBUlWBJZeX6gP5rF_ipfjOl7XdPMevy6Zno" src="/assets/photos/web/t0176-awalkaday-28-2022.jpg" srcset="/assets/photos/web/t0176-awalkaday-28-2022.jpg 800w, /assets/photos/t0176-awalkaday-28-2022.jpg 1600w" sizes="(min-width: 760px) 720px, 100vw" alt="awalkaday 28-2022" loading="lazy">
   <figcaption>awalkaday 28-2022</figcaption>
 </figure>
 

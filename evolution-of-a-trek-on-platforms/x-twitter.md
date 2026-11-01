@@ -5,12 +5,12 @@ description: Since November 2021
 
 [X](https://x.com/) allows users to share short-form media works while fostering real-time engagement in public conversations. Over time, it became a habit to navigate the digital sea of information, and to flock around inspiring figures twittering about a myriad of topics.
 
-<div data-with-frame="true"><figure class="embed-media"><img src="/.gitbook/assets/twitter-profile-summer2025.PNG" alt="Screenshot of the art project&#x27;s X profile"><figcaption>Header section on the profile page of the X user account</figcaption></figure></div>
+<div data-with-frame="true"><figure class="embed-media"><img decoding="async" loading="lazy" src="/.gitbook/assets/twitter-profile-summer2025.PNG" alt="Screenshot of the art project&#x27;s X profile"><figcaption>Header section on the profile page of the X user account</figcaption></figure></div>
 
 News and viewpoints related to the photo collection have been broadcast on X, where the artist posting via [@awalkadayart](https://twitter.com/awalkadayart), connects with a diverse audience, announces key milestones, and builds relationships with artists, researchers, supporters, and collectors.
 
 <figure class="embed-media">
-  <img src="https://arweave.net/Xe2BxPvNy1dKj92ZOtfLH1NWynZ1w8uudpZJbxvnNdk" alt="awalkaday 220-2022" loading="lazy">
+  <img decoding="async" data-token="253" data-arweave="https://arweave.net/Xe2BxPvNy1dKj92ZOtfLH1NWynZ1w8uudpZJbxvnNdk" src="/assets/photos/web/t0253-awalkaday-220-2022.jpg" srcset="/assets/photos/web/t0253-awalkaday-220-2022.jpg 800w, /assets/photos/t0253-awalkaday-220-2022.jpg 1600w" sizes="(min-width: 760px) 720px, 100vw" alt="awalkaday 220-2022" loading="lazy">
   <figcaption>awalkaday 220-2022</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Since December 2022, I'm stuck trying to be productive and creative while living
 (https://www.bruzz.be/tag/palais-des-droits)
 ```
 
-<div data-with-frame="true"><figure class="embed-media"><img src="https://pbs.twimg.com/media/Fn-e1ZGWAAQHvnA?format=jpg&#x26;name=4096x4096" alt="BRUZZ Newspaper, Jan. 2023, P. 10-11" width="563"><figcaption>Photo of the BRUZZ weekly newspaper, Edition of 18 January 2023, Pages 10-11</figcaption></figure></div>
+<div data-with-frame="true"><figure class="embed-media"><img data-src-original="https://pbs.twimg.com/media/Fn-e1ZGWAAQHvnA?format=jpg&#x26;name=4096x4096" decoding="async" loading="lazy" src="/assets/external/fn-e1zgwaaqhvna-b340bb54.jpg" alt="BRUZZ Newspaper, Jan. 2023, P. 10-11" width="563"><figcaption>Photo of the BRUZZ weekly newspaper, Edition of 18 January 2023, Pages 10-11</figcaption></figure></div>

@@ -427,6 +427,32 @@ html, body {
 .book-back .back-years b { display: block; font-weight: 500; }
 .book-back .back-years span { color: var(--color-muted); }
 
+/* The framed print again, whole and 1:1, level with the colophon */
+.book-back .back-photo {
+  position: absolute;
+  right: 16mm;
+  bottom: 14mm;
+  width: 54mm;
+  margin: 0;
+  text-align: center;
+}
+.book-back .back-photo img {
+  width: 54mm;
+  height: 54mm;
+  max-height: none;
+  object-fit: contain;
+  margin: 0;
+  display: block;
+}
+.book-back .back-photo figcaption {
+  font-family: var(--font-mono);
+  font-style: normal;
+  font-size: 6.5pt;
+  letter-spacing: 0.04em;
+  margin-top: 2mm;
+  text-align: center;
+}
+
 .book-back .back-foot {
   position: absolute;
   left: 16mm;
