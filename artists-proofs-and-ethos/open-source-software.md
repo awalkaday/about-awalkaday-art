@@ -1,3 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: false
+---
+
 # Open Source Software
 
 An open source ethos which embodies principles such as transparency, collaboration, and community-driven development was embraced with open arms.
@@ -19,7 +42,7 @@ As a volunteer, one of his most memorable acts was standing onstage, in front of
 In the second half of 2024, `daqhris` began to ingeniously craft an online artist's book, `book.awalkaday.art`, which spotlights various aspects of his `git`-dependent artistic practice, and meets the public eye from a technical documentation platform, [GitBook](https://www.gitbook.com/).
 
 {% embed url="https://arweave.net/EGWfqt41-x4swizPynVwltLBmd-68PCM8q6CX3EmwG4" %}
-**awalkaday 91-2022**
+**awalkaday 26-2022**
 {% endembed %}
 
 <p align="center"></p>
