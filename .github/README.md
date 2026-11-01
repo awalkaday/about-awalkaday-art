@@ -58,8 +58,8 @@ Re-render: `mmdc -i docs/flow.mmd -o docs/flow.svg`.</sub>
   (`chain_check`: match / mismatch / unreachable), shrinks to 1600 px (originals are 4100–6500 px, avg 5.2 MB), and
   rewrites every `<img>` in **both** the print chapters and the web pages. The web pages additionally get a
   800 px copy with `srcset`.
-* Result: the print book and the web book load only local files. 55 images are mirrored; the Imprint image
-  (`530eneBU…`) is still awaiting its token ID.
+* Result: the print book and the web book load only local files. 54 images are mirrored; the Imprint image
+  (`530eneBU…`, token 224 = *awalkaday 105-2022*, set in `data/photo-overrides.csv`) is waiting for the next `fetch-photos.py` run with internet access.
 
 ## 4. How text moves
 
@@ -156,10 +156,9 @@ Biennale (`daqhris.com/venice-biennale`).
 
 ## 8. House-keeping backlog
 
-* Remove, when you agree (all stay recoverable from git history): the 32 `_chapters/*.html` files (older HTML renderings of the
-  chapters, referenced nowhere, not published) and 7 unused font files (`Merriweather-*`, `SourceSans3-*`).
+* Done on 2026-11-01: removed the 32 `_chapters/*.html` files (old HTML renderings, referenced nowhere) and 7 unused font files; they stay in git history.
 * Decide for each drifted chapter (§5) which text is the master.
 * Re-run `fetch-photos.py --external --rewrite` on a machine with internet access: two logos (`art.art`, `ethereum.org`) still load remotely.
-* Settle the Imprint image's token (`data/photo-overrides.csv`).
+* Run `fetch-photos.py --max-px 1600 --external --rewrite` once with internet: it downloads the Imprint image (token 224), checks it against the chain, and rewrites its `<img>`.
 * Make `remigrate-from-book.py` safe (keep `embed-media`, drop page-number markers, absolute `/.gitbook/` paths) if a one-command import is wanted.
 * Optional: `.github/workflows` job that runs `content-sync.py toc` and `drift` on each PR.
