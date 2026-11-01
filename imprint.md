@@ -69,7 +69,7 @@ _A token of gratitude goes to:_&#x20;
 
 <h4 align="right">Internet Registry</h4>
 
-<div align="right"><figure><img decoding="async" loading="lazy" src="https://art.art/wp-content/themes/art/new/img/logo_DotArt.svg" alt="https://art.art/" width="188"><figcaption><a href="https://x.com/Art_Domains/status/1755917791658418315">Praised online by .ART domains</a> <em>('24)</em></figcaption></figure></div>
+<div align="right"><figure><img decoding="async" loading="lazy" src="/assets/external/Dot_Art_logo.svg" alt="https://art.art/" width="188"><figcaption><a href="https://x.com/Art_Domains/status/1755917791658418315">Praised online by .ART domains</a> <em>('24)</em></figcaption></figure></div>
 
 #### Artwork Publication
 
@@ -81,7 +81,7 @@ _A token of gratitude goes to:_&#x20;
 
 #### Blockchain Network
 
-<div align="left"><figure><img decoding="async" loading="lazy" src="https://ethereum.org/_next/static/media/ethereum-logo-landscape-purple.2c091489.png" alt="https://ethereum.org/en/" width="188"><figcaption><a href="https://etherscan.io/token/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1">263 photos minted as WALK tokens</a> <em>('23)</em></figcaption></figure></div>
+<div align="left"><figure><img decoding="async" loading="lazy" src="/assets/external/eth-logo-landscape-(purple).png" alt="https://ethereum.org/en/" width="188"><figcaption><a href="https://etherscan.io/token/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1">263 photos minted as WALK tokens</a> <em>('23)</em></figcaption></figure></div>
 
 <h4 align="right">Brussels Public Library</h4>
 
