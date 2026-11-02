@@ -5743,11 +5743,18 @@
    "@type": "Photograph",
    "@id": "https://printlab.awalkaday.art/photographs.json#token-177",
    "name": "awalkaday 26-2022",
-   "identifier": {
-    "@type": "PropertyValue",
-    "propertyID": "ERC-721 token ID",
-    "value": "177"
-   },
+   "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "ERC-721 token ID",
+     "value": "177"
+    },
+    {
+     "@type": "PropertyValue",
+     "propertyID": "SHA-256 of the local copy",
+     "value": "8819e041b38533262175be218c288893f82e62095206018154b3e89afb2da7eb"
+    }
+   ],
    "creator": {
     "@type": "Person",
     "name": "Chris-Armel Iradukunda",
@@ -5766,7 +5773,21 @@
    "contentLocation": {
     "@type": "Country",
     "name": "Belgium"
-   }
+   },
+   "contentUrl": "https://printlab.awalkaday.art/assets/photos/t0177-awalkaday-26-2022.jpg",
+   "thumbnailUrl": "https://printlab.awalkaday.art/assets/photos/web/t0177-awalkaday-26-2022.jpg",
+   "encodingFormat": "image/jpeg",
+   "width": {
+    "@type": "QuantitativeValue",
+    "value": 6500,
+    "unitCode": "E37"
+   },
+   "height": {
+    "@type": "QuantitativeValue",
+    "value": 6500,
+    "unitCode": "E37"
+   },
+   "isBasedOn": "https://arweave.net/EGWfqt41-x4swizPynVwltLBmd-68PCM8q6CX3EmwG4"
   },
   {
    "@type": "Photograph",
@@ -6980,8 +7001,8 @@
     "@type": "Country",
     "name": "Belgium"
    },
-   "contentUrl": "https://printlab.awalkaday.art/assets/photos/t0211-awalkaday-91-2022-ulz5bw.jpg",
-   "thumbnailUrl": "https://printlab.awalkaday.art/assets/photos/web/t0211-awalkaday-91-2022-ulz5bw.jpg",
+   "contentUrl": "https://printlab.awalkaday.art/assets/photos/t0211-awalkaday-91-2022.jpg",
+   "thumbnailUrl": "https://printlab.awalkaday.art/assets/photos/web/t0211-awalkaday-91-2022.jpg",
    "encodingFormat": "image/jpeg",
    "width": {
     "@type": "QuantitativeValue",
