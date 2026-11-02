@@ -81,7 +81,7 @@ _A token of gratitude goes to:_&#x20;
 
 #### Blockchain Network
 
-<div align="left"><figure><img decoding="async" loading="lazy" src="/assets/external/eth-logo-landscape-(purple).png" alt="https://ethereum.org/en/" width="188"><figcaption><a href="https://etherscan.io/token/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1">263 photos minted as WALK tokens</a> <em>('23)</em></figcaption></figure></div>
+<div align="left"><figure><img decoding="async" loading="lazy" src="/assets/external/eth-logo-landscape-purple.png" alt="https://ethereum.org/en/" width="188"><figcaption><a href="https://etherscan.io/token/0xe31801c2e58b151c3ded2cb29da56147b7f27eb1">263 photos minted as WALK tokens</a> <em>('23)</em></figcaption></figure></div>
 
 <h4 align="right">Brussels Public Library</h4>
 

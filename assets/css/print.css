@@ -528,6 +528,15 @@ html, body {
   break-after: avoid;
 }
 
+/* A table right after an h3 must not also be forced to stay with it:
+   h1 > p > h2 > h3 > table (break-inside: avoid) formed a chain longer than
+   a page, and Paged.js answered with two blank pages (Catalogue, p75-76).
+   The h3's own break-after: avoid still keeps heading and table together. */
+.chapter h3 + table {
+  page-break-before: auto;
+  break-before: auto;
+}
+
 /* Keep the element immediately after the description glued too */
 .chapter h1 + p + *,
 .chapter h2 + p + * {
