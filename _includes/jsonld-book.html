@@ -1,0 +1,33 @@
+{%- comment -%} schema.org Book for the home page. jekyll-seo-tag already writes WebSite/WebPage and the Person from `social`. {%- endcomment -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": {{ site.data.seo.canonical_host | append: "/#book" | jsonify }},
+  "name": {{ site.title | jsonify }},
+  "alternateName": "awalkaday",
+  "description": {{ site.description | jsonify }},
+  "url": {{ site.data.seo.canonical_host | append: "/" | jsonify }},
+  "inLanguage": "en",
+  "genre": "Artist's book",
+  "bookFormat": "https://schema.org/EBook",
+  "isAccessibleForFree": true,
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "image": {{ '/assets/social/share-1200x630.png' | absolute_url | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": "Chris-Armel Iradukunda",
+    "alternateName": "daqhris",
+    "url": "https://daqhris.com",
+    "sameAs": {{ site.social.links | jsonify }}
+  },
+  "sameAs": {{ site.data.seo.project_links | jsonify }},
+  "hasPart": {
+    "@type": "Dataset",
+    "name": "Register of the 263 photographs (token, date, contract, local copy)",
+    "url": {{ '/photographs.json' | absolute_url | jsonify }},
+    "encodingFormat": "application/ld+json",
+    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  }
+}
+</script>

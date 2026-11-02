@@ -1,6 +1,7 @@
 ---
 title: "Web Gallery"
 description: Since May 2021
+canonical_url: "https://book.awalkaday.art/evolution-of-a-trek-on-platforms/web-gallery"
 ---
 
 <figure class="embed-media"><img decoding="async" data-token="179" data-arweave="https://ysqlt77jtllpkzuoskytbkqovjouubb34uuqmi6igo7wwzrx3toa.arweave.net/xKC5_-ma1vVmjpKxMKoOql1KBDvlKQYjyDO_a2Y33Nw" src="/assets/photos/web/t0179-awalkaday-42-2022.jpg" srcset="/assets/photos/web/t0179-awalkaday-42-2022.jpg 800w, /assets/photos/t0179-awalkaday-42-2022.jpg 1600w" sizes="(min-width: 760px) 720px, 100vw" alt="awalkaday 42-2022" loading="lazy"><figcaption>awalkaday 42-2022</figcaption></figure>

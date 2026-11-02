@@ -1,0 +1,23 @@
+---
+layout: null
+permalink: /llms.txt
+sitemap: false
+---
+# {{ site.title }}
+
+> {{ site.description }}
+
+An open-source artist's book by Chris-Armel Iradukunda (daqhris): 263 photographs shot on walks across Belgium, 2017–2024, minted as tokens, with the writing that surrounds them. Text and photographs are CC BY-NC-ND 4.0; source code is EUPL-1.2. The GitBook edition at {{ site.data.seo.canonical_host }} is the reference copy while this site is in trial.
+
+## Pages
+{% for item in site.data.toc -%}
+{% if item.url == "/" %}{% assign u = "/" %}{% else %}{% assign u = item.url | prepend: "/" | append: "/" %}{% endif -%}
+- [{{ item.title }}]({{ u | absolute_url }})
+{% for child in item.children -%}
+{% assign cu = child.url | prepend: "/" | append: "/" -%}
+  - [{{ child.title }}]({{ cu | absolute_url }})
+{% endfor -%}
+{% endfor %}
+## Data
+- [Register of the photographs, JSON-LD]({{ "/photographs.json" | absolute_url }}): token ID, title, publication date, links, local copy
+- [Repository](https://github.com/awalkaday/about-awalkaday-art)

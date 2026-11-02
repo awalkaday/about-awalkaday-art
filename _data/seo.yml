@@ -1,0 +1,11 @@
+# Where search engines should send readers while two sites carry the same text.
+# canonical_host is used by scripts/set-canonical.py (page links) and the Book JSON-LD.
+# When printlab takes over the book subdomain: run `python3 scripts/set-canonical.py --remove`
+# and set canonical_host to https://printlab.awalkaday.art (or the new address).
+canonical_host: "https://book.awalkaday.art"
+# Profiles of the PROJECT (not of the person); the person's own profiles are under `social` in _config.yml
+project_links:
+  - https://github.com/awalkaday/about-awalkaday-art
+  - https://www.instagram.com/walk.day
+  - https://x.com/awalkadayart
+  - https://collect.awalkaday.art

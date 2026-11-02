@@ -1,5 +1,6 @@
 ---
 title: "One Step Forward"
+canonical_url: "https://book.awalkaday.art/one-step-forward"
 ---
 
 <h2 align="center"><strong>Synopsis</strong></h2>

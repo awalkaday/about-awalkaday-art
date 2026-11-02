@@ -110,7 +110,8 @@ const out = args[1] || 'walking-memories.pdf';
     return { bodyClass: document.body.className, starts, notAtTop };
   });
 
-  await page.pdf({ path: out, preferCSSPageSize: true, printBackground: true });
+  // tagged = accessible structure for screen readers; outline = bookmarks built from the headings
+  await page.pdf({ path: out, preferCSSPageSize: true, printBackground: true, tagged: true, outline: true });
   console.log(`wrote ${out}: ${last} pages`);
   console.log('body classes:', info.bodyClass);
   console.log('chapter starts:\n  ' + info.starts.join('\n  '));

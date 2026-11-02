@@ -2,6 +2,7 @@
 title: "Mobile Studio and Digital Toolkit"
 description: "The wanderer's burden lightened by rudimentary equipment: Nokia as Air Force, laptop as command center and libre software as darkroom"
 permalink: /mobile-studio-and-digital-toolkit/
+canonical_url: "https://book.awalkaday.art/mobile-studio-and-digital-toolkit"
 ---
 
 [on-the-go-photography.md](on-the-go-photography.md)

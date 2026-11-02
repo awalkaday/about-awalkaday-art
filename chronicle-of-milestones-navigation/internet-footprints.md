@@ -1,5 +1,6 @@
 ---
 title: "Internet Footprints"
+canonical_url: "https://book.awalkaday.art/chronicle-of-milestones-navigation/internet-footprints"
 ---
 
 The visual art practice, reinforced by web surfing, began in [July 2017](https://www.instagram.com/p/BWvILEmAPcy/), when a photo was posted on Instagram with the following caption: '**Don't watch the clock. Do what it does. Keep going**'.
