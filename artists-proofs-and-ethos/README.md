@@ -2,7 +2,6 @@
 title: "Artist's Proofs and Ethos"
 description: "Reframing version control philosophy as artistic methodology through transparent iteration, public refinement, and trails of GIT commits"
 permalink: /artists-proofs-and-ethos/
-canonical_url: "https://book.awalkaday.art/artists-proofs-and-ethos"
 ---
 
 [public-git-commits.md](public-git-commits.md)

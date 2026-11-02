@@ -1,7 +1,13 @@
+---
+layout: null
+permalink: /robots.txt
+sitemap: false
+---
 User-agent: *
 Allow: /
 
 # The print view is a layout test bench, not content
 Disallow: /impression/
-
-Sitemap: https://printlab.awalkaday.art/sitemap.xml
+{% if site.data.seo.indexable %}
+Sitemap: {{ "/sitemap.xml" | absolute_url }}
+{% endif %}

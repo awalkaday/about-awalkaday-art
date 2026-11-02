@@ -1,6 +1,5 @@
 ---
 title: "Human Identity"
-canonical_url: "https://book.awalkaday.art/artist-profiling/human-identity"
 ---
 
 [Chris-Armel](https://daqhris.com), digitally identified as `daqhris`, is the artist, photographer, and software developer whose binary footprints formed the `awalkaday.art` Photography Collectio&#x6E;_._ He shouldered a heavy artistic load during the second half of his twenties, while living, wandering, and gazing at landscapes of Belgium.

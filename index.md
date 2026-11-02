@@ -3,7 +3,6 @@ layout: page
 title: "Walking Memories"
 permalink: /
 description: "Open-source artbook retracing the digital footprints of an exiled wanderer's eight-year odyssey—263 photographs, a blockchain archive, and an asylum file—told in parallel across his Belgian pixels."
-canonical_url: "https://book.awalkaday.art/"
 ---
 
 <h4 align="center"></h4>

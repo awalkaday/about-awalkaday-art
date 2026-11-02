@@ -1,0 +1,85 @@
+name: Release
+
+# A release is a decision, not a side effect of pushing. Nothing is published unless you do one of these:
+#   1. push a version tag from printlab:   git tag v0.1.0 && git push origin v0.1.0
+#   2. Actions > Release > Run workflow, type the version (e.g. v0.1.0): the tag is created on the chosen commit
+# Versions follow semver. Below 1.0.0 (and anything with a suffix such as -rc.1) is marked "pre-release".
+# The PDF is rendered by pdf.yml with --strict: a PDF that fails its checks is never released.
+
+on:
+  push:
+    tags: ['v[0-9]*.[0-9]*.[0-9]*']
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version to publish, e.g. v0.1.0 or v0.2.0-rc.1'
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      version: ${{ steps.v.outputs.version }}
+      prerelease: ${{ steps.v.outputs.prerelease }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - id: v
+        run: |
+          VERSION="${{ inputs.version || github.ref_name }}"
+          if ! echo "$VERSION" | grep -Eq '^v[0-9]+\.[0-9]+\.[0-9]+(-[0-9A-Za-z.]+)?$'; then
+            echo "::error::'$VERSION' is not a version like v0.1.0 or v0.2.0-rc.1"; exit 1
+          fi
+          if git ls-remote --exit-code --tags origin "refs/tags/$VERSION" >/dev/null 2>&1 && [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "::error::$VERSION already exists"; exit 1
+          fi
+          # Releases come from the experimental branch only
+          git fetch origin printlab
+          if ! git merge-base --is-ancestor "${{ github.sha }}" origin/printlab; then
+            echo "::error::This commit is not on printlab; releases come from printlab only"; exit 1
+          fi
+          PRE=false
+          case "$VERSION" in v0.*|*-*) PRE=true;; esac
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+          echo "prerelease=$PRE" >> "$GITHUB_OUTPUT"
+
+  build:
+    needs: check
+    uses: ./.github/workflows/pdf.yml
+
+  publish:
+    needs: [check, build]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/download-artifact@v4
+        with:
+          name: walking-memories-pdf
+          path: out
+      - name: Publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+          VERSION: ${{ needs.check.outputs.version }}
+          PRE: ${{ needs.check.outputs.prerelease }}
+        run: |
+          cp out/walking-memories.pdf "walking-memories-$VERSION.pdf"
+          (cd out/sheets && zip -qr "../../contact-sheets-$VERSION.zip" .)
+          {
+            echo "Print edition **$VERSION** of *Walking Memories* (draft towards a final edition while below 1.0.0)."
+            echo
+            cat out/summary.md
+            echo
+            echo "Licence CC BY-NC-ND 4.0 (text and photographs), EUPL-1.2 (code)."
+          } > notes.md
+          FLAGS=(--target "${{ github.sha }}" --title "Walking Memories $VERSION" --notes-file notes.md --generate-notes)
+          if [ "$PRE" = "true" ]; then FLAGS+=(--prerelease); fi
+          gh release create "$VERSION" "${FLAGS[@]}" \
+            "walking-memories-$VERSION.pdf" "out/summary.md#summary.md" "contact-sheets-$VERSION.zip"

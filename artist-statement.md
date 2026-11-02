@@ -1,7 +1,6 @@
 ---
 title: "ARTIST STATEMENT"
 description: "Disclosures and essential information written in the first and third person"
-canonical_url: "https://book.awalkaday.art/artist-statement"
 ---
 
 ### First Steps (2017)

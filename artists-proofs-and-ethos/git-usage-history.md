@@ -1,6 +1,5 @@
 ---
 title: "GIT Usage History"
-canonical_url: "https://book.awalkaday.art/artists-proofs-and-ethos/git-usage-history"
 ---
 
 <figure class="embed-media"><img decoding="async" data-token="70" data-arweave="https://6cf5hdon57o2agn5k3jmvu2w72kl3cleh6uh6auvqukeva6zlc4q.arweave.net/8IvTjc3v3aAZvVbSytNW_pS9iWQ_qH8ClYUUSoPZWLk" src="/assets/photos/web/t0070-awalkaday-212-2021.jpg" srcset="/assets/photos/web/t0070-awalkaday-212-2021.jpg 800w, /assets/photos/t0070-awalkaday-212-2021.jpg 1600w" sizes="(min-width: 760px) 720px, 100vw" alt="awalkaday 212-2021" loading="lazy"><figcaption>awalkaday 212-2021</figcaption></figure>

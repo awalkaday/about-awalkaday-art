@@ -1,6 +1,5 @@
 ---
 title: "Cameras and Photo Editing"
-canonical_url: "https://book.awalkaday.art/mobile-studio-and-digital-toolkit/cameras-and-photo-editing"
 ---
 
 At the beginning of the travelogue on Western soil, between 2017 and 2018, a [**Xiaomi**](https://www.mi.com/global/about/) smartphone, acquired in Beijing around 2015, was the tool of choice for capturing and editing still images.

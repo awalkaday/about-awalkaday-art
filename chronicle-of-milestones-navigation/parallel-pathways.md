@@ -1,6 +1,5 @@
 ---
 title: "Parallel Pathways"
-canonical_url: "https://book.awalkaday.art/chronicle-of-milestones-navigation/parallel-pathways"
 ---
 
 <figure class="embed-media">

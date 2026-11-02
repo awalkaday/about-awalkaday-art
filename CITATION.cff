@@ -13,7 +13,7 @@ authors:
     website: "https://daqhris.com"
 license: EUPL-1.2
 repository-code: "https://github.com/awalkaday/about-awalkaday-art"
-url: "https://book.awalkaday.art"
+url: "https://printlab.awalkaday.art"
 keywords:
   - artist's book
   - photography
@@ -30,5 +30,5 @@ preferred-citation:
       alias: daqhris
   year: 2026
   edition: "Draft edition 2026"
-  url: "https://book.awalkaday.art"
+  url: "https://printlab.awalkaday.art"
   notes: "Photos and writings CC BY-NC-ND 4.0; source code EUPL-1.2. No ISBN."

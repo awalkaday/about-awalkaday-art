@@ -1,7 +1,6 @@
 ---
 title: "Ethereum"
 description: Since August 2022
-canonical_url: "https://book.awalkaday.art/evolution-of-a-trek-on-platforms/ethereum"
 ---
 
 For the final leg of a trek on digital platforms, [daqhris](https://app.ens.domains/daqhris.eth) publicly minted the set of 263 photographs, which he had miraculously recovered after another chaotic winter.

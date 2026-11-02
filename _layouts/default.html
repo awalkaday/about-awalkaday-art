@@ -7,6 +7,7 @@
   <!-- Title, description, canonical, Open Graph, Twitter card, JSON-LD: all written by jekyll-seo-tag.
        Per page: title, description, canonical_url (scripts/set-canonical.py), image in the front matter. -->
   {% seo %}
+  {% unless site.data.seo.indexable %}<meta name="robots" content="noindex, follow">{% endunless %}
 
   <!-- Icons and app manifest (scripts/make-icons.py) -->
   <link rel="icon" href="{{ '/assets/icons/favicon.ico' | relative_url }}" sizes="any">

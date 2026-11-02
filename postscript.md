@@ -1,7 +1,6 @@
 ---
 title: "POSTSCRIPT"
 description: "An exhaustive table listing the 263 digital photographs with names, public timestamps and WALK token identifiers"
-canonical_url: "https://book.awalkaday.art/postscript"
 ---
 
 

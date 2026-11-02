@@ -1,6 +1,5 @@
 ---
 title: "Project Inception"
-canonical_url: "https://book.awalkaday.art/artist-profiling/project-inception"
 ---
 
 ### Crossing Waters
