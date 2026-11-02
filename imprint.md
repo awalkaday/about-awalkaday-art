@@ -1,6 +1,5 @@
 ---
 title: "IMPRINT"
-canonical_url: "https://book.awalkaday.art/imprint"
 ---
 
 ### Public Licensing

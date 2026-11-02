@@ -1,6 +1,5 @@
 ---
 title: "Open Source Software"
-canonical_url: "https://book.awalkaday.art/artists-proofs-and-ethos/open-source-software"
 ---
 
 An open source ethos which embodies principles such as transparency, collaboration, and community-driven development was embraced with open arms.

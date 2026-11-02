@@ -2,7 +2,6 @@
 title: "Artist Profiling"
 description: "A portrait of a Burundian assembled from fragments of darkened memories: Beijing to Brussels, war filming to refuge seeking, engineer-in-training to undocumented"
 permalink: /artist-profiling/
-canonical_url: "https://book.awalkaday.art/artist-profiling"
 ---
 
 [human-identity.md](human-identity.md)

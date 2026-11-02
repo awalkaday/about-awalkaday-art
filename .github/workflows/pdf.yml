@@ -2,10 +2,16 @@ name: Build PDF
 
 # Renders /impression/ with Paged.js in headless Chromium on every push to the
 # printlab branch (and on pull requests into it), and attaches the PDF, a short
-# report and contact sheets to the run. Download them from the run's page under
+# report and contact sheets to the run (release.yml reuses this file for releases). Download them from the run's page under
 # "Artifacts". Nothing is deployed from here; deploy.yml still does that.
 
 on:
+  workflow_call:        # used by release.yml, so a release is built exactly like a test render
+    inputs:
+      fx:
+        type: string
+        required: false
+        default: ''
   push:
     branches: [printlab]
   pull_request:

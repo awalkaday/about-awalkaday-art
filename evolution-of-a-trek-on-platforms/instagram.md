@@ -1,7 +1,6 @@
 ---
 title: "Instagram"
 description: Since July 2017
-canonical_url: "https://book.awalkaday.art/evolution-of-a-trek-on-platforms/instagram"
 ---
 
 [Instagram](https://instagram.com/) enables users to showcase their creativity and to connect by affinity to imagery and visual storytelling.

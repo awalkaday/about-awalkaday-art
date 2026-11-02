@@ -3,11 +3,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Book",
-  "@id": {{ site.data.seo.canonical_host | append: "/#book" | jsonify }},
+  "@id": {{ site.url | append: "/#book" | jsonify }},
   "name": {{ site.title | jsonify }},
   "alternateName": "awalkaday",
   "description": {{ site.description | jsonify }},
-  "url": {{ site.data.seo.canonical_host | append: "/" | jsonify }},
+  "url": {{ site.url | append: "/" | jsonify }},
   "inLanguage": "en",
   "genre": "Artist's book",
   "bookFormat": "https://schema.org/EBook",

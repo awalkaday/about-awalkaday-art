@@ -9,7 +9,7 @@ Point every web page's canonical link at the GitBook edition (book.awalkaday.art
 
 GitBook addresses follow the file path: index.md -> /, folder/README.md -> /folder,
 folder/page.md -> /folder/page. jekyll-seo-tag reads `canonical_url` from the front matter.
-The default host is canonical_host in _data/seo.yml. impression.md (noindex) is left alone.
+The default host is url in _config.yml. Not used while each page is its own canonical. impression.md (noindex) is left alone.
 """
 import argparse, re, sys
 from pathlib import Path
@@ -23,7 +23,7 @@ ap.add_argument("--host")
 ap.add_argument("--check", action="store_true")
 ap.add_argument("--remove", action="store_true")
 a = ap.parse_args()
-host = a.host or re.search(r'canonical_host:\s*"?([^"\s]+)', (ROOT / "_data" / "seo.yml").read_text(encoding="utf-8")).group(1)
+host = a.host or re.search(r'^url:\s*"?([^"\s]+)', (ROOT / "_config.yml").read_text(encoding="utf-8"), re.M).group(1)
 host = host.rstrip("/")
 
 

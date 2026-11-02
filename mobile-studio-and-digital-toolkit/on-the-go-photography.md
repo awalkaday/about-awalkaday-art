@@ -1,6 +1,5 @@
 ---
 title: "On-the-go Photography"
-canonical_url: "https://book.awalkaday.art/mobile-studio-and-digital-toolkit/on-the-go-photography"
 ---
 
 The collection revolves around locations in [Belgium](https://www.openstreetmap.org/relation/52411) and explores a diverse range of scenes that include streets, landscapes, architecture, and nature.

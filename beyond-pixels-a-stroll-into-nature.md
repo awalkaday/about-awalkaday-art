@@ -1,6 +1,5 @@
 ---
 title: "Beyond Pixels: A Stroll Into Nature"
-canonical_url: "https://book.awalkaday.art/beyond-pixels-a-stroll-into-nature"
 ---
 
 What if we embarked from our individual spots in the wired world on a visual journey through which the solo mission goes beyond pixels to ignite a passion for the great outdoors?

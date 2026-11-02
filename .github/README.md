@@ -157,12 +157,22 @@ Biennale (`daqhris.com/venice-biennale`).
 ## 8. Search and machine-readability
 
 * **Head tags.** `_layouts/default.html` calls `{% seo %}` (jekyll-seo-tag) plus icons, manifest, theme colour, licence link and a JSON-LD `Book` block (`_includes/jsonld-book.html`, home page only). Site-wide values live in `_config.yml` and `_data/seo.yml`.
-* **Canonical link.** Every page carries `canonical_url: https://book.awalkaday.art/<path>` in its front matter, because printlab is meant to take over that subdomain. Set by `python3 scripts/set-canonical.py`. **At takeover:** run `python3 scripts/set-canonical.py --remove` and set the canonical host to `printlab.awalkaday.art`/the final domain in the script and `_config.yml`. The path rule (no trailing slash, `folder/README.md` becomes `/folder`) is assumed from GitBook's `/imprint`; check a few other URLs.
-* **Sitemap and robots.** `jekyll-sitemap` writes `/sitemap.xml`; `robots.txt` disallows `/impression/` (the print page is not a reading page). `llms.txt` is a plain summary for language-model crawlers.
+* **Canonical link and indexing.** Each page is its own canonical (jekyll-seo-tag builds it from `url` in `_config.yml`), so the address in the canonical link, `og:url`, the sitemap and the JSON-LD always agree. `indexable` in `_data/seo.yml` is the one switch: `false` (now) adds `noindex, follow` to every page and leaves the sitemap out of `robots.txt`; `true` makes the site indexable. **Takeover checklist:** (1) move the domain: `CNAME` and the DNS record; (2) `url` in `_config.yml`; (3) `url` fields in `CITATION.cff`; (4) `indexable: true`; (5) rebuild `photographs.json`; (6) submit the new sitemap in Search Console. `scripts/set-canonical.py` is kept for the rare case where one page must point elsewhere.
+* **Sitemap and robots.** `jekyll-sitemap` writes `/sitemap.xml`; `robots.txt` is a template: it disallows `/impression/` (the print page is not a reading page) and names the sitemap only when `indexable` is true. `llms.txt` is a plain summary for language-model crawlers.
 * **Register as data.** `photographs.json` (all 263 photographs) is built from the register by `python3 scripts/build-jsonld.py`; re-run after the Postscript table changes.
 * **Icons and share image.** `python3 scripts/make-icons.py` and `python3 scripts/make-share-image.py` regenerate `assets/icons/*` and `assets/social/share-1200x630.png` (needs Pillow).
 * **PDF.** `make-pdf.js` writes a tagged PDF with bookmarks; `scripts/pdf-metadata.py` (run in `pdf.yml`) sets title, author, subject, keywords and licence.
 * **Not built locally.** Jekyll could not be installed where this was written, so the rendered `<head>` has not been seen. Open the live page's source after the first deploy.
+
+## Releases
+
+A release is only made on purpose; pushing to `printlab` never makes one (it only produces a 14-day test PDF, `pdf.yml`).
+
+* **Make one:** `git tag v0.1.0 && git push origin v0.1.0` from a commit on `printlab`, or Actions > Release > Run workflow and type the version.
+* **Versions:** semver. `v0.x.y` are drafts towards the final edition and are marked pre-release; `v1.0.0` is the first final edition; `-rc.1` suffixes are also pre-release. Raise the minor number for a content change a reader would notice (a chapter, a layout, new photographs), the patch number for corrections.
+* **What it checks:** the version format, that the commit is on `printlab`, and the strict PDF build of `pdf.yml` (no remote images, every chapter on a new page).
+* **What it publishes:** `walking-memories-<version>.pdf`, `summary.md`, `contact-sheets-<version>.zip`, and notes listing the commits since the previous tag. The PDF is not committed to the repo.
+* **DOI (optional):** enable the repository in Zenodo; each GitHub release then gets a DOI to add to `CITATION.cff`.
 
 ## 9. House-keeping backlog
 
