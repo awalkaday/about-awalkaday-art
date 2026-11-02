@@ -1,6 +1,7 @@
 ---
 title: "GitHub"
 description: Since November 2017
+canonical_url: "https://book.awalkaday.art/evolution-of-a-trek-on-platforms/github"
 ---
 
 [GitHub](https://github.com/) offers a collaborative environment to programmers in addition to version control, codebase hosting, and project management tools.

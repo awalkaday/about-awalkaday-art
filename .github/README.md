@@ -42,6 +42,7 @@ Re-render: `mmdc -i docs/flow.mmd -o docs/flow.svg`.</sub>
 | `data/photos.csv` | Ledger: token ID ↔ Arweave txid ↔ chain check ↔ SHA-256 ↔ file | Both | Generated. **Commit it** |
 | `data/photo-overrides.csv`, `data/photos-needs-review.csv` | Human answers / open questions about which token an image is | Both | Edit the first by hand |
 | `_data/exhibition.yml`, `_includes/exhibition-mark.html` | One source for the Venice Biennale captions and credits (back cover, Imprint web + print, home-page band). Edit the YAML, not the pages | Both | Live |
+| `_data/seo.yml`, `robots.txt`, `llms.txt`, `photographs.json`, `CITATION.cff`, `assets/icons/`, `assets/social/` | Search and machine-readability (§8) | Web | Live |
 | `data/chapters-map.csv` | Which web page feeds which print chapter | Tooling | By hand |
 | `scripts/` | Tools you run (§6) | Tooling | Live |
 | `scripts/archive/` | One-off scripts that created this layout in March 2026 (migration, wiring, fixes). Kept as a record; do not re-run | Tooling | Archive |
@@ -153,10 +154,20 @@ originals and proof) · GitBook (writing, `book.awalkaday.art`) · a public Ethe
 Traces outside the repo: the book at `book.awalkaday.art` · the web remix at `printlab.awalkaday.art` · the register of tokens on Ethereum · the Instagram posts linked in the register · the first print out, on view at the 61st Venice
 Biennale (`daqhris.com/venice-biennale`).
 
-## 8. House-keeping backlog
+## 8. Search and machine-readability
+
+* **Head tags.** `_layouts/default.html` calls `{% seo %}` (jekyll-seo-tag) plus icons, manifest, theme colour, licence link and a JSON-LD `Book` block (`_includes/jsonld-book.html`, home page only). Site-wide values live in `_config.yml` and `_data/seo.yml`.
+* **Canonical link.** Every page carries `canonical_url: https://book.awalkaday.art/<path>` in its front matter, because printlab is meant to take over that subdomain. Set by `python3 scripts/set-canonical.py`. **At takeover:** run `python3 scripts/set-canonical.py --remove` and set the canonical host to `printlab.awalkaday.art`/the final domain in the script and `_config.yml`. The path rule (no trailing slash, `folder/README.md` becomes `/folder`) is assumed from GitBook's `/imprint`; check a few other URLs.
+* **Sitemap and robots.** `jekyll-sitemap` writes `/sitemap.xml`; `robots.txt` disallows `/impression/` (the print page is not a reading page). `llms.txt` is a plain summary for language-model crawlers.
+* **Register as data.** `photographs.json` (all 263 photographs) is built from the register by `python3 scripts/build-jsonld.py`; re-run after the Postscript table changes.
+* **Icons and share image.** `python3 scripts/make-icons.py` and `python3 scripts/make-share-image.py` regenerate `assets/icons/*` and `assets/social/share-1200x630.png` (needs Pillow).
+* **PDF.** `make-pdf.js` writes a tagged PDF with bookmarks; `scripts/pdf-metadata.py` (run in `pdf.yml`) sets title, author, subject, keywords and licence.
+* **Not built locally.** Jekyll could not be installed where this was written, so the rendered `<head>` has not been seen. Open the live page's source after the first deploy.
+
+## 9. House-keeping backlog
 
 * Decide for each drifted chapter (§5) which text is the master.
-* Re-run `fetch-photos.py --external --rewrite` on a machine with internet access: two logos (`art.art`, `ethereum.org`) still load remotely.
-* Run `fetch-photos.py --max-px 1600 --external --rewrite` once with internet: it downloads the Imprint image (token 224), checks it against the chain, and rewrites its `<img>`.
+* Run `fetch-photos.py --max-px 1600 --rewrite` once with internet: it checks token 177 against the chain.
+* Write per-page descriptions (18 pages have none) and descriptive alt text (21 of 88 images have none).
 * Make `remigrate-from-book.py` safe (keep `embed-media`, drop page-number markers, absolute `/.gitbook/` paths) if a one-command import is wanted.
 * Optional: `.github/workflows` job that runs `content-sync.py toc` and `drift` on each PR.

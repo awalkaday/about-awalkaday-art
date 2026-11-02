@@ -5,9 +5,19 @@
 # -------------------------------------------------------
 
 title: "Walking Memories"
-description: "An open-source artist's book — daqhris / awalkaday"
+description: "Open-source artbook retracing the digital footprints of an exiled wanderer's eight-year odyssey—263 photographs, a blockchain archive, and an asylum file—told in parallel across his Belgian pixels."
 author: "Chris-Armel Iradukunda (daqhris)"
+logo: /assets/icons/icon-512.png        # Organization logo for the JSON-LD that jekyll-seo-tag writes
 lang: "en"
+
+# The person's own profiles (jekyll-seo-tag writes them as sameAs). Project profiles: _data/seo.yml
+social:
+  type: Person
+  name: "Chris-Armel Iradukunda"
+  links:
+    - https://daqhris.com
+    - https://github.com/daqhris
+    - https://www.instagram.com/iamdaqhris
 
 url: "https://printlab.awalkaday.art"   # ← change to your chosen subdomain
 baseurl: ""                         # leave empty for apex subdomain
@@ -38,6 +48,7 @@ exclude:
   - .github/
   - scripts/
   - docs/
+  - CITATION.cff
   - _chapters/
   - "*.sh"
 
@@ -57,6 +68,10 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+  - scope:
+      path: ""
+    values:
+      image: /assets/social/share-1200x630.png      # Open Graph / Twitter card
 
 # Navigation data file (see _data/toc.yml)
 # Mirrors your SUMMARY.md structure
@@ -68,6 +83,5 @@ sass:
 
 # Plugins (all supported by GitHub Pages)
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# The print view is a layout test bench, not content
+Disallow: /impression/
+
+Sitemap: https://printlab.awalkaday.art/sitemap.xml

@@ -2,6 +2,7 @@
 title: "Evolution of a Trek on Platforms"
 description: "Five territories map out nomadism from one computing platform to another in search of visibility, transparency, presentation, discourse, or permanence"
 permalink: /evolution-of-a-trek-on-platforms/
+canonical_url: "https://book.awalkaday.art/evolution-of-a-trek-on-platforms"
 ---
 
 [instagram.md](instagram.md)

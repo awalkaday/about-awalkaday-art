@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you cite this book or its code, please use the preferred citation below."
+title: "Walking Memories"
+abstract: >-
+  Open-source artbook retracing the digital footprints of an exiled wanderer's
+  eight-year odyssey: 263 photographs, a blockchain archive, and an asylum file,
+  told in parallel across his Belgian pixels. Web book, print layout and PDF pipeline.
+type: software
+authors:
+  - family-names: Iradukunda
+    given-names: Chris-Armel
+    alias: daqhris
+    website: "https://daqhris.com"
+license: EUPL-1.2
+repository-code: "https://github.com/awalkaday/about-awalkaday-art"
+url: "https://book.awalkaday.art"
+keywords:
+  - artist's book
+  - photography
+  - Ethereum
+  - Arweave
+  - open source
+  - awalkaday
+preferred-citation:
+  type: book
+  title: "Walking Memories"
+  authors:
+    - family-names: Iradukunda
+      given-names: Chris-Armel
+      alias: daqhris
+  year: 2026
+  edition: "Draft edition 2026"
+  url: "https://book.awalkaday.art"
+  notes: "Photos and writings CC BY-NC-ND 4.0; source code EUPL-1.2. No ISBN."

@@ -1,6 +1,7 @@
 ---
 layout: impression
 permalink: /impression/
+sitemap: false
 title: "Walking Memories — Print / PDF"
 ---
 

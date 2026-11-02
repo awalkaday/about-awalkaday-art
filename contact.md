@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+canonical_url: "https://book.awalkaday.art/contact"
 ---
 
 <div class="embed-link">

@@ -50,7 +50,7 @@ jobs:
           npm i --no-save playwright
           npx playwright install --with-deps chromium
           sudo apt-get install -y poppler-utils
-          pip install pillow
+          pip install pillow pypdf
 
       - name: Serve the built site
         run: |
@@ -65,6 +65,10 @@ jobs:
           if [ -n "${{ inputs.fx }}" ]; then FX=(--fx "${{ inputs.fx }}"); fi
           node scripts/make-pdf.js http://localhost:4000/impression/ out/walking-memories.pdf \
             --placeholder --strict --summary out/summary.md --timeout 900 "${FX[@]}"
+
+      - name: PDF metadata
+        if: always() && hashFiles('out/walking-memories.pdf') != ''
+        run: python3 scripts/pdf-metadata.py out/walking-memories.pdf
 
       - name: Contact sheets
         if: always() && hashFiles('out/walking-memories.pdf') != ''
